@@ -125,6 +125,12 @@ ApplicationWindow {
                 text: qsTr("Bible Notify")
             }
 
+            Label {
+                Layout.alignment: Qt.AlignHCenter
+                font.pixelSize: 12
+                text: qsTr("DAILY BIBLE VERSE NOTIFICATION APP")
+            }
+
             BNButton {
                 id: startNotificationsButton
                 Layout.alignment: Qt.AlignHCenter
