@@ -11,8 +11,8 @@ ApplicationWindow {
     id: root
     visible: true
     flags: Qt.FramelessWindowHint
-    width: 640
-    height: 480
+    width: 960
+    height: 600
 
     Page {
         anchors.fill: parent
