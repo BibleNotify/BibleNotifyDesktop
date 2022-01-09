@@ -1,5 +1,5 @@
 import QtQuick
-//import QtGraphicalEffects
+// import QtGraphicalEffects
 
 
 Item {
@@ -9,12 +9,13 @@ Item {
     implicitHeight: 48
 
     property string icon
-    //property alias color: overlay.color
+
+    // TODO: Add in the overlay color
+    // property alias color: overlay.color
 
     Image {
         anchors.fill: parent
 
-        // TODO: Why does the icons appear sharp (not smooth)?
         antialiasing: true
         smooth: true
 
