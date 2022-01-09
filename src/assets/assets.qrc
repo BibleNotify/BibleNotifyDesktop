@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="info-circle.svg">icons/info-circle.svg</file>
+        <file alias="question-circle.svg">icons/question-circle.svg</file>
+    </qresource>
+</RCC>

@@ -1,4 +1,5 @@
 import sys
+import assets.assets
 
 from PySide6.QtGui import QGuiApplication
 from PySide6.QtQml import QQmlEngine, QQmlApplicationEngine

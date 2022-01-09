@@ -71,9 +71,17 @@ Window {
         ColumnLayout {
             anchors.fill: parent
             BNButton {
+                id: startNotificationsButton
                 Layout.alignment: Qt.AlignHCenter
                 isAccented: true
-                text: qsTr("Hello")
+                text: qsTr("Start Sending Notifications")
+                icon: "info-circle"
+            }
+
+            BNButton {
+                id: changeIntervalButton
+                Layout.alignment: Qt.AlignHCenter
+                text: qsTr("Change Notification Interval")
             }
         }
     }
