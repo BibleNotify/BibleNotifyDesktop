@@ -55,7 +55,9 @@ ApplicationWindow {
                     anchors.left: parent.left
                     height: parent.height
                     spacing: 4
+                    // TODO: Make a new component named "BNLabel"
                     Label {
+                        font.pixelSize: 20
                         text: qsTr("Bible Notify")
                     }
                 }
