@@ -18,7 +18,7 @@ ApplicationWindow {
         anchors.fill: parent
 
         header: ToolBar {
-            contentHeight: 48
+            contentHeight: 58
 
             background: Rectangle {
                 height: parent.height
