@@ -20,6 +20,12 @@ ApplicationWindow {
 
         header: ToolBar {
             contentHeight: 48
+
+            background: Rectangle {
+                height: parent.height
+                color: "#EFEFEF"
+            }
+
             Item {
                 anchors.fill: parent
 
@@ -99,6 +105,13 @@ ApplicationWindow {
 
         ColumnLayout {
             anchors.fill: parent
+
+            Image {
+                Layout.alignment: Qt.AlignHCenter
+                source: "qrc:/illustration.svg"
+                antialiasing: true
+            }
+
             BNButton {
                 id: startNotificationsButton
                 Layout.alignment: Qt.AlignHCenter
