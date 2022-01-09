@@ -103,6 +103,11 @@ ApplicationWindow {
             }
         }
 
+        Rectangle {
+            anchors.fill: parent
+            color: "#FFFFFF"
+        }
+
         ColumnLayout {
             anchors.fill: parent
 
