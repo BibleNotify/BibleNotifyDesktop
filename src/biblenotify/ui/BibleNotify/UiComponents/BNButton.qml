@@ -20,6 +20,7 @@ Item {
     property int borderAccentWidth: 0
     property int borderDisabledWidth: 0
 
+    // TODO: Make a nicer normal state hover look
     property string borderNormalColor: "#242424"
     property string borderAccentColor: "#242424"
     property string borderDisabledColor: "#242424"
