@@ -7,7 +7,7 @@ import QtQuick.Window
 import BibleNotify.UiComponents
 
 
-Window {
+ApplicationWindow {
     id: root
     visible: true
     flags: Qt.FramelessWindowHint
@@ -46,6 +46,7 @@ Window {
 
                 RowLayout {
                     anchors.left: parent.left
+                    height: parent.height
                     spacing: 4
                     Label {
                         text: qsTr("Bible Notify")
@@ -55,10 +56,34 @@ Window {
                 RowLayout {
                     anchors.right: parent.right
                     anchors.rightMargin: 4
+                    height: parent.height
                     spacing: 0
 
                     ToolButton {
-                        text: "X"
+                        id: minimizeButton
+                        implicitWidth: 36
+                        implicitHeight: 36
+                        BNIcon {
+                            anchors.centerIn: parent
+                            icon: "dash-lg"
+                            width: 28
+                            height: 28
+                        }
+
+                        onClicked: root.showMinimized()
+                    }
+
+                    ToolButton {
+                        id: quitButton
+                        implicitWidth: 36
+                        implicitHeight: 36
+                        BNIcon {
+                            anchors.centerIn: parent
+                            icon: "x-lg"
+                            width: 28
+                            height: 28
+                        }
+
                         onClicked: {
                             root.close()
                             Qt.quit()
