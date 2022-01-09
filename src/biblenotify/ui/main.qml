@@ -22,6 +22,7 @@ ApplicationWindow {
             contentHeight: 48
             Item {
                 anchors.fill: parent
+
                 TapHandler {
                     onTapped: {
                         if (tapCount === 2) {
@@ -32,6 +33,7 @@ ApplicationWindow {
                             }
                         }
                     }
+
                     gesturePolicy: TapHandler.DragThreshold
                 }
 
