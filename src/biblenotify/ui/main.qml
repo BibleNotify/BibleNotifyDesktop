@@ -118,6 +118,13 @@ ApplicationWindow {
                 antialiasing: true
             }
 
+            Label {
+                Layout.alignment: Qt.AlignHCenter
+                font.pixelSize: 60
+                font.bold: true
+                text: qsTr("Bible Notify")
+            }
+
             BNButton {
                 id: startNotificationsButton
                 Layout.alignment: Qt.AlignHCenter
