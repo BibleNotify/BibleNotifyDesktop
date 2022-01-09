@@ -6,6 +6,183 @@
 from PySide6 import QtCore
 
 qt_resource_data = b"\
+\x00\x00\x06\x97\
+<\
+?xml version=\x221.\
+0\x22 encoding=\x22utf\
+-8\x22?>\x0d\x0a<svg widt\
+h=\x2228px\x22 height=\
+\x2228px\x22 viewBox=\x22\
+0 0 28 28\x22 versi\
+on=\x221.1\x22 xmlns:x\
+link=\x22http://www\
+.w3.org/1999/xli\
+nk\x22 xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22>\x0d\x0a  <defs\
+>\x0d\x0a    <filter i\
+d=\x22filter_1\x22>\x0d\x0a \
+     <feColorMat\
+rix in=\x22SourceGr\
+aphic\x22 type=\x22mat\
+rix\x22 values=\x220 0\
+ 0 0 0.52156866 \
+0 0 0 0 0.521568\
+66 0 0 0 0 0.521\
+56866 0 0 0 1 0\x22\
+ />\x0d\x0a    </filte\
+r>\x0d\x0a    <path d=\
+\x22M0 0L28 0L28 28\
+L0 28L0 0Z\x22 id=\x22\
+path_1\x22 />\x0d\x0a    \
+<clipPath id=\x22ma\
+sk_1\x22>\x0d\x0a      <u\
+se xlink:href=\x22#\
+path_1\x22 />\x0d\x0a    \
+</clipPath>\x0d\x0a  <\
+/defs>\x0d\x0a  <g id=\
+\x22x-lg\x22 filter=\x22u\
+rl(#filter_1)\x22>\x0d\
+\x0a    <path d=\x22M0\
+ 0L28 0L28 28L0 \
+28L0 0Z\x22 id=\x22Bac\
+kground\x22 fill=\x22n\
+one\x22 fill-rule=\x22\
+evenodd\x22 stroke=\
+\x22none\x22 />\x0d\x0a    <\
+g clip-path=\x22url\
+(#mask_1)\x22>\x0d\x0a   \
+   <path d=\x22M24.\
+2437 3.75511C24.\
+4082 3.91927 24.\
+5007 4.14216 24.\
+5007 4.37461C24.\
+5007 4.60706 24.\
+4082 4.82995 24.\
+2437 4.99411L4.9\
+9367 24.2441C4.7\
+7235 24.4654 4.4\
+4976 24.5519 4.1\
+4742 24.4709C3.8\
+4508 24.3898 3.6\
+0893 24.1537 3.5\
+2792 23.8514C3.4\
+4691 23.549 3.53\
+335 23.2264 3.75\
+467 23.0051L23.0\
+047 3.75511C23.1\
+688 3.59054 23.3\
+917 3.49805 23.6\
+242 3.49805C23.8\
+566 3.49805 24.0\
+795 3.59054 24.2\
+437 3.75511L24.2\
+437 3.75511Z\x22 id\
+=\x22Shape\x22 fill=\x22#\
+000000\x22 fill-rul\
+e=\x22evenodd\x22 stro\
+ke=\x22none\x22 />\x0d\x0a  \
+    <path d=\x22M3.\
+75511 3.75511C3.\
+59054 3.91927 3.\
+49805 4.14216 3.\
+49805 4.37461C3.\
+49805 4.60706 3.\
+59054 4.82995 3.\
+75511 4.99411L23\
+.0051 24.2441C23\
+.2265 24.4655 23\
+.5491 24.5519 23\
+.8515 24.4708C24\
+.1538 24.3898 24\
+.39 24.1536 24.4\
+709 23.8512C24.5\
+519 23.5488 24.4\
+653 23.2262 24.2\
+439 23.0049L4.99\
+411 3.75511C4.82\
+995 3.59054 4.60\
+706 3.49805 4.37\
+461 3.49805C4.14\
+216 3.49805 3.91\
+927 3.59054 3.75\
+511 3.75511L3.75\
+511 3.75511Z\x22 id\
+=\x22Shape\x22 fill=\x22#\
+000000\x22 fill-rul\
+e=\x22evenodd\x22 stro\
+ke=\x22none\x22 />\x0d\x0a  \
+  </g>\x0d\x0a  </g>\x0d\x0a\
+</svg>\
+\x00\x00\x04*\
+<\
+?xml version=\x221.\
+0\x22 encoding=\x22utf\
+-8\x22?>\x0d\x0a<svg widt\
+h=\x2228px\x22 height=\
+\x2228px\x22 viewBox=\x22\
+0 0 28 28\x22 versi\
+on=\x221.1\x22 xmlns:x\
+link=\x22http://www\
+.w3.org/1999/xli\
+nk\x22 xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22>\x0d\x0a  <defs\
+>\x0d\x0a    <filter i\
+d=\x22filter_1\x22>\x0d\x0a \
+     <feColorMat\
+rix in=\x22SourceGr\
+aphic\x22 type=\x22mat\
+rix\x22 values=\x220 0\
+ 0 0 0.52156866 \
+0 0 0 0 0.521568\
+66 0 0 0 0 0.521\
+56866 0 0 0 1 0\x22\
+ />\x0d\x0a    </filte\
+r>\x0d\x0a    <path d=\
+\x22M0 0L28 0L28 28\
+L0 28L0 0Z\x22 id=\x22\
+path_1\x22 />\x0d\x0a    \
+<clipPath id=\x22ma\
+sk_1\x22>\x0d\x0a      <u\
+se xlink:href=\x22#\
+path_1\x22 />\x0d\x0a    \
+</clipPath>\x0d\x0a  <\
+/defs>\x0d\x0a  <g id=\
+\x22dash-lg\x22 filter\
+=\x22url(#filter_1)\
+\x22>\x0d\x0a    <path d=\
+\x22M0 0L28 0L28 28\
+L0 28L0 0Z\x22 id=\x22\
+Background\x22 fill\
+=\x22none\x22 fill-rul\
+e=\x22evenodd\x22 stro\
+ke=\x22none\x22 />\x0d\x0a  \
+  <g clip-path=\x22\
+url(#mask_1)\x22>\x0d\x0a\
+      <path d=\x22M\
+3.5 14C3.5 13.51\
+68 3.89175 13.12\
+5 4.375 13.125L2\
+3.625 13.125C23.\
+9376 13.125 24.2\
+265 13.2918 24.3\
+828 13.5625C24.5\
+391 13.8332 24.5\
+391 14.1668 24.3\
+828 14.4375C24.2\
+265 14.7082 23.9\
+376 14.875 23.62\
+5 14.875L4.375 1\
+4.875C3.89175 14\
+.875 3.5 14.4832\
+ 3.5 14L3.5 14Z\x22\
+ id=\x22Shape\x22 fill\
+=\x22#000000\x22 fill-\
+rule=\x22evenodd\x22 s\
+troke=\x22none\x22 />\x0d\
+\x0a    </g>\x0d\x0a  </g\
+>\x0d\x0a</svg>\
 \x00\x00\x07\xee\
 <\
 ?xml version=\x221.\
@@ -288,6 +465,14 @@ qt_resource_name = b"\
 \x00o\xa6S\
 \x00i\
 \x00c\x00o\x00n\x00s\
+\x00\x08\
+\x04*U\xa7\
+\x00x\
+\x00-\x00l\x00g\x00.\x00s\x00v\x00g\
+\x00\x0b\
+\x04\xffI\xa7\
+\x00d\
+\x00a\x00s\x00h\x00-\x00l\x00g\x00.\x00s\x00v\x00g\
 \x00\x0f\
 \x04cZ\xe7\
 \x00i\
@@ -302,11 +487,15 @@ qt_resource_name = b"\
 qt_resource_struct = b"\
 \x00\x00\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00\x01\
 \x00\x00\x00\x00\x00\x00\x00\x00\
-\x00\x00\x00\x00\x00\x02\x00\x00\x00\x02\x00\x00\x00\x02\
+\x00\x00\x00\x00\x00\x02\x00\x00\x00\x04\x00\x00\x00\x02\
 \x00\x00\x00\x00\x00\x00\x00\x00\
 \x00\x00\x00\x10\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\
+\x00\x00\x01~>5y\xc2\
+\x00\x00\x00B\x00\x00\x00\x00\x00\x01\x00\x00\x0a\xc9\
 \x00\x00\x01~>\x1b\x9f\xdd\
-\x00\x00\x004\x00\x00\x00\x00\x00\x01\x00\x00\x07\xf2\
+\x00\x00\x00&\x00\x00\x00\x00\x00\x01\x00\x00\x06\x9b\
+\x00\x00\x01~>5H\xb0\
+\x00\x00\x00f\x00\x00\x00\x00\x00\x01\x00\x00\x12\xbb\
 \x00\x00\x01~>\x1b\xd0\x0a\
 "
 
