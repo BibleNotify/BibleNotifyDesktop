@@ -16,7 +16,6 @@ ApplicationWindow {
 
     Page {
         anchors.fill: parent
-        anchors.margins: root.visibility === Window.windowed ? 5 : 0
 
         header: ToolBar {
             contentHeight: 48
