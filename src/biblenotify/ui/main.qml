@@ -132,7 +132,7 @@ ApplicationWindow {
             }
 
             BNButton {
-                id: startNotificationsButton
+                id: toggleNotificationsButton
                 Layout.alignment: Qt.AlignHCenter
                 isAccented: true
                 text: qsTr("Start Sending Notifications")
