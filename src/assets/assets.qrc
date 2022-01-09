@@ -1,4 +1,7 @@
 <RCC>
+    <qresource prefix="/">
+        <file alias="illustration.svg">illustration.svg</file>
+    </qresource>
     <qresource prefix="/icons">
         <file alias="dash-lg.svg">icons/dash-lg.svg</file>
         <file alias="info-circle.svg">icons/info-circle.svg</file>
