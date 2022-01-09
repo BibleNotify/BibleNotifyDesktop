@@ -59,6 +59,8 @@ ApplicationWindow {
                     height: parent.height
                     spacing: 0
 
+                    // TODO: Make ToolButton into a new component (DNToolButton)
+                    // TODO: Can we use DNButton and use a "flat" property?
                     ToolButton {
                         id: minimizeButton
                         implicitWidth: 36
