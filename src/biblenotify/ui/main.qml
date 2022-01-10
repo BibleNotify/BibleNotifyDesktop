@@ -77,8 +77,9 @@ Window {
 
         RowLayout {
             anchors.left: parent.left
+            anchors.leftMargin: 8
             height: parent.height
-            spacing: 4
+            spacing: 8
             // TODO: Make a new component named "BNLabel"
             Label {
                 font.pixelSize: 20
@@ -88,8 +89,9 @@ Window {
 
         RowLayout {
             anchors.right: parent.right
+            anchors.rightMargin: 8
             height: parent.height
-            spacing: 0
+            spacing: 8
 
             // TODO: Make ToolButton into a new component (DNToolButton)
             // TODO: Can we use DNButton and use a "flat" property?
