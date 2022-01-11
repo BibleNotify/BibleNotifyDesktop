@@ -26,10 +26,12 @@ Item {
     property string borderDisabledColor: "#242424"
 
     property string backgroundNormalColor: "#FFFFFF"
+    property string backgroundNormalHoverColor: "#242424"
     property string backgroundAccentColor: "#7DD273"
     property string backgroundDisabledColor: "#FFFFFF"
 
     property string textNormalColor: "#000000"
+    property string textNormalHoverColor: "#FFFFFF"
     property string textAccentColor: "#FFFFFF"
     property string textDisabledColor: "#444444"
 
@@ -41,7 +43,9 @@ Item {
         id: background
         anchors.fill: parent
         color: {
-            if (root.enabled) {
+            if (root.enabled && root.hovered && !root.isAccented) {
+                return backgroundNormalHoverColor
+            } else if (root.enabled) {
                 return (root.isAccented ? root.backgroundAccentColor : root.backgroundNormalColor)
             } else {
                 return root.backgroundDisabledColor
@@ -56,7 +60,17 @@ Item {
             }
         }
 
-        opacity: root.hovered ? 0.6 : 1
+        opacity: {
+            if (root.hovered) {
+                if (root.isAccented) {
+                    return 0.6
+                } else {
+                    return 1
+                }
+            } else {
+                return 1
+            }
+        }
         radius: root.height / 2
     }
 
@@ -71,7 +85,9 @@ Item {
             verticalAlignment: Text.AlignVCenter
             horizontalAlignment: Text.AlignHCenter
             color: {
-                if (root.enabled){
+                if (root.enabled && root.hovered && !root.isAccented) {
+                    return textNormalHoverColor
+                } else if (root.enabled){
                     return (root.isAccented ? root.textAccentColor : root.textNormalColor)
                 } else {
                     return root.textDisabledColor
