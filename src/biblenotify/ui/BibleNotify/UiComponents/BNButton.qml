@@ -74,33 +74,38 @@ Item {
         radius: root.height / 2
     }
 
-    RowLayout {
+    Item {
         anchors.fill: parent
-        Label {
-            id: label
-            Layout.alignment: Qt.AlignHCenter
-            text: qsTr("")
-            font.family: "Roboto"
-            font.pointSize: 12
-            verticalAlignment: Text.AlignVCenter
-            horizontalAlignment: Text.AlignHCenter
-            color: {
-                if (root.enabled && root.hovered && !root.isAccented) {
-                    return textNormalHoverColor
-                } else if (root.enabled){
-                    return (root.isAccented ? root.textAccentColor : root.textNormalColor)
-                } else {
-                    return root.textDisabledColor
+        Row {
+            anchors.centerIn: parent
+            spacing: 8
+
+            Label {
+                id: label
+                text: qsTr("")
+                font.family: "Roboto"
+                font.pointSize: 12
+                verticalAlignment: Text.AlignVCenter
+                horizontalAlignment: Text.AlignHCenter
+                color: {
+                    if (root.enabled && root.hovered && !root.isAccented) {
+                        return textNormalHoverColor
+                    } else if (root.enabled){
+                        return (root.isAccented ? root.textAccentColor : root.textNormalColor)
+                    } else {
+                        return root.textDisabledColor
+                    }
                 }
             }
-        }
 
-        BNIcon {
-            visible: root.icon !== ""
-            icon: root.icon
-            //color: label.color
-            width: root.iconWidth
-            height: root.iconHeight
+            BNIcon {
+                id: icon
+                visible: root.icon !== ""
+                icon: root.icon
+                //color: label.color
+                width: root.iconWidth
+                height: root.iconHeight
+            }
         }
     }
 
