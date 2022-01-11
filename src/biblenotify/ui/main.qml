@@ -143,7 +143,7 @@ Window {
             Layout.alignment: Qt.AlignHCenter
             isAccented: true
             text: qsTr("Start Sending Notifications")
-            icon: "info-circle"
+            icon: toggleNotificationsButton.toggled ? "play-circle" : "pause-circle"
         }
 
         BNButton {
