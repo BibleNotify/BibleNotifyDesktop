@@ -77,7 +77,7 @@ Window {
 
         RowLayout {
             anchors.left: parent.left
-            anchors.leftMargin: 8
+            anchors.leftMargin: 30
             height: parent.height
             spacing: 8
             // TODO: Make a new component named "BNLabel"
@@ -89,7 +89,7 @@ Window {
 
         RowLayout {
             anchors.right: parent.right
-            anchors.rightMargin: 8
+            anchors.rightMargin: 30
             height: parent.height
             spacing: 8
 
