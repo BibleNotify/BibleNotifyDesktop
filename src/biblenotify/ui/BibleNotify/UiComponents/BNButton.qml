@@ -12,6 +12,7 @@ Item {
     property alias radius: background.radius
     property bool isAccented: false
     property bool hovered: false
+    property bool toggled: false
 
     signal clicked()
     // signal hoveredChanged()
@@ -113,7 +114,10 @@ Item {
         id: mouseArea
         anchors.fill: parent
         hoverEnabled: true
-        onClicked: root.clicked()
+        onClicked: {
+            root.toggled = !root.toggled
+            root.clicked()
+        }
         onHoveredChanged: {
             root.hovered = !root.hovered
             root.hoveredChanged()
