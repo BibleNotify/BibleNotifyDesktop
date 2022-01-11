@@ -5,8 +5,8 @@ import QtQuick
 Item {
     id: root
 
-    implicitWidth: 48
-    implicitHeight: 48
+    width: 24
+    height: 24
 
     property string icon
 
@@ -18,6 +18,7 @@ Item {
 
         antialiasing: true
         smooth: true
+        sourceSize: Qt.size(root.width, root.height)
 
         source: "qrc:/icons/" + root.icon + ".svg"
 
