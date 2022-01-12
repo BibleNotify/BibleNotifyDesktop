@@ -4,30 +4,35 @@ import QtQuick.Layouts
 import BibleNotify.UiComponents
 
 
-ColumnLayout {
-    id: homeView
+Item {
+    id: root
 
-    Image {
-        Layout.alignment: Qt.AlignHCenter
-        source: "qrc:/illustration.svg"
-        antialiasing: true
-    }
+    ColumnLayout {
+        anchors.fill: parent
+        id: homeView
 
-    BNButton {
-        id: toggleNotificationsButton
-        Layout.alignment: Qt.AlignHCenter
-        isAccented: true
-        text: qsTr("Start Sending Notifications")
-        icon: toggleNotificationsButton.toggled ? "play-circle" : "pause-circle"
-    }
+        Image {
+            Layout.alignment: Qt.AlignHCenter
+            source: "qrc:/illustration.svg"
+            antialiasing: true
+        }
 
-    BNButton {
-        id: changeIntervalButton
-        Layout.alignment: Qt.AlignHCenter
-        text: qsTr("Change Notification Interval")
-    }
+        BNButton {
+            id: toggleNotificationsButton
+            Layout.alignment: Qt.AlignHCenter
+            isAccented: true
+            text: qsTr("Start Sending Notifications")
+            icon: toggleNotificationsButton.toggled ? "play-circle" : "pause-circle"
+        }
 
-    Item {
-        height: 24
+        BNButton {
+            id: changeIntervalButton
+            Layout.alignment: Qt.AlignHCenter
+            text: qsTr("Change Notification Interval")
+        }
+
+        Item {
+            height: 24
+        }
     }
 }
