@@ -141,6 +141,10 @@ Window {
         id: homeView
     }
 
+    SetIntervalView {
+        id: setIntervalView
+    }
+
     BNLabel {
         anchors.horizontalCenter: parent.horizontalCenter
         anchors.bottom: parent.bottom
