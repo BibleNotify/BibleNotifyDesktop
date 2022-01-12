@@ -1,4 +1,5 @@
 import QtQuick
+import QtQuick.Controls
 import QtQuick.Layouts
 
 import BibleNotify.UiComponents
@@ -23,6 +24,7 @@ Item {
             id: cancelButton
             Layout.alignment: Qt.AlignHCenter
             text: qsTr("Cancel")
+            onClicked: root.StackView.view.pop()
         }
 
         Item {

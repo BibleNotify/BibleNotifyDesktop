@@ -1,4 +1,5 @@
 import QtQuick
+import QtQuick.Controls
 import QtQuick.Layouts
 
 import BibleNotify.UiComponents
@@ -6,6 +7,9 @@ import BibleNotify.UiComponents
 
 Item {
     id: root
+
+    property var stackView
+    property var setIntervalView
 
     ColumnLayout {
         anchors.fill: parent
@@ -28,6 +32,7 @@ Item {
             id: changeIntervalButton
             Layout.alignment: Qt.AlignHCenter
             text: qsTr("Change Notification Interval")
+            onClicked: root.StackView.view.push(setIntervalView)
         }
 
         Item {

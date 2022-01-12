@@ -139,10 +139,12 @@ Window {
 
     HomeView {
         id: homeView
+        setIntervalView: setIntervalView
     }
 
     SetIntervalView {
         id: setIntervalView
+        visible: false
     }
 
     BNLabel {
