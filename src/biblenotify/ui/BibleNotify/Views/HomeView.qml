@@ -9,7 +9,6 @@ Item {
 
     ColumnLayout {
         anchors.fill: parent
-        id: homeView
 
         Image {
             Layout.alignment: Qt.AlignHCenter
