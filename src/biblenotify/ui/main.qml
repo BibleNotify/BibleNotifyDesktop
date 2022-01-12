@@ -12,7 +12,7 @@ Window {
     visible: true
     flags: Qt.FramelessWindowHint
     width: 960
-    height: 600
+    height: 640
     color: "transparent"
 
     Rectangle {
@@ -131,6 +131,7 @@ Window {
     ColumnLayout {
         anchors.fill: parent
         anchors.topMargin: titleBar.height
+        anchors.bottomMargin: 24
 
         Image {
             Layout.alignment: Qt.AlignHCenter
@@ -150,6 +151,10 @@ Window {
             id: changeIntervalButton
             Layout.alignment: Qt.AlignHCenter
             text: qsTr("Change Notification Interval")
+        }
+
+        Item {
+            height: 24
         }
 
         BNLabel {
