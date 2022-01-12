@@ -128,10 +128,16 @@ Window {
         }
     }
 
-    ColumnLayout {
+    StackView {
+        id: stackView
         anchors.fill: parent
         anchors.topMargin: titleBar.height
         anchors.bottomMargin: 24
+        initialItem: homeView
+    }
+
+    ColumnLayout {
+        id: homeView
 
         Image {
             Layout.alignment: Qt.AlignHCenter
@@ -155,13 +161,6 @@ Window {
 
         Item {
             height: 24
-        }
-
-        BNLabel {
-            Layout.alignment: Qt.AlignHCenter
-            text: qsTr("Bible Notify © 2022 Bible Notify Contributors")
-            font.pixelSize: 10
-            color: "#757575"
         }
     }
 
