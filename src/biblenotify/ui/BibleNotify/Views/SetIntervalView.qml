@@ -11,6 +11,15 @@ Item {
     ColumnLayout {
         anchors.fill: parent
 
+        BNLabel {
+            Layout.alignment: Qt.AlignHCenter
+            font.pixelSize: 20
+            font.bold: true
+            horizontalAlignment: Text.AlignHCenter
+            verticalAlignment: Text.AlignVCenter
+            text: qsTr("Change when the daily<br>notification is sent:")
+        }
+
         // TODO: Add time picker here
 
         BNButton {
