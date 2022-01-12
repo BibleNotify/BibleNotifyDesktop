@@ -20,7 +20,28 @@ Item {
             text: qsTr("Change when the daily<br>notification is sent:")
         }
 
-        // TODO: Add time picker here
+        RowLayout {
+            Layout.alignment: Qt.AlignHCenter
+
+            BNTumbler {
+                id: hoursTumbler
+                model: 12
+            }
+
+            BNLabel {
+                text: ":"
+            }
+
+            BNTumbler {
+                id: minutesTumbler
+                model: 60
+            }
+
+            BNTumbler {
+                id: amPmTumbler
+                model: ["AM", "PM"]
+            }
+        }
 
         BNButton {
             id: setIntervalButton
