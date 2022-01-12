@@ -5,5 +5,5 @@ import QtQuick.Layouts
 Label {
     id: root
     font.family: "Roboto"
-    font.pixelSize: 12
+    font.pixelSize: 20
 }
