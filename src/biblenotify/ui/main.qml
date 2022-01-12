@@ -159,7 +159,7 @@ Window {
 
         BNLabel {
             Layout.alignment: Qt.AlignHCenter
-            text: qsTr("Bible Notify (c) 2022 Bible Notify Contributors")
+            text: qsTr("Bible Notify © 2022 Bible Notify Contributors")
             font.pixelSize: 10
             color: "#757575"
         }
