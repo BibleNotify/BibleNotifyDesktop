@@ -29,6 +29,8 @@ Item {
             }
 
             BNLabel {
+                horizontalAlignment: Text.AlignHCenter
+                verticalAlignment: Text.AlignVCenter
                 text: ":"
             }
 
