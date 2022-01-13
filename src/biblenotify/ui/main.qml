@@ -82,6 +82,7 @@ Window {
             height: parent.height
             spacing: 8
             BNLabel {
+                color: active ? "#000000" : "#848484"
                 text: qsTr("Bible Notify")
             }
         }
