@@ -93,33 +93,21 @@ Window {
             height: parent.height
             spacing: 8
 
-            // TODO: Make ToolButton into a new component (DNToolButton)
-            // TODO: Can we use DNButton and use a "flat" property?
-            ToolButton {
+            BNButton {
                 id: minimizeButton
                 implicitWidth: 36
                 implicitHeight: 36
-                BNIcon {
-                    anchors.centerIn: parent
-                    icon: "dash-lg"
-                    width: 28
-                    height: 28
-                }
-
+                flat: true
+                icon: "dash-lg"
                 onClicked: root.showMinimized()
             }
 
-            ToolButton {
+            BNButton {
                 id: quitButton
                 implicitWidth: 36
                 implicitHeight: 36
-                BNIcon {
-                    anchors.centerIn: parent
-                    icon: "x-lg"
-                    width: 28
-                    height: 28
-                }
-
+                flat: true
+                icon: "x-lg"
                 onClicked: {
                     root.close()
                     Qt.quit()

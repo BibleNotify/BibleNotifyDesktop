@@ -13,6 +13,7 @@ Item {
     property bool isAccented: false
     property bool hovered: false
     property bool toggled: false
+    property bool flat: false
 
     signal clicked()
 
@@ -26,6 +27,7 @@ Item {
 
     property string backgroundNormalColor: "#FFFFFF"
     property string backgroundNormalHoverColor: "#242424"
+    property string backgroundFlatHoverColor: "#CCCCCC"
     property string backgroundAccentColor: "#7DD273"
     property string backgroundDisabledColor: "#FFFFFF"
 
@@ -42,7 +44,11 @@ Item {
         id: background
         anchors.fill: parent
         color: {
-            if (root.enabled && root.hovered && !root.isAccented) {
+            if (root.flat && !root.hovered) {
+                return "transparent"
+            } else if (root.flat && root.hovered) {
+                return root.backgroundFlatHoverColor
+            } else if (root.enabled && root.hovered && !root.isAccented) {
                 return backgroundNormalHoverColor
             } else if (root.enabled) {
                 return (root.isAccented ? root.backgroundAccentColor : root.backgroundNormalColor)
@@ -52,7 +58,9 @@ Item {
         }
 
         border.width: {
-            if (root.enabled) {
+            if (root.flat) {
+                return 0
+            } else if (root.enabled) {
                 return (root.isAccented ? root.borderAccentWidth : root.borderNormalWidth)
             } else {
                 return root.borderDisabledWidth
