@@ -20,7 +20,7 @@ Window {
         id: windowBackground
         anchors.fill: parent
         color: "#FFFFFF"
-        radius: 10
+        radius: root.visibility === Window.Maximized ? 0 : 10
     }
 
     Item {
