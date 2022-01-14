@@ -29,6 +29,7 @@ Item {
     property string backgroundNormalHoverColor: "#242424"
     property string backgroundFlatHoverColor: "#CCCCCC"
     property string backgroundAccentColor: "#7DD273"
+    property string backgroundAccentHoverColor: "#66A75E"
     property string backgroundDisabledColor: "#FFFFFF"
 
     property string textNormalColor: "#000000"
@@ -50,6 +51,8 @@ Item {
                 return root.backgroundFlatHoverColor
             } else if (root.enabled && root.hovered && !root.isAccented) {
                 return backgroundNormalHoverColor
+            } else if (root.enabled && root.hovered && root.isAccented) {
+                return backgroundAccentHoverColor
             } else if (root.enabled) {
                 return (root.isAccented ? root.backgroundAccentColor : root.backgroundNormalColor)
             } else {
@@ -70,7 +73,7 @@ Item {
         opacity: {
             if (root.hovered) {
                 if (root.isAccented) {
-                    return 0.6
+                    return 1 // 0.6
                 } else {
                     return 1
                 }
