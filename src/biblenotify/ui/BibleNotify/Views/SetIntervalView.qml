@@ -50,6 +50,10 @@ Item {
             Layout.alignment: Qt.AlignHCenter
             isAccented: true
             text: qsTr("Set Notification Interval")
+            onClicked: {
+                // TODO: Set the notification interval
+                root.StackView.view.pop()
+            }
         }
 
         BNButton {
