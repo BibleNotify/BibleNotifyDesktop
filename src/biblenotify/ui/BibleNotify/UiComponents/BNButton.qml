@@ -15,7 +15,6 @@ Item {
     property bool toggled: false
 
     signal clicked()
-    // signal hoveredChanged()
 
     property int borderNormalWidth: 2
     property int borderAccentWidth: 0
