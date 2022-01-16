@@ -2,7 +2,16 @@ from PySide6.QtCore import QDateTime, QObject, QTime, Slot
 
 
 class Notifications(QObject):
+    notificationsEnabled = False
     notificationTime = QDateTime()
+
+    @Slot(result=bool)
+    def getNotificationsEnabled(self) -> bool:
+        return self.notificationsEnabled
+
+    @Slot(bool)
+    def setNotificationsEnabled(self, value):
+        self.notificationsEnabled = value
 
     @Slot(result=QDateTime)
     def getNotificationTime(self) -> QDateTime:

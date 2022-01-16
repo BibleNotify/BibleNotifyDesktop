@@ -26,6 +26,7 @@ Item {
             isAccented: true
             text: qsTr("Start Sending Notifications")
             icon: toggleNotificationsButton.toggled ? "play-circle" : "pause-circle"
+            onClicked: Notifications.setNotificationsEnabled(toggled)
         }
 
         BNButton {
