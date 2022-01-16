@@ -52,6 +52,7 @@ Item {
             text: qsTr("Set Notification Interval")
             onClicked: {
                 // TODO: Set the notification interval
+                Notifications.printHello()
                 root.StackView.view.pop()
             }
         }

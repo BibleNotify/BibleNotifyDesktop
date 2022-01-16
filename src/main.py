@@ -5,6 +5,9 @@ from PySide6.QtGui import QGuiApplication
 from PySide6.QtQml import QQmlEngine, QQmlApplicationEngine
 
 
+from biblenotify import Notifications
+
+
 # try:
 #     # For Windows
 #     from PyQt5.QtWinExtras import QtWin
@@ -20,8 +23,9 @@ if __name__ == "__main__":
     engine = QQmlApplicationEngine()
     engine.addImportPath("biblenotify/ui")
 
-    # parse = Parse()
-    # engine.rootContext().setContextProperty("Parse", parse)
+    # TODO: Should this be something other than a context property?
+    notifications = Notifications()
+    engine.rootContext().setContextProperty("Notifications", notifications)
 
     engine.quit.connect(app.quit)
     engine.load("biblenotify/ui/main.qml")
