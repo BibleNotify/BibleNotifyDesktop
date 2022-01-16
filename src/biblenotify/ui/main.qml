@@ -3,6 +3,7 @@ import QtQuick.Shapes
 import QtQuick.Controls
 import QtQuick.Layouts
 import QtQuick.Window
+import Qt.labs.platform
 
 import BibleNotify.UiComponents
 import BibleNotify.Views
