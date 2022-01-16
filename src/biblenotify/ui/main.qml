@@ -16,6 +16,32 @@ Window {
     height: 640
     color: "transparent"
 
+    SystemTrayIcon {
+        visible: true
+        icon.source: "qrc:/illustration.svg"
+
+        menu: Menu {
+            MenuItem {
+                text: qsTr("Open Window")
+                onTriggered: root.activated()
+            }
+
+            MenuItem {
+                text: qsTr("Quit")
+                onTriggered: Qt.quit()
+            }
+        }
+
+        onActivated: {
+            root.show()
+            root.raise()
+            root.requestActivate()
+        }
+
+        // onMessageClicked: console.log("Hello")
+        // Component.onCompleted: showMessage("Message title", "Something important came up. Click this to know more.")
+    }
+
     Rectangle {
         id: windowBackground
         anchors.fill: parent
