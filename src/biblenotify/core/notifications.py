@@ -32,3 +32,13 @@ class Notifications(QObject):
             newTime.setHMS(hour + 12, minute, 0)
 
         self.notificationTime.setTime(newTime)
+
+    @Slot(result=bool)
+    def isNotificationTime(self) -> bool:
+        currentTime = QDateTime.currentDateTime().time()
+        notificationTime = self.notificationTime.time()
+
+        if (currentTime.hour() == notificationTime.hour()) and (currentTime.minute() == notificationTime.minute()):
+            return True
+        else:
+            return False

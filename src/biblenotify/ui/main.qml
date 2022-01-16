@@ -18,6 +18,7 @@ Window {
     color: "transparent"
 
     SystemTrayIcon {
+        id: systemTray
         visible: true
         icon.source: "qrc:/illustration.svg"
 
@@ -40,7 +41,6 @@ Window {
         }
 
         // onMessageClicked: console.log("Hello")
-        // Component.onCompleted: showMessage("Message title", "Something important came up. Click this to know more.")
     }
 
     Rectangle {
@@ -154,6 +154,8 @@ Window {
     HomeView {
         id: homeView
         setTimeView: setTimeView
+
+        onSendNotification: systemTray.showMessage("Title", "Description")
     }
 
     SetTimeView {

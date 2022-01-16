@@ -11,6 +11,8 @@ Item {
     property var stackView
     property var setTimeView
 
+    signal sendNotification
+
     ColumnLayout {
         anchors.fill: parent
 
@@ -38,6 +40,20 @@ Item {
 
         Item {
             height: 24
+        }
+    }
+
+    Timer {
+        id: notificationTimer
+        interval: 500
+        running: true
+        repeat: true
+        onTriggered: {
+            if (Notifications.isNotificationTime() === true) {
+                if (Notifications.getNotificationsEnabled() === true) {
+                    root.sendNotification()
+                }
+            }
         }
     }
 }
