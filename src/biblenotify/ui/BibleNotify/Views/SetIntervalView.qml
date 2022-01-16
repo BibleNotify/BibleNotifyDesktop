@@ -25,7 +25,13 @@ Item {
 
             BNTumbler {
                 id: hoursTumbler
-                model: 12
+                model: {
+                    var hours = []
+                    for (var i = 1; i < 13; i++) {
+                        hours.push(i)
+                    }
+                    return hours
+                }
             }
 
             BNLabel {
@@ -51,8 +57,7 @@ Item {
             isAccented: true
             text: qsTr("Set Notification Interval")
             onClicked: {
-                // TODO: Set the notification interval
-                Notifications.printHello()
+                Notifications.setNotificationTime(hoursTumbler.currentIndex + 1, minutesTumbler.currentIndex, amPmTumbler.model[amPmTumbler.currentIndex])
                 root.StackView.view.pop()
             }
         }
