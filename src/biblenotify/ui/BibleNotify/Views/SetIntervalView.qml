@@ -55,7 +55,7 @@ Item {
             id: setIntervalButton
             Layout.alignment: Qt.AlignHCenter
             isAccented: true
-            text: qsTr("Set Notification Interval")
+            text: qsTr("Set Notification Time")
             onClicked: {
                 Notifications.setNotificationTime(hoursTumbler.currentIndex + 1, minutesTumbler.currentIndex, amPmTumbler.model[amPmTumbler.currentIndex])
                 root.StackView.view.pop()

@@ -31,7 +31,7 @@ Item {
         BNButton {
             id: changeIntervalButton
             Layout.alignment: Qt.AlignHCenter
-            text: qsTr("Change Notification Interval")
+            text: qsTr("Change Notification Time")
             onClicked: root.StackView.view.push(setIntervalView)
         }
 
