@@ -4,10 +4,6 @@ from PySide6.QtCore import QDateTime, QObject, QTime, Slot
 class Notifications(QObject):
     notificationTime = QDateTime()
 
-    @Slot()
-    def printHello(self):
-        print("Hello")
-
     @Slot(int, int, str)
     def setNotificationTime(self, hour: int, minute: int, ap: str):
         newTime = QTime()
