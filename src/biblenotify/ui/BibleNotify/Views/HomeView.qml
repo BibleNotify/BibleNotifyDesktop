@@ -9,7 +9,7 @@ Item {
     id: root
 
     property var stackView
-    property var setIntervalView
+    property var setTimeView
 
     ColumnLayout {
         anchors.fill: parent
@@ -32,7 +32,7 @@ Item {
             id: changeTimeButton
             Layout.alignment: Qt.AlignHCenter
             text: qsTr("Change Notification Time")
-            onClicked: root.StackView.view.push(setIntervalView)
+            onClicked: root.StackView.view.push(setTimeView)
         }
 
         Item {

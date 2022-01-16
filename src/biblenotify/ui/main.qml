@@ -126,11 +126,11 @@ Window {
 
     HomeView {
         id: homeView
-        setIntervalView: setIntervalView
+        setTimeView: setTimeView
     }
 
-    SetIntervalView {
-        id: setIntervalView
+    SetTimeView {
+        id: setTimeView
         visible: false
     }
 
