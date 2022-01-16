@@ -52,7 +52,7 @@ Item {
         }
 
         BNButton {
-            id: setIntervalButton
+            id: setTimeButton
             Layout.alignment: Qt.AlignHCenter
             isAccented: true
             text: qsTr("Set Notification Time")
