@@ -155,7 +155,14 @@ Window {
         id: homeView
         setTimeView: setTimeView
 
-        onSendNotification: systemTray.showMessage("Title", "Description")
+        Component.onCompleted: {
+            // TODO: Why doesn't this work?
+            // Loader.printHello()
+        }
+
+        onSendNotification: {
+            systemTray.showMessage("Title", "Description")
+        }
     }
 
     SetTimeView {

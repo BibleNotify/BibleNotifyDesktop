@@ -5,7 +5,7 @@ from PySide6.QtGui import QGuiApplication
 from PySide6.QtQml import QQmlEngine, QQmlApplicationEngine
 
 
-from biblenotify import Notifications
+from biblenotify import Loader, Notifications
 
 
 # try:
@@ -23,8 +23,13 @@ if __name__ == "__main__":
     engine = QQmlApplicationEngine()
     engine.addImportPath("biblenotify/ui")
 
-    # TODO: Should this be something other than a context property?
+    # TODO: Surely there is a better name for this class
+    # TODO: Why doesn't this work when the notifications class does?
+    loader = Loader()
+    engine.rootContext().setContextProperty("Loader", loader)
+
     notifications = Notifications()
+    # TODO: Should this be something other than a context property?
     engine.rootContext().setContextProperty("Notifications", notifications)
 
     engine.quit.connect(app.quit)
