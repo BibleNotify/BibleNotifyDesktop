@@ -25,7 +25,7 @@ Window {
         menu: Menu {
             MenuItem {
                 text: qsTr("Open Window")
-                onTriggered: root.activated()
+                onTriggered: root.activate()
             }
 
             MenuItem {
