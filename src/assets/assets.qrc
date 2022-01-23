@@ -10,4 +10,7 @@
         <file alias="question-circle.svg">icons/question-circle.svg</file>
         <file alias="x-lg.svg">icons/x-lg.svg</file>
     </qresource>
+    <qresource prefix="/verses">
+        <file alias="bible_verses.json">verses/Verses/bible_verses.json</file>
+    </qresource>
 </RCC>
