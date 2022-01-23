@@ -161,6 +161,7 @@ Window {
         }
 
         onSendNotification: {
+            Notifications.loadVerses()
             systemTray.showMessage("Title", "Description")
         }
     }

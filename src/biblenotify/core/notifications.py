@@ -1,4 +1,6 @@
-from PySide6.QtCore import QDateTime, QObject, QTime, Slot
+import json
+
+from PySide6.QtCore import QDateTime, QFile, QObject, QTextStream, QTime, Slot
 
 
 class Notifications(QObject):
@@ -42,3 +44,19 @@ class Notifications(QObject):
             return True
         else:
             return False
+
+    # The methods here on are temporarily in this class until the Loader() class problem is fixed
+
+    @Slot(result=str)
+    def loadVerses(self) -> str:
+        file = QFile(":/verses/bible_verses.json")
+        if not file.open(QFile.ReadOnly | QFile.Text):
+            return ""
+
+        contents = QTextStream(file)
+        verses_string = contents.readAll()
+
+        verses = json.loads(verses_string)
+        print(verses["all"])
+
+        return verses_string
