@@ -1,7 +1,7 @@
 import sys
 import assets.assets
 
-from PySide6.QtGui import QGuiApplication
+from PySide6.QtGui import QGuiApplication, QIcon
 from PySide6.QtQml import QQmlEngine, QQmlApplicationEngine
 
 
@@ -19,6 +19,7 @@ from biblenotify import Loader, Notifications
 
 if __name__ == "__main__":
     app = QGuiApplication(sys.argv)
+    app.setWindowIcon(QIcon("qrc:/icon.svg"))
 
     engine = QQmlApplicationEngine()
     engine.addImportPath("biblenotify/ui")
