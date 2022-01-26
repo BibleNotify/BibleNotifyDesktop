@@ -8,15 +8,6 @@ from PySide6.QtQml import QQmlEngine, QQmlApplicationEngine
 from biblenotify import Loader, Notifications
 
 
-# try:
-#     # For Windows
-#     from PyQt5.QtWinExtras import QtWin
-#     pretzel_id = 'iwoithe.molar.app.0.0.1'
-#     QtWin.setCurrentProcessExplicitAppUserModelID(pretzel_id)
-# except ImportError:
-#     pass
-
-
 if __name__ == "__main__":
     app = QGuiApplication(sys.argv)
     app.setWindowIcon(QIcon("qrc:/icon.svg"))
