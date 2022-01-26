@@ -26,7 +26,7 @@ Item {
             id: toggleNotificationsButton
             Layout.alignment: Qt.AlignHCenter
             isAccented: true
-            text: qsTr("Start Sending Notifications")
+            text: toggleNotificationsButton.toggled ? qsTr("Stop Sending Notifications") : qsTr("Start Sending Notifications")
             icon: toggleNotificationsButton.toggled ? "play-circle" : "pause-circle"
             onClicked: Notifications.setNotificationsEnabled(toggled)
         }
