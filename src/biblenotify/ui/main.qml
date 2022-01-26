@@ -20,7 +20,7 @@ Window {
     SystemTrayIcon {
         id: systemTray
         visible: true
-        icon.source: "qrc:/illustration.svg"
+        icon.source: "qrc:/icon.svg"
 
         menu: Menu {
             MenuItem {
