@@ -52,6 +52,7 @@ Item {
             if (Notifications.isNotificationTime() === true) {
                 if (Notifications.getNotificationsEnabled() === true) {
                     root.sendNotification()
+                    notificationTimer.running = false
                 }
             }
         }
