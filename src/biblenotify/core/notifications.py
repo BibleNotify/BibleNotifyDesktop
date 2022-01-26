@@ -1,4 +1,5 @@
 import json
+import random
 
 from PySide6.QtCore import QDateTime, QFile, QObject, QTextStream, QTime, Slot
 
@@ -47,16 +48,17 @@ class Notifications(QObject):
 
     # The methods here on are temporarily in this class until the Loader() class problem is fixed
 
-    @Slot(result=str)
-    def loadVerses(self) -> str:
+    @Slot(result=list)
+    def loadVerses(self) -> list:
         file = QFile(":/verses/bible_verses.json")
         if not file.open(QFile.ReadOnly | QFile.Text):
-            return ""
+            return ["", "", ""]
 
         contents = QTextStream(file)
         verses_string = contents.readAll()
 
         verses = json.loads(verses_string)
-        print(verses["all"])
+        # Choose a random verse
+        verse = verses["all"][random.randint(0, len(verses["all"]))]
 
-        return verses_string
+        return [verse["verse"], verse["place"], verse["data"]]

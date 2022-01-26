@@ -161,8 +161,8 @@ Window {
         }
 
         onSendNotification: {
-            Notifications.loadVerses()
-            systemTray.showMessage("Title", "Description")
+            var verse = Notifications.loadVerses()
+            systemTray.showMessage(verse[1], verse[0])
         }
     }
 

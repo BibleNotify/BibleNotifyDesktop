@@ -1,5 +1,5 @@
 import QtQuick
-// import QtGraphicalEffects
+// import Qt5Compat.QtGraphicalEffects
 
 
 Item {
@@ -10,7 +10,7 @@ Item {
 
     property string icon
 
-    // TODO: Add in the overlay color
+    // TODO: Add in the overlay color (preferably without using the compatibility module)
     // property alias color: overlay.color
 
     Image {
