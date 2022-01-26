@@ -42,8 +42,8 @@ class Notifications(QObject):
 
         if (currentTime.hour() == notificationTime.hour()) and (currentTime.minute() == notificationTime.minute()):
             return True
-        else:
-            return False
+
+        return False
 
     # The methods here on are temporarily in this class until the Loader() class problem is fixed
 
