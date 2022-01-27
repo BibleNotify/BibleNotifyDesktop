@@ -123,6 +123,22 @@ Window {
             spacing: 8
 
             BNButton {
+                id: helpButton
+                implicitWidth: 36
+                implicitHeight: 36
+                flat: true
+                icon: "question-circle"
+            }
+
+            BNButton {
+                id: aboutButton
+                implicitWidth: 36
+                implicitHeight: 36
+                flat: true
+                icon: "info-circle"
+            }
+
+            BNButton {
                 id: minimizeButton
                 implicitWidth: 36
                 implicitHeight: 36
