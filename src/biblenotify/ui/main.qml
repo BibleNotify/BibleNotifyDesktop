@@ -22,6 +22,8 @@ Window {
         visible: true
         icon.source: "qrc:/icon.svg"
 
+        property string chapterLocation: ""
+
         menu: Menu {
             MenuItem {
                 text: qsTr("Open Window")
@@ -40,7 +42,7 @@ Window {
             root.requestActivate()
         }
 
-        // onMessageClicked: console.log("Hello")
+        onMessageClicked: console.log(systemTray.chapterLocation)
     }
 
     Rectangle {
@@ -162,6 +164,7 @@ Window {
 
         onSendNotification: {
             var verse = Notifications.loadVerses()
+            systemTray.chapterLocation = verse[2]
             systemTray.showMessage(verse[1], verse[0])
         }
     }
