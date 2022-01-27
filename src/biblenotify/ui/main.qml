@@ -166,8 +166,10 @@ Window {
     StackView {
         id: stackView
         anchors.fill: parent
-        anchors.topMargin: titleBar.height
-        anchors.bottomMargin: 24
+        anchors.topMargin: titleBar.height + 20
+        anchors.bottomMargin: 50
+        anchors.leftMargin: 50
+        anchors.rightMargin: 50
         initialItem: homeView
     }
 
