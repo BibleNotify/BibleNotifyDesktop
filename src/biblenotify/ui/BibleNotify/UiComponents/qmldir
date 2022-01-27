@@ -2,4 +2,5 @@ module BibleNotify.UiComponents
 BNButton 0.1 BNButton.qml
 BNIcon 0.1 BNIcon.qml
 BNLabel 0.1 BNLabel.qml
+BNScrollView 0.1 BNScrollView.qml
 BNTumbler 0.1 BNTumbler.qml
