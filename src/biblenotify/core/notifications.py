@@ -65,7 +65,7 @@ class Notifications(QObject):
 
     @Slot(str, result=list)
     def loadChapter(self, location: str) -> list:
-        file = QFile(":/verses/" + location + ".json")
+        file = QFile(":/chapters/" + location + ".json")
         if not file.open(QFile.ReadOnly | QFile.Text):
             return ["", ""]
 

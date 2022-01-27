@@ -1853,556 +1853,15706 @@ dth=\x222\x22 stroke-l\
 inecap=\x22round\x22 /\
 >\x0d\x0a    </g>\x0d\x0a  <\
 /g>\x0d\x0a</svg>\
-\x00\x00\x22<\
+\x00\x00\x22D\
 \x00\
-\x00v\xc6x\x9c\xad][\x8f\xdbF\xb2~\xcf\xaf\xe0\
-\xc9\xcb\x9e\x03\xc8qf\xc6N\x1c\xcd\x83a\xe7\xe6\xf1\
-\xe6b\xc4\x06\x8c\xe0\xe0<\xb4\xc4\x96\xd4\x19\x92\xade\
-\x93\xa3\x08\x8b\xfd\xef\xa7\xbe\xaa\xea&\xa5\xe1E\xeb,\
-\xb0\x9bdHJ\xac\xaa\xae\xae\xcbWU\xad\x7f~\x96\
-e\x9f\x9b\xa2\xf8|I\xff\xf1\xbf\xf4\xff,\xfb'\xff\
-\x93.?\xd8:\xd8\xcf\x97\xd9\xe7wU\xd6\xecl\xb6\
-\xb2[WU\xae\xdaf\xdf\x17~\xe7\xcal][\xd3\
-\xd8\x9co\xee\xacy\xb0Uf*\xf9\xd3\x9a\xba\xd9}\
-\xf1\xf9\x22~\xd7\xbe0k\xfe\xae\x1fme\x83\x0b\xd9\
-\xd5\xf2*\xfb\xef\xd0\xf8\xfa\xf8?\xddS\xb9i\x0c?\
-T=\xbd\xfa\x9c/\xfek1B\xd3+z\x91\x92\xb1\
-*l\x08JF\xb0DE\xb3\xcbrs\x5c01\xc1\
-T\xeb\xc6m\x1c\xddw\xcd\x92xX\x9b6Xz\xd6\
-4\x99\xab\xe8Z\x06\xe2M\x9e\xd56\x80\x97M\xed\xcb\
-\x8c\x04\x92\xed\x88\xc8\x83\xaf\xef\xb3\xc3\xce\xadw\xe7,\
-\xe3\xabK\x93\xdb)\x16\xaf\x977\x83\xac]\xcf\xb0v\
-\xb7!\xf2|\x9b\xe5\x9eH\xca\x0e\xb6(\x16Y\xd8\x99\
-\xa2\x91\xcb\x95o\x88\x8d\xcc\xac\xd7vO\xa4\xbcdZ\
-\xdc\xc9g\xf0\x88~\x8ex,\x9c%\x89\x98\x86\x05\x94\
-{_\x7f\x91Azm\xd5x\x5c\xb2\xfc\xe5\x05\xbe\x13\
-<\xe7D{m\x17\xba\x92\xf4\x95\xf2\xea\xba-l\xe6\
-\x89Fz\xa8\xfc\x22\x9b`\xfb\xd9\xf2\xebG+\xfbX\
-\x08\xcf\x92\x10\xfe\xf9Y\xc7z\xf6q\xe7\x0a\xdbi\x10\
-\xadJi\x5cE\xf4\x13+\xd6\xe6\x8d+-S\xb63\
-\xf5\x03q*d\xae}!+BJ\xa8\x97B[\x96\
-D+\xfe\xf3\xe0\xaa\xc6\xd6r\x99\xd4\x82\xff]\xb9\xed\
-\xaeQ\xbe!\xac\xb55ar-_,\xaf\xaf'\xb8\
-y1\xc8\x0d\xa4|\xb7 \xc1\xee\x88\xc0EvG\xa4\
-@\xb1L\x9d\xdb*n\x9a\xba\x09\x99\xdf\xf0_\xdfo\
-\x8f\xfb\xc6\x99*D\xe1\xdb\xa3\x92\xb8\xf1E\xe1\x0f\xb8\
-R.\xf9\x9e~\xd5\xd66\x19\x09d\xe7+\xdf\xd6Y\
-\xbb\xf7U\xf6\x8e\xbe\xde\xf8\x9d|\x05_\x89\xca\xbc\xf3\
-\x90\x17_\xc2\x9fkz\xd0\xf9&\xf4\x9e\x94\xa7\x88\xf8\
-\xd2VC\xc2\xf8\xfeO\x9f\xb7\xb4u\x9f-\xaff\x97\
-\xf8\xfb?\x9f^=;S\xf4N2\x1f:\xc5\xda\x91\
-\xdd\xa05\xc8<qW\xeb6\x0b$\xb3\x8d\xaf-1\
-7G\xc7_~?\x96\xbf4\xf7\xb6\xb7\x1fLu\xcc\
-\xb65\xdb3W\x9a-m\x06_\xf3\xc5\xc2\xddC\x1f\
-x\xc5\xf0w\xb3\x835\x14[\x12`N\xa2\x15\x5c\xd1\
-N\xe1O\xf5\xeeuJ\xbd\xa2/1P\xe9\xc7\x0f\x1c\
-\xc8\xba\xd0JV\xb9\xad\xa7\xed\xa8\xca\xe0\xfa\xcb\xe5\xb3\
-\x09\x11\x5c\x7fy\xa9\x08V\xa4_\xb9?\x80\x8ac\xb0\
-\x05i$\x0b\xa3\x5c\xd0\xdd\x9a\xf6\x1em7\xd5?Z\
-\x18\xd2\xbf\xdf\xcd\xee`wx:\x9aFC\xff\xcb\xfe\
-\xb0\xa6\xf0D\x97\x5c[d\x0f.\xb8F\x84d\x89G\
-\xf7\x8f\xd65\xc7\xa8\xf0\x1b\x835\x0f\xa2|\xb8\xb0\xa6\
-\xdd\x9f\xd7$\xc0\xb8\x16\x90p-{{C*N\xb2\
-\xdb\x92\xecj\xd38\xfa\x84|K)\x22\xa4\xffC]\
-n'E\xf5\xfc\xd3D\x85}\x1cv\xf6\x00>\xc8\xaa\
-\xac\x8f\x91>\xe2\x94H\x0b\xa7\x94\x14\xb4\xf6\xf4\x98\xec\
-\xab{k\xf7Yy$\x13U\x96\xf47m\xac&L\
-/\xe7W\xff\x91\xe5l\xa0\xd1\x10`e\xc8@\x10}\
-\x8f\xd7\x8b4\xee\x81l\xeb-/\xa8\xdef\xab\x82\xcf\
-\xc3b\xc1\xd2g\xdb\xd6\x15\x0d\x1c\xac0\x87\xef\xa5U\
-\x80\xa5\xe0o\xd6/\x99fij\x93N\xb0\xf4\x1b\xd9\
-\xa1r\xa5\x1b!\x98\xd5\xcaD\xc7N\xc2g\xc1:&\
-\xf48\xfd\xf6\x17\x9f\xf6\xf6\xf7\xeeO\xbc,\xf4]o\
-A\x1b\xbb\x8d\xae\xc4\xb3e\x85@\x11&,'i\xf8\
-\xe6\xd3hx\xdd6\xe7Q\x0dlE_\x1eCK\xbb\
-\xd4\xc8\xa69\xd5\x09P\x5c\x09\xb5\x0b\xbe'{\x1b\x9f\
-\x0b\xbe\xea\xfe\xc8MK\xde\x11.\x13\x7f\x91\xdab\xf7\
-\x9b\xaa\xe9\x9e \x9f\x9c?\xba\xb86\x0d)J\xef;\
-\x9b\xdaT[\xdb\x99\xb8\x83\x83\xbd\xe4{[\xda\xada\
-ZdW_~\x9a\xcc~\xa0\xd7\xd3[B\x5c>\x95\
-\x0e\x82\xb5~\x90\xca\x86u\xa1\xd25\xb2\xa4\xb2\x9e\x12\
-\x18\xf2~v\xea\x1d56<[\x8a%\x85\x86\xb6\x16\
-G\xa5o9\x09E\xfb\x1a+1\x0b\xbc8\x07\xa2\xd3\
-\x1a{u\xf5i\xac\xbf\x918\x00\x02\x16\xd3\xaaq\x04\
--\x18{\xd7\xa5\xeea^c\x12MI\xeaDQ_\
-\xe1\xc9\xae%\x1b\x5cp\xcc\xc41\xefc\x9b\xb1u\x0f\
-\xd8\xfe\xf0\x923,\x8cFK\xff\x96\x19\xbb'{4\
-\xf3\xa2\x9b\xff\xc8\x8b`\x9fi\xc7\x98\xbc-H\xf3g\
-,\xca\xd5\x7f\xc6\xe5\x92N\x999\xee>\xd1c\x9d;\
-w\xd2vR\x89\x82\x12\x1f\xda\x84\x1c\xc1\x98-\x99\xed\
- \xcaPY\x0a\x87a\xd9f\x88\xf9D\xd7\xd4\xdf\x1b\
-\xac:=\xd7\x88?\x87\xec\xc0/-,\x7f\xc8\xbeZ\
-^\x8f\x0a\xfb\x97\xf2\xe9Ws/\xe5\xc8\x0e\xdejC\
-_L\x12\xa1\x5c\x22\xa9\xba\xd2A;\x80\x82\xbd\xb5C\
-\xd8\x92b\xc0\x19\x9aF\x97\xe5\x12\x9a\x0a\xb7i\x88\x08\
-\x89\xc2=\xbd\xd2V\x94\xa4>\xa2\x0b{M\xe2\xd1\xbd\
-%\x0a\x86\xd6\xa6G\xd1\xe8\xdaLR\xf4\xea4\xcf\xd8\
-\x93\xbf\xa1`\x85=\xfb\xe3\xa0\x8c\x5c\xcd]\xa8\x8d-\
-\x16\xfd\x1c$-k9C\xe1h\x140I\xe1k\x0b\
-G\x02\x0b\x85w\x22\xee\xce\xb6\xde#\xe7kk\x0e\xcd\
-7\xd0mRrq<H\x8c75\xb9\xa7\x18\x93-\
-\xfb\xe1Mg\xc9\x16H\xfb]#\xde\xd4\xc07\x22\xb6\
-\xf4\xec\xa3X\xe8\xb7x \x85C\x1b\xe3\x0a]\x1a\xbc\
-\x85\xbe2h\x805\xb8.\xdf\xd9\x96\xac\x08Yc\x12\
-\xe6\xcd\xd5xH\xf7]\xf3\xf4\xe6\x1c\xe88\x81]~\
-t+K\xcb\xa0\xe4\x9b=iB\x0d\xf7\xe2\xb3\xf7\xbe\
-\xf0%\xdd\x22We2Z\x1e\x8a\xbeWG\xc9k%\
-ET\x8b\x1dH\x16\x8b\xecU\x00\x8eA|\xde\xe9J\
-'\xe5\x1a\x22\xff\x8a\xecn\xb5\x0d\xd9\xcd\xf2\xf9\x5c\x9a\
-w\xf5\xf7mxz3\xa9_\xdf\x17\xee\x0f\xb3\xa3\xf0\
-\xa0\xd4\x1cK\xdc,\xd4\xda\xef\x0b\x1ba\x1a\x90\xf9\x86\
-\x92\x10\xf6Fl\xb9\x8e\x80\x9c\x9a\x83E\xb2|\xa0\x04\
-qO\xf9\x83\xaf\xc2K\x80\x1d\xd1\xa6\xd8\xc8\xa7\xa6\xc8\
-\x1c\xfd\xacH\x8d\xe9\x99\xd7\xc6\x14\xec\xe1\xab\xde]\xc1\
->\xba\xd7\xd3\xdb\xc3\xc1B\xa8\xf8\x16\xac\xb5A\x84\x94\
-O\xc9\xe5\xea\xc5\xf2\xfa1z5$\x99\xab\x17\xe3\xc6\
-\xc0b58\xfb-\xec\x86\xf3x\x8e-RZ\x81\xa5\
-M\xfbMEv_Y\x1b\xd4;k\xe2\xcc\xa9\x9bU\
-8GX\xe6\xf8\x86^\x04\xbf\xdf\x92>\xc7\xe7\xe9?\
-\xc5\xa9r\x8c\x02aL1\xf9\xcd\xf2\xea\xc5eL~\
-3\xae\xc2\x1b\xd8\x93\xb8\xd0B\x07i0)CQ\x10\
-\x09\xa4\xb1jn\x16\xaa\x97;\xb2\x17\x02\x00\x95\x94\x85\
->X\x0d\xc0\xf6u\xc2\xf3\xac\xbd\xc7\x87`\xcf\x15'\
-i\xebJ`;\xfa\x94\xabi\xd3\xae\xef\xe9\xbb\x0f\x14\
-\xe1\xdc\xca\xea\xf36\xbec\xb4E\x1e\x948p\xa1\xf0\
-\x10\x03,u\xdc\x11\xf4\x0d\xc1\xf5\xef\xd1\xc3\x85\xde@\
-l4,\xb3ow\xb4\xdd\xdd\x9ala\xf6\xf5D|\
-pE\xcf=\xfdz:\xd1\xe4\x9d\xf0\x8b\x01\x0f\xbcg\
-\xee2ZD\x98\xb32\xc6q\x7f\x032Y\xae\x84\xc6\
-\x8a\x9f\x14\xe9\xddQ\xa4\xca\xe2\xa0@[\x02>\xdd'\
-[\xf3\xa0\xd2\xd2\x0b\xac\x0cH\xe6\xc8|\x90\xa4nS\
-\xe4\xba\x1aJ\x1b\x87x~\xebW\xd9\xd5\x05\xfb\xe0\xed\
-\xea\x11\x96\xdb1\xfcq\xe7\x85\x14x\x9e\x83\x0b\xb9/\
-#\x12\xe2\xaa\x83\xa1\xd4\x7f\x0f\x84\xec%\x90\x92C|\
-\x16+U\x09F\x12\x1a\xe2\x89\xe1\x05\xdf\x01j/G\
-\xa8\xbdy\xb1\xbc\x195\xc5D\xe6\xcd\xf8f\xfd\x15\xfe\
-\x997\x1c\x19\xd0\xbd'\xb1\xdd\xb2\x95\xb9\xeb\x5c\x84\xd8\
-\x91%Y-\xca&\x1aRB{\xf2\xc8\xbe\xf6kK\
-\xf2\xad|\xb6\x01\x90a\x07\x83-\x90\xf9l\x02\xa7 \
-*\x9f\x8d\x07Zwd\x1f\x18&4\x9a\xfb\xad\x0dB\
-<\xca\xfb\xc4\x1a0\x5c\x15\xc1E\x83\xd0\x90\x1f\x03\x14\
-JOb\xe9\xe1\xfe\x90\xfa\xdbnG\x0dz\x08\xa6\xf3\
-z9\x1a\xe4\x83\xces\x98\xbb\xbf\xeaG\x10\xa5\x0b\xc6\
-[T|\xb995\xcd\x00\xdf\x10\xb0\x19\xc6\x18\x84\xfc\
-\xa1\xc5\xdd\x07S\x94\xc0\xdbG\xf3\xa6w\xe1\x11\xea\xde\
-\x0f\x96cf\x08\xf4{]\xc0@\x81\x8amAz\x8d\
-M\x10C\x86H\xde\xc6\xd5\xa5\x01\x94\xc3\xa8P\xc4C\
-vt\xfb\x88\xe4zH`J\x22\x8c\xea\x04\x8d\x13\x96\
-T\xf7-\xbd\xa7D\xb4f\xf7\xa4A\xf9m\xf2\xe7\x8c\
-\xf8S:>\xf1\xee\xeb\x9bi\xf9\x8c{\xf1\xd7j\x1b\
-\xc0\xa4\xc5>D\x01\x85\x92\xfb\xb0\xa5\xc48\x00\x8aC\
-\x80-&\xb4Z\xe8\x03\xa8<p\x80\xfb\x00\xef:A\
-\xd7\xcd\xf4\xba\xdd\x8c/\xdc\xdf%\x83 \xc5\xa6\x98\xa1\
-\xb5\xa2\xb2\xf6\xc1\x15\x8b\x94\xf8\x16n\x1f\xe4z\xa0\xd8\
-\x09\x9e\x8d\x11\xadA\xa5\x8e\xf4<\x9bH*A\xd08\
-\xacL\x11\x9b\x86#j+4\xa0n\xea6PX\xd6\
-\xb3\x16]\x9c\xcaaYI\xdb\x0f[\x90v\x05\xfb\xf1\
-a\xdc[\x09|\xfe\xd5\x04B@\x04>\x1f\x8f\xa6\x95\
-\x82`y\xf3\xab\xa7\x14\x14;\x22\xee\xd8p\xf6h\xc3\
-\x92\xa3\x93F\xb6\x02\x17\xc2NPNv3&\xb8\x9c\
-\xcc\x9c;)\xa5\x14\xd8J\xd9\x1c\x13W_^-\xa7\
-\xa4L\xf7#\x17Y\xf6\xd8Q\x22\xa1\xab\xe9\xfd\x0a\x92\
-\x07\x8e\xe4\xa3\xc9\xca\x0e\x5c\x1a\x0a\x9e\x1fb\x9fA\x17\
-k[\x92.Rb\x00\x88\xa4\xaf\xbd\xfa\xc1v\x10\x98\
-M\xe4\xdeL`\x1aL\xef\xf8\xfeyC\x81\xfb1\xa5\
-\x1a1\x1a\xea!\xff\xa1E\x5cD\x1a\x10\xac:\x90\xdd\
-\xe0Gdg\x95\x08\xf2\xc90\xd1B)\x188\xee\xa5\
-#\xf9\xcf\x9eM`\x09 \xff\xd9\xb9V\xeb3=+\
-\xc9\xd0a\x1eU{\xe78Be}a\xb7\xab\x1c\xdd\
-\x09}\x82p ;I@\xc3\xb0+y\xa7\x14\xc24\
-N\xda\xc6G\xc6q\x94B\x92\x8a\xa1X\xad\xdc\xebf\
-\xa2h\xd1Z-\x0c\xd2\x0d&/\xde\xd9\x9b\xe1\xfaJ\
-\x9f\xac/'%7O\x17v?d\x95@v\x94c\
-9\xa2O\xc2\xbbe\xe2h\xebT,8\xc5!p\x1b\
-5\x99\x93X\xe7\x8b\xec\xae\xea\xa0g\xe0xf\x0d\xbf\
-O\x01\xf5\x16X\x87:\xaa]\xac\xeb\xe6\xae\xb6k\x01\
-z\xc0\xec\xa0\x96\xbf\xaba\xa6W\x9c\xf2=\x19\x8d\x91\
-\xde\xd5\x0f\x8fr\xbdsf?\xc2\x9b\xefk\xb2\x0b\xc0\
-\xd4\xacb\xac\x95\xfe\x01\x92J+\x19ZL\xb5)\xe3\
-;\x14G\x01\x88\x11\x00N\xd2wu5\x1et\x80\xbc\
-\xab\xb9\xbe\x81\x0f\x80l\xd3\xc6\x0a\x00\xad\xe9B\xa3\x05\
-\xd3\xa3\xc5B\xa1\xc8O&rw\x1b=~\xef\x13)\
-B\x22\xe2K\xcf\x91\x82aGW\xb2\x8aq\xeaI\xc2\
-\xb6\x15?A\xab\xb8\x07\xe5\xcd \xa2x\xc2\xd5h\xce\
-p\x11[o\xb4\xa5\x01\xa0Z\x0cH$\xf9\xeb_)\
-\xdcF\x85\xbf\xd3\xe7\xfd\xde\xa2\xbaNl\xe5V\x1f\xd9\
-\x87\x98\x8ba\xa3\xe7dJ\xebv\x8d\x82\xdb4\x0b7\
-\x13\xe6\x1c\x1c\xcc)N\xe4\xe0`\x8a{\xa1\x88\xff\x01\
-{G\xea\x93Z\x14pEX0\xd0\xa9\xbd\xa9\xb4\x14\
-\xb8\xf1\xbe\x08\xddsL\xb7?\x0eG\x1e}\xaa\xafG\
-\xeb\x0c\x17\x91\x9d\xf4\xc9`/j\x8aKI*k{\
-\xdd\x99\x1a\x03\x1f/\xfa\xc1.+*\x16\x10-\x8d7\
-y/\xd3\xdf\xb9\x1d\xb3I\x89\xecgS\xce\x08d\xcf\
-Ys5!R\xd0\xeaT\x9c\xb2\x94\x0d\xb7\xc9(\x99\
-\x0d-F\xac\xd6\xb2fD\xc5\xf6Uqd\xed\xb6U\
-;\x0c\x97\xf7\x89\xbd\x9eV\x8d9b_\x91+\xdf\xc4\
-\x0c\x8b#\x0fnhay\xd7$+\xa1w[;\xfb\
-\x00\x10\x17>\x804\xa1qh\x89\xc8\xb8\x065M\xe0\
-\xf3\x89\x00\x14\xf4=\x9f\xa1\xef\xb5\x85\x11\x11%\xc8\x19\
-u\xa1\x1b\x1a\x84\xfe\xa3uV\x10w\x162\xb4z!\
-6\x83\xfe\x07\xa4\x87\xc2\xd6\x96V\x82\x84\x1c\xcc\xbav\
-\x1bJ\x1c\xa5T\x06\xdc\x93\xf6\xeb4\xe9_\xcf\x90~\
-\x8e5\x8c\xed:\x09\xd3!\xd5\xb3\xc8\x1ex\x0b\xae\xa3\
-\xaa}\xdb7\x1d5\x99\x15\x0a\x0f\xf9#%[Qz\
-\x96\xb2u\xb9\xc6\xf9\xe6\x86V\xa4\xca\xa7\x1d\x0eq0\
-Z\x1c\xbd\x88\x83\x0f'\x9di\x10#\x8b\x8dW\x03P\
-\x19\x80\xeb\x0a\x18[\xc3\x84\x01K\xe1&\x8b\xa5,\x08\
-\x07\xbd\x12\xb2\xfa\xcd\x86\xe4\x008\x1e\xd6n\x11#b\
-\xc7\xd1zi\xf3\x1c\x90\x15VfvI\xa6m\xf9\x1c\
-G\xdfs\x8d\x92\x0d\xdaB\x18@\x82\xaa>\x076\x9a\
-\xeb\x01\x8b,\x95\x0fr\xb5\x8a\xea\xf6\xc5\xb3\xedZa\
-8\x19u\xfa7\xca\x98d\x99r\xb1F\x10\xd6id\
-1\xc3\xd7\xf5h)\xfd\x22\xbe\xbe\x83]\x938\x07\x0b\
-\x04\xb3\xa7X\xcf\xdecc\xab\x9d\x91dn\xd9\xf5@\
-u]\x15)\xd1\xb0\xda\xcd\xb6\xa9[\xaes\xb3!\x9d\
-&\x1f\x98\xed$\xf9\xe7\xe8\xcf9\xf9\xafXf\xb1\xd9\
-d\x17\xb5;+\x11\xdd\x01\x08@\xec\xc5\xad3r\xa7\
-8.O\xe3\x07\xa37t\x81\x1ad_\xf4=\xeb\x82\
-\x82\xfaZmB\xb6\xaa\xfd\x188t\xc2\xcb\xb4\x8a\xcd\
-\xf1\xf2\xd1\xc5\x96\x06\xa4\x82\x12h\x22\xe9\x8bU\x1f\xf8\
-a\xf6d\xe8\xf3\xf0\xcdK.\xa2\xd4t\x81\x1eYS\
-8C!}q\x94\xe2Z\x07\xd5\xa2\xd3n+\x98+\
-\xed}\xba\xcf\x16\x9a6!1f\xcd\x16\xb0\xaegL\
-O\xc0\x96I\x16\xa7=\xc65\x85\xa9s6\xb9=\x8a\
-6\xd5m\x0c\xee\x88\xca\x02*D\x0cQdW\x04\xaf\
-\x01\xa7\xdcE\x92\xa2\x81\x8e\xb6\xc4]\xbc5\x88\x9c9\
-z/0b\x11\x8a\xd3X\xc6\x85\x1d\xbb\x0dZ\x01J\
-\xa3\x92*Q\xc8\xea\xc9\xff\x89\xb7\xe1N3\xca\xc0\xa4\
-\x1f\x8aS\xee\x19\xb1>\x9b\xb6\xb6\xd7=W\xfc\x98J\
-\xb4V\x98\xec\x0f\xe8;\xb6\xc2\x06 >\xfc\x94\x94-\
-\x5c\x19\xd1\xfa\xda!zf\xe7\x8b\xe4\xaf\x0b'\x14p\
-\xd0\xa6F\xfc\xc3q\x1a\xe6\xc2z\xe7\xec\xf4\x06&\xd2\
-\xc7\x0b\xd0\xe7\xb4\x0f\x0a\xf9\xd7\xbd\xad\xb4\x1b\x02\x81\xf1\
-\xc6KgQ\xde\x96\xabh\x88\xa49\x181\x19P\x12\
-\xce\xca\x03\x1b*J\xc7\xbdcSK\xf4\xf6c\xe2\xec\
-\xf4[\x17$\x1e\xa4a\x1c\xf9Yr\xef\x85\xd6-(\
-\x7f7\xf9\xe9;\xc4\xf2y\xe9\xd2\xa8\xac\xcd\xa7\xe3\xa8\
-\x9b\xab\xe5\x8b'\x93\xab\xf7\xa8\x96\xf8h\x01\xcd\x03\xc2\
-=\xee\xf2][\xd7P\xe4\x11k\xe0\xa6m8\x07{\
-H\x0b\x86:X\xb2x\xa8\xb2bM%\x85E\xb5\xa6\
-\xd76\xbc\xaf\x0d\xad\xf8t\xa4M\xd4\xdfLF\xda\xb3\
-\xc4\x7f$:\x82\x07\x92\xcd\xe2\xdeqS\xa0KyV\
-\xee\x17\x80\xcf\x5cJ,\x8f\x02D\xdc\xc6\x85\x16#\x0c\
-\xd8\x8b\x1b\xa0P\xc7\xcd\xed\x83[kM7\xa5\xd0\xf2\
-g4\x0d\xaa\x18\xdc\x0e\xca\x15,\xee\xaba\xd3\xb9E\
-\xaf\xf5`\xcb\xc4\x1a\x85 g\xc8\xdb\x86\xec\x9b\xa9N\
-&z\xf0\xe9\x1c|\xf0\x1d\x14gS8\x98^\xed]\
-'\xf5!ed\x04Z\xf5\xc8\xec\xe16\xd6\xa6\xe6\xa8\
-<Xn\x98\xac98#GS1\xf0\x19x\xf5\x97\
-\xc0\xc5\xb8\xdc\x0d(\x04-[\x5c\x1d=r\xfd\xb3\x87\
-IQ|\xd76bX6I\x1e\x12bp\x9b\xd1,\
-\xe3W_\x8e\xc7\xa6\xcc\xf8\xd5y%\xe3\x9c\xf3o[\
-\xfa\x0figD\xed\x93\x8b\x17\xb4~\xb8\xa0}dj\
-3%Q_\x9f<^\xb3\xfb\x92\xc7V6_\xef\x0c\
-:\x11\xa4\x1d\x80\xdc,\xdaJ\xa3\xecP\xf2c]&\
-\xf9\xd5\xe26\x1e\xbcK\xf5\xc5\xce\x1b\xb2\xdfg/\xa7\
-\x1fh\xac\x16f%\x02\xbe@$\xe3\xe9\xe6e2\xf9\
-\x89\xfcu\x1b\xa4\x96\xc9\xd6\xc4W\xeb\xa2\x0d]?,\
-@\xc2\x22\x12\xb4\xcc~\xc0\x83\xfd\x02\x06\xb7\xddH\xeb\
-I\xd7\x92\xba\xd4M\xe2B\x84\x14\xe5[\xf2V\xbau\
-\xe9\xc1\xf9\xf5\xbe\x9ej\xc6b\xe6\xe6&\x1f>\xc8N\
-\x0b\x92\x00).\xc3q^\xc1\x11\xe2\xc6`\xb7\xf7\xfc\
-\x89\x97U\x84Q\x8b\xfd\x0e\xbc.\xec\xb6\x99'\xd8\x8b\
-!\xd2\xef\x82qf\x87b\xdbhP{\x17\x1e\x17\xdb\
-\xce)~\x13\xcd\xe0\xc6rI=\x80\xd4\xf5=w\x8a\
-c\xefi\xa1f\xd9\xc1q[\xa3\x16\x04\xadv\xe5J\
-s=|\xd2\xd4\xbaDI\x0d\xb9\x18\x8a[+\x1fb\
-\x9c\xa2\xdfB\xabF{V\x9d\x8a\x8f\x13-pU\xfc\
-}GJ\x0c\x06\x83\x96\x8e\xefq\xb4\xf5\x12\xc6\x19\xe7\
-c3\xb8\xa7\xf5\xb2\x0c\xf0\xd6\xd8\x8cYjc\x0fi\
-\xe4A+\x8b\xdaX#\x9b\xaa{\xb8v\x0f\xfcp\xaf\
-\x11\x09\x9b\x18\x8ec\xa3c\x0fv)\x89\x10\xbf\x90\x11\
-\xa2\xb3\x17nxf\xa59o{#M\xa1`)\xbf\
-E\x8b\x1b\x8b]\xb7-\xab\x14J\xdcdT(\xad\xeb\
-Z\xaf\xa6Dv3\x0e=Bbs1\xde{t.\
-\x1cS\xab\xe8\x81']\xd8tp\x17\xe6\x86V,_\
-pg\x04\x9e\xd2\x81\x8c\xb2{\x0e\xce\x8b6\xf32\xfb\
-\xc9\x9eDS\xb1\x19\x89\x07\x96b\x9b\x04\xee\xb7U\x8a\
-B8^\xdb\xf1\xd6f\x83\x19\x96\x8a77\xfc\x0e\xed\
-\x1a`\xa0*zxM&ud\x85[\xda\xb9\xf3]\
-\xe9\xd2e\xf4\xbd\xbd\xb7\xe0\x0d\x17?cV\xc4\x8fa\
--\xddS\xd0?\x0c\x1f\xaah\x9f?_~\xf5d\xb4\
-?\x8c\x84\xfb|.\xdc\x8f3SR\x96B\xde\xc1]\
-\xb0\x1e\xbd[\xb1*\xa4\x0d\xb9\x0b\xb9\x92{\x19K8\
-\x222\x0b-m\x1cb\xac<rC9\xdac\xd5\xa7\
-Du\x89\xdd\xbc\x86\x82\x06\xae \x88a\xe2\xa7S\x9f\
-\xc4B}\xa3Y\x15\xaa\xe7:\xe3\x22\x8d\xb9,#\xe9\
-\xc4\x96wG|\x1f\xc8\x9fv\x969\xedgH\xf7\x22\
-y:\x88\x11\xab\x98\xbd\x0f\x03\xeeZf\x1fv\x0a\x93\
-jb\xa7dfq\x9e#\xd5\x1fn\xfb\xdd{)\xa2\
-\xe0\x8a\x1d\xc3\xf6\xa9\xf1oG\x9f\xcfx\xa9\xd2\x88\x92\
-vM\xb3q\xb5\xd2\xe7\xdcmmZ\xfa\xda5f\xcb\
-\xc1\xed[\xb3\xf6\xab\xackE^\xa6x[\xa2\xef\xae\
-o\x9d\x9d\xaa4U\x8ctFG-yA\x0e\xe6\xc9\
-8\xb8\x02=\x99K|{\xa5lq\xdb\x1a\xdfr\x85\
-\x16\x91d\x12\x93v\x00\xb1m\xdd\xf9}\xda\xb7n\x10\
-\xcfzK\xce\xaa\x04\x91W_\x8f\x8f;\xd0C\x97\xe1\
-Y\x5c\x12:\x09\xd3e\xa4(U\x8d\xb6\x9aiQ&\
-\xb2\xc78\x8c%-\x14s\xb0\xe4>\x19\xd4\x92\xb9\x17\
-\xc4\x0dw\xc3\xf4\xa8\x1d\xcd(\xce\xa9\x1d@D\x0a1\
-'j\x81I)\xeb4M\xc8\xf6\xb7\xf0\x81\xfd\xd6\xa9\
-\xf5\x15\xd0f\x95\xd0\x9f\x07\xd2d\x81\x0d\x22\x1e\xad\xda\
-FI\xf0C\xf2\xaf\xa6+\xeb\xe3e\xb6\xc8c\x10v\
-\xc4\x1f\x08\x0cKk\x9a\xdb\x18/\x90\x13N\x09\xca\x9a\
-\x1b\xa86\x9d)\xd8\xf0@^\x87\xce\xa4'\xe9[\xe0\
-\xaf#i\x14G\x14\x05m.i\xd6\xe3\x1dS\xdb?\
-\x10\x1b\xf6\x15E\xef\xfc\xe1\x8f\xf1s\x1a\x8cH\xd3V\
-0\xc5\x83\x19+\xa0\xbc1+s\x7f\xdf\xdeg\xa3\xa1\
-\xd3\x9bU\xbf\xe86\xe2WR\xf0^\xca\x80N\x13G\
-\x15\xc0B\x1d\x98\xd5_\xeb\x84mD\x0c\xbd\x91\xb0$\
-'M\x89\x85\x07I\xc9e\xa3\xd6Uj\x18\xea}/\
-\xa6Pr\x83\xc9Xl|m9\x15\x14Y\x11\x81\xb8\
-\xd5%\x0c\x88\xcb\x99\xe6,\xf6\xb4\xc6\xfae%\x03\xb2\
-\xc9\xe4p\x97v\xdf\xd6,\xbbm\x97\x86\x8e\x86z\xb3\
-_\x95>d\xcf\xc7c\xb9W\xe5\xd39\x17\xf2\xd1k\
-\x7f\xea\x11~\x84\x9b\x82y\x146\xf1\x9cL\xd6\x7f\xc1\
-Vr\xdf\x06\xf2,\xc4\xcc\x0d\xb3L\x1f|\xf9\xf8i\
-\xde\xc7$.\xa09\xda\xb2G{\x83\x8d\xf3\x90B(\
-'W\x7f\x85\x95\xdfm**\x058\x84S\x89j{\
-l\xba+=\xa8>4,a\xc9\x12\x172\xdb\x22u\
-\x08\xde\x1c\xb2e\xf1\x01\xcc\x1c\xc7\xd6i[\xad\xad$\
-\x9a\xdc\x95\x0d)\x10w\xd2g\xc6Q\xba\xe7\xfd\x87\x06\
-\x0dZ\xe8E\x0c\x1a\xd0eX\xfb<\x8f}|\xe2\xa9\
-\xb1]\x86\x01\xac\x9f)\x9b\x01\xc2\xfa|\x22\xc5\xf8\xb9\
-\x99\x95\x0b\x22\xa7#\x0c\x8c\xb8FJ\x84e\x22 M\
-\x9bV\xda\xc4\xc0\xa1(\x02\xb3@\x06\x8d?\xc1\xec\x01\
-9\xd05Ds\x98\xdb\x1c\xe5\xe6\x0f\x12\xd3'\xc84\
-M\x82\xce\xf02\x8ag]\xc0\xcb\x07\xa2\xfc^\xb3]\
-n\xbb0%\x17\xd9\x13@\xe5\x8fjR\x0f:h\x0a\
-\xa0\xc6S:\xd2po\x8f)\xe3\xe0K\xff#i\xd5\
-\xc8\xe7l\xdc\xe0tJ\x8f\xfeQOw\x01\xfd\xaf\xb9\
-72\x98c\xdat\x8b\xec'\xf88\x96\xa8\xad\xc8A\
-\x01O\xec\xc6\x0b\xd4\xc4p\x92\xcfO\xe7^VE'\
-U\x134\xaf\xb7c\xdfp\xb4F\xa5\xae\x0f|\xa6k\
-,\xaan\xf4\xee\xd0\x7f\x1a\xb4\x91\xaf\xe0KC\x93\xa4\
-\x1d\xeb\xcfF\xa3\x90\x0bX\xff\x11n\xad\x0d\x92o\xb3\
-\xad \x8esrp\x94\x08\xd4\x94\xd1MI}\xaa\xf7\
-\x8b^}\xde\xfa\xf5h\x07\xd0\xdb\xb8\xc1d\x1f-V\
-\xad\xe0}SK\x9c\xa95\x00\x8d\xf4\xd8\x0ap\xdb\xb1\
- \xbbm\xd0Y\x89\xb5\xaf\xebv\xdf\xc4(\xc9\xb2\xb9\
-q\x16\xdf\x04\x1e\xeeSv\xc6Q0&\x9d\x86\xccv\
-\x8f\xab\xd18\xe4\x02\xae~\xe0\xf6`\xd0p\x94\xee.\
-\x8d\xe8\x9dd\x95\xb5\xa6$|Sb+\xf4\xdf\x15\xc1\
-\x0f\x1ed\xd0\x115^1\xba\x80((x\xd0\x9c\x8f\
-\xd2\xd3\xd0\xa1X\x00\xd2\xce\xdaJ\xa1\x09)[\x83\xa7\
-\xb8\xedM$Z\x0e\xd1{\xb0\x13\xa8'\xe3\x99\xa7\xad\
-3\xad17S6s\x8e\x8d\x0fZ\xe4\xd1Ri\xaf\
-g\xb8\x0b\xe8\xeb\xda\x1f\x96g\x7f\xc7T[>~\xfa\
-\x09e\x86d\xe0\x1a$'_d\xef\xdb\xcd\xc6\xad\x1d\
-\x10\xcd4\xfb\xdd\x9bvESg6Q\xe6\xeb\xf1:\
-\xb51\xe7x}\x15\xee\xb5\x18\xd4t\x92\x96vsX\
-\x04^\xce\xd8(\x14\xe3RJ\xd8n\x11k\xaf\x07>\
-\xca\xdd5\xdd*M\xed\x80\x89\xb4\x81\x08\x9f-\x19\xe3\
-\x88\x0b\x10\x85\x86;\x9d\x19njC\xb4`\xd2v\xa9\
-\x08n\x9e\x1a\x06qU\x91\xff\xda\x9b\x94\x0e1| \
-\xe5Vk\x12\xb0n\xcf\x0ac\xa5\x1c}\x80m\x05`\
-\x87\x8d\xea\xd6k\xe8\x8b\xf3Q\x96\xd9k=fE\x89\
-x\xf4\xd6\xca\xb0\x8a\xf4_+\xdf\x13\xdf\xcb\x22C\x99\
-8&\x9b\x87\xee\x8dR\x90p\xd5\xd8 m'\xd2\xc9\
-t\xf1\x02\xb1\xbe\x12\x0c\x04\x03{XF\xc1M\xb9N\
-\xaa\xa7e\xe4.\xac\x1de\xe8\xa1?\xc5\xf4\xba\x1b\xa5\
-8J\x85g\xd9\x19\xdb\xc8\xf3#;0\xc4\xc9O-\
-m\x9e\xaf&0\xe3\x9f\xee\xe7\xcd\x90R\x83\x80\xf0\xa8\
-\xc2\xdb\xb5<\x98]\xc5]{\xece@\xe4\xf5\x0b\x9b\
-\x7f\x91\x0d}\xee\x00\xec\xf8\xf1\xa7\x0a\x0c\x8cO\xd1?\
-jF\xffm\xfa\xb5!\xa2k\x09;\xf5\xf7\x0a\x12&\
-\x1c1v\xa4pL\xdf\x9b\x11\x92\xce\xb1c\x1fQ\xad\
--EGf\xbd\xeb\xbe,F\xad\xe27x\x22\xc6\x04\
-\xed/\x8f\x96\xec\xbd\xe0\xee\xb4%\xfe\x86\xd0\xf9~\x10\
-@\x8cb\x18\x85\x0f/\x10\xc3o\x9av\x1e5mF\
-z\x12\xc1>\xda4\xe2\xce)\x03\xe5\xa5\xe9\xce\x9ca\
-\xd2)\x8e7\xd2\x16\xbb\xc5\xf6\xec\xc2SYG\xcdY\
-\x19\xb2&FP\x5c\xce]\xae\x92JgtD\xab\x1c\
-c\xc8)FG\xfd\xcd%\xeb\xddj\xb3\xc7\xf1<\x14\
-\xd4S\x17\x10\xf3E\xbe\x81\x98\xee0\x18\xb8\xed\xa7\x1e\
-Rv\x16\x0f\xda\x17@g\xd2\xebtPP_\xf5\x9b\
-\xb3iW\xfc\xfd\x86\x9c\xb2E\xf3\xbeb\x9b$D`\
-\xc6\x9d<\xe8?v\xa6\xbag\x8c\xa6\x8a\xc1(k\xc9\
-\x84\x84nF;\x8a/\x90\xd0\x9d\x94\x9dXO\x7f\xc1\
-1\x04+dV\xf6O\x9c\x07\x05~\xd0\x99\x85\x83\x19\
-\x12k\xbcGiu\xb9\x9b\x92\x82\x5c\x17\xc6w\xeb\xd5\
-\xcd\xf8\xf4\x11\xd16\xdb\x0f\xf9\x0aK\x12\xb5OL6\
-vn\x81\xbd\xa4\xcd\x91\x9d\xa5\xa9\xe3\x09N\xdd\x83\x12\
-)\x9d=\x89OOQ<^Y\xbe\x84\xe4\xd7\xfd\xbd\
-\x22-y\xe8\x99\xc2Pf\xc2\x03\xc8\x09\xfa\x82])\
-\xc8\xa5\x8f\x22X?O_~\xef\x83_\xc8\x1c1\xd7\
-H\xb7%v\xe1\x0e\x09\xc9\xb7\xd8L\xa5\xe5\x09\xd8\xc7\
-\xa736\xda\x93W*\x22\xd9\x5c4\x91\x97\xa4\xf1\x97\
-\x16PpdL\xa6\x1c\xcd\xae\x0d\xbb\xd6,4\xbf]\
-\xf4\xc7$\xcbTW?\x0a\xd2\xc8\x13H)w\xce}\
-\x1a\xb4e\xfc\xbf\xd1\xea\x18\x85\x03%+g2\xb0\x85\
-\x9f\xb0%\xd7\xc4\xcd\xb3\xb9\x09C\xe2j\xb6\xc1\xe6G\
->\xb7\xad\x16\xcb\xa2\x93\xb0\x11\xfd\xe5\xc9\xb2\xa0\x81\x8f\
-t\xc6\x15\x80\xb8\x00\xae\xc7\xaei\xd9\xfe<c2\xda\
-\xd3\xf8\xd6\xef*n&\x1d5\x7fo\xab\xf9f\xd2\xdf\
-m7\xd9\xbb\x06\xfa\x5c\xb1\x1a\xc9(!\xdf\xd1\xab\xc9\
-O\xf9:\xc7\x19i\xb9\x5ca.X\xb7|[\xe4\x08\
-\xcc$\xccS\x1b\xc9\x8dk\xadK\xfb\xce\xa8{\x13P\
-V?$\xa7\xae)\xa8w\xe8\xfa.:\x8b\x12R[\
-\xb0b\x1f\xae\xeaFy\xb5\xa8\xc5\xaa\xe2\x9a\xb1\xfc$\
-\x89k|&\xf3\x02q\xddi\xd1\xdb\xd78\xb0(\x05\
-\x03G\xdb\x9b\x85t\x02\x0b\xe4\x98\xb1\xee\x9a:\xe5\xd2\
-\x1cq\xa30\xdc%\xc4}\x94NLH\xec`\xd9X\
-\x001{\x99\xbd\x8f\x97\xd0n\xea\xaa\xd6\xca\x895\x11\
-}\xc2q\x14\x22B\xc0\xe1U\xfe\xb2\x1br\xafW\x8e\
-b\xb37)\xbd:\xc4A\x22\xd8\xce\x9c\xab\xc1^\xbe\
-\x89\xb1s>\xb4\xcc\xeb)<db]5T\x0e\xf8\
-\x0d}>8\xa3\xe1\xea\xc9h\x88B\xcf\xcc\x83\x0b\xb6\
-\x1b\xfb\xe92Fz\xeb\x96\xcf)`=\xa3\xe4\xb01\
-d\xd4}~|\xa4\xab~E\xc6\xc25) iC\
-\x13\xa6\xb2\xbe\x8e\xee\xbfD\xf6G\xb5Z\xb40\xddZ\
-9n\x00\x96,\xe6 \xaeI\x06s\xf2T\xbc?\xc8\
-\xae\x94K\xbcf\xe7\x0b5I\xf3\xa8\x95\xbe\x84\xe6\x1f\
-\x12\xc2\xbe\x95\xea\x9c\x8e[2\x84\x7f\x9b\x1a$\xb68\
-j$\xa5\x18\xdc\x02LV\xb02\x85\x18\xb5\x88\xd1\xfc\
-\xae\x96\x1ec\xec\x8e\x83^Z(tu\x0c\xb6N$\
-\x16\xc6\xe3\xbcKX\xf8\xd0\xcd\xd5t\xe0\x02\xfc\x08v\
-En\xcb\xae\xab\xb1\x07\xdei\xd3\xb0\xd2\xf9{\xf2P\
-(z\xa1/@F\xb17\x8d.\xd2\x86\xbc\xeaN\x96\
-\xa9\xbb\xf8~\xef\xea\xe1\xccQ9{1\xde\xb8\x04\xc6\
-f\x1b\x85\x91\x88\xf4\xedOW\xb5\x93A\xca\xc6o-\
-\x1bM8\x95\xc7\x10&\xfb\xa8\x08\x0eu\xec\xfb\x84\xe9\
-\xeb\xe9\x09f\xbd&\xd3\xaf\xd3\xef\xdc\x17\xde\xd6{?\
-|\x8ee\xe2l\xbc\x87\xfb\x12\xd6~A\xa8\xe2\xaa\xc7\
-\xb8\x94n\x91n\x22\x8a\xd6\xf0\x1f\xad\xad}\x1d\x92\x96\
-\xa5\x1aU\xc1s\x98m\xf8\x22\xfb\x81\xcf\x124%C\
-\xaf-\xa5\xfe\xb9\x1a\x85X1\xcc\xe5\xa0D\x94\xbe\x05\
-\x0d\xa8\xb8_rk\x0b-\x98\xef\xc9\xb1Q\x0an\x0a\
-\xd7p\x92\xc0\xd7\xd0,\x14\xe2IdL\xdf\xbe&b\
-\xbb\xd3\xca\xf8Z\xe39\xc4\xa2 \x9aC{)\xeaK\
-[\xe0>\xbe\x14\x06TN\xa6\xe4\x93_\xb9\x0e\xdfa\
-p|T\x85\xef\xb2\xcc\xb67\x83\xca\xab\xd8C\xf9\xfa\
-\xc5\x813\xf5\xe5\xfd\xf6\xf3\xdc~{\xb1\xbc\xf9\xfa\xc9\
-\xcd(Lz\xc9\xf2\xbd\xee\xc0t!\xe7\x04\xf1^\x0a\
-\xd8\xbe8m\xa6\x9b\xa0\x08\x1d_\xa3\xf0\x0a\xe8\x99m\
-\xf8\xba\xdbh]\x89\xf46\xb8\x15\x9f\x06\x83\x8ezi\
-\xbc\x95\x83k\x9d\x86:\xec\xd0x\xf4\x81\xe4~\xec\xa6\
-(GJF=\x1a'U~\x96\xc6\xd76\xb5#q\
-\xf0Nk*\x18\x00\xacJ\xba\xca\x08%\xd3\x84\x0d=\
-M\xd08\x1er\x11A\xbf\x1el\x8c^\xd3!\xa4\xa9\
-n#j\x87C\x13*\xdf\xf5]\xc4\x94\x02w\x19\xca\
-\x17\x9d\x969\x06\xae\xf4\x14zj\x1d\xb9\xb5)\xe2o\
-\xc6K\xacL\xfb%\x8d\xeer\xf8\xae\x93\x11\xee \xb9\
-j\x0f\xef\xe5\x22N\x95/\xb9;\xa9\xed\xbb\x07\x01d\
-6)\xe2\xbb\x97q\xb9\x93\xda\xaa~\x08\x83\xf7ZS\
-6u\xa9=\x05\xa35\xd7\x8e\xbb\xe9H\xe2\x02\xf6\xd8\
-\xd2\xddI\x9fN\xd7\x19#3-A+\x9c\xe9(+\
-\xb5cr8`\x8a\xf9\x0dy\xa7\xe3B\xec\x22\x85 \
-^p\xa7\x80H\x90\x07\xf5\xd1 )G\xd2fh\xed\
--pq},W\xc3\x87\xc9]e\xdfz\xb2\x91\xa4\
-%\x91\xc51\x0e\xaf\xe8\xc1\x0b\x07\x1ey9(\xc3\xc5\
-\xab\x0f\x9a\xb0p5\xabt\x15Y\xb6\xfa\xc8\xfb8\xde\
-\xa9\xd1\xc5\xf2\xc0\xf1w\xbd\x06\xd4\x8bB?\x91\xc4\x93\
-\x18\x03$_\x9f\x90\xfcl\x9c\xe2kP<\xd7\xf6\x0f\
-\x1f\xd3\x19a\x1f\xfb^\xa3\xbeK\x93T\xac\x04\xebQ\
-;\x9dNIw\xd2\x8e\xf3+\xb2D\xa9\x82\x14\xd85\
-\xc7lX\xbfFS\xa2n\x1a[/\x9c\x9d$\x12\x03\
-\xdc\xd8\xedp\x16~\x0d\xad\xe2\xb9HFs\xa6\x8bD\
-\xf2Q\xfb\x03\xc8/\xaf\xb0\xf1Q\xef\xe3\x89=\x9c\xe7\
-\xb0\xe0)hnS\xc3R2,q\x1b\x1d<9\x8c\
-}a\xff\x84\x9f\x86\xc1\xd1Vl\x94T\x8d\xabo\xb3\
-w\xd1\x9f\xf4\xeek\x7fbu+\xfb\x17iuw3\
-\x8d\xe9\xdef\xaf\x0a\x1e\x80\xc5Y\x85\x8c\xe1\xad\xb0\x16\
-*)\xa4\x0bb#\x8e:\xe5\xc7\x85&v\x99\xbd(\
-0\xd6\xeeu\xc0\x0c#>}\xf1\xca\xc1\x04\x18\xe6\xc3\
-a\xa0\xa4\x04\xf4\x94L\xe6cY\xf1\x8eKD\xff\xe2\
-\xc9xC\xff\xc5\x0a\xd95!\x98\xcd\xa6pZ]I\
-1\x02\xc4#\x8d\xea\xa5\x17\xbc\x04\xe6.\xb6\xd6\xb4<\
-Kfj\x09\xb7\x00\xfcY\xb6\x0c|\xee\x97\xc6\xf7\x07\
-\x1b5\x92\x95\xef\xa2m6Z\x81\xba\x88-\xe9@\xa8\
-\xdb\xb5\x9c\xb6\xcf\xb6O\x14zI\xe1\x1c\x86\xe0w\x96\
-\xe3\x8f;v\xe5\xb7I\xcd\xeeD\x1d4(*\xe4\x88\
-Q\xe0\x09\xdd\x10\xa0,\xa8\x88\xe7\x8e\xd3\x04\x8e\x06\xe2\
->B\x94\xaf_\x8b3\xc5do9\xe92\xec\xa1\xf4\
-}+ 1h<\xa6\x19\xe7cu\xe3{$\xe2\xe1\
-\xb3K~4\x85\xe1\x13\xda\xb3\xeb\x89\xa2\x0c=5{\
-\xc6\x7f<\xd9W`\x97H&'&\x0c>\xf2\xf9\xe1\
-\x7f\xa0\x1fC\x87=\x91\xc5\x87v\xb3\xb15{{\xee\
-\xff\xb6b\xa2\x10p\xc8\x7f1\xd3\x8b\xecgk\xd5z\
-5\xb6D\x7f`\xb5\x86(\xf5 \x0e\x1ekjz\xf3\
-0#.\xbfc\xf6\xf9\xf2\xfa\xfa\xc9x\xb2\x07~\xe7\
-\x90\x90\x1fzAH\xf0\x07--J\xbf<\x16Ob\
-\xeax.8_\xaaQ\xd5\xd06\x03\xda\x1d'\xc3\xc7\
-\xbd\xef\xe8\x09\xee\xe4K\xf4\x1a\x7f\x0bk\x0fT\x10@\
-\xf2\xc84_\xc7\xeeW\xe31\x0eX\x9d-\x22wQ\
-\x886\xa1\x1f,\xe6rHY\xf1\x9b\x0c\xd2\xfc\x9b*\
-/y\xcb\x8dq\xc1W\x0c;h)\xca\xec\x17h\xd1\
-\xea;\xca9\x9aG\x13\x83Kh\xfe\xed\xbc\xa9\x91\x8c\
-\xe7\xc1\xe8\x00++\x8e\x80\xdd\x8bL\x9f\x1c\x9c\xf5\xda\
-\xb9\xc2\xed\xf7jM\xc6\x07T\xe9\xb1Yc\xd2\x1d\xd2\
-\xa8>\xf24\x8d\xe2\x99\x03\x8d\xffO\xe64cv\xc6\
-S.]\xbf\x874@Rp\x92w\xe9\xe8Y\x126\
-\xcf\xd1\xa8y\xbc\x88\xa3\x1f\x1c\x99eL\x03\xae\xd0\xfb\
-X\xcbAY\xbd\x896NI\xc5+\xb7v\xec\xde\x8e\
-\x22{\xd4L\x86\xefb2s\xec\xde\x9eS\xd7\xe1{\
-\xb06\xc5q\xec.\x5c\x080\x8a\xda\xee=\x0e\xaa\x91\
-\xd6A)\xc5#\xffxpu\xd3\xaa\x1d=\xbf'\x93\
-\x81\x0b\xfe\xba{\x0d\xc8\x13h0/\xf1\xf1y\xf3K\
-$~\x17\x8f\xd4\xea\xe1/g\x8b\xafu&\x8ar\xaa\
--\x10@>\xd5\xe5\x02\xe5\x9e8 \xec\x12\xca~!\
-\x07v\x80\xe7\xde\x91D%\xbb\xedi\x85\xa9\xab\x1e\x1a\
-\x84%h\xab\xba\xc5\x02Q\xe8\x0a\x08_\x8c\xa4\xb5\x14\
-\xbbA\xa5\x11l\x85v\xbf\x8fw\xc8\xdc\xdc/8\xa9\
-&\xe3\x80\x8e\x1a\x1d\xbb\x9eH\x96\xaf0>\x10\x82!\
-/\xa3\x16\x7f\xe2\x0cK<:k\xf0\xdf[\xb5\xd4\x15\
-\x92\xd1\xda2H\xcaI\xb2Le\xb9B\xcfE\xa9\xf8\
-\x88y\xb1\xee\xacz\xe9\xc7N\xfaC\xe8R\xf4]q\
-\x1fZ\x89\x13b\xbb\xce\xb5\xd4T\xfa\xef\xf17\x0a\xbf\
-^\xc6_\xb4\x98 \x19a\xd8\x85o\x1d\x8d\xdb/{\
-\xeb;\xf43\x22\xb2Bl\x8c\x1f\xad\x19qf\x03o\
-\x1e\xb5^\x97\xbe\xf9t\xfe\xe0V~\x22bcB3\
-\xb0T\x97\xd14\x8e\x83\x5cF\xd3\xabU\xc0I\x04\xdd\
-o6\xc9\x01\xc9|\x98\xb6\xa24\x17\x122\x9a\xf5_\
-F\x08\xa2\xb9\x93\xee=\x89~\xf50\x11\x9e\xd3M\xcd\
-\x17\xdb\x91\x9f\xcb \xaa\x1c\xfa,\x8f\xe4\xcb'\xb4\xe4\
-\xf2\xd2@\x04 i\xbb\xd8\xd4HWk\x9f5\x1f\xa2\
-A\xf2Y\xea\xba\xc9\x94Y\xf0\x5c\xa1\xa6\x00\x1c\xf0\xf2\
-F\x7f\x03\xc2\x1e%\x8d\xb7u\x1d\x7f +E\xd8\xda\
-8\xeb(\xb1\x97\x84:\x9e\x05\x11\x0d-\x0b\x82;\xc6\
-\x02\xb7\x05\x0eZ\xfd>\xef\xe3\xc9\xd5%\xcc\xc3\xb2J\
-\xe8\x1f\x7f'\xa3\x85\x92Tq\xac\x80\x9d\x00\xc6yr\
-\xe9\x93\xd1^\x8d\xdc\x9e>\xa1\x05\xfc\xe1\x89\x0dK\xb6\
-\xfa\xc0\x87v\x8d\xea/=s\xc9Qd\x22\x22\xa1\xf7\
-`{\x91L\x97\xc9ra\x13P\x0az#jS\xca\
-\xa9\xc9Mo\xf85\x8d\xe4\xfb\xf8)A\xe4S\xbd\x04\
-\x8c\xc8\x17\xc8o\x1d\xe5}N\xb5'\xda\xeb\xde\x99a\
-x|H\xe5\x12\x86_\xeb\xa9o0^\xbaH2m\
-^F\xf8\x97\x8f\x94\xc2\xc0\x9b\x95\x93\xbc\xfb\xd8\xa5\xb6\
-C\xa4\x11E9xee\x0bt\x1d\xcb#;\x9b~\
-\xb2\xa3\xfb\x9bre\xe9\xffIG\xcc\xa8g\xcd\xc9\xa3\
-\xeb\x1cm\xd0\x19\x9a\x19\xf6G\xf7\xe5E\xec\x7f\xbb\xf3\
-\x1e\x06;\xabu\x04\xd8g\x92\xd1\xf50\x80\x0e2\xd4\
-3p{\x0b,\xad\x0a>\xb3\xd5\x1f\xda\xdb\x1fg\x03\
-S\x05P0\x03\xc9'\x86R\xfe\x1e/\xe3\xbfa0\
-\xc8L\xc7\xc6[#\x07}d\xfa\x0b0=\x5cKq\
-\xcd\x01l\x86\x1c3\xad\xb0I\x19[s\x80\x99\xa0X\
-\xd7\xad\xec\x89\xae\xea\x81|d~\xb83u\x01\xabi\
-\xc7r6&%\x9b\xd8\x87oM\x988}\xfa\xe7c\
-/\xec\xe2\xa3\x94\xa0\x90FG\xb9b\x93NwNI\
-\xce\x83\xca\x9cT\xcb\xc9\x08aH\xc6\x91\xa8\xf1\xc3\x91\
-'\x89\xfa{\xe5\x0f:\xe0\x19z\x88VSG\xe4K\
-\xda5\xc4f(($\x81\xdepV\x16\xc9\x19oJ\
-\x99$\x87\xdb\xf1(\x9b\x8d\xaf\x10W\x00\xf5\xdd\xdbz\
-\x83\x83%\xe3\xef\x09I)_\xa7\x99\xe3M\x86\xa4\xaa\
-\x86\xa7\xb3q>1x\xd0.\xbd)bG\x83\xcf\x19\
-bG\xa6;)\xfa\xd4\x89\xb3\xb4t\xda\x13\xad\xa7k\
-\xe1\x03\xb5C \xbd\xeb\x92p\x06\xad\xa5\xe0Z\xa3\x17\
-\x88+\x08\x9bt\x8e}\x7f|uON\xd1\x05;T\
-\xc8\x1d\xb1*Iu?QM^k\xb8\xcc\xd13\xd3\
-\x0f\xd6\xc0A\x8f\xa7\xbc6\x07\x1d\x87&\xe2\x81\xb6\x80\
-\x8f\xa2\x8dmwX\x99\xf5\xf0\xc1-\x89\xbeO\x5c\x8a\
-\xecc\xac\x13,\xd0\x18Df\x9a\x01\xb7n\xbfA\xa9\
-:\x060Zv@\xb3\x02P!\xf2C\xe4\xce8\x09\
-\xf0RI\xe9\xfe\x94\x03\xff\xa6\x08\x1e\x1fh\x9d$\xf8\
-]\xcb\xbd*\xe4\x12`\x86\xe3\x01P\x1b\xc7\xbfS\x10\
-\xe7\xc3\xc4\x86EP2\xb6>\x05\xdd\xac\x1f\xbc\xfc\xde\
-\x9d\x86G\xb8\xc9\x80\xa7\xfc\x94@N\xc1\x8f\x22\x96\xae\
->\x81}5\x7f\xd1\x939\x04\x84l\xab\xb0\xf7M\xd3\
-\x0f\xb88\x14\x98Z\xab\xf1\x9fX\x99f\xfdM\xd7\x88\
-\xd1\xed\xf38\xb4\x09\xfc)\xe0\xfc\x8a:\x0d\x15\xea\x91\
-l\xf1\x07|NN\x12\x19</=b\xb1SX\xcb\
-o\xa4\x0c\x85X\xd5\xe9\xf3-\x7f\xeb\x9d\x18I\xff\xfc\
-\xbf\xcf\xfe\xf5\xd9\xff\x03\xecg$\x1d\
+\x00w\x95x\x9c\xdd]K\x93\xdbF\x92\xbe\xfbW`\
+}\xd9\xdd\x08\xcarwK\xb6\xcc>($\xbf\xd4\x1a\
+?\x14\x96\x22\x14\x8e\x8d=\x14\x89\x22Yn\x00\xc5A\
+\x01M3&\xe6\xbfo~\x99Y\x05\x90\x8d\x07G\x9e\
+\xd3F\xcc\xd8n\x00$2\xb3\xb2\xf2\xf1ef\xf1\x1f\
+\x9fe\xd9\xe7\xa6(>_\xd2\x7f\xfc\x0f\xfd?\xcb\xfe\
+\xc1\xff\xa4\xcb\x0f\xb6\x0e\xf6\xf3e\xf6\xf9]\x955;\
+\x9b\xad\xec\xd6U\x95\xab\xb6\xd9\xf7\x85\xdf\xb92[\xd7\
+\xd646\xe7\x9b;k\x1el\x95\x99J\xfe\xb4\xa6n\
+v_|\xbe\x88\xdf\xb5/\xcc\x9a\xbf\xebG[\xd9\xe0\
+Bv\xb5\xbc\xca\xfe+4\xbe>\xfew\xf7Tn\x1a\
+\xc3\x0fUO\xaf>\xe7\x8b\xff\x5c\x8c\xd0\xf4\x8a^\xa4\
+d\xac\x0a\x1b\x82\x92\x11,Q\xd1\xec\xb2\xdc\x1c\x17L\
+L0\xd5\xbaq\x1bG\xf7]\xb3$\x1e\xd6\xa6\x0d\x96\
+\x9e5M\xe6*\xba\x96\x81x\x93g\xb5\x0d\xe0eS\
+\xfb2#\x81d;\x22\xf2\xe0\xeb\xfb\xec\xb0s\xeb\xdd\
+9\xcb\xf8\xea\xd2\xe4v\x8a\xc5\xeb\xe5\xcd k\xd73\
+\xac\xddm\x88<\xdff\xb9'\x92\xb2\x83-\x8aE\x16\
+v\xa6h\xe4r\xe5\x1bb#3\xeb\xb5\xdd\x13)/\
+\x99\x16w\xf2\x19<\xa2\x9f#\x1e\x0bgI\x22\xa6a\
+\x01\xe5\xde\xd7_d\x90^[5\x1e\x97,\x7fy\x81\
+\xef\x04\xcf9\xd1^\xdb\x85\xae$}\xa5\xbc\xban\x0b\
+\x9by\xa2\x91\x1e*\xbf\xc8&\xd8~\xb6\xfc\xfa\xd1\xca\
+>\x16\xc2\xb3$\x84\x7f|\xd6\xb1\x9e}\xdc\xb9\xc2v\
+\x1aD\xabR\x1aW\x11\xfd\xc4\x8a\xb5y\xe3J\xcb\x94\
+\xedL\xfd@\x9c\x0a\x99k_\xc8\x8a\x90\x12\xea\xa5\xd0\
+\x96%\xd1\x8a\xff<\xb8\xaa\xb1\xb5\x5c&\xb5\xe0\x7fW\
+n\xbbk\x94o\x08kmM\x98\x5c\xcb\x17\xcb\xeb\xeb\
+\x09n^\x0cr\x03)\xdf-H\xb0;\x22p\x91\xdd\
+\x11)P,S\xe7\xb6\x8a\x9b\xa6nB\xe67\xfc\xd7\
+\xf7\xdb\xe3\xbeq\xa6\x0aQ\xf8\xf6\xa8$n|Q\xf8\
+\x03\xae\x94K\xbe\xa7_\xb5\xb5MF\x02\xd9\xf9\xca\xb7\
+u\xd6\xee}\x95\xbd\xa3\xaf7~'_\xc1W\xa22\
+\xef<\xe4\xc5\x97\xf0\xe7\x9a\x1et\xbe\x09\xbd'\xe5)\
+\x22\xbe\xb4\xd5\x900\xbe\xff\xd3\xe7-m\xddg\xcb\xab\
+\xd9%\xfe\xfe\xcf\xa7W\xcf\xce\x14\xbd\x93\xcc\x87N\xb1\
+vd7h\x0d2O\xdc\xd5\xba\xcd\x02\xc9l\xe3k\
+K\xcc\xcd\xd1\xf1\x97\xdf\x8f\xe5/\xcd\xbd\xed\xed\x07S\
+\x1d\xb3m\xcd\xf6\xcc\x95fK\x9b\xc1\xd7|\xb1p\xf7\
+\xd0\x07^1\xfc\xdd\xec`\x0d\xc5\x96\x04\x98\x93h\x05\
+W\xb4S\xf8S\xbd{\x9dR\xaf\xe8K\x0cT\xfa\xf1\
+\x03\x07\xb2.\xb4\x92Un\xebi;\xaa2\xb8\xfer\
+\xf9lB\x04\xd7_^*\x82\x15\xe9W\xee\x0f\xa0\xe2\
+\x18lA\x1a\xc9\xc2(\x17t\xb7\xa6\xbdG\xdbM\xf5\
+\x8f\x16\x86\xf4\xefw\xb3;\xd8\x1d\x9e\x8e\xa6\xd1\xd0\xff\
+\xb2?\xac)<\xd1%\xd7\x16\xd9\x83\x0b\xae\x11!Y\
+\xe2\xd1\xfd\xbdu\xcd1*\xfc\xc6`\xcd\x83(\x1f.\
+\xaci\xf7\xe75\x090\xae\x05$\x5c\xcb\xde\xde\x90\x8a\
+\x93\xec\xb6$\xbb\xda4\x8e>!\xdfR\x8a\x08\xe9\xff\
+P\x97\xdbIQ=\xff4Qa\x1f\x87\x9d=\x80\x0f\
+\xb2*\xebc\xa4\x8f8%\xd2\xc2)%\x05\xad==\
+&\xfb\xea\xde\xda}V\x1e\xc9D\x95%\xfdM\x1b\xab\
+\x09\xd3\xcb\xf9\xd5\xbfe9\x1bh4\x04X\x192\x10\
+D\xdf\xe3\xf5\x22\x8d{ \xdbz\xcb\x0b\xaa\xb7\xd9\xaa\
+\xe0\xf3\xb0X\xb0\xf4\xd9\xb6uE\x03\x07+\xcc\xe1{\
+i\x15`)\xf8\x9b\xf5K\xa6Y\x9a\xda\xa4\x13,\xfd\
+Fv\xa8\x5c\xe9F\x08f\xb52\xd1\xb1\x93\xf0Y\xb0\
+\x8e\x09=N\xbf\xfd\xc5\xa7\xbd\xfd\xbd\xfb\x13/\x0b}\
+\xd7[\xd0\xc6n\xa3+\xf1lY!P\x84\x09\xcbI\
+\x1a\xbe\xf94\x1a^\xb7\xcdyT\x03[\xd1\x97\xc7\xd0\
+\xd2.5\xb2iNu\x02\x14WB\xed\x82\xef\xc9\xde\
+\xc6\xe7\x82\xaf\xba?r\xd3\x92w\x84\xcb\xc4_\xa4\xb6\
+\xd8\xfd\xa6j\xba'\xc8'\xe7\x8f.\xaeMC\x8a\xd2\
+\xfb\xce\xa66\xd5\xd6v&\xee\xe0`/\xf9\xde\x96v\
+k\x98\x16\xd9\xd5\x97\x9f&\xb3\x1f\xe8\xf5\xf4\x96\x10\x97\
+O\xa5\x83`\xad\x1f\xa4\xb2a]\xa8t\x8d,\xa9\xac\
+\xa7\x04\x86\xbc\x9f\x9dzG\x8d\x0d\xcf\x96bI\xa1\xa1\
+\xad\xc5Q\xe9[NB\xd1\xbe\xc6J\xcc\x02/\xce\x81\
+\xe8\xb4\xc6^]}\x1a\xebo$\x0e\x80\x80\xc5\xb4j\
+\x1cA\x0b\xc6\xdeu\xa9{\x98\xd7\x98DS\x92:Q\
+\xd4Wx\xb2k\xc9\x06\x17\x1c3q\xcc\xfb\xd8fl\
+\xdd\x03\xb6?\xbc\xe4\x0c\x0b\xa3\xd1\xd2\xbfd\xc6\xee\xc9\
+\x1e\xcd\xbc\xe8\xe6\xdf\xf2\x22\xd8g\xda1&o\x0b\xd2\
+\xfc\x19\x8br\xf5\xefq\xb9\xa4Sf\x8e\xbbO\xf4X\
+\xe7\xce\x9d\xb4\x9dT\xa2\xa0\xc4\x876!G0fK\
+f;\x882T\x96\xc2aX\xb6\x19b>\xd15\xf5\
+\xf7\x06\xabN\xcf5\xe2\xcf!;\xf0K\x0b\xcb\x1f\xb2\
+\xaf\x96\xd7\xa3\xc2\xfe\xa5|\xfa\xd5\xdcK9\xb2\x83\xb7\
+\xda\xd0\x17\x93D(\x97H\xaa\xaet\xd0\x0e\xa0`o\
+\xed\x10\xb6\xa4\x18p\x86\xa6\xd1e\xb9\x84\xa6\xc2m\x1a\
+\x22B\xa2pO\xaf\xb4\x15%\xa9\x8f\xe8\xc2^\x93x\
+to\x89\x82\xa1\xb5\xe9Q4\xba6\x93\x14\xbd:\xcd\
+3\xf6\xe4o(Xa\xcf\xfe8(#Ws\x17j\
+c\x8bE?\x07I\xcbZ\xceP8\x1a\x05LR\xf8\
+\xda\xc2\x91\xc0B\xe1\x9d\x88\xbb\xb3\xad\xf7\xc8\xf9\xda\x9a\
+C\xf3\x0dt\x9b\x94\x5c\x1c\x0f\x12\xe3MM\xee)\xc6\
+d\xcb~x\xd3Y\xb2\x05\xd2~\xd7\x8875\xf0\x8d\
+\x88-=\xfb(\x16\xfa-\x1eH\xe1\xd0\xc6\xb8B\x97\
+\x06o\xa1\xaf\x0c\x1a`\x0d\xae\xcbw\xb6%+B\xd6\
+\x98\x84ys5\x1e\xd2}\xd7<\xbd9\x07:N`\
+\x97\x1f\xdd\xca\xd22(\xf9fO\x9aP\xc3\xbd\xf8\xec\
+\xbd/|I\xb7\xc8U\x99\x8c\x96\x87\xa2\xef\xd5Q\xf2\
+ZI\x11\xd5b\x07\x92\xc5\x22{\x15\x80c\x10\x9fw\
+\xba\xd2I\xb9\x86\xc8\xbf\x22\xbb[mCv\xb3|>\
+\x97\xe6]\xfdm\x1b\x9e\xdeL\xea\xd7\xf7\x85\xfb\xc3\xec\
+(<(5\xc7\x127\x0b\xb5\xf6\xfb\xc2F\x98\x06d\
+\xbe\xa1$\x84\xbd\x11[\xae# \xa7\xe6`\x91,\x1f\
+(A\xdcS\xfe\xe0\xab\xf0\x12`G\xb4)6\xf2\xa9\
+)2G?+Rcz\xe6\xb51\x05{\xf8\xaaw\
+W\xb0\x8f\xee\xf5\xf4\xf6p\xb0\x10*\xbe\x05km\x10\
+!\xe5Sr\xb9z\xb1\xbc~\x8c^\x0dI\xe6\xea\xc5\
+\xb81\xb0X\x0d\xce~\x0b\xbb\xe1<\x9ec\x8b\x94V\
+`i\xd3~S\x91\xddW\xd6\x06\xf5\xce\x9a8s\xea\
+f\x15\xce\x11\x969\xbe\xa1\x17\xc1\xef\xb7\xa4\xcf\xf1y\
+\xfaOq\xaa\x1c\xa3@\x18SL~\xb3\xbczq\x19\
+\x93\xdf\x8c\xab\xf0\x06\xf6$.\xb4\xd0A\x1aL\xcaP\
+\x14D\x02i\xac\x9a\x9b\x85\xea\xe5\x8e\xec\x85\x00@%\
+e\xa1\x0fV\x03\xb0}\x9d\xf0<k\xef\xf1!\xd8s\
+\xc5I\xda\xba\x12\xd8\x8e>\xe5j\xda\xb4\xeb{\xfa\xee\
+\x03E8\xb7\xb2\xfa\xbc\x8d\xef\x18m\x91\x07%\x0e\x5c\
+(<\xc4\x00K\x1dw\x04}Cp\xfd{\xf4p\xa1\
+7\x10\x1b\x0d\xcb\xec\xdb\x1dmw\xb7&[\x98}=\
+\x11\x1f\x5c\xd1sO\xbf\x9eN4y'\xfcb\xc0\x03\
+\xef\x99\xbb\x8c\x16\x11\xe6\xac\x8cq\xdc\x7f\x02\x99,W\
+Bc\xc5O\x8a\xf4\xee(ReqP\xa0-\x01\x9f\
+\xee\x93\xadyPi\xe9\x05V\x06$sd>HR\
+\xb7)r]\x0d\xa5\x8dC<\xbf\xf5\xab\xec\xea\x82}\
+\xf0v\xf5\x08\xcb\xed\x18\xfe\xb8\xf3B\x0a<\xcf\xc1\x85\
+\xdc\x97\x11\x09q\xd5\xc1P\xea\xbf\x07B\xf6\x12H\xc9\
+!>\x8b\x95\xaa\x04#\x09\x0d\xf1\xc4\xf0\x82\xef\x00\xb5\
+\x97#\xd4\xde\xbcX\xde\x8c\x9ab\x22\xf3f|\xb3\xfe\
+\x0a\xff\xcc\x1b\x8e\x0c\xe8\xde\x93\xd8n\xd9\xca\xdcu.\
+B\xec\xc8\x92\xac\x16e\x13\x0d)\xa1=yd_\xfb\
+\xb5%\xf9V>\xdb\x00\xc8\xb0\x83\xc1\x16\xc8|6\x81\
+S\x10\x95\xcf\xc6\x03\xad;\xb2\x0f\x0c\x13\x1a\xcd\xfd\xd6\
+\x06!\x1e\xe5}b\x0d\x18\xae\x8a\xe0\xa2Ah\xc8\x8f\
+\x01\x0a\xa5'\xb1\xf4p\x7fH\xfdm\xb7\xa3\x06=\x04\
+\xd3y\xbd\x1c\x0d\xf2A\xe79\xcc\xdd_\xf5#\x88\xd2\
+\x05\xe3-*\xbe\xdc\x9c\x9af\x80o\x08\xd8\x0cc\x0c\
+B\xfe\xd0\xe2\xee\x83)J\xe0\xed\xa3y\xd3\xbb\xf0\x08\
+u\xef\x07\xcb13\x04\xfa\xbd.`\xa0@\xc5\xb6 \
+\xbd\xc6&\x88!C$o\xe3\xea\xd2\x00\xcaaT(\
+\xe2!;\xba}Dr=$0%\x11Fu\x82\xc6\
+\x09K\xaa\xfb\x96\xdeS\x22Z\xb3{\xd2\xa0\xfc6\xf9\
+sF\xfc)\x1d\x9fx\xf7\xf5\xcd\xb4|\xc6\xbd\xf8k\
+\xb5\x0d`\xd2b\x1f\xa2\x80B\xc9}\xd8Rb\x1c\x00\
+\xc5!\xc0\x16\x13Z-\xf4\x01T\x1e8\xc0}\x80w\
+\x9d\xa0\xebfz\xddn\xc6\x17\xeeo\x92A\x90bS\
+\xcc\xd0ZQY\xfb\xe0\x8aEJ|\x0b\xb7\x0fr=\
+P\xec\x04\xcf\xc6\x88\xd6\xa0RGz\x9eM$\x95 \
+h\x1cV\xa6\x88M\xc3\x11\xb5\x15\x1aP7u\x1b(\
+,\xebY\x8b.N\xe5\xb0\xac\xa4\xed\x87-H\xbb\x82\
+\xfd\xf80\xee\xad\x04>\xffj\x02! \x02\x9f\x8fG\
+\xd3JA\xb0\xbc\xf9\xd5S\x0a\x8a\x1d\x11wl8{\
+\xb4a\xc9\xd1I#[\x81\x0ba'('\xbb\x19\x13\
+\x5cNf\xce\x9d\x94R\x0al\xa5l\x8e\x89\xab/\xaf\
+\x96SR\xa6\xfb\x91\x8b,{\xec(\x91\xd0\xd5\xf4~\
+\x05\xc9\x03G\xf2\xd1de\x07.\x0d\x05\xcf\x0f\xb1\xcf\
+\xa0\x8b\xb5-I\x17)1\x00D\xd2\xd7^\xfd`;\
+\x08\xcc&ro&0\x0d\xa6w|\xff\xbc\xa1\xc0\xfd\
+\x98R\x8d\x18\x0d\xf5\x90\xff\xd0\x22.\x22\x0d\x08V\x1d\
+\xc8n\xf0#\xb2\xb3J\x04\xf9d\x98h\xa1\x14\x0c\x1c\
+\xf7\xd2\x91\xfcg\xcf&\xb0\x04\x90\xff\xec\x5c\xab\xf5\x99\
+\x9e\x95d\xe80\x8f\xaa\xbds\x1c\xa1\xb2\xbe\xb0\xdbU\
+\x8e\xee\x84>A8\x90\x9d$\xa0a\xd8\x95\xbcS\x0a\
+a\x1a'm\xe3#\xe38J!I\xc5P\xacV\xee\
+u3Q\xb4h\xad\x16\x06\xe9\x06\x93\x17\xef\xec\xcdp\
+}\xa5O\xd6\x97\x93\x92\x9b\xa7\x0b\xbb\x1f\xb2J ;\
+\xca\xb1\x1c\xd1'\xe1\xdd2q\xb4u*\x16\x9c\xe2\x10\
+\xb8\x8d\x9a\xccI\xac\xf3EvWu\xd03p<\xb3\
+\x86\xdf\xa7\x80z\x0b\xacC\x1d\xd5.\xd6usW\xdb\
+\xb5\x00=`vP\xcb\xdf\xd50\xd3+N\xf9\x9e\x8c\
+\xc6H\xef\xea\x87G\xb9\xde9\xb3\x1f\xe1\xcd\xf75\xd9\
+\x05`jV1\xd6J\xff\x00I\xa5\x95\x0c-\xa6\xda\
+\x94\xf1\x1d\x8a\xa3\x00\xc4\x08\x00'\xe9\xbb\xba\x1a\x0f:\
+@\xde\xd5\x5c\xdf\xc0\x07@\xb6ic\x05\x80\xd6t\xa1\
+\xd1\x82\xe9\xd1b\xa1P\xe4'\x13\xb9\xbb\x8d\x1e\xbf\xf7\
+\x89\x14!\x11\xf1\xa5\xe7H\xc1\xb0\xa3+Y\xc58\xf5\
+$a\xdb\x8a\x9f\xa0U\xdc\x83\xf2f\x10Q<\xe1j\
+4g\xb8\x88\xad7\xda\xd2\x00P-\x06$\x92\xfc\xf5\
+\xaf\x14n\xa3\xc2\xdf\xe9\xf3~oQ]'\xb6r\xab\
+\x8f\xecC\xcc\xc5\xb0\xd1s2\xa5u\xbbF\xc1m\x9a\
+\x85\x9b\x09s\x0e\x0e\xe6\x14'rp0\xc5\xbdP\xc4\
+\xff\x80\xbd#\xf5I-\x0a\xb8\x22,\x18\xe8\xd4\xdeT\
+Z\x0a\xdcx_\x84\xee9\xa6\xdb\x1f\x87#\x8f>\xd5\
+\xd7\xa3u\x86\x8b\xc8N\xfad\xb0\x175\xc5\xa5$\x95\
+\xb5\xbd\xeeL\x8d\x81\x8f\x17\xfd`\x97\x15\x15\x0b\x88\x96\
+\xc6\x9b\xbc\x97\xe9\xef\xdc\x8e\xd9\xa4D\xf6\xb3)g\x04\
+\xb2\xe7\xac\xb9\x9a\x10)hu*NY\xca\x86\xdbd\
+\x94\xcc\x86\x16#VkY3\xa2b\xfb\xaa8\xb2v\
+\xdb\xaa\x1d\x86\xcb\xfb\xc4^O\xab\xc6\x1c\xb1\xaf\xc8\x95\
+ob\x86\xc5\x91\x077\xb4\xb0\xbck\x92\x95\xd0\xbb\xad\
+\x9d}\x00\x88\x0b\x1f@\x9a\xd08\xb4Dd\x5c\x83\x9a\
+&\xf0\xf9D\x00\x0a\xfa\x9e\xcf\xd0\xf7\xda\xc2\x88\x88\x12\
+\xe4\x8c\xba\xd0\x0d\x0dB\xff\xde:+\x88;\x0b\x19Z\
+\xbd\x10\x9bA\xff\x03\xd2CakK+AB\x0ef\
+]\xbb\x0d%\x8eR*\x03\xeeI\xfbu\x9a\xf4\xafg\
+H?\xc7\x1a\xc6v\x9d\x84\xe9\x90\xeaYd\x0f\xbc\x05\
+\xd7Q\xd5\xbe\xed\x9b\x8e\x9a\xcc\x0a\x85\x87\xfc\x91\x92\xad\
+(=K\xd9\xba\x5c\xe3|sC+R\xe5\xd3\x0e\x87\
+8\x18-\x8e^\xc4\xc1\x87\x93\xce4\x88\x91\xc5\xc6\xab\
+\x01\xa8\x0c\xc0u\x05\x8c\xada\xc2\x80\xa5p\x93\xc5R\
+\x16\x84\x83^\x09Y\xfdfCr\x00\x1c\x0fk\xb7\x88\
+\x11\xb1\xe3h\xbd\xb4y\x0e\xc8\x0a+3\xbb$\xd3\xb6\
+|\x8e\xa3\xef\xb9F\xc9\x06m!\x0c AU\x9f\x03\
+\x1b\xcd\xf5\x80E\x96\xca\x07\xb9ZEu\xfb\xe2\xd9v\
+\xad0\x9c\x8c:\xfd\x1beL\xb2L\xb9X#\x08\xeb\
+4\xb2\x98\xe1\xebz\xb4\x94~\x11_\xdf\xc1\xaeI\x9c\
+\x83\x05\x82\xd9S\xacg\xef\xb1\xb1\xd5\xceH2\xb7\xec\
+z\xa0\xba\xae\x8a\x94hX\xedf\xdb\xd4-\xd7\xb9\xd9\
+\x90N\x93\x0f\xccv\x92\xfcs\xf4\xe7\x9c\xfcW,\xb3\
+\xd8l\xb2\x8b\xda\x9d\x95\x88\xee\x00\x04 \xf6\xe2\xd6\x19\
+\xb9S\x1c\x97\xa7\xf1\x83\xd1\x1b\xba@\x0d\xb2/\xfa\x9e\
+uAA}\xad6![\xd5~\x0c\x1c:\xe1eZ\
+\xc5\xe6x\xf9\xe8bK\x03RA\x094\x91\xf4\xc5\xaa\
+\x0f\xfc0{2\xf4y\xf8\xe6%\x17Qj\xba@\x8f\
+\xac)\x9c\xa1\x90\xbe8Jq\xad\x83j\xd1i\xb7\x15\
+\xcc\x95\xf6>\xddg\x0bM\x9b\x90\x18\xb3f\x0bX\xd7\
+3\xa6'`\xcb$\x8b\xd3\x1e\xe3\x9a\xc2\xd49\x9b\xdc\
+\x1eE\x9b\xea6\x06wDe\x01\x15\x22\x86(\xb2+\
+\x82\xd7\x80S\xee\x22I\xd1@G[\xe2.\xde\x1aD\
+\xce\x1c\xbd\x17\x18\xb1\x08\xc5i,\xe3\xc2\x8e\xdd\x06\xad\
+\x00\xa5QI\x95(d\xf5\xe4\xff\xc4\xdbp\xa7\x19e\
+`\xd2\x0f\xc5)\xf7\x8cX\x9fM[\xdb\xeb\x9e+~\
+L%Z+L\xf6\x07\xf4\x1d[a\x03\x10\x1f~J\
+\xca\x16\xae\x8ch}\xed\x10=\xb3\xf3E\xf2\xd7\x85\x13\
+\x0a8hS#\xfe\xe18\x0dsa\xbdsvz\x03\
+\x13\xe9\xe3\x05\xe8s\xda\x07\x85\xfc\xeb\xdeV\xda\x0d\x81\
+\xc0x\xe3\xa5\xb3(o\xcbU4D\xd2\x1c\x8c\x98\x0c\
+(\x09g\xe5\x81\x0d\x15\xa5\xe3\xde\xb1\xa9%z\xfb1\
+qv\xfa\xad\x0b\x12\x0f\xd20\x8e\xfc,\xb9\xf7B\xeb\
+\x16\x94\xbf\x9b\xfc\xf4\x1db\xf9\xbctiT\xd6\xe6\xd3\
+q\xd4\xcd\xd5\xf2\xc5\x93\xc9\xd5{TK|\xb4\x80\xe6\
+\x01\xe1\x1ew\xf9\xae\xadk(\xf2\x885p\xd36\x9c\
+\x83=\xa4\x05C\x1d,Y<TY\xb1\xa6\x92\xc2\xa2\
+Z\xd3k\x1b\xde\xd7\x86V|:\xd2&\xeao&#\
+\xedY\xe2?\x12\x1d\xc1\x03\xc9fq\xef\xb8)\xd0\xa5\
+<+\xf7\x0b\xc0g.%\x96G\x01\x22n\xe3B\x8b\
+\x11\x06\xec\xc5\x0dP\xa8\xe3\xe6\xf6\xc1\xad\xb5\xa6\x9bR\
+h\xf93\x9a\x06U\x0cn\x07\xe5\x0a\x16\xf7\xd5\xb0\xe9\
+\xdc\xa2\xd7z\xb0eb\x8dB\x903\xe4mC\xf6\xcd\
+T'\x13=\xf8t\x0e>\xf8\x0e\x8a\xb3)\x1cL\xaf\
+\xf6\xae\x93\xfa\x9022\x02\xadzd\xf6p\x1bkS\
+sT\x1e,7L\xd6\x1c\x9c\x91\xa3\xa9\x18\xf8\x0c\xbc\
+\xfaK\xe0b\x5c\xee\x06\x14\x82\x96-\xae\x8e\x1e\xb9\xfe\
+\xd9\xc3\xa4(\xbek\x1b1,\x9b$\x0f\x091\xb8\xcd\
+h\x96\xf1\xab/\xc7cSf\xfc\xea\xbc\x92q\xce\xf9\
+\xb7-\xfd\x87\xb43\xa2\xf6\xc9\xc5\x0bZ?\x5c\xd0>\
+2\xb5\x99\x92\xa8\xafO\x1e\xaf\xd9}\xc9c+\x9b\xaf\
+w\x06\x9d\x08\xd2\x0e@n\x16m\xa5Qv(\xf9\xb1\
+.\x93\xfcjq\x1b\x0f\xde\xa5\xfab\xe7\x0d\xd9\xef\xb3\
+\x97\xd3\x0f4V\x0b\xb3\x12\x01_ \x92\xf1t\xf32\
+\x99\xfcD\xfe\xba\x0dR\xcbdk\xe2\xabu\xd1\x86\xae\
+\x1f\x16 a\x11\x09Zf?\xe0\xc1~\x01\x83\xdbn\
+\xa4\xf5\xa4kI]\xea&q!B\x8a\xf2-y+\
+\xdd\xba\xf4\xe0\xfcz_O5c1ss\x93\x0f\x1f\
+d\xa7\x05I\x80\x14\x97\xe18\xaf\xe0\x08qc\xb0\xdb\
+{\xfe\xc4\xcb*\xc2\xa8\xc5~\x07^\x17v\xdb\xcc\x13\
+\xec\xc5\x10\xe9w\xc18\xb3C\xb1m4\xa8\xbd\x0b\x8f\
+\x8bm\xe7\x14\xbf\x89fpc\xb9\xa4\x1e@\xea\xfa\x9e\
+;\xc5\xb1\xf7\xb4P\xb3\xec\xe0\xb8\xadQ\x0b\x82V\xbb\
+r\xa5\xb9\x1e>ij]\xa2\xa4\x86\x5c\x0c\xc5\xad\x95\
+\x0f1N\xd1o\xa1U\xa3=\xabN\xc5\xc7\x89\x16\xb8\
+*\xfe\xbe#%\x06\x83AK\xc7\xf78\xdaz\x09\xe3\
+\x8c\xf3\xb1\x19\xdc\xd3zY\x06xkl\xc6,\xb5\xb1\
+\x874\xf2\xa0\x95Em\xac\x91M\xd5=\x5c\xbb\x07~\
+\xb8\xd7\x88\x84M\x0c\xc7\xb1\xd1\xb1\x07\xbb\x94D\x88_\
+\xc8\x08\xd1\xd9\x0b7<\xb3\xd2\x9c\xb7\xbd\x91\xa6P\xb0\
+\x94\xdf\xa2\xc5\x8d\xc5\xae\xdb\x96U\x0a%n2*\x94\
+\xd6u\xadWS\x22\xbb\x19\x87\x1e!\xb1\xb9\x18\xef=\
+:\x17\x8e\xa9U\xf4\xc0\x93.l:\xb8\x0bsC+\
+\x96/\xb83\x02O\xe9@F\xd9=\x07\xe7E\x9by\
+\x99\xfddO\xa2\xa9\xd8\x8c\xc4\x03K\xb1M\x02\xf7\xdb\
+*E!\x1c\xaf\xedxk\xb3\xc1\x0cK\xc5\x9b\x1b~\
+\x87v\x0d0P\x15=\xbc&\x93:\xb2\xc2-\xed\xdc\
+\xf9\xaet\xe92\xfa\xde\xde[\xf0\x86\x8b\x9f1+\xe2\
+\xc7\xb0\x96\xee)\xe8\x1f\x86\x0fU\xb4\xcf\x9f/\xbfz\
+2\xda\x1fF\xc2}>\x17\xee\xc7\x99))K!\xef\
+\xe0.X\x8f\xde\xadX\x15\xd2\x86\xdc\x85\x5c\xc9\xbd\x8c\
+%\x1c\x11\x99\x85\x966\x0e1V\x1e\xb9\xa1\x1c\xed\xb1\
+\xeaS\xa2\xba\xc4n^CA\x03W\x10\xc40\xf1\xd3\
+\xa9Ob\xa1\xbe\xd1\xac\x0a\xd5s\x9dq\x91\xc6\x5c\x96\
+\x91tb\xcb\xbb#\xbe\x0f\xe4O;\xcb\x9c\xf63\xa4\
+{\x91<\x1d\xc4\x88U\xcc\xde\x87\x01w-\xb3\x0f;\
+\x85I5\xb1S2\xb38\xcf\x91\xea\x0f\xb7\xfd\xee\xbd\
+\x14Qp\xc5\x8ea\xfb\xd4\xf8\xb7\xa3\xcfg\xbcTi\
+DI\xbb\xa6\xd9\xb8Z\xe9s\xee\xb66-}\xed\x1a\
+\xb3\xe5\xe0\xf6\xadY\xfbU\xd6\xb5\x22/S\xbc-\xd1\
+w\xd7\xb7\xceNU\x9a*F:\xa3\xa3\x96\xbc \x07\
+\xf3d\x1c\x5c\x81\x9e\xcc%\xbe\xbdR\xb6\xb8m\x8do\
+\xb9B\x8bH2\x89I;\x80\xd8\xb6\xee\xfc>\xed[\
+7\x88g\xbd%gU\x82\xc8\xab\xaf\xc7\xc7\x1d\xe8\xa1\
+\xcb\xf0,.\x09\x9d\x84\xe92R\x94\xaaF[\xcd\xb4\
+(\x13\xd9c\x1c\xc6\x92\x16\x8a9Xr\x9f\x0cj\xc9\
+\xdc\x0b\xe2\x86\xbbaz\xd4\x8ef\x14\xe7\xd4\x0e \x22\
+\x85\x98\x13\xb5\xc0\xa4\x94u\x9a&d\xfb[\xf8\xc0~\
+\xeb\xd4\xfa\x0ah\xb3J\xe8\xcf\x03i\xb2\xc0\x06\x11\x8f\
+Vm\xa3$\xf8!\xf9W\xd3\x95\xf5\xf12[\xe41\
+\x08;\xe2\x0f\x04\x86\xa55\xcdm\x8c\x17\xc8\x09\xa7\x04\
+e\xcd\x0dT\x9b\xce\x14lx \xafCg\xd2\x93\xf4\
+-\xf0\xd7\x914\x8a#\x8a\x826\x974\xeb\xf1\x8e\xa9\
+\xed\x1f\x88\x0d\xfb\x8a\xa2w\xfe\xf0\xc7\xf89\x0dF\xa4\
+i+\x98\xe2\xc1\x8c\x15P\xde\x98\x95\xb9\xbfo\xef\xb3\
+\xd1\xd0\xe9\xcd\xaa_t\x1b\xf1+)x/e@\xa7\
+\x89\xa3\x0a`\xa1\x0e\xcc\xea\xafu\xc26\x22\x86\xdeH\
+X\x92\x93\xa6\xc4\xc2\x83\xa4\xe4\xb2Q\xeb*5\x0c\xf5\
+\xbe\x17S(\xb9\xc1d,6\xbe\xb6\x9c\x0a\x8a\xac\x88\
+@\xdc\xea\x12\x06\xc4\xe5Ls\x16{Zc\xfd\xb2\x92\
+\x01\xd9dr\xb8K\xbbok\x96\xdd\xb6KCGC\
+\xbd\xd9\xafJ\x1f\xb2\xe7\xe3\xb1\xdc\xab\xf2\xe9\x9c\x0b\xf9\
+\xe8\xb5?\xf5\x08?\xc2M\xc1<\x0a\x9bxN&\xeb\
+?`+\xb9o\x03y\x16b\xe6\x86Y\xa6\x0f\xbe|\
+\xfc4\xefc\x12\x17\xd0\x1cm\xd9\xa3\xbd\xc1\xc6yH\
+!\x94\x93\xab\xbf\xc2\xca\xef6\x15\x95\x02\x1c\xc2\xa9D\
+\xb5=6\xdd\x95\x1eT\x1f\x1a\x96\xb0d\x89\x0b\x99m\
+\x91:\x04o\x0e\xd9\xb2\xf8\x00f\x8ec\xeb\xb4\xad\xd6\
+V\x12M\xee\xca\x86\x14\x88;\xe93\xe3(\xdd\xf3\xfe\
+C\x83\x06-\xf4\x22\x06\x0d\xe82\xac}\x9e\xc7>>\
+\xf1\xd4\xd8.\xc3\x00\xd6\xcf\x94\xcd\x00a}>\x91b\
+\xfc\xdc\xcc\xca\x05\x91\xd3\x11\x06F\x5c#%\xc22\x11\
+\x90\xa6M+mb\xe0P\x14\x81Y \x83\xc6\x9f`\
+\xf6\x80\x1c\xe8\x1a\xa29\xccm\x8er\xf3\x07\x89\xe9\x13\
+d\x9a&Agx\x19\xc5\xb3.\xe0\xe5\x03Q~\xaf\
+\xd9.\xb7]\x98\x92\x8b\xec\x09\xa0\xf2G5\xa9\x07\x1d\
+4\x05P\xe3)\x1di\xb8\xb7\xc7\x94q\xf0\xa5\xff\x91\
+\xb4j\xe4s6np:\xa5G\xff\xa8\xa7\xbb\x80\xfe\
+\xd7\xdc\x1b\x19\xcc1m\xbaE\xf6\x13|\x1cK\xd4V\
+\xe4\xa0\x80'v\xe3\x05jb8\xc9\xe7\xa7s/\xab\
+\xa2\x93\xaa\x09\x9a\xd7\xdb\xb1o8Z\xa3R\xd7\x07>\
+\xd35\x16U7zw\xe8?\x0d\xda\xc8W\xf0\xa5\xa1\
+I\xd2\x8e\xf5g\xa3Q\xc8\x05\xac\xff\x08\xb7\xd6\x06\xc9\
+\xb7\xd9V\x10\xc7998J\x04j\xca\xe8\xa6\xa4>\
+\xd5\xfbE\xaf>o\xfdz\xb4\x03\xe8m\xdc`\xb2\x8f\
+\x16\xabV\xf0\xbe\xa9%\xce\xd4\x1a\x80Fzl\x05\xb8\
+\xedX\x90\xdd6\xe8\xac\xc4\xda\xd7u\xbbob\x94d\
+\xd9\xdc8\x8bo\x02\x0f\xf7);\xe3(\x18\x93NC\
+f\xbb\xc7\xd5h\x1cr\x01W?p{0h8J\
+w\x97F\xf4N\xb2\xcaZS\x12\xbe)\xb1\x15\xfa\xef\
+\x8a\xe0\x07\x0f2\xe8\x88\x1a\xaf\x18]@\x14\x14<h\
+\xceG\xe9i\xe8P,\x00igm\xa5\xd0\x84\x94\xad\
+\xc1S\xdc\xf6&\x12-\x87\xe8=\xd8\x09\xd4\x93\xf1\xcc\
+\xd3\xd6\x99\xd6\x98\x9b)\x9b9\xc7\xc6\x07-\xf2h\xa9\
+\xb4\xd73\xdc\x05\xf4u\xed\x0f\xcb\xb3\xbfc\xaa-\x1f\
+?\xfd\x842C2p\x0d\x92\x93/\xb2\xf7\xedf\xe3\
+\xd6\x0e\x88f\x9a\xfd\xeeM\xbb\xa2\xa93\x9b(\xf3\xf5\
+x\x9d\xda\x98s\xbc\xbe\x0a\xf7Z\x0cj:IK\xbb\
+9,\x02/gl\x14\x8aq)%l\xb7\x88\xb5\xd7\
+\x03\x1f\xe5\xee\x9an\x95\xa6v\xc0D\xda@\x84\xcf\x96\
+\x8cq\xc4\x05\x88B\xc3\x9d\xce\x0c7\xb5!Z0i\
+\xbbT\x047O\x0d\x83\xb8\xaa\xc8\x7f\xedMJ\x87\x18\
+>\x90r\xab5\x09X\xb7g\x85\xb1R\x8e>\xc0\xb6\
+\x02\xb0\xc3Fu\xeb5\xf4\xc5\xf9(\xcb\xec\xb5\x1e\xb3\
+\xa2D<zkeXE\xfa\xaf\x95\xef\x89\xefe\x91\
+\xa1L\x1c\x93\xcdC\xf7F)H\xb8jl\x90\xb6\x13\
+\xe9d\xbax\x81X_\x09\x06\x82\x81=,\xa3\xe0\xa6\
+\x5c'\xd5\xd32r\x17\xd6\x8e2\xf4\xd0\x9fbz\xdd\
+\x8dR\x1c\xa5\xc2\xb3\xec\x8cm\xe4\xf9\x91\x1d\x18\xe2\xe4\
+\xa7\x966\xcfW\x13\x98\xf1O\xf7\xf3fH\xa9A@\
+xT\xe1\xedZ\x1e\xcc\xae\xe2\xae=\xf62 \xf2\xfa\
+\x85\xcd\xbf\xc8\x86>w\x00v\xfc\xf8S\x05\x06\xc6\xa7\
+\xe8\x1f5\xa3\xff2\xfd\xda\x10\xd1\xb5\x84\x9d\xfa{\x05\
+\x09\x13\x8e\x18;R8\xa6\xef\xcd\x08I\xe7\xd8\xb1\x8f\
+\xa8\xd6\x96\xa2#\xb3\xdeu_\x16\xa3V\xf1\x1b<\x11\
+c\x82\xf6\x97GK\xf6^pw\xda\x12\xff\x89\xd0\xf9\
+~\x10@\x8cb\x18\x85\x0f/\x10\xc3o\x9av\x1e5\
+mFz\x12\xc1>\xda4\xe2\xce)\x03\xe5\xa5\xe9\xce\
+\x9ca\xd2)\x8e7\xd2\x16\xbb\xc5\xf6\xec\xc2SYG\
+\xcdY\x19\xb2&FP\x5c\xce]\xae\x92JgtD\
+\xab\x1cc\xc8)FG\xfd\xcd%\xeb\xddj\xb3\xc7\xf1\
+<\x14\xd4S\x17\x10\xf3E\xbe\x81\x98\xee0\x18\xb8\xed\
+\xa7\x1eRv\x16\x0f\xda\x17@g\xd2\xebtPP_\
+\xf5\x9b\xb3iW\xfc\xfd\x86\x9c\xb2E\xf3\xbeb\x9b$\
+D`\xc6\x9d<\xe8?v\xa6\xbag\x8c\xa6\x8a\xc1(\
+k\xc9\x84\x84nF;\x8a/\x90\xd0\x9d\x94\x9dXO\
+\x7f\xc11\x04+dV\xf6O\x9c\x07\x05~\xd0\x99\x85\
+\x83\x19\x12k\xbcGiu\xb9\x9b\x92\x82\x5c\x17\xc6w\
+\xeb\xd5\xcd\xf8\xf4\x11\xd16\xdb\x0f\xf9\x0aK\x12\xb5O\
+L6vn\x81\xbd\xa4\xcd\x91\x9d\xa5\xa9\xe3\x09N\xdd\
+\x83\x12)\x9d=\x89OOQ<^Y\xbe\x84\xe4\xd7\
+\xfd\xbd\x22-y\xe8\x99\xc2Pf\xc2\x03\xc8\x09\xfa\x82\
+])\xc8\xa5\x8f\x22X?O_~\xef\x83_\xc8\x1c\
+1\xd7H\xb7%v\xe1\x0e\x09\xc9\xb7\xd8L\xa5\xe5\x09\
+\xd8\xc7\xa736\xda\x93W*\x22\xd9\x5c4\x91\x97\xa4\
+\xf1\x97\x16PpdL\xa6\x1c\xcd\xae\x0d\xbb\xd6,4\
+\xbf]\xf4\xc7$\xcbTW?\x0a\xd2\xc8\x13H)w\
+\xce}\x1a\xb4e\xfc\xbf\xd1\xea\x18\x85\x03%+g2\
+\xb0\x85\x9f\xb0%\xd7\xc4\xcd\xb3\xb9\x09C\xe2j\xb6\xc1\
+\xe6G>\xb7\xad\x16\xcb\xa2\x93\xb0\x11\xfd\xe5\xc9\xb2\xa0\
+\x81\x8ft\xc6\x15\x80\xb8\x00\xae\xc7\xaei\xd9\xfe<c\
+2\xda\xd3\xf8\xd6\xef*n&\x1d5\x7fo\xab\xf9f\
+\xd2\xdfm7\xd9\xbb\x06\xfa\x5c\xb1\x1a\xc9(!\xdf\xd1\
+\xab\xc9O\xf9:\xc7\x19i\xb9\x5ca.X\xb7|[\
+\xe4\x08\xcc$\xccS\x1b\xc9\x8dk\xadK\xfb\xce\xa8{\
+\x13PV?$\xa7\xae)\xa8w\xe8\xfa.:\x8b\x12\
+R[\xb0b\x1f\xae\xeaFy\xb5\xa8\xc5\xaa\xe2\x9a\xb1\
+\xfc$\x89k|&\xf3\x02q\xddi\xd1\xdb\xd78\xb0\
+(\x05\x03G\xdb\x9b\x85t\x02\x0b\xe4\x98\xb1\xee\x9a:\
+\xe5\xd2\x1cq\xa30\xdc%\xc4}\x94NLH\xec`\
+\xd9X\x001{\x99\xbd\x8f\x97\xd0n\xea\xaa\xd6\xca\x89\
+5\x11}\xc2q\x14\x22B\xc0\xe1U\xfe\xb2\x1br\xaf\
+W\x8eb\xb37)\xbd:\xc4A\x22\xd8\xce\x9c\xab\xc1\
+^\xbe\x89\xb1s>\xb4\xcc\xeb)<db]5T\
+\x0e\xf8\x0d}>8\xa3\xe1\xea\xc9h\x88B\xcf\xcc\x83\
+\x0b\xb6\x1b\xfb\xe92Fz\xeb\x96\xcf)`=\xa3\xe4\
+\xb01d\xd4}~|\xa4\xab~E\xc6\xc25) \
+iC\x13\xa6\xb2\xbe\x8e\xee\xbfD\xf6G\xb5Z\xb40\
+\xddZ9n\x00\x96,\xe6 \xaeI\x06s\xf2T\xbc\
+?\xc8\xae\x94K\xbcf\xe7\x0b5I\xf3\xa8\x95\xbe\x84\
+\xe6\x1f\x12\xc2\xbe\x95\xea\x9c\x8e[2\x84\x7f\x9b\x1a$\
+\xb68j$\xa5\x18\xdc\x02LV\xb02\x85\x18\xb5\x88\
+\xd1\xfc\xae\x96\x1ec\xec\x8e\x83^Z(tu\x0c\xb6\
+N$\x16\xc6\xe3\xbcKX\xf8\xd0\xcd\xd5t\xe0\x02\xfc\
+\x08vEn\xcb\xae\xab\xb1\x07\xdei\xd3\xb0\xd2\xf9{\
+\xf2P(z\xa1/@F\xb17\x8d.\xd2\x86\xbc\xea\
+N\x96\xa9\xbb\xf8~\xef\xea\xe1\xccQ9{1\xde\xb8\
+\x04\xc6f\x1b\x85\x91\x88\xf4\xedOW\xb5\x93A\xca\xc6\
+o-\x1bM8\x95\xc7\x10&\xfb\xa8\x08\x0eu\xec\xfb\
+\x84\xe9\xeb\xe9\x09f\xbd&\xd3\xaf\xd3\xef\xdc\x17\xde\xd6\
+{?|\x8ee\xe2l\xbc\x87\xfb\x12\xd6~A\xa8\xe2\
+\xaa\xc7\xb8\x94n\x91n\x22\x8a\xd6\xf0\xef\xad\xad}\x1d\
+\x92\x96\xa5\x1aU\xc1s\x98m\xf8\x22\xfb\x81\xcf\x124\
+%C\xaf-\xa5\xfe\xb9\x1a\x85X1\xcc\xe5\xa0D\x94\
+\xbe\x05\x0d\xa8\xb8_rk\x0b-\x98\xef\xc9\xb1Q\x0a\
+n\x0a\xd7p\x92\xc0\xd7\xd0,\x14\xe2IdL\xdf\xbe\
+&b\xbb\xd3\xca\xf8Z\xe39\xc4\xa2 \x9aC{)\
+\xeaK[\xe0>\xbe\x14\x06TN\xa6\xe4\x93_\xb9\x0e\
+\xdfap|T\x85\xef\xb2\xcc\xb67\x83\xca\xab\xd8C\
+\xf9\xfa\xc5\x813\xf5\xe5\xfd\xf6\xf3\xdc~{\xb1\xbc\xf9\
+\xfa\xc9\xcd(Lz\xc9\xf2\xbd\xee\xc0t!\xe7\x04\xf1\
+^\x0a\xd8\xbe8m\xa6\x9b\xa0\x08\x1d_\xa3\xf0\x0a\xe8\
+\x99m\xf8\xba\xdbh]\x89\xf46\xb8\x15\x9f\x06\x83\x8e\
+zi\xbc\x95\x83k\x9d\x86:\xec\xd0x\xf4\x81\xe4~\
+\xec\xa6(GJF=\x1a'U~\x96\xc6\xd76\xb5\
+#q\xf0Nk*\x18\x00\xacJ\xba\xca\x08%\xd3\x84\
+\x0d=M\xd08\x1er\x11A\xbf\x1el\x8c^\xd3!\
+\xa4\xa9n#j\x87C\x13*\xdf\xf5]\xc4\x94\x02w\
+\x19\xca\x17\x9d\x969\x06\xae\xf4\x14zj\x1d\xb9\xb5)\
+\xe2o\xc6K\xacL\xfb%\x8d\xeer\xf8\xae\x93\x11\xee\
+ \xb9j\x0f\xef\xe5\x22N\x95/\xb9;\xa9\xed\xbb\x07\
+\x01d6)\xe2\xbb\x97q\xb9\x93\xda\xaa~\x08\x83\xf7\
+ZS6u\xa9=\x05\xa35\xd7\x8e\xbb\xe9H\xe2\x02\
+\xf6\xd8\xd2\xddI\x9fN\xd7\x19#3-A+\x9c\xe9\
+(+\xb5cr8`\x8a\xf9\x0dy\xa7\xe3B\xec\x22\
+\x85 ^p\xa7\x80H\x90\x07\xf5\xd1 )G\xd2f\
+h\xed-pq},W\xc3\x87\xc9]e\xdfz\xb2\
+\x91\xa4%\x91\xc51\x0e\xaf\xe8\xc1\x0b\x07\x1ey9(\
+\xc3\xc5\xab\x0f\x9a\xb0p5\xabt\x15Y\xb6\xfa\xc8\xfb\
+8\xde\xa9\xd1\xc5\xf2\xc0\xf1w\xbd\x06\xd4\x8bB?\x91\
+\xc4\x93\x18\x03$_\x9f\x90\xfcl\x9c\xe2kP<\xd7\
+\xf6\x0f\x1f\xd3\x19a\x1f\xfb^\xa3\xbeK\x93T\xac\x04\
+\xebQ;\x9dNIw\xd2\x8e\xf3+\xb2D\xa9\x82\x14\
+\xd85\xc7lX\xbfFS\xa2n\x1a[/\x9c\x9d$\
+\x12\x03\xdc\xd8\xedp\x16~\x0d\xad\xe2\xb9HFs\xa6\
+\x8bD\xf2Q\xfb\x03\xc8/\xaf\xb0\xf1Q\xef\xe3\x89=\
+\x9c\xe7\xb0\xe0)hnS\xc3R2,q\x1b\x1d<\
+9\x8c}a\xff\x84\x9f\x86\xc1\xd1Vl\x94T\x8d\xab\
+o\xb3w\xd1\x9f\xf4\xeek\x7fbu+\xfb\x17iu\
+w3\x8d\xe9\xdef\xaf\x0a\x1e\x80\xc5Y\x85\x8c\xe1\xad\
+\xb0\x16*)\xa4\x0bb#\x8e:\xe5\xc7\x85&v\x99\
+\xbd(0\xd6\xeeu\xc0\x0c#>}\xf1\xca\xc1\x04\x18\
+\xe6\xc3a\xa0\xa4\x04\xf4\x94L\xe6cY\xf1\x8eKD\
+\xff\xe2\xc9xC\xff\xc5\x0a\xd95!\x98\xcd\xa6pZ\
+]I1\x02\xc4#\x8d\xea\xa5\x17\xbc\x04\xe6.\xb6\xd6\
+\xb4<Kfj\x09\xb7\x00\xfcY\xb6\x0c|\xee\x97\xc6\
+\xf7\x07\x1b5\x92\x95\xef\xa2m6Z\x81\xba\x88-\xe9\
+@\xa8\xdb\xb5\x9c\xb6\xcf\xb6O\x14zI\xe1\x1c\x86\xe0\
+w\x96\xe3\x8f;v\xe5\xb7I\xcd\xeeD\x1d4(*\
+\xe4\x88Q\xe0\x09\xdd\x10\xa0,\xa8\x88\xe7\x8e\xd3\x04\x8e\
+\x06\xe2>B\x94\xaf_\x8b3\xc5do9\xe92\xec\
+\xa1\xf4}+ 1h<\xa6\x19\xe7cu\xe3{$\
+\xe2\xe1\xb3K~4\x85\xe1\x13\xda\xb3\xeb\x89\xa2\x0c=\
+5{\xc6\x7f<\xd9W`\x97H&'&\x0c>\xf2\
+\xf9\xe1\x7f\xa0\x1fC\x87=\x91\xc5\x87v\xb3\xb15{\
+{\xee\xff\xb6b\xa2\x10p\xc8\x7f1\xd3\x8b\xecgk\
+\xd5z5\xb6D\x7f`\xb5\x86(\xf5 \x0e\x1ekj\
+z\xf30#.\xbfc\xf6\xf9\xf2\xfa\xfa\xc9x\xb2\x07\
+~\xe7\x90\x90\x1fzAH\xf0\x07--J\xbf<\x16\
+Ob\xeax.8_\xaaQ\xd5\xd06\x03\xda\x1d'\
+\xc3\xc7\xbd\xef\xe8\x09\xee\xe4K\xf4\x1a\x7f\x0bk\x0fT\
+\x10@\xf2\xc84_\xc7\xeeW\xe31\x0eX\x9d-\x22\
+wQ\x886\xa1\x1f,\xe6rHY\xf1\x9b\x0c\xd2\xfc\
+\x9b*/y\xcb\x8dq\xc1W\x0c;h)\xca\xec\x17\
+h\xd1\xea;\xca9\x9aG\x13\x83Kh\xfe\xed\xbc\xa9\
+\x91\x8c\xe7\xc1\xe8\x00++\x8e\x80\xdd\x8bL\x9f\x1c\x9c\
+\xf5\xda\xb9\xc2\xed\xf7jM\xc6\x07T\xe9\xb1Yc\xd2\
+\x1d\xd2\xa8>\xf24\x8d\xe2\x99\x03\x8d\xffO\xe64c\
+v\xc6S.]\xbf\x874@Rp\x92w\xe9\xe8Y\
+\x126\xcf\xd1\xa8y\xbc\x88\xa3\x1f\x1c\x99eL\x03\xae\
+\xd0\xfbX\xcbAY\xbd\x896NI\xc5+\xb7v\xec\
+\xde\x8e\x22{\xd4L\x86\xefb2s\xec\xde\x9eS\xd7\
+\xe1{\xb06\xc5q\xec.\x5c\x080\x8a\xda\xee=\x0e\
+\xaa\x91\xd6A)\xc5#\xffxpu\xd3\xaa\x1d=\xbf\
+'\x93\x81\x0b\xfe\xba{\x0d\xc8\x13h0/\xf1\xf1y\
+\xf3K$~\x17\x8f\xd4\xea\xe1/g\x8b\xafu&\x8a\
+r\xaa-\x10@>\xd5\xe5\x02\xe5\x9e8 \xec\x12\xca\
+~!\x07v\x80\xe7\xde\x91D%\xbb\xedi\x85\xa9\xab\
+\x1e\x1a\x84%h\xab\xba\xc5\x02Q\xe8\x0a\x08_\x8c\xa4\
+\xb5\x14\xbbA\xa5\x11l\x85v\xbf\x8fw\xc8\xdc\xdc/\
+8\xa9&\xe3\x80\x8e\x1a\x1d\xbb\x9eH\x96\xaf0>\x10\
+\x82!/\xa3\x16\x7f\xe2\x0cK<:k\xf0\xdf[\xb5\
+\xd4\x15\x92\xd1\xda2H\xcaI\xb2Le\xb9B\xcfE\
+\xa9\xf8\x88y\xb1\xee\xacz\xe9\xc7N\xfaC\xe8R\xf4\
+]q\x1fZ\x89\x13b\xbb\xce\xb5\xd4T\xfa\xaf\xf17\
+\x0a\xbf^\xc6_\xb4\x98 \x19a\xd8\x85o\x1d\x8d\xdb\
+/{\xeb;\xf43\x22\xb2Bl\x8c\x1f\xad\x19qf\
+\x03o\x1e\xb5^\x97\xbe\xf9t\xfe\xe0V~\x22bc\
+B3\xb0T\x97\xd14\x8e\x83\x5cF\xd3\xabU\xc0I\
+\x04\xddo6\xc9\x01\xc9|\x98\xb6\xa24\x17\x122\x9a\
+\xf5_F\x08\xa2\xb9\x93\xee=\x89~\xf50\x11\x9e\xd3\
+M\xcd\x17\xdb\x91\x9f\xcb \xaa\x1c\xfa,\x8f\xe4\xcb'\
+\xb4\xe4\xf2\xd2@\x04 i\xbb\xd8\xd4HWk\x9f5\
+\x1f\xa2A\xf2Y\xea\xba\xc9\x94Y\xf0\x5c\xa1\xa6\x00\x1c\
+\xf0\xf2F\x7f\x03\xc2\x1e%\x8d\xb7u\x1d\x7f +E\
+\xd8\xda8\xeb(\xb1\x97\x84:\x9e\x05\x11\x0d-\x0b\x82\
+;\xc6\x02\xb7\x05\x0eZ\xfd>\xef\xe3\xc9\xd5%\xcc\xc3\
+\xb2J\xe8\x1f\x7f'\xa3\x85\x92Tq\xac\x80\x9d\x00\xc6\
+yr\xe9\x93\xd1^\x8d\xdc\x9e>\xa1\x05\xfc\xe1\x89\x0d\
+K\xb6\xfa\xc0\x87v\x8d\xea/=s\xc9Qd\x22\x22\
+\xa1\xf7`{\x91L\x97\xc9ra\x13P\x0az#j\
+S\xca\xa9\xc9Mo\xf85\x8d\xe4\xfb\xf8)A\xe4S\
+\xbd\x04\x8c\xc8\x17\xc8o\x1d\xe5}N\xb5'\xda\xeb\xde\
+\x99ax|H\xe5\x12\x86_\xeb\xa9o0^\xbaH\
+2m^F\xf8\x97\x8f\x94\xc2\xc0\x9b\x95\x93\xbc\xfb\xd8\
+\xa5\xb6C\xa4\x11E9xee\x0bt\x1d\xcb#;\
+\x9b~\xb2\xa3\xfb\x9bre\xe9\xffIG\xcc\xa8g\xcd\
+\xc9\xa3\xeb\x1cm\xd0\x19\x9a\x19\xf6G\xf7\xe5E\xec\x7f\
+\xbb\xf3\x1e\x06;\xabu\x04\xd8g\x92\xd1\xf50\x80\x0e\
+2\xd43p{\x0b,\xad\x0a>\xb3\xd5\x1f\xda\xdb\x1f\
+g\x03S\x05P0\x03\xc9'\x86R\xfe\x1e/\xe3\xbf\
+ap\xc6\xccg\xcaN\xc7\xc8[#G}d\xfa\x1b\
+0=dK\x91\xcd\x01t\x86\x5c3\xad\xb1I9[\
+s\x80\xa1\xa0h\xd7\xad\xec\x89\xb6\xea\x91|d\x80\xb8\
+7u\x01\xbbi\xc7\xb26&%\x9b\xd8\x89oM\x98\
+8\x7f\xfa\xe7c/\xf0\xe2\xc3\x94\xa0\x92F\x87\xb9b\
+\x9bNwRI\xce\xa3\xca\x9cV\xcb\xd9\x08aH\xca\
+\x91\xa8\xf1\xe3\x91'\x89\xfa[\xe5\x0f:\xe2\x19z\x98\
+VSG\xecK\x1a6\xc4j(,$\xa1\xdep^\
+\x16\xc9\x19oK\x99$\x87\x1b\xf2(\x9f\x8d\xaf\x10g\
+\x00\x05\xde\xdbz\x83\xa3%\xe3/\x0aI1_\xe7\x99\
+\xe3M\x06\xa5\xaa\x86\xe7\xb3qB1x\xd0>\xbd)\
+bG\xc3\xcf\x19bG\xe6;)\xfe\xd4\x99\xb3\xb4t\
+\xda\x15\xad\xe7k\xe1\x03\xb5C(\xbd\xeb\xd2p\x86\xad\
+\xa5\xe4Z\xa3\x1b\x88k\x08\x9bt\x92}\x7f\x80uO\
+n\xd1\x05;T\xca\x1d\xb1+Iu?QM^k\
+\xc0\xcc\xf13\xd3\x0f\xd6\xc0A\x8f\xa7\xbc6\x07\x1d\x88\
+&\xe2\x81\xb7\x80\x8f\xa2\x8d\x8dwX\x99\xf5\xf0\xd1-\
+\x89\xbeO\x5c\x8a\xecc\xac\x14,\xd0\x1aD\x86\x9a!\
+\xb7n\xbfA\xa9:\x060\x5cv@\xbb\x02p!\xf2\
+D\xe4\xd08\x0d\xf0RK\xe9\xfe\x94#\xff\xa6\x08\x1e\
+\x1fi\x9d$\xf8]\xcb\xdd*\xe4\x14`\x88\xe3\x11P\
+\x1b\xc7\xbfT\x10'\xc4\xc4\x86EX26?\x05\xdd\
+\xac\x1f\xbc\xfc\xe2\x9d\x06H\xb8\xc9\x90\xa7\xfc\x98@N\
+\xe1\x8fb\x96\xae>\x01~5\x83\xd1\xb39\x04\x86l\
+\xab\xb0\xf7M\xd3\x0f\xb98\x18\x98Z\xab\xf1\x1fY\x99\
+f\xfdM\xd7\x8a\xd1\xed\xf38\xb6\x09\x04*\xe0\x04\x8b\
+:\x8d\x15\xea\xa1l\xf1'|N\xce\x12\x19<1=\
+\xa2\xb1Sh\xcbo\xa4\x0c\x85X\xd5\xe9\x13.\x7f;\
+93\xf2\xff\x113\xf4\xcf\xff\xfd\xec\x9f\x9f\xfd\x1f\x9a\
+\xe7aF\
+\x00\x00\x10\x9d\
+{\
+   \x22read\x22:   [  \
+   {        \x22tex\
+t\x22: \x22<p>7:1 Now \
+when Solomon had\
+ made an end of \
+praying, the fir\
+e came down from\
+ heaven, and con\
+sumed the burnt \
+offering and the\
+ sacrifices; and\
+ the glory of Ya\
+hweh filled the \
+house.</p><p>7:2\
+ And the priests\
+ could not enter\
+ into the house \
+of Yahweh, becau\
+se the glory of \
+Yahweh had fille\
+d Yahweh's house\
+.</p><p>7:3 And \
+when all the chi\
+ldren of Israel \
+saw how the fire\
+ came down, and \
+the glory of Yah\
+weh upon the hou\
+se, they bowed t\
+hemselves with t\
+heir faces to th\
+e ground upon th\
+e pavement, and \
+worshipped, and \
+praised Yahweh  \
+saying, For he i\
+s good; for his \
+mercy endureth f\
+or ever.</p><p>7\
+:4 Then the king\
+ and all the peo\
+ple offered sacr\
+ifices before Ya\
+hweh. </p><p>7:5\
+ And king Solomo\
+n offered a sacr\
+ifice of twenty \
+and two thousand\
+ oxen, and an hu\
+ndred and twenty\
+ thousand sheep:\
+ so the king and\
+ all the people \
+dedicated the ho\
+use of Elohim.</\
+p><p>7:6 And the\
+ priests waited \
+on their offices\
+: the Levites al\
+so with instrume\
+nts of musick of\
+ Yahweh, which D\
+avid the king ha\
+d made to praise\
+ Yahweh, because\
+ his mercy endur\
+eth for ever, wh\
+en David praised\
+ by their minist\
+ry; and the prie\
+sts sounded trum\
+pets before them\
+, and all Israel\
+ stood.</p><p>7:\
+7 Moreover Solom\
+on hallowed the \
+middle of the co\
+urt that was bef\
+ore the house of\
+ Yahweh: for the\
+re he offered bu\
+rnt offerings, a\
+nd the fat of th\
+e peace offering\
+s, because the b\
+rasen altar whic\
+h Solomon had ma\
+de was not able \
+to receive the b\
+urnt offerings, \
+and the meat off\
+erings, and the \
+fat.</p><p>7:8 A\
+lso at the same \
+time Solomon kep\
+t the feast seve\
+n days, and all \
+Israel with him,\
+ a very great co\
+ngregation, from\
+ the entering in\
+ of Hamath unto \
+the river of Egy\
+pt.</p><p>7:9 An\
+d in the eighth \
+day they made a \
+solemn assembly:\
+ for they kept t\
+he dedication of\
+ the altar seven\
+ days, and the f\
+east seven days.\
+</p><p>7:10 And \
+on the three and\
+ twentieth day o\
+f the seventh mo\
+nth he sent the \
+people away into\
+ their tents, gl\
+ad and merry in \
+heart for the go\
+odness that Yahw\
+eh had shewed un\
+to David, and to\
+ Solomon, and to\
+ Israel his peop\
+le.</p><p>7:11 T\
+hus Solomon fini\
+shed the house o\
+f Yahweh, and th\
+e king's house: \
+and all that cam\
+e into Solomon's\
+ heart to make i\
+n the house of Y\
+ahweh,  and in h\
+is own house, he\
+ prosperously ef\
+fected.</p><p>7:\
+12 And Yahweh ap\
+peared to Solomo\
+n by night, and \
+said unto him, I\
+ have heard thy \
+prayer, and have\
+ chosen this pla\
+ce to myself for\
+ an house of sac\
+rifice.</p><p>7:\
+13 If I shut up \
+heaven that ther\
+e be no rain, or\
+ if I command th\
+e locusts to dev\
+our the land, or\
+ if I send pesti\
+lence among my p\
+eople;</p><p>7:1\
+4 If my people, \
+which are called\
+ by my name, sha\
+ll humble themse\
+lves, and pray, \
+and seek my face\
+, and turn from \
+their wicked way\
+s; then will I h\
+ear from heaven,\
+ and will forgiv\
+e their sin, and\
+ will heal their\
+ land.</p><p>7:1\
+5 Now mine eyes \
+shall be open, a\
+nd mine ears att\
+ent unto the pra\
+yer that is made\
+ in this place.<\
+/p><p>7:16 For n\
+ow have I chosen\
+ and sanctified \
+this house, that\
+ my name may be \
+there for ever: \
+and mine eyes an\
+d mine heart sha\
+ll be there perp\
+etually.</p><p>7\
+:17 And as for t\
+hee, if thou wil\
+t walk before me\
+, as David thy f\
+ather walked, an\
+d do according t\
+o all that I hav\
+e commanded thee\
+, and shalt obse\
+rve my statutes \
+and my judgments\
+;</p><p>7:18 The\
+n will I stablis\
+h the throne of \
+thy kingdom, acc\
+ording as I have\
+ covenanted with\
+ David thy fathe\
+r, saying, There\
+ shall not fail \
+thee a man to be\
+ ruler in Israel\
+.</p><p>7:19 But\
+ if ye turn away\
+, and forsake my\
+ statutes and my\
+ commandments, w\
+hich I have set \
+before you, and \
+shall go and ser\
+ve other gods, a\
+nd worship them;\
+</p><p>7:20 Then\
+ will I pluck th\
+em up by the roo\
+ts out of my lan\
+d which I have g\
+iven them; and t\
+his house, which\
+ I have sanctifi\
+ed for my name, \
+will I cast out \
+of my sight, and\
+ will make it to\
+ be a proverb an\
+d a byword among\
+ all nations.</p\
+><p>7:21 And thi\
+s house, which i\
+s high, shall be\
+ an astonishment\
+ to every one th\
+at passeth by it\
+; so that he sha\
+ll say, Why hath\
+ Yahweh done thu\
+s unto this land\
+, and unto this \
+house?</p><p>7:2\
+2 And it shall b\
+e answered, Beca\
+use they forsook\
+ Yahweh Elohim o\
+f their fathers,\
+ which brought t\
+hem forth out of\
+ the land of Egy\
+pt, and laid hol\
+d on other gods,\
+ and worshipped \
+them, and served\
+ them: therefore\
+ hath he brought\
+ all this evil u\
+pon them.</p>\x22, \
+      \x22chapter\x22:\
+ \x222 Chronicles 7\
+\x22     }  ] }\
+\x00\x00\x06\x9a\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>13:1\
+ Though I speak \
+with the tongues\
+ of men and of a\
+ngels, and have \
+not charity, I a\
+m become as soun\
+ding brass, or a\
+ tinkling cymbal\
+.</p><p>13:2 And\
+ though I have t\
+he gift of proph\
+ecy, and underst\
+and all mysterie\
+s, and all knowl\
+edge; and though\
+ I have all fait\
+h, so that I cou\
+ld remove mounta\
+ins, and have no\
+t charity, I am \
+nothing.</p><p>1\
+3:3 And though I\
+ bestow all my g\
+oods to feed the\
+ poor, and thoug\
+h I give my body\
+ to be burned, a\
+nd have not char\
+ity, it profitet\
+h me nothing.</p\
+><p>13:4 Charity\
+ suffereth long,\
+ and is kind; ch\
+arity envieth no\
+t; charity vaunt\
+eth not itself, \
+is not puffed up\
+,</p><p>13:5 Dot\
+h not behave its\
+elf unseemly, se\
+eketh not her ow\
+n, is not easily\
+ provoked, think\
+eth no evil;</p>\
+<p>13:6 Rejoicet\
+h not in iniquit\
+y, but rejoiceth\
+ in the truth;</\
+p><p>13:7 Bearet\
+h all things, be\
+lieveth all thin\
+gs, hopeth all t\
+hings, endureth \
+all things.</p><\
+p>13:8 Charity n\
+ever faileth: bu\
+t whether there \
+be prophecies, t\
+hey shall fail; \
+whether there be\
+ tongues, they s\
+hall cease; whet\
+her there be kno\
+wledge, it shall\
+ vanish away.</p\
+><p>13:9 For we \
+know in part, an\
+d we prophesy in\
+ part.</p><p>13:\
+10 But when that\
+ which is perfec\
+t is come, then \
+that which is in\
+ part shall be d\
+one away.</p><p>\
+13:11 When I was\
+ a child, I spak\
+e as a child, I \
+understood as a \
+child, I thought\
+ as a child: but\
+ when I became a\
+ man, I put away\
+ childish things\
+.</p><p>13:12 Fo\
+r now we see thr\
+ough a glass, da\
+rkly; but then f\
+ace to face: now\
+ I know in part;\
+ but then shall \
+I know even as a\
+lso I am known.<\
+/p><p>13:13 And \
+now abideth fait\
+h, hope, charity\
+, these three; b\
+ut the greatest \
+of these is char\
+ity.</p>\x22,      \
+ \x22chapter\x22: \x221 C\
+orinthians 13\x22  \
+   } ] } \
+\x00\x00\x10\xb0\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>6:1 And\
+ Yahweh spake un\
+to Moses, saying\
+,</p><p>6:2 Spea\
+k unto the child\
+ren of Israel, a\
+nd say unto them\
+, When either ma\
+n or woman shall\
+ separate themse\
+lves to vow a vo\
+w of a Nazarite,\
+ to separate the\
+mselves unto Yah\
+weh: </p><p>6:3 \
+He shall separat\
+e himself from w\
+ine and strong d\
+rink, and shall \
+drink no vinegar\
+ of wine, or vin\
+egar of strong d\
+rink, neither sh\
+all he drink any\
+ liquor of grape\
+s, nor eat moist\
+ grapes, or drie\
+d.</p><p>6:4 All\
+ the days of his\
+ separation shal\
+l he eat nothing\
+ that is made of\
+ the vine tree, \
+from the kernels\
+ even to the hus\
+k.</p><p>6:5 All\
+ the days of the\
+ vow of his sepa\
+ration there sha\
+ll no razor come\
+ upon his head: \
+until the days b\
+e fulfilled, in \
+the which he sep\
+arateth himself \
+unto Yahweh he s\
+hall be holy, an\
+d shall let the \
+locks of the hai\
+r of his head gr\
+ow.</p><p>6:6 Al\
+l the days that \
+he separateth hi\
+mself unto Yahwe\
+h he shall come \
+at no dead body.\
+</p><p>6:7 He sh\
+all not make him\
+self unclean for\
+ his father, or \
+for his mother, \
+for his brother,\
+ or for his sist\
+er, when they di\
+e: because the c\
+onsecration of h\
+is Elohim is upo\
+n his head.</p><\
+p>6:8 All the da\
+ys of his separa\
+tion he is holy \
+unto Yahweh. </p\
+><p>6:9 And if a\
+ny man die very \
+suddenly by him,\
+ and he hath def\
+iled the head of\
+ his consecratio\
+n; then he shall\
+ shave his head \
+in the day of hi\
+s cleansing, on \
+the seventh day \
+shall he shave i\
+t.</p><p>6:10 An\
+d on the eighth \
+day he shall bri\
+ng two turtles, \
+or two young pig\
+eons, to the pri\
+est, to the door\
+ of the tabernac\
+le of the congre\
+gation:</p><p>6:\
+11 And the pries\
+t shall offer th\
+e one for a sin \
+offering, and th\
+e other for a bu\
+rnt offering, an\
+d make an atonem\
+ent for him, for\
+ that he sinned \
+by the dead, and\
+ shall hallow hi\
+s head that same\
+ day.</p><p>6:12\
+ And he shall co\
+nsecrate unto Ya\
+hweh the days of\
+ his separation,\
+ and shall bring\
+ a lamb of the f\
+irst year for a \
+trespass offerin\
+g: but the days \
+that were before\
+ shall be lost, \
+because his sepa\
+ration was defil\
+ed.</p><p>6:13 A\
+nd this is the l\
+aw of the Nazari\
+te, when the day\
+s of his separat\
+ion are fulfille\
+d: he shall be b\
+rought unto the \
+door of the tabe\
+rnacle of the co\
+ngregation:</p><\
+p>6:14 And he sh\
+all offer his of\
+fering unto Yahw\
+eh, one he lamb \
+of the first yea\
+r without blemis\
+h for a burnt of\
+fering, and one \
+ewe lamb of the \
+first year witho\
+ut blemish for a\
+ sin offering, a\
+nd one ram witho\
+ut blemish for p\
+eace offerings,<\
+/p><p>6:15 And a\
+ basket of unlea\
+vened bread, cak\
+es of fine flour\
+ mingled with oi\
+l, and wafers of\
+ unleavened brea\
+d anointed with \
+oil, and their m\
+eat offering, an\
+d their drink of\
+ferings.</p><p>6\
+:16 And the prie\
+st shall bring t\
+hem before Yahwe\
+h, and shall off\
+er his sin offer\
+ing, and his bur\
+nt offering:</p>\
+<p>6:17 And he s\
+hall offer the r\
+am for a sacrifi\
+ce of peace offe\
+rings unto Yahwe\
+h with the baske\
+t of unleavened \
+bread: the pries\
+t shall offer al\
+so his meat offe\
+ring, and his dr\
+ink offering.</p\
+><p>6:18 And the\
+ Nazarite shall \
+shave the head o\
+f his separation\
+ at the door of \
+the tabernacle o\
+f the congregati\
+on, and shall ta\
+ke the hair of t\
+he head of his s\
+eparation, and p\
+ut it in the fir\
+e which is under\
+ the sacrifice o\
+f the peace offe\
+rings.</p><p>6:1\
+9 And the priest\
+ shall take the \
+sodden shoulder \
+of the ram, and \
+one unleavened c\
+ake out of the b\
+asket, and one u\
+nleavened wafer,\
+ and shall put t\
+hem upon the han\
+ds of the Nazari\
+te, after the ha\
+ir of his separa\
+tion is shaven:<\
+/p><p>6:20 And t\
+he priest shall \
+wave them for a \
+wave offering be\
+fore Yahweh:  th\
+is is holy for t\
+he priest, with \
+the wave breast \
+and heave should\
+er: and after th\
+at the Nazarite \
+may drink wine.<\
+/p><p>6:21 This \
+is the law of th\
+e Nazarite who h\
+ath vowed, and o\
+f his offering u\
+nto Yahweh for h\
+is separation, b\
+eside that that \
+his hand shall g\
+et: according to\
+ the vow which h\
+e vowed, so he m\
+ust do after the\
+ law of his sepa\
+ration.</p><p>6:\
+22 And Yahweh sp\
+ake unto Moses, \
+saying,</p><p>6:\
+23 Speak unto Aa\
+ron and unto his\
+ sons, saying, O\
+n this wise ye s\
+hall bless the c\
+hildren of Israe\
+l, saying unto t\
+hem,</p><p>6:24 \
+Yahweh bless the\
+e, and keep thee\
+:</p><p>6:25 Yah\
+weh make his fac\
+e shine upon the\
+e, and be gracio\
+us unto thee:</p\
+><p>6:26 Yahweh \
+lift up his coun\
+tenance upon the\
+e, and give thee\
+ peace.</p><p>6:\
+27 And they shal\
+l put my name up\
+on the children \
+of Israel, and I\
+ will bless them\
+.</p>\x22,       \x22c\
+hapter\x22: \x22Number\
+s 6\x22     }  ] }\
+\x00\x00\x0bx\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>3:1 \
+A prayer of Haba\
+kkuk the prophet\
+ upon Shigionoth\
+.</p><p>3:2 O Ya\
+hweh, I have hea\
+rd thy speech, a\
+nd was afraid: O\
+ Yahweh, revive \
+thy work in the \
+midst of the yea\
+rs, in the midst\
+ of the years ma\
+ke known; in wra\
+th remember merc\
+y.</p><p>3:3 Elo\
+him came from Te\
+man, and the Hol\
+y One from mount\
+ Paran. Selah. H\
+is glory covered\
+ the heavens, an\
+d the earth was \
+full of his prai\
+se.</p><p>3:4 An\
+d his brightness\
+ was as the ligh\
+t; he had horns \
+coming out of hi\
+s hand: and ther\
+e was the hiding\
+ of his power.</\
+p><p>3:5 Before \
+him went the pes\
+tilence, and bur\
+ning coals went \
+forth at his fee\
+t.</p><p>3:6 He \
+stood, and measu\
+red the earth: h\
+e beheld, and dr\
+ove asunder the \
+nations; and the\
+ everlasting mou\
+ntains were scat\
+tered, the perpe\
+tual hills did b\
+ow: his ways are\
+ everlasting.</p\
+><p>3:7 I saw th\
+e tents of Cusha\
+n in affliction:\
+ and the curtain\
+s of the land of\
+ Midian did trem\
+ble.</p><p>3:8 W\
+as Yahweh disple\
+ased against the\
+ rivers? was thi\
+ne anger against\
+ the rivers? was\
+ thy wrath again\
+st the sea, that\
+ thou didst ride\
+ upon thine hors\
+es and thy chari\
+ots of salvation\
+?</p><p>3:9 Thy \
+bow was made qui\
+te naked, accord\
+ing to the oaths\
+ of the tribes, \
+even thy word. S\
+elah. Thou didst\
+ cleave the eart\
+h with rivers.</\
+p><p>3:10 The mo\
+untains saw thee\
+, and they tremb\
+led: the overflo\
+wing of the wate\
+r passed by: the\
+ deep uttered hi\
+s voice, and lif\
+ted up his hands\
+ on high.</p><p>\
+3:11 The sun and\
+ moon stood stil\
+l in their habit\
+ation: at the li\
+ght of thine arr\
+ows they went, a\
+nd at the shinin\
+g of thy glitter\
+ing spear.</p><p\
+>3:12 Thou didst\
+ march through t\
+he land in indig\
+nation, thou did\
+st thresh the he\
+athen in anger.<\
+/p><p>3:13 Thou \
+wentest forth fo\
+r the salvation \
+of thy people, e\
+ven for salvatio\
+n with thine ano\
+inted; thou woun\
+dedst the head o\
+ut of the house \
+of the wicked, b\
+y discovering th\
+e foundation unt\
+o the neck. Sela\
+h.</p><p>3:14 Th\
+ou didst strike \
+through with his\
+ staves the head\
+ of his villages\
+: they came out \
+as a whirlwind t\
+o scatter me: th\
+eir rejoicing wa\
+s as to devour t\
+he poor secretly\
+.</p><p>3:15 Tho\
+u didst walk thr\
+ough the sea wit\
+h thine horses, \
+through the heap\
+ of great waters\
+.</p><p>3:16 Whe\
+n I heard, my be\
+lly trembled; my\
+ lips quivered a\
+t the voice: rot\
+tenness entered \
+into my bones, a\
+nd I trembled in\
+ myself, that I \
+might rest in th\
+e day of trouble\
+: when he cometh\
+ up unto the peo\
+ple, he will inv\
+ade them with hi\
+s troops.</p><p>\
+3:17 Although th\
+e fig tree shall\
+ not blossom, ne\
+ither shall frui\
+t be in the vine\
+s; the labour of\
+ the olive shall\
+ fail, and the f\
+ields shall yiel\
+d no meat; the f\
+lock shall be cu\
+t off from the f\
+old, and there s\
+hall be no herd \
+in the stalls:</\
+p><p>3:18 Yet I \
+will rejoice in \
+Yahweh, I will j\
+oy in the Elohim\
+ of my salvation\
+.</p><p>3:19 Yah\
+weh Elohim is my\
+ strength, and h\
+e will make my f\
+eet like hinds' \
+feet, and he wil\
+l make me to wal\
+k upon mine high\
+ places. To the \
+chief singer on \
+my stringed inst\
+ruments.</p>\x22,  \
+     \x22chapter\x22: \
+\x22Habakkuk 3\x22    \
+ }  ] }\
+\x00\x00\x09v\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>18:1\
+ Through desire \
+a man, having se\
+parated himself,\
+ seeketh and int\
+ermeddleth with \
+all wisdom.</p><\
+p>18:2 A fool ha\
+th no delight in\
+ understanding, \
+but that his hea\
+rt may discover \
+itself.</p><p>18\
+:3 When the wick\
+ed cometh, then \
+cometh also cont\
+empt, and with i\
+gnominy reproach\
+.</p><p>18:4 The\
+ words of a man'\
+s mouth are as d\
+eep waters, and \
+the wellspring o\
+f wisdom as a fl\
+owing brook.</p>\
+<p>18:5 It is no\
+t good to accept\
+ the person of t\
+he wicked, to ov\
+erthrow the righ\
+teous in judgmen\
+t.</p><p>18:6 A \
+fool's lips ente\
+r into contentio\
+n, and his mouth\
+ calleth for str\
+okes.</p><p>18:7\
+ A fool's mouth \
+is his destructi\
+on, and his lips\
+ are the snare o\
+f his soul.</p><\
+p>18:8 The words\
+ of a talebearer\
+ are as wounds, \
+and they go down\
+ into the innerm\
+ost parts of the\
+ belly.</p><p>18\
+:9 He also that \
+is slothful in h\
+is work is broth\
+er to him that i\
+s a great waster\
+.</p><p>18:10 Th\
+e name of Yahweh\
+ is a strong tow\
+er: the righteou\
+s runneth into i\
+t, and is safe.<\
+/p><p>18:11 The \
+rich man's wealt\
+h is his strong \
+city, and as an \
+high wall in his\
+ own conceit.</p\
+><p>18:12 Before\
+ destruction the\
+ heart of man is\
+ haughty, and be\
+fore honour is h\
+umility.</p><p>1\
+8:13 He that ans\
+wereth a matter \
+before he hearet\
+h it, it is foll\
+y and shame unto\
+ him.</p><p>18:1\
+4 The spirit of \
+a man will susta\
+in his infirmity\
+; but a wounded \
+spirit who can b\
+ear?</p><p>18:15\
+ The heart of th\
+e prudent gettet\
+h knowledge; and\
+ the ear of the \
+wise seeketh kno\
+wledge.</p><p>18\
+:16 A man's gift\
+ maketh room for\
+ him, and bringe\
+th him before gr\
+eat men.</p><p>1\
+8:17 He that is \
+first in his own\
+ cause seemeth j\
+ust; but his nei\
+ghbour cometh an\
+d searcheth him.\
+</p><p>18:18 The\
+ lot causeth con\
+tentions to ceas\
+e, and parteth b\
+etween the might\
+y.</p><p>18:19 A\
+ brother offende\
+d is harder to b\
+e won than a str\
+ong city: and th\
+eir contentions \
+are like the bar\
+s of a castle.</\
+p><p>18:20 A man\
+'s belly shall b\
+e satisfied with\
+ the fruit of hi\
+s mouth; and wit\
+h the increase o\
+f his lips shall\
+ he be filled.</\
+p><p>18:21 Death\
+ and life are in\
+ the power of th\
+e tongue: and th\
+ey that love it \
+shall eat the fr\
+uit thereof.</p>\
+<p>18:22 Whoso f\
+indeth a wife fi\
+ndeth a good thi\
+ng, and obtainet\
+h favour of Yahw\
+eh.</p><p>18:23 \
+The poor useth i\
+ntreaties; but t\
+he rich answeret\
+h roughly.</p><p\
+>18:24 A man tha\
+t hath friends m\
+ust shew himself\
+ friendly: and t\
+here is a friend\
+ that sticketh c\
+loser than a bro\
+ther.</p>\x22,     \
+  \x22chapter\x22: \x22Pr\
+overbs 18\x22     }\
+  ] }\
+\x00\x00\x0a:\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>13:1\
+ A wise son hear\
+eth his father's\
+ instruction: bu\
+t a scorner hear\
+eth not rebuke.<\
+/p><p>13:2 A man\
+ shall eat good \
+by the fruit of \
+his mouth: but t\
+he soul of the t\
+ransgressors sha\
+ll eat violence.\
+</p><p>13:3 He t\
+hat keepeth his \
+mouth keepeth hi\
+s life: but he t\
+hat openeth wide\
+ his lips shall \
+have destruction\
+.</p><p>13:4 The\
+ soul of the slu\
+ggard desireth, \
+and hath nothing\
+: but the soul o\
+f the diligent s\
+hall be made fat\
+.</p><p>13:5 A r\
+ighteous man hat\
+eth lying: but a\
+ wicked man is l\
+oathsome, and co\
+meth to shame.</\
+p><p>13:6 Righte\
+ousness keepeth \
+him that is upri\
+ght in the way: \
+but wickedness o\
+verthroweth the \
+sinner.</p><p>13\
+:7 There is that\
+ maketh himself \
+rich, yet hath n\
+othing: there is\
+ that maketh him\
+self poor, yet h\
+ath great riches\
+.</p><p>13:8 The\
+ ransom of a man\
+'s life are his \
+riches: but the \
+poor heareth not\
+ rebuke.</p><p>1\
+3:9 The light of\
+ the righteous r\
+ejoiceth: but th\
+e lamp of the wi\
+cked shall be pu\
+t out.</p><p>13:\
+10 Only by pride\
+ cometh contenti\
+on: but with the\
+ well advised is\
+ wisdom.</p><p>1\
+3:11 Wealth gott\
+en by vanity sha\
+ll be diminished\
+: but he that ga\
+thereth by labou\
+r shall increase\
+.</p><p>13:12 Ho\
+pe deferred make\
+th the heart sic\
+k: but when the \
+desire cometh, i\
+t is a tree of l\
+ife.</p><p>13:13\
+ Whoso despiseth\
+ the word shall \
+be destroyed: bu\
+t he that fearet\
+h the commandmen\
+t shall be rewar\
+ded.</p><p>13:14\
+ The law of the \
+wise is a founta\
+in of life, to d\
+epart from the s\
+nares of death.<\
+/p><p>13:15 Good\
+ understanding g\
+iveth favour: bu\
+t the way of tra\
+nsgressors is ha\
+rd.</p><p>13:16 \
+Every prudent ma\
+n dealeth with k\
+nowledge: but a \
+fool layeth open\
+ his folly.</p><\
+p>13:17 A wicked\
+ messenger falle\
+th into mischief\
+: but a faithful\
+ ambassador is h\
+ealth.</p><p>13:\
+18 Poverty and s\
+hame shall be to\
+ him that refuse\
+th instruction: \
+but he that rega\
+rdeth reproof sh\
+all be honoured.\
+</p><p>13:19 The\
+ desire accompli\
+shed is sweet to\
+ the soul: but i\
+t is abomination\
+ to fools to dep\
+art from evil.</\
+p><p>13:20 He th\
+at walketh with \
+wise men shall b\
+e wise: but a co\
+mpanion of fools\
+ shall be destro\
+yed.</p><p>13:21\
+ Evil pursueth s\
+inners: but to t\
+he righteous goo\
+d shall be repay\
+ed.</p><p>13:22 \
+A good man leave\
+th an inheritanc\
+e to his childre\
+n's children: an\
+d the wealth of \
+the sinner is la\
+id up for the ju\
+st.</p><p>13:23 \
+Much food is in \
+the tillage of t\
+he poor: but the\
+re is that is de\
+stroyed for want\
+ of judgment.</p\
+><p>13:24 He tha\
+t spareth his ro\
+d hateth his son\
+: but he that lo\
+veth him chasten\
+eth him betimes.\
+</p><p>13:25 The\
+ righteous eatet\
+h to the satisfy\
+ing of his soul:\
+ but the belly o\
+f the wicked sha\
+ll want.</p>\x22,  \
+     \x22chapter\x22: \
+\x22Proverbs 13\x22   \
+  }  ] } \
+\x00\x00\x0dQ\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>15:1\
+ A soft answer t\
+urneth away wrat\
+h: but grievous \
+words stir up an\
+ger.</p><p>15:2 \
+The tongue of th\
+e wise useth kno\
+wledge aright: b\
+ut the mouth of \
+fools poureth ou\
+t foolishness.</\
+p><p>15:3 The ey\
+es of Yahweh are\
+ in every place,\
+ beholding the e\
+vil and the good\
+.</p><p>15:4 A w\
+holesome tongue \
+is a tree of lif\
+e: but perversen\
+ess therein is a\
+ breach in the s\
+pirit.</p><p>15:\
+5 A fool despise\
+th his father's \
+instruction: but\
+ he that regarde\
+th reproof is pr\
+udent.</p><p>15:\
+6 In the house o\
+f the righteous \
+is much treasure\
+: but in the rev\
+enues of the wic\
+ked is trouble.<\
+/p><p>15:7 The l\
+ips of the wise \
+disperse knowled\
+ge: but the hear\
+t of the foolish\
+ doeth not so.</\
+p><p>15:8 The sa\
+crifice of the w\
+icked is an abom\
+ination to Yahwe\
+h: but the praye\
+r of the upright\
+ is his delight.\
+</p><p>15:9 The \
+way of the wicke\
+d is an abominat\
+ion unto Yahweh:\
+ but he loveth h\
+im that followet\
+h after righteou\
+sness.</p><p>15:\
+10 Correction is\
+ grievous unto h\
+im that forsaket\
+h the way: and h\
+e that hateth re\
+proof shall die.\
+</p><p>15:11 Hel\
+l and destructio\
+n are before Yah\
+weh: how much mo\
+re then the hear\
+ts of the childr\
+en of men?</p><p\
+>15:12 A scorner\
+ loveth not one \
+that reproveth h\
+im: neither will\
+ he go unto the \
+wise.</p><p>15:1\
+3 A merry heart \
+maketh a cheerfu\
+l countenance: b\
+ut by sorrow of \
+the heart the sp\
+irit is broken.<\
+/p><p>15:14 The \
+heart of him tha\
+t hath understan\
+ding seeketh kno\
+wledge: but the \
+mouth of fools f\
+eedeth on foolis\
+hness.</p><p>15:\
+15 All the days \
+of the afflicted\
+ are evil: but h\
+e that is of a m\
+erry heart hath \
+a continual feas\
+t.</p><p>15:16 B\
+etter is little \
+with the fear of\
+ Yahweh than gre\
+at treasure and \
+trouble therewit\
+h.</p><p>15:17 B\
+etter is a dinne\
+r of herbs where\
+ love is, than a\
+ stalled ox and \
+hatred therewith\
+.</p><p>15:18 A \
+wrathful man sti\
+rreth up strife:\
+ but he that is \
+slow to anger ap\
+peaseth strife.<\
+/p><p>15:19 The \
+way of the sloth\
+ful man is as an\
+ hedge of thorns\
+: but the way of\
+ the righteous i\
+s made plain.</p\
+><p>15:20 A wise\
+ son maketh a gl\
+ad father: but a\
+ foolish man des\
+piseth his mothe\
+r.</p><p>15:21 F\
+olly is joy to h\
+im that is desti\
+tute of wisdom: \
+but a man of und\
+erstanding walke\
+th uprightly.</p\
+><p>15:22 Withou\
+t counsel purpos\
+es are disappoin\
+ted: but in the \
+multitude of cou\
+nsellors they ar\
+e established.</\
+p><p>15:23 A man\
+ hath joy by the\
+ answer of his m\
+outh: and a word\
+ spoken in due s\
+eason, how good \
+is it!</p><p>15:\
+24 The way of li\
+fe is above to t\
+he wise, that he\
+ may depart from\
+ hell beneath.</\
+p><p>15:25 Yahwe\
+h will destroy t\
+he house of the \
+proud: but he wi\
+ll establish the\
+ border of the w\
+idow.</p><p>15:2\
+6 The thoughts o\
+f the wicked are\
+ an abomination \
+to Yahweh: but t\
+he words of the \
+pure are pleasan\
+t words.</p><p>1\
+5:27 He that is \
+greedy of gain t\
+roubleth his own\
+ house; but he t\
+hat hateth gifts\
+ shall live.</p>\
+<p>15:28 The hea\
+rt of the righte\
+ous studieth to \
+answer: but the \
+mouth of the wic\
+ked poureth out \
+evil things.</p>\
+<p>15:29 Yahweh \
+is far from the \
+wicked: but he h\
+eareth the praye\
+r of the righteo\
+us.</p><p>15:30 \
+The light of the\
+ eyes rejoiceth \
+the heart: and a\
+ good report mak\
+eth the bones fa\
+t.</p><p>15:31 T\
+he ear that hear\
+eth the reproof \
+of life abideth \
+among the wise.<\
+/p><p>15:32 He t\
+hat refuseth ins\
+truction despise\
+th his own soul:\
+ but he that hea\
+reth reproof get\
+teth understandi\
+ng.</p><p>15:33 \
+The fear of Yahw\
+eh is the instru\
+ction of wisdom;\
+ and before hono\
+ur is humility.<\
+/p>\x22,       \x22cha\
+pter\x22: \x22Proverbs\
+ 15\x22     }  ] } \
+\
+\x00\x00\x0c\xd3\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>3:1 \
+My son, forget n\
+ot my law; but l\
+et thine heart k\
+eep my commandme\
+nts:</p><p>3:2 F\
+or length of day\
+s, and long life\
+, and peace, sha\
+ll they add to t\
+hee.</p><p>3:3 L\
+et not mercy and\
+ truth forsake t\
+hee: bind them a\
+bout thy neck; w\
+rite them upon t\
+he table of thin\
+e heart:</p><p>3\
+:4 So shalt thou\
+ find favour and\
+ good understand\
+ing in the sight\
+ of Elohim and m\
+an.</p><p>3:5 Tr\
+ust in Yahweh wi\
+th all thine hea\
+rt; and lean not\
+ unto thine own \
+understanding.</\
+p><p>3:6 In all \
+thy ways acknowl\
+edge him, and he\
+ shall direct th\
+y paths.</p><p>3\
+:7 Be not wise i\
+n thine own eyes\
+: fear Yahweh, a\
+nd depart from e\
+vil.</p><p>3:8 I\
+t shall be healt\
+h to thy navel, \
+and marrow to th\
+y bones.</p><p>3\
+:9 Honour Yahweh\
+ with thy substa\
+nce, and with th\
+e firstfruits of\
+ all thine incre\
+ase:</p><p>3:10 \
+So shall thy bar\
+ns be filled wit\
+h plenty, and th\
+y presses shall \
+burst out with n\
+ew wine.</p><p>3\
+:11 My son, desp\
+ise not the chas\
+tening of Yahweh\
+; neither be wea\
+ry of his correc\
+tion:</p><p>3:12\
+ For whom Yahweh\
+ loveth he corre\
+cteth; even as a\
+ father the son \
+in whom he delig\
+hteth.</p><p>3:1\
+3 Happy is the m\
+an that findeth \
+wisdom, and the \
+man that getteth\
+ understanding.<\
+/p><p>3:14 For t\
+he merchandise o\
+f it is better t\
+han the merchand\
+ise of silver, a\
+nd the gain ther\
+eof than fine go\
+ld.</p><p>3:15 S\
+he is more preci\
+ous than rubies:\
+ and all the thi\
+ngs thou canst d\
+esire are not to\
+ be compared unt\
+o her.</p><p>3:1\
+6 Length of days\
+ is in her right\
+ hand; and in he\
+r left hand rich\
+es and honour.</\
+p><p>3:17 Her wa\
+ys are ways of p\
+leasantness, and\
+ all her paths a\
+re peace.</p><p>\
+3:18 She is a tr\
+ee of life to th\
+em that lay hold\
+ upon her: and h\
+appy is every on\
+e that retaineth\
+ her.</p><p>3:19\
+ Yahweh by wisdo\
+m hath founded t\
+he earth; by und\
+erstanding hath \
+he established t\
+he heavens.</p><\
+p>3:20 By his kn\
+owledge the dept\
+hs are broken up\
+, and the clouds\
+ drop down the d\
+ew.</p><p>3:21 M\
+y son, let not t\
+hem depart from \
+thine eyes: keep\
+ sound wisdom an\
+d discretion:</p\
+><p>3:22 So shal\
+l they be life u\
+nto thy soul, an\
+d grace to thy n\
+eck.</p><p>3:23 \
+Then shalt thou \
+walk in thy way \
+safely, and thy \
+foot shall not s\
+tumble.</p><p>3:\
+24 When thou lie\
+st down, thou sh\
+alt not be afrai\
+d: yea, thou sha\
+lt lie down, and\
+ thy sleep shall\
+ be sweet.</p><p\
+>3:25 Be not afr\
+aid of sudden fe\
+ar, neither of t\
+he desolation of\
+ the wicked, whe\
+n it cometh.</p>\
+<p>3:26 For Yahw\
+eh shall be thy \
+confidence, and \
+shall keep thy f\
+oot from being t\
+aken.</p><p>3:27\
+ Withhold not go\
+od from them to \
+whom it is due, \
+when it is in th\
+e power of thine\
+ hand to do it.<\
+/p><p>3:28 Say n\
+ot unto thy neig\
+hbour, Go, and c\
+ome again, and t\
+o morrow I will \
+give; when thou \
+hast it by thee.\
+</p><p>3:29 Devi\
+se not evil agai\
+nst thy neighbou\
+r, seeing he dwe\
+lleth securely b\
+y thee.</p><p>3:\
+30 Strive not wi\
+th a man without\
+ cause, if he ha\
+ve done thee no \
+harm.</p><p>3:31\
+ Envy thou not t\
+he oppressor, an\
+d choose none of\
+ his ways.</p><p\
+>3:32 For the fr\
+oward is abomina\
+tion to Yahweh: \
+but his secret i\
+s with the right\
+eous.</p><p>3:33\
+ The curse of Ya\
+hweh is in the h\
+ouse of the wick\
+ed: but he bless\
+eth the habitati\
+on of the just.<\
+/p><p>3:34 Surel\
+y he scorneth th\
+e scorners: but \
+he giveth grace \
+unto the lowly.<\
+/p><p>3:35 The w\
+ise shall inheri\
+t glory: but sha\
+me shall be the \
+promotion of foo\
+ls.</p>\x22,       \
+\x22chapter\x22: \x22Prov\
+erbs 3\x22     }  ]\
+ }\
+\x00\x00\x0d\xd0\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>14:1\
+ Every wise woma\
+n buildeth her h\
+ouse: but the fo\
+olish plucketh i\
+t down with her \
+hands.</p><p>14:\
+2 He that walket\
+h in his upright\
+ness feareth Yah\
+weh: but he that\
+ is perverse in \
+his ways despise\
+th him.</p><p>14\
+:3 In the mouth \
+of the foolish i\
+s a rod of pride\
+: but the lips o\
+f the wise shall\
+ preserve them.<\
+/p><p>14:4 Where\
+ no oxen are, th\
+e crib is clean:\
+ but much increa\
+se is by the str\
+ength of the ox.\
+</p><p>14:5 A fa\
+ithful witness w\
+ill not lie: but\
+ a false witness\
+ will utter lies\
+.</p><p>14:6 A s\
+corner seeketh w\
+isdom, and finde\
+th it not: but k\
+nowledge is easy\
+ unto him that u\
+nderstandeth.</p\
+><p>14:7 Go from\
+ the presence of\
+ a foolish man, \
+when thou percei\
+vest not in him \
+the lips of know\
+ledge.</p><p>14:\
+8 The wisdom of \
+the prudent is t\
+o understand his\
+ way: but the fo\
+lly of fools is \
+deceit.</p><p>14\
+:9 Fools make a \
+mock at sin: but\
+ among the right\
+eous there is fa\
+vour.</p><p>14:1\
+0 The heart know\
+eth his own bitt\
+erness; and a st\
+ranger doth not \
+intermeddle with\
+ his joy.</p><p>\
+14:11 The house \
+of the wicked sh\
+all be overthrow\
+n: but the taber\
+nacle of the upr\
+ight shall flour\
+ish.</p><p>14:12\
+ There is a way \
+which seemeth ri\
+ght unto a man, \
+but the end ther\
+eof are the ways\
+ of death.</p><p\
+>14:13 Even in l\
+aughter the hear\
+t is sorrowful; \
+and the end of t\
+hat mirth is hea\
+viness.</p><p>14\
+:14 The backslid\
+er in heart shal\
+l be filled with\
+ his own ways: a\
+nd a good man sh\
+all be satisfied\
+ from himself.</\
+p><p>14:15 The s\
+imple believeth \
+every word: but \
+the prudent man \
+looketh well to \
+his going.</p><p\
+>14:16 A wise ma\
+n feareth, and d\
+eparteth from ev\
+il: but the fool\
+ rageth, and is \
+confident.</p><p\
+>14:17 He that i\
+s soon angry dea\
+leth foolishly: \
+and a man of wic\
+ked devices is h\
+ated.</p><p>14:1\
+8 The simple inh\
+erit folly: but \
+the prudent are \
+crowned with kno\
+wledge.</p><p>14\
+:19 The evil bow\
+ before the good\
+; and the wicked\
+ at the gates of\
+ the righteous.<\
+/p><p>14:20 The \
+poor is hated ev\
+en of his own ne\
+ighbour: but the\
+ rich hath many \
+friends.</p><p>1\
+4:21 He that des\
+piseth his neigh\
+bour sinneth: bu\
+t he that hath m\
+ercy on the poor\
+, happy is he.</\
+p><p>14:22 Do th\
+ey not err that \
+devise evil? but\
+ mercy and truth\
+ shall be to the\
+m that devise go\
+od.</p><p>14:23 \
+In all labour th\
+ere is profit: b\
+ut the talk of t\
+he lips tendeth \
+only to penury.<\
+/p><p>14:24 The \
+crown of the wis\
+e is their riche\
+s: but the fooli\
+shness of fools \
+is folly.</p><p>\
+14:25 A true wit\
+ness delivereth \
+souls: but a dec\
+eitful witness s\
+peaketh lies.</p\
+><p>14:26 In the\
+ fear of Yahweh \
+is strong confid\
+ence: and his ch\
+ildren shall hav\
+e a place of ref\
+uge.</p><p>14:27\
+ The fear of Yah\
+weh is a fountai\
+n of life, to de\
+part from the sn\
+ares of death.</\
+p><p>14:28 In th\
+e multitude of p\
+eople is the kin\
+g's honour: but \
+in the want of p\
+eople is the des\
+truction of the \
+prince.</p><p>14\
+:29 He that is s\
+low to wrath is \
+of great underst\
+anding: but he t\
+hat is hasty of \
+spirit exalteth \
+folly.</p><p>14:\
+30 A sound heart\
+ is the life of \
+the flesh: but e\
+nvy the rottenne\
+ss of the bones.\
+</p><p>14:31 He \
+that oppresseth \
+the poor reproac\
+heth his Maker: \
+but he that hono\
+ureth him hath m\
+ercy on the poor\
+.</p><p>14:32 Th\
+e wicked is driv\
+en away in his w\
+ickedness: but t\
+he righteous hat\
+h hope in his de\
+ath.</p><p>14:33\
+ Wisdom resteth \
+in the heart of \
+him that hath un\
+derstanding: but\
+ that which is i\
+n the midst of f\
+ools is made kno\
+wn.</p><p>14:34 \
+Righteousness ex\
+alteth a nation:\
+ but sin is a re\
+proach to any pe\
+ople.</p><p>14:3\
+5 The king's fav\
+our is toward a \
+wise servant: bu\
+t his wrath is a\
+gainst him that \
+causeth shame.</\
+p>\x22,       \x22chap\
+ter\x22: \x22Proverbs \
+14\x22     }  ] } \
+\x00\x00\x0b\xa1\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>17:1\
+ Better is a dry\
+ morsel, and qui\
+etness therewith\
+, than an house \
+full of sacrific\
+es with strife.<\
+/p><p>17:2 A wis\
+e servant shall \
+have rule over a\
+ son that causet\
+h shame, and sha\
+ll have part of \
+the inheritance \
+among the brethr\
+en.</p><p>17:3 T\
+he fining pot is\
+ for silver, and\
+ the furnace for\
+ gold: but Yahwe\
+h trieth the hea\
+rts.</p><p>17:4 \
+A wicked doer gi\
+veth heed to fal\
+se lips; and a l\
+iar giveth ear t\
+o a naughty tong\
+ue.</p><p>17:5 W\
+hoso mocketh the\
+ poor reproachet\
+h his Maker: and\
+ he that is glad\
+ at calamities s\
+hall not be unpu\
+nished.</p><p>17\
+:6 Children's ch\
+ildren are the c\
+rown of old men;\
+ and the glory o\
+f children are t\
+heir fathers.</p\
+><p>17:7 Excelle\
+nt speech become\
+th not a fool: m\
+uch less do lyin\
+g lips a prince.\
+</p><p>17:8 A gi\
+ft is as a preci\
+ous stone in the\
+ eyes of him tha\
+t hath it: whith\
+ersoever it turn\
+eth, it prospere\
+th.</p><p>17:9 H\
+e that covereth \
+a transgression \
+seeketh love; bu\
+t he that repeat\
+eth a matter sep\
+arateth very fri\
+ends.</p><p>17:1\
+0 A reproof ente\
+reth more into a\
+ wise man than a\
+n hundred stripe\
+s into a fool.</\
+p><p>17:11 An ev\
+il man seeketh o\
+nly rebellion: t\
+herefore a cruel\
+ messenger shall\
+ be sent against\
+ him.</p><p>17:1\
+2 Let a bear rob\
+bed of her whelp\
+s meet a man, ra\
+ther than a fool\
+ in his folly.</\
+p><p>17:13 Whoso\
+ rewardeth evil \
+for good, evil s\
+hall not depart \
+from his house.<\
+/p><p>17:14 The \
+beginning of str\
+ife is as when o\
+ne letteth out w\
+ater: therefore \
+leave off conten\
+tion, before it \
+be meddled with.\
+</p><p>17:15 He \
+that justifieth \
+the wicked, and \
+he that condemne\
+th the just, eve\
+n they both are \
+abomination to Y\
+ahweh.</p><p>17:\
+16 Wherefore is \
+there a price in\
+ the hand of a f\
+ool to get wisdo\
+m, seeing he hat\
+h no heart to it\
+?</p><p>17:17 A \
+friend loveth at\
+ all times, and \
+a brother is bor\
+n for adversity.\
+</p><p>17:18 A m\
+an void of under\
+standing striket\
+h hands, and bec\
+ometh surety in \
+the presence of \
+his friend.</p><\
+p>17:19 He lovet\
+h transgression \
+that loveth stri\
+fe: and he that \
+exalteth his gat\
+e seeketh destru\
+ction.</p><p>17:\
+20 He that hath \
+a froward heart \
+findeth no good:\
+ and he that hat\
+h a perverse ton\
+gue falleth into\
+ mischief.</p><p\
+>17:21 He that b\
+egetteth a fool \
+doeth it to his \
+sorrow: and the \
+father of a fool\
+ hath no joy.</p\
+><p>17:22 A merr\
+y heart doeth go\
+od like a medici\
+ne: but a broken\
+ spirit drieth t\
+he bones.</p><p>\
+17:23 A wicked m\
+an taketh a gift\
+ out of the boso\
+m to pervert the\
+ ways of judgmen\
+t.</p><p>17:24 W\
+isdom is before \
+him that hath un\
+derstanding; but\
+ the eyes of a f\
+ool are in the e\
+nds of the earth\
+.</p><p>17:25 A \
+foolish son is a\
+ grief to his fa\
+ther, and bitter\
+ness to her that\
+ bare him.</p><p\
+>17:26 Also to p\
+unish the just i\
+s not good, nor \
+to strike prince\
+s for equity.</p\
+><p>17:27 He tha\
+t hath knowledge\
+ spareth his wor\
+ds: and a man of\
+ understanding i\
+s of an excellen\
+t spirit.</p><p>\
+17:28 Even a foo\
+l, when he holde\
+th his peace, is\
+ counted wise: a\
+nd he that shutt\
+eth his lips is \
+esteemed a man o\
+f understanding.\
+</p>\x22,       \x22ch\
+apter\x22: \x22Proverb\
+s 17\x22     }  ] }\
+\
+\x00\x00\x0d@\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>11:1\
+ A false balance\
+ is abomination \
+to Yahweh: but a\
+ just weight is \
+his delight.</p>\
+<p>11:2 When pri\
+de cometh, then \
+cometh shame: bu\
+t with the lowly\
+ is wisdom.</p><\
+p>11:3 The integ\
+rity of the upri\
+ght shall guide \
+them: but the pe\
+rverseness of tr\
+ansgressors shal\
+l destroy them.<\
+/p><p>11:4 Riche\
+s profit not in \
+the day of wrath\
+: but righteousn\
+ess delivereth f\
+rom death.</p><p\
+>11:5 The righte\
+ousness of the p\
+erfect shall dir\
+ect his way: but\
+ the wicked shal\
+l fall by his ow\
+n wickedness.</p\
+><p>11:6 The rig\
+hteousness of th\
+e upright shall \
+deliver them: bu\
+t transgressors \
+shall be taken i\
+n their own naug\
+htiness.</p><p>1\
+1:7 When a wicke\
+d man dieth, his\
+ expectation sha\
+ll perish: and t\
+he hope of unjus\
+t men perisheth.\
+</p><p>11:8 The \
+righteous is del\
+ivered out of tr\
+ouble, and the w\
+icked cometh in \
+his stead.</p><p\
+>11:9 An hypocri\
+te with his mout\
+h destroyeth his\
+ neighbour: but \
+through knowledg\
+e shall the just\
+ be delivered.</\
+p><p>11:10 When \
+it goeth well wi\
+th the righteous\
+, the city rejoi\
+ceth: and when t\
+he wicked perish\
+, there is shout\
+ing.</p><p>11:11\
+ By the blessing\
+ of the upright \
+the city is exal\
+ted: but it is o\
+verthrown by the\
+ mouth of the wi\
+cked.</p><p>11:1\
+2 He that is voi\
+d of wisdom desp\
+iseth his neighb\
+our: but a man o\
+f understanding \
+holdeth his peac\
+e.</p><p>11:13 A\
+ talebearer reve\
+aleth secrets: b\
+ut he that is of\
+ a faithful spir\
+it concealeth th\
+e matter.</p><p>\
+11:14 Where no c\
+ounsel is, the p\
+eople fall: but \
+in the multitude\
+ of counsellors \
+there is safety.\
+</p><p>11:15 He \
+that is surety f\
+or a stranger sh\
+all smart for it\
+: and he that ha\
+teth suretiship \
+is sure.</p><p>1\
+1:16 A gracious \
+woman retaineth \
+honour: and stro\
+ng men retain ri\
+ches.</p><p>11:1\
+7 The merciful m\
+an doeth good to\
+ his own soul: b\
+ut he that is cr\
+uel troubleth hi\
+s own flesh.</p>\
+<p>11:18 The wic\
+ked worketh a de\
+ceitful work: bu\
+t to him that so\
+weth righteousne\
+ss shall be a su\
+re reward.</p><p\
+>11:19 As righte\
+ousness tendeth \
+to life: so he t\
+hat pursueth evi\
+l pursueth it to\
+ his own death.<\
+/p><p>11:20 They\
+ that are of a f\
+roward heart are\
+ abomination to \
+Yahweh: but such\
+ as are upright \
+in their way are\
+ his delight.</p\
+><p>11:21 Though\
+ hand join in ha\
+nd, the wicked s\
+hall not be unpu\
+nished: but the \
+seed of the righ\
+teous shall be d\
+elivered.</p><p>\
+11:22 As a jewel\
+ of gold in a sw\
+ine's snout, so \
+is a fair woman \
+which is without\
+ discretion.</p>\
+<p>11:23 The des\
+ire of the right\
+eous is only goo\
+d: but the expec\
+tation of the wi\
+cked is wrath.</\
+p><p>11:24 There\
+ is that scatter\
+eth, and yet inc\
+reaseth; and the\
+re is that withh\
+oldeth more than\
+ is meet, but it\
+ tendeth to pove\
+rty.</p><p>11:25\
+ The liberal sou\
+l shall be made \
+fat: and he that\
+ watereth shall \
+be watered also \
+himself.</p><p>1\
+1:26 He that wit\
+hholdeth corn, t\
+he people shall \
+curse him: but b\
+lessing shall be\
+ upon the head o\
+f him that selle\
+th it.</p><p>11:\
+27 He that dilig\
+ently seeketh go\
+od procureth fav\
+our: but he that\
+ seeketh mischie\
+f, it shall come\
+ unto him.</p><p\
+>11:28 He that t\
+rusteth in his r\
+iches shall fall\
+; but the righte\
+ous shall flouri\
+sh as a branch.<\
+/p><p>11:29 He t\
+hat troubleth hi\
+s own house shal\
+l inherit the wi\
+nd: and the fool\
+ shall be servan\
+t to the wise of\
+ heart.</p><p>11\
+:30 The fruit of\
+ the righteous i\
+s a tree of life\
+; and he that wi\
+nneth souls is w\
+ise.</p><p>11:31\
+ Behold, the rig\
+hteous shall be \
+recompensed in t\
+he earth: much m\
+ore the wicked a\
+nd the sinner.</\
+p>\x22,       \x22chap\
+ter\x22: \x22Proverbs \
+11\x22     }  ] } \
+\x00\x00\x0bx\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>31:1\
+ The words of ki\
+ng Lemuel, the p\
+rophecy that his\
+ mother taught h\
+im.</p><p>31:2 W\
+hat, my son? and\
+ what, the son o\
+f my womb? and w\
+hat, the son of \
+my vows?</p><p>3\
+1:3 Give not thy\
+ strength unto w\
+omen, nor thy wa\
+ys to that which\
+ destroyeth king\
+s.</p><p>31:4 It\
+ is not for king\
+s, O Lemuel, it \
+is not for kings\
+ to drink wine; \
+nor for princes \
+strong drink:</p\
+><p>31:5 Lest th\
+ey drink, and fo\
+rget the law, an\
+d pervert the ju\
+dgment of any of\
+ the afflicted.<\
+/p><p>31:6 Give \
+strong drink unt\
+o him that is re\
+ady to perish, a\
+nd wine unto tho\
+se that be of he\
+avy hearts.</p><\
+p>31:7 Let him d\
+rink, and forget\
+ his poverty, an\
+d remember his m\
+isery no more.</\
+p><p>31:8 Open t\
+hy mouth for the\
+ dumb in the cau\
+se of all such a\
+s are appointed \
+to destruction.<\
+/p><p>31:9 Open \
+thy mouth, judge\
+ righteously, an\
+d plead the caus\
+e of the poor an\
+d needy.</p><p>3\
+1:10 Who can fin\
+d a virtuous wom\
+an? for her pric\
+e is far above r\
+ubies.</p><p>31:\
+11 The heart of \
+her husband doth\
+ safely trust in\
+ her, so that he\
+ shall have no n\
+eed of spoil.</p\
+><p>31:12 She wi\
+ll do him good a\
+nd not evil all \
+the days of her \
+life.</p><p>31:1\
+3 She seeketh wo\
+ol, and flax, an\
+d worketh willin\
+gly with her han\
+ds.</p><p>31:14 \
+She is like the \
+merchants' ships\
+; she bringeth h\
+er food from afa\
+r.</p><p>31:15 S\
+he riseth also w\
+hile it is yet n\
+ight, and giveth\
+ meat to her hou\
+sehold, and a po\
+rtion to her mai\
+dens.</p><p>31:1\
+6 She consideret\
+h a field, and b\
+uyeth it: with t\
+he fruit of her \
+hands she plante\
+th a vineyard.</\
+p><p>31:17 She g\
+irdeth her loins\
+ with strength, \
+and strengthenet\
+h her arms.</p><\
+p>31:18 She perc\
+eiveth that her \
+merchandise is g\
+ood: her candle \
+goeth not out by\
+ night.</p><p>31\
+:19 She layeth h\
+er hands to the \
+spindle, and her\
+ hands hold the \
+distaff.</p><p>3\
+1:20 She stretch\
+eth out her hand\
+ to the poor; ye\
+a, she reacheth \
+forth her hands \
+to the needy.</p\
+><p>31:21 She is\
+ not afraid of t\
+he snow for her \
+household: for a\
+ll her household\
+ are clothed wit\
+h scarlet.</p><p\
+>31:22 She maket\
+h herself coveri\
+ngs of tapestry;\
+ her clothing is\
+ silk and purple\
+.</p><p>31:23 He\
+r husband is kno\
+wn in the gates,\
+ when he sitteth\
+ among the elder\
+s of the land.</\
+p><p>31:24 She m\
+aketh fine linen\
+, and selleth it\
+; and delivereth\
+ girdles unto th\
+e merchant.</p><\
+p>31:25 Strength\
+ and honour are \
+her clothing; an\
+d she shall rejo\
+ice in time to c\
+ome.</p><p>31:26\
+ She openeth her\
+ mouth with wisd\
+om; and in her t\
+ongue is the law\
+ of kindness.</p\
+><p>31:27 She lo\
+oketh well to th\
+e ways of her ho\
+usehold, and eat\
+eth not the brea\
+d of idleness.</\
+p><p>31:28 Her c\
+hildren arise up\
+, and call her b\
+lessed; her husb\
+and also, and he\
+ praiseth her.</\
+p><p>31:29 Many \
+daughters have d\
+one virtuously, \
+but thou excelle\
+st them all.</p>\
+<p>31:30 Favour \
+is deceitful, an\
+d beauty is vain\
+: but a woman th\
+at feareth Yahwe\
+h, she shall be \
+praised.</p><p>3\
+1:31 Give her of\
+ the fruit of he\
+r hands; and let\
+ her own works p\
+raise her in the\
+ gates.</p>\x22,   \
+    \x22chapter\x22: \x22\
+Proverbs 31\x22    \
+ }  ] }\
+\x00\x00\x0d\xdc\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>24:1\
+ Be not thou env\
+ious against evi\
+l men, neither d\
+esire to be with\
+ them.</p><p>24:\
+2 For their hear\
+t studieth destr\
+uction, and thei\
+r lips talk of m\
+ischief.</p><p>2\
+4:3 Through wisd\
+om is an house b\
+uilded; and by u\
+nderstanding it \
+is established:<\
+/p><p>24:4 And b\
+y knowledge shal\
+l the chambers b\
+e filled with al\
+l precious and p\
+leasant riches.<\
+/p><p>24:5 A wis\
+e man is strong;\
+ yea, a man of k\
+nowledge increas\
+eth strength.</p\
+><p>24:6 For by \
+wise counsel tho\
+u shalt make thy\
+ war: and in mul\
+titude of counse\
+llors there is s\
+afety.</p><p>24:\
+7 Wisdom is too \
+high for a fool:\
+ he openeth not \
+his mouth in the\
+ gate.</p><p>24:\
+8 He that devise\
+th to do evil sh\
+all be called a \
+mischievous pers\
+on.</p><p>24:9 T\
+he thought of fo\
+olishness is sin\
+: and the scorne\
+r is an abominat\
+ion to men.</p><\
+p>24:10 If thou \
+faint in the day\
+ of adversity, t\
+hy strength is s\
+mall.</p><p>24:1\
+1 If thou forbea\
+r to deliver the\
+m that are drawn\
+ unto death, and\
+ those that are \
+ready to be slai\
+n;</p><p>24:12 I\
+f thou sayest, B\
+ehold, we knew i\
+t not; doth not \
+he that ponderet\
+h the heart cons\
+ider it? and he \
+that keepeth thy\
+ soul, doth not \
+he know it? and \
+shall not he ren\
+der to every man\
+ according to hi\
+s works?</p><p>2\
+4:13 My son, eat\
+ thou honey, bec\
+ause it is good;\
+ and the honeyco\
+mb, which is swe\
+et to thy taste:\
+</p><p>24:14 So \
+shall the knowle\
+dge of wisdom be\
+ unto thy soul: \
+when thou hast f\
+ound it, then th\
+ere shall be a r\
+eward, and thy e\
+xpectation shall\
+ not be cut off.\
+</p><p>24:15 Lay\
+ not wait, O wic\
+ked man, against\
+ the dwelling of\
+ the righteous; \
+spoil not his re\
+sting place:</p>\
+<p>24:16 For a j\
+ust man falleth \
+seven times, and\
+ riseth up again\
+: but the wicked\
+ shall fall into\
+ mischief.</p><p\
+>24:17 Rejoice n\
+ot when thine en\
+emy falleth, and\
+ let not thine h\
+eart be glad whe\
+n he stumbleth:<\
+/p><p>24:18 Lest\
+ Yahweh see it, \
+and it displease\
+ him, and he tur\
+n away his wrath\
+ from him.</p><p\
+>24:19 Fret not \
+thyself because \
+of evil men, nei\
+ther be thou env\
+ious at the wick\
+ed:</p><p>24:20 \
+For there shall \
+be no reward to \
+the evil man; th\
+e candle of the \
+wicked shall be \
+put out.</p><p>2\
+4:21 My son, fea\
+r thou Yahweh an\
+d the king: and \
+meddle not with \
+them that are gi\
+ven to change:</\
+p><p>24:22 For t\
+heir calamity sh\
+all rise suddenl\
+y; and who knowe\
+th the ruin of t\
+hem both?</p><p>\
+24:23 These thin\
+gs also belong t\
+o the wise. It i\
+s not good to ha\
+ve respect of pe\
+rsons in judgmen\
+t.</p><p>24:24 H\
+e that saith unt\
+o the wicked, Th\
+ou are righteous\
+; him shall the \
+people curse, na\
+tions shall abho\
+r him:</p><p>24:\
+25 But to them t\
+hat rebuke him s\
+hall be delight,\
+ and a good bles\
+sing shall come \
+upon them.</p><p\
+>24:26 Every man\
+ shall kiss his \
+lips that giveth\
+ a right answer.\
+</p><p>24:27 Pre\
+pare thy work wi\
+thout, and make \
+it fit for thyse\
+lf in the field;\
+ and afterwards \
+build thine hous\
+e.</p><p>24:28 B\
+e not a witness \
+against thy neig\
+hbour without ca\
+use; and deceive\
+ not with thy li\
+ps.</p><p>24:29 \
+Say not, I will \
+do so to him as \
+he hath done to \
+me: I will rende\
+r to the man acc\
+ording to his wo\
+rk.</p><p>24:30 \
+I went by the fi\
+eld of the sloth\
+ful, and by the \
+vineyard of the \
+man void of unde\
+rstanding;</p><p\
+>24:31 And, lo, \
+it was all grown\
+ over with thorn\
+s, and nettles h\
+ad covered the f\
+ace thereof, and\
+ the stone wall \
+thereof was brok\
+en down.</p><p>2\
+4:32 Then I saw,\
+ and considered \
+it well: I looke\
+d upon it, and r\
+eceived instruct\
+ion.</p><p>24:33\
+ Yet a little sl\
+eep, a little sl\
+umber, a little \
+folding of the h\
+ands to sleep:</\
+p><p>24:34 So sh\
+all thy poverty \
+come as one that\
+ travelleth; and\
+ thy want as an \
+armed man.</p>\x22,\
+       \x22chapter\x22\
+: \x22Proverbs 24\x22 \
+    }  ] } \
+\x00\x00\x0di\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>23:1\
+ When thou sitte\
+st to eat with a\
+ ruler, consider\
+ diligently what\
+ is before thee:\
+</p><p>23:2 And \
+put a knife to t\
+hy throat, if th\
+ou be a man give\
+n to appetite.</\
+p><p>23:3 Be not\
+ desirous of his\
+ dainties: for t\
+hey are deceitfu\
+l meat.</p><p>23\
+:4 Labour not to\
+ be rich: cease \
+from thine own w\
+isdom.</p><p>23:\
+5 Wilt thou set \
+thine eyes upon \
+that which is no\
+t? for riches ce\
+rtainly make the\
+mselves wings; t\
+hey fly away as \
+an eagle toward \
+heaven.</p><p>23\
+:6 Eat thou not \
+the bread of him\
+ that hath an ev\
+il eye, neither \
+desire thou his \
+dainty meats:</p\
+><p>23:7 For as \
+he thinketh in h\
+is heart, so is \
+he: Eat and drin\
+k, saith he to t\
+hee; but his hea\
+rt is not with t\
+hee.</p><p>23:8 \
+The morsel which\
+ thou hast eaten\
+ shalt thou vomi\
+t up, and lose t\
+hy sweet words.<\
+/p><p>23:9 Speak\
+ not in the ears\
+ of a fool: for \
+he will despise \
+the wisdom of th\
+y words.</p><p>2\
+3:10 Remove not \
+the old landmark\
+; and enter not \
+into the fields \
+of the fatherles\
+s:</p><p>23:11 F\
+or their redeeme\
+r is mighty; he \
+shall plead thei\
+r cause with the\
+e.</p><p>23:12 A\
+pply thine heart\
+ unto instructio\
+n, and thine ear\
+s to the words o\
+f knowledge.</p>\
+<p>23:13 Withhol\
+d not correction\
+ from the child:\
+ for if thou bea\
+test him with th\
+e rod, he shall \
+not die.</p><p>2\
+3:14 Thou shalt \
+beat him with th\
+e rod, and shalt\
+ deliver his sou\
+l from hell.</p>\
+<p>23:15 My son,\
+ if thine heart \
+be wise, my hear\
+t shall rejoice,\
+ even mine.</p><\
+p>23:16 Yea, my \
+reins shall rejo\
+ice, when thy li\
+ps speak right t\
+hings.</p><p>23:\
+17 Let not thine\
+ heart envy sinn\
+ers: but be thou\
+ in the fear of \
+Yahweh all the d\
+ay long.</p><p>2\
+3:18 For surely \
+there is an end;\
+ and thine expec\
+tation shall not\
+ be cut off.</p>\
+<p>23:19 Hear th\
+ou, my son, and \
+be wise, and gui\
+de thine heart i\
+n the way.</p><p\
+>23:20 Be not am\
+ong winebibbers;\
+ among riotous e\
+aters of flesh:<\
+/p><p>23:21 For \
+the drunkard and\
+ the glutton sha\
+ll come to pover\
+ty: and drowsine\
+ss shall clothe \
+a man with rags.\
+</p><p>23:22 Hea\
+rken unto thy fa\
+ther that begat \
+thee, and despis\
+e not thy mother\
+ when she is old\
+.</p><p>23:23 Bu\
+y the truth, and\
+ sell it not; al\
+so wisdom, and i\
+nstruction, and \
+understanding.</\
+p><p>23:24 The f\
+ather of the rig\
+hteous shall gre\
+atly rejoice: an\
+d he that begett\
+eth a wise child\
+ shall have joy \
+of him.</p><p>23\
+:25 Thy father a\
+nd thy mother sh\
+all be glad, and\
+ she that bare t\
+hee shall rejoic\
+e.</p><p>23:26 M\
+y son, give me t\
+hine heart, and \
+let thine eyes o\
+bserve my ways.<\
+/p><p>23:27 For \
+a whore is a dee\
+p ditch; and a s\
+trange woman is \
+a narrow pit.</p\
+><p>23:28 She al\
+so lieth in wait\
+ as for a prey, \
+and increaseth t\
+he transgressors\
+ among men.</p><\
+p>23:29 Who hath\
+ woe? who hath s\
+orrow? who hath \
+contentions? who\
+ hath babbling? \
+who hath wounds \
+without cause? w\
+ho hath redness \
+of eyes?</p><p>2\
+3:30 They that t\
+arry long at the\
+ wine; they that\
+ go to seek mixe\
+d wine.</p><p>23\
+:31 Look not tho\
+u upon the wine \
+when it is red, \
+when it giveth h\
+is colour in the\
+ cup, when it mo\
+veth itself arig\
+ht.</p><p>23:32 \
+At the last it b\
+iteth like a ser\
+pent, and stinge\
+th like an adder\
+.</p><p>23:33 Th\
+ine eyes shall b\
+ehold strange wo\
+men, and thine h\
+eart shall utter\
+ perverse things\
+.</p><p>23:34 Ye\
+a, thou shalt be\
+ as he that liet\
+h down in the mi\
+dst of the sea, \
+or as he that li\
+eth upon the top\
+ of a mast.</p><\
+p>23:35 They hav\
+e stricken me, s\
+halt thou say, a\
+nd I was not sic\
+k; they have bea\
+ten me, and I fe\
+lt it not: when \
+shall I awake? I\
+ will seek it ye\
+t again.</p>\x22,  \
+     \x22chapter\x22: \
+\x22Proverbs 23\x22   \
+  }  ] }\
+\x00\x00\x08\x91\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>13:1\
+ Let every soul \
+be subject unto \
+the higher power\
+s. For there is \
+no power but of \
+Elohim: the powe\
+rs that be are o\
+rdained of Elohi\
+m.</p><p>13:2 Wh\
+osoever therefor\
+e resisteth the \
+power, resisteth\
+ the ordinance o\
+f Elohim: and th\
+ey that resist s\
+hall receive to \
+themselves damna\
+tion.</p><p>13:3\
+ For rulers are \
+not a terror to \
+good works, but \
+to the evil. Wil\
+t thou then not \
+be afraid of the\
+ power? do that \
+which is good, a\
+nd thou shalt ha\
+ve praise of the\
+ same:</p><p>13:\
+4 For he is the \
+minister of Eloh\
+im to thee for g\
+ood. But if thou\
+ do that which i\
+s evil, be afrai\
+d; for he bearet\
+h not the sword \
+in vain: for he \
+is the minister \
+of Elohim, a rev\
+enger to execute\
+ wrath upon him \
+that doeth evil.\
+</p><p>13:5 Wher\
+efore ye must ne\
+eds be subject, \
+not only for wra\
+th, but also for\
+ conscience sake\
+.</p><p>13:6 For\
+ for this cause \
+pay ye tribute a\
+lso: for they ar\
+e Elohim's minis\
+ters, attending \
+continually upon\
+ this very thing\
+.</p><p>13:7 Ren\
+der therefore to\
+ all their dues:\
+ tribute to whom\
+ tribute is due;\
+ custom to whom \
+custom; fear to \
+whom fear; honou\
+r to whom honour\
+.</p><p>13:8 Owe\
+ no man any thin\
+g, but to love o\
+ne another: for \
+he that loveth a\
+nother hath fulf\
+illed the law.</\
+p><p>13:9 For th\
+is, Thou shalt n\
+ot commit adulte\
+ry, Thou shalt n\
+ot kill, Thou sh\
+alt not steal, T\
+hou shalt not be\
+ar false witness\
+, Thou shalt not\
+ covet; and if t\
+here be any othe\
+r commandment, i\
+t is briefly com\
+prehended in thi\
+s saying, namely\
+, Thou shalt lov\
+e thy neighbour \
+as thyself.</p><\
+p>13:10 Love wor\
+keth no ill to h\
+is neighbour: th\
+erefore love is \
+the fulfilling o\
+f the law.</p><p\
+>13:11 And that,\
+ knowing the tim\
+e, that now it i\
+s high time to a\
+wake out of slee\
+p: for now is ou\
+r salvation near\
+er than when we \
+believed.</p><p>\
+13:12 The night \
+is far spent, th\
+e day is at hand\
+: let us therefo\
+re cast off the \
+works of darknes\
+s, and let us pu\
+t on the armour \
+of light.</p><p>\
+13:13 Let us wal\
+k honestly, as i\
+n the day; not i\
+n rioting and dr\
+unkenness, not i\
+n chambering and\
+ wantonness, not\
+ in strife and e\
+nvying.</p><p>13\
+:14 But put ye o\
+n the master Yah\
+ushua Messiah, a\
+nd make not prov\
+ision for the fl\
+esh, to fulfil t\
+he lusts thereof\
+.</p>\x22,       \x22c\
+hapter\x22: \x22Romans\
+ 13\x22     }  ] } \
+\
+\x00\x00\x14\xa6\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>8:1 \
+There is therefo\
+re now no condem\
+nation to them w\
+hich are in Mess\
+iah Yahushua, wh\
+o walk not after\
+ the flesh, but \
+after the Spirit\
+.</p><p>8:2 For \
+the law of the S\
+pirit of life in\
+ Messiah Yahushu\
+a hath made me f\
+ree from the law\
+ of sin and deat\
+h.</p><p>8:3 For\
+ what the law co\
+uld not do, in t\
+hat it was weak \
+through the fles\
+h, Elohim sendin\
+g his own Son in\
+ the likeness of\
+ sinful flesh, a\
+nd for sin, cond\
+emned sin in the\
+ flesh:</p><p>8:\
+4 That the right\
+eousness of the \
+law might be ful\
+filled in us, wh\
+o walk not after\
+ the flesh, but \
+after the Spirit\
+.</p><p>8:5 For \
+they that are af\
+ter the flesh do\
+ mind the things\
+ of the flesh; b\
+ut they that are\
+ after the Spiri\
+t the things of \
+the Spirit.</p><\
+p>8:6 For to be \
+carnally minded \
+is death; but to\
+ be spiritually \
+minded is life a\
+nd peace.</p><p>\
+8:7 Because the \
+carnal mind is e\
+nmity against El\
+ohim: for it is \
+not subject to t\
+he law of Elohim\
+, neither indeed\
+ can be.</p><p>8\
+:8 So then they \
+that are in the \
+flesh cannot ple\
+ase Elohim.</p><\
+p>8:9 But ye are\
+ not in the fles\
+h, but in the Sp\
+irit, if so be t\
+hat the Spirit o\
+f Elohim dwell i\
+n you. Now if an\
+y man have not t\
+he Spirit of Mes\
+siah, he is none\
+ of his.</p><p>8\
+:10 And if Messi\
+ah be in you, th\
+e body is dead b\
+ecause of sin; b\
+ut the Spirit is\
+ life because of\
+ righteousness.<\
+/p><p>8:11 But i\
+f the Spirit of \
+him that raised \
+up Yahushua from\
+ the dead dwell \
+in you, he that \
+raised up Messia\
+h from the dead \
+shall also quick\
+en your mortal b\
+odies by his Spi\
+rit that dwellet\
+h in you.</p><p>\
+8:12 Therefore, \
+brethren, we are\
+ debtors, not to\
+ the flesh, to l\
+ive after the fl\
+esh.</p><p>8:13 \
+For if ye live a\
+fter the flesh, \
+ye shall die: bu\
+t if ye through \
+the Spirit do mo\
+rtify the deeds \
+of the body, ye \
+shall live.</p><\
+p>8:14 For as ma\
+ny as are led by\
+ the Spirit of E\
+lohim, they are \
+the sons of Eloh\
+im.</p><p>8:15 F\
+or ye have not r\
+eceived the spir\
+it of bondage ag\
+ain to fear; but\
+ ye have receive\
+d the Spirit of \
+adoption, whereb\
+y we cry, Abba, \
+Father.</p><p>8:\
+16 The Spirit it\
+self beareth wit\
+ness with our sp\
+irit, that we ar\
+e the children o\
+f Elohim:</p><p>\
+8:17 And if chil\
+dren, then heirs\
+; heirs of Elohi\
+m, and joint-hei\
+rs with Messiah;\
+ if so be that w\
+e suffer with hi\
+m, that we may b\
+e also glorified\
+ together.</p><p\
+>8:18 For I reck\
+on that the suff\
+erings of this p\
+resent time are \
+not worthy to be\
+ compared with t\
+he glory which s\
+hall be revealed\
+ in us.</p><p>8:\
+19 For the earne\
+st expectation o\
+f the creature w\
+aiteth for the m\
+anifestation of \
+the sons of Eloh\
+im.</p><p>8:20 F\
+or the creature \
+was made subject\
+ to vanity, not \
+willingly, but b\
+y reason of him \
+who hath subject\
+ed the same in h\
+ope,</p><p>8:21 \
+Because the crea\
+ture itself also\
+ shall be delive\
+red from the bon\
+dage of corrupti\
+on into the glor\
+ious liberty of \
+the children of \
+Elohim.</p><p>8:\
+22 For we know t\
+hat the whole cr\
+eation groaneth \
+and travaileth i\
+n pain together \
+until now.</p><p\
+>8:23 And not on\
+ly they, but our\
+selves also, whi\
+ch have the firs\
+tfruits of the S\
+pirit, even we o\
+urselves groan w\
+ithin ourselves,\
+ waiting for the\
+ adoption, to wi\
+t, the redemptio\
+n of our body.</\
+p><p>8:24 For we\
+ are saved by ho\
+pe: but hope tha\
+t is seen is not\
+ hope: for what \
+a man seeth, why\
+ doth he yet hop\
+e for?</p><p>8:2\
+5 But if we hope\
+ for that we see\
+ not, then do we\
+ with patience w\
+ait for it.</p><\
+p>8:26 Likewise \
+the Spirit also \
+helpeth our infi\
+rmities: for we \
+know not what we\
+ should pray for\
+ as we ought: bu\
+t the Spirit its\
+elf maketh inter\
+cession for us w\
+ith groanings wh\
+ich cannot be ut\
+tered.</p><p>8:2\
+7 And he that se\
+archeth the hear\
+ts knoweth what \
+is the mind of t\
+he Spirit, becau\
+se he maketh int\
+ercession for th\
+e saints accordi\
+ng to the will o\
+f Elohim.</p><p>\
+8:28 And we know\
+ that all things\
+ work together f\
+or good to them \
+that love Elohim\
+, to them who ar\
+e the called acc\
+ording to his pu\
+rpose.</p><p>8:2\
+9 For whom he di\
+d foreknow, he a\
+lso did predesti\
+nate to be confo\
+rmed to the imag\
+e of his Son, th\
+at he might be t\
+he firstborn amo\
+ng many brethren\
+.</p><p>8:30 Mor\
+eover whom he di\
+d predestinate, \
+them he also cal\
+led: and whom he\
+ called, them he\
+ also justified:\
+ and whom he jus\
+tified, them he \
+also glorified.<\
+/p><p>8:31 What \
+shall we then sa\
+y to these thing\
+s? If Elohim be \
+for us, who can \
+be against us?</\
+p><p>8:32 He tha\
+t spared not his\
+ own Son, but de\
+livered him up f\
+or us all, how s\
+hall he not with\
+ him also freely\
+ give us all thi\
+ngs?</p><p>8:33 \
+Who shall lay an\
+y thing to the c\
+harge of Elohim'\
+s elect? It is E\
+lohim that justi\
+fieth.</p><p>8:3\
+4 Who is he that\
+ condemneth? It \
+is Messiah that \
+died, yea rather\
+, that is risen \
+again, who is ev\
+en at the right \
+hand of Elohim, \
+who also maketh \
+intercession for\
+ us.</p><p>8:35 \
+Who shall separa\
+te us from the l\
+ove of Messiah? \
+shall tribulatio\
+n, or distress, \
+or persecution, \
+or famine, or na\
+kedness, or peri\
+l, or sword?</p>\
+<p>8:36 As it is\
+ written, For th\
+y sake we are ki\
+lled all the day\
+ long; we are ac\
+counted as sheep\
+ for the slaught\
+er.</p><p>8:37 N\
+ay, in all these\
+ things we are m\
+ore than conquer\
+ors through him \
+that loved us.</\
+p><p>8:38 For I \
+am persuaded, th\
+at neither death\
+, nor life, nor \
+angels, nor prin\
+cipalities, nor \
+powers, nor thin\
+gs present, nor \
+things to come,<\
+/p><p>8:39 Nor h\
+eight, nor depth\
+, nor any other \
+creature, shall \
+be able to separ\
+ate us from the \
+love of Elohim, \
+which is in Mess\
+iah Yahushua our\
+ Master.</p>\x22,  \
+     \x22chapter\x22: \
+\x22Romans 8\x22     }\
+ ] } \
+\x00\x00\x0b\x85\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>6:1 \
+What shall we sa\
+y then? Shall we\
+ continue in sin\
+, that grace may\
+ abound?</p><p>6\
+:2 Elohim forbid\
+. How shall we, \
+that are dead to\
+ sin, live any l\
+onger therein?</\
+p><p>6:3 Know ye\
+ not, that so ma\
+ny of us as were\
+ baptized into Y\
+ahushua Messiah \
+were baptized in\
+to his death?</p\
+><p>6:4 Therefor\
+e we are buried \
+with him by bapt\
+ism into death: \
+that like as Mes\
+siah was raised \
+up from the dead\
+ by the glory of\
+ the Father, eve\
+n so we also sho\
+uld walk in newn\
+ess of life.</p>\
+<p>6:5 For if we\
+ have been plant\
+ed together in t\
+he likeness of h\
+is death, we sha\
+ll be also in th\
+e likeness of hi\
+s resurrection:<\
+/p><p>6:6 Knowin\
+g this, that our\
+ old man is cruc\
+ified with him, \
+that the body of\
+ sin might be de\
+stroyed, that he\
+nceforth we shou\
+ld not serve sin\
+.</p><p>6:7 For \
+he that is dead \
+is freed from si\
+n.</p><p>6:8 Now\
+ if we be dead w\
+ith Messiah, we \
+believe that we \
+shall also live \
+with him:</p><p>\
+6:9 Knowing that\
+ Messiah being r\
+aised from the d\
+ead dieth no mor\
+e; death hath no\
+ more dominion o\
+ver him.</p><p>6\
+:10 For in that \
+he died, he died\
+ unto sin once: \
+but in that he l\
+iveth, he liveth\
+ unto Elohim.</p\
+><p>6:11 Likewis\
+e reckon ye also\
+ yourselves to b\
+e dead indeed un\
+to sin, but aliv\
+e unto Elohim th\
+rough Yahushua M\
+essiah our maste\
+r.</p><p>6:12 Le\
+t not sin theref\
+ore reign in you\
+r mortal body, t\
+hat ye should ob\
+ey it in the lus\
+ts thereof.</p><\
+p>6:13 Neither y\
+ield ye your mem\
+bers as instrume\
+nts of unrighteo\
+usness unto sin:\
+ but yield yours\
+elves unto Elohi\
+m, as those that\
+ are alive from \
+the dead, and yo\
+ur members as in\
+struments of rig\
+hteousness unto \
+Elohim.</p><p>6:\
+14 For sin shall\
+ not have domini\
+on over you: for\
+ ye are not unde\
+r the law, but u\
+nder grace.</p><\
+p>6:15 What then\
+? shall we sin, \
+because we are n\
+ot under the law\
+, but under grac\
+e? Elohim forbid\
+.</p><p>6:16 Kno\
+w ye not, that t\
+o whom ye yield \
+yourselves serva\
+nts to obey, his\
+ servants ye are\
+ to whom ye obey\
+; whether of sin\
+ unto death, or \
+of obedience unt\
+o righteousness?\
+</p><p>6:17 But \
+Elohim be thanke\
+d, that ye were \
+the servants of \
+sin, but ye have\
+ obeyed from the\
+ heart that form\
+ of doctrine whi\
+ch was delivered\
+ you.</p><p>6:18\
+ Being then made\
+ free from sin, \
+ye became the se\
+rvants of righte\
+ousness.</p><p>6\
+:19 I speak afte\
+r the manner of \
+men because of t\
+he infirmity of \
+your flesh: for \
+as ye have yield\
+ed your members \
+servants to uncl\
+eanness and to i\
+niquity unto ini\
+quity; even so n\
+ow yield your me\
+mbers servants t\
+o righteousness \
+unto holiness.</\
+p><p>6:20 For wh\
+en ye were the s\
+ervants of sin, \
+ye were free fro\
+m righteousness.\
+</p><p>6:21 What\
+ fruit had ye th\
+en in those thin\
+gs whereof ye ar\
+e now ashamed? f\
+or the end of th\
+ose things is de\
+ath.</p><p>6:22 \
+But now being ma\
+de free from sin\
+, and become ser\
+vants to Elohim,\
+ ye have your fr\
+uit unto holines\
+s, and the end e\
+verlasting life.\
+</p><p>6:23 For \
+the wages of sin\
+ is death; but t\
+he gift of Elohi\
+m is eternal lif\
+e through Yahush\
+ua Messiah our m\
+aster.</p>\x22,    \
+   \x22chapter\x22: \x22R\
+omans 6\x22     }  \
+] } \
+\x00\x00\x0a\x02\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>12:1\
+ I beseech you t\
+herefore, brethr\
+en, by the merci\
+es of Elohim, th\
+at ye present yo\
+ur bodies a livi\
+ng sacrifice, ho\
+ly, acceptable u\
+nto Elohim, whic\
+h is your reason\
+able service.</p\
+><p>12:2 And be \
+not conformed to\
+ this world: but\
+ be ye transform\
+ed by the renewi\
+ng of your mind,\
+ that ye may pro\
+ve what is that \
+good, and accept\
+able, and perfec\
+t, will of Elohi\
+m.</p><p>12:3 Fo\
+r I say, through\
+ the grace given\
+ unto me, to eve\
+ry man that is a\
+mong you, not to\
+ think of himsel\
+f more highly th\
+an he ought to t\
+hink; but to thi\
+nk soberly, acco\
+rding as Elohim \
+hath dealt to ev\
+ery man the meas\
+ure of faith.</p\
+><p>12:4 For as \
+we have many mem\
+bers in one body\
+, and all member\
+s have not the s\
+ame office:</p><\
+p>12:5 So we, be\
+ing many, are on\
+e body in Messia\
+h, and every one\
+ members one of \
+another.</p><p>1\
+2:6 Having then \
+gifts differing \
+according to the\
+ grace that is g\
+iven to us, whet\
+her prophecy, le\
+t us prophesy ac\
+cording to the p\
+roportion of fai\
+th;</p><p>12:7 O\
+r ministry, let \
+us wait on our m\
+inistering: or h\
+e that teacheth,\
+ on teaching;</p\
+><p>12:8 Or he t\
+hat exhorteth, o\
+n exhortation: h\
+e that giveth, l\
+et him do it wit\
+h simplicity; he\
+ that ruleth, wi\
+th diligence; he\
+ that sheweth me\
+rcy, with cheerf\
+ulness.</p><p>12\
+:9 Let love be w\
+ithout dissimula\
+tion. Abhor that\
+ which is evil; \
+cleave to that w\
+hich is good.</p\
+><p>12:10 Be kin\
+dly affectioned \
+one to another w\
+ith brotherly lo\
+ve; in honour pr\
+eferring one ano\
+ther;</p><p>12:1\
+1 Not slothful i\
+n business; ferv\
+ent in spirit; s\
+erving the Yahwe\
+h;</p><p>12:12 R\
+ejoicing in hope\
+; patient in tri\
+bulation; contin\
+uing instant in \
+prayer;</p><p>12\
+:13 Distributing\
+ to the necessit\
+y of saints; giv\
+en to hospitalit\
+y.</p><p>12:14 B\
+less them which \
+persecute you: b\
+less, and curse \
+not.</p><p>12:15\
+ Rejoice with th\
+em that do rejoi\
+ce, and weep wit\
+h them that weep\
+.</p><p>12:16 Be\
+ of the same min\
+d one toward ano\
+ther. Mind not h\
+igh things, but \
+condescend to me\
+n of low estate.\
+ Be not wise in \
+your own conceit\
+s.</p><p>12:17 R\
+ecompense to no \
+man evil for evi\
+l. Provide thing\
+s honest in the \
+sight of all men\
+.</p><p>12:18 If\
+ it be possible,\
+ as much as liet\
+h in you, live p\
+eaceably with al\
+l men.</p><p>12:\
+19 Dearly belove\
+d, avenge not yo\
+urselves, but ra\
+ther give place \
+unto wrath: for \
+it is written, V\
+engeance is mine\
+; I will repay, \
+saith the Yahweh\
+.</p><p>12:20 Th\
+erefore if thine\
+ enemy hunger, f\
+eed him; if he t\
+hirst, give him \
+drink: for in so\
+ doing thou shal\
+t heap coals of \
+fire on his head\
+.</p><p>12:21 Be\
+ not overcome of\
+ evil, but overc\
+ome evil with go\
+od.</p>\x22,       \
+\x22chapter\x22: \x22Roma\
+ns 12\x22     }  ] \
+}\
+\x00\x00\x1e\x01\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>18:1 An\
+d it came to pas\
+s after many day\
+s, that the word\
+ of Yahweh came \
+to Elijah in the\
+ third year, say\
+ing, Go, shew th\
+yself unto Ahab;\
+ and I will send\
+ rain upon the e\
+arth.</p><p>18:2\
+ And Elijah went\
+ to shew himself\
+ unto Ahab. And \
+there was a sore\
+ famine in Samar\
+ia.</p><p>18:3 A\
+nd Ahab called O\
+badiah, which wa\
+s the governor o\
+f his house. (No\
+w Obadiah feared\
+ Yahweh greatly:\
+</p><p>18:4 For \
+it was so, when \
+Jezebel cut off \
+the prophets of \
+Yahweh, that Oba\
+diah took an hun\
+dred prophets, a\
+nd hid them by f\
+ifty in a cave, \
+and fed them wit\
+h bread and wate\
+r.)</p><p>18:5 A\
+nd Ahab said unt\
+o Obadiah, Go in\
+to the land, unt\
+o all fountains \
+of water, and un\
+to all brooks: p\
+eradventure we m\
+ay find grass to\
+ save the horses\
+ and mules alive\
+, that we lose n\
+ot all the beast\
+s.</p><p>18:6 So\
+ they divided th\
+e land between t\
+hem to pass thro\
+ughout it: Ahab \
+went one way by \
+himself, and Oba\
+diah went anothe\
+r way by himself\
+.</p><p>18:7 And\
+ as Obadiah was \
+in the way, beho\
+ld, Elijah met h\
+im: and he knew \
+him, and fell on\
+ his face, and s\
+aid, Art thou th\
+at my master Eli\
+jah?</p><p>18:8 \
+And he answered \
+him, I am: go, t\
+ell thy master, \
+Behold, Elijah i\
+s here.</p><p>18\
+:9 And he said, \
+What have I sinn\
+ed, that thou wo\
+uldest deliver t\
+hy servant into \
+the hand of Ahab\
+, to slay me?</p\
+><p>18:10 As Yah\
+weh thy Elohim l\
+iveth, there is \
+no nation or kin\
+gdom, whither my\
+ lord hath not s\
+ent to seek thee\
+: and when they \
+said, He is not \
+there; he took a\
+n oath of the ki\
+ngdom and nation\
+, that they foun\
+d thee not.</p><\
+p>18:11 And now \
+thou sayest, Go,\
+ tell thy master\
+, Behold, Elijah\
+ is here.</p><p>\
+18:12 And it sha\
+ll come to pass,\
+ as soon as I am\
+ gone from thee,\
+ that the Spirit\
+ of Yahweh shall\
+ carry thee whit\
+her I know not; \
+and so when I co\
+me and tell Ahab\
+, and he cannot \
+find thee, he sh\
+all slay me: but\
+ I thy servant f\
+ear Yahweh from \
+my youth.</p><p>\
+18:13 Was it not\
+ told my lord wh\
+at I did when Je\
+zebel slew the p\
+rophets of Yahwe\
+h, how I hid an \
+hundred men of Y\
+ahweh's prophets\
+ by fifty in a c\
+ave, and fed the\
+m with bread and\
+ water?</p><p>18\
+:14 And now thou\
+ sayest, Go, tel\
+l thy master, Be\
+hold, Elijah is \
+here: and he sha\
+ll slay me.</p><\
+p>18:15 And Elij\
+ah said, As Yahw\
+eh of hosts live\
+th, before whom \
+I stand, I will \
+surely shew myse\
+lf unto him to d\
+ay.</p><p>18:16 \
+So Obadiah went \
+to meet Ahab, an\
+d told him: and \
+Ahab went to mee\
+t Elijah.</p><p>\
+18:17 And it cam\
+e to pass, when \
+Ahab saw Elijah,\
+ that Ahab said \
+unto him, Art th\
+ou he that troub\
+leth Israel?</p>\
+<p>18:18 And he \
+answered, I have\
+ not troubled Is\
+rael; but thou, \
+and thy father's\
+ house, in that \
+ye have forsaken\
+ the commandment\
+s of Yahweh,  an\
+d thou hast foll\
+owed Baalim.</p>\
+<p>18:19 Now the\
+refore send, and\
+ gather to me al\
+l Israel unto mo\
+unt Carmel, and \
+the prophets of \
+Baal four hundre\
+d and fifty, and\
+ the prophets of\
+ the groves four\
+ hundred, which \
+eat at Jezebel's\
+ table.</p><p>18\
+:20 So Ahab sent\
+ unto all the ch\
+ildren of Israel\
+, and gathered t\
+he prophets toge\
+ther unto mount \
+Carmel.</p><p>18\
+:21 And Elijah c\
+ame unto all the\
+ people, and sai\
+d, How long halt\
+ ye between two \
+opinions? if Yah\
+weh be Elohim fo\
+llow him: but if\
+ Baal, then foll\
+ow him. And the \
+people answered \
+him not a word.<\
+/p><p>18:22 Then\
+ said Elijah unt\
+o the people, I,\
+ even I only, re\
+main a prophet o\
+f Yahweh; but Ba\
+al's prophets ar\
+e four hundred a\
+nd fifty men.</p\
+><p>18:23 Let th\
+em therefore giv\
+e us two bullock\
+s; and let them \
+choose one bullo\
+ck for themselve\
+s, and cut it in\
+ pieces, and lay\
+ it on wood, and\
+ put no fire und\
+er: and I will d\
+ress the other b\
+ullock, and lay \
+it on wood, and \
+put no fire unde\
+r:</p><p>18:24 A\
+nd call ye on th\
+e name of your g\
+ods, and I will \
+call on the name\
+ of Yahweh: and \
+the Elohim that \
+answereth by fir\
+e, let him be El\
+ohim. And all th\
+e people answere\
+d and said, It i\
+s well spoken.</\
+p><p>18:25 And E\
+lijah said unto \
+the prophets of \
+Baal, Choose you\
+ one bullock for\
+ yourselves, and\
+ dress it first;\
+ for ye are many\
+; and call on th\
+e name of your m\
+ighty ones, but \
+put no fire unde\
+r.</p><p>18:26 A\
+nd they took the\
+ bullock which w\
+as given them, a\
+nd they dressed \
+it, and called o\
+n the name of Ba\
+al from morning \
+even until noon,\
+ saying, O Baal,\
+ hear us. But th\
+ere was no voice\
+, nor any that a\
+nswered. And the\
+y leaped upon th\
+e altar which wa\
+s made.</p><p>18\
+:27 And it came \
+to pass at noon,\
+ that Elijah moc\
+ked them, and sa\
+id, Cry aloud: f\
+or he is a might\
+y one: either he\
+ is talking, or \
+he is pursuing, \
+or he is in a jo\
+urney, or peradv\
+enture he sleepe\
+th, and must be \
+awaked.</p><p>18\
+:28 And they cri\
+ed aloud, and cu\
+t themselves aft\
+er their manner \
+with knives and \
+lancets, till th\
+e blood gushed o\
+ut upon them.</p\
+><p>18:29 And it\
+ came to pass, w\
+hen midday was p\
+ast, and they pr\
+ophesied until t\
+he time of the o\
+ffering of the e\
+vening sacrifice\
+, that there was\
+ neither voice, \
+nor any to answe\
+r, nor any that \
+regarded.</p><p>\
+18:30 And Elijah\
+ said unto all t\
+he people, Come \
+near unto me. An\
+d all the people\
+ came near unto \
+him. And he repa\
+ired the altar o\
+f Yahweh  that w\
+as broken down.<\
+/p><p>18:31 And \
+Elijah took twel\
+ve stones, accor\
+ding to the numb\
+er of the tribes\
+ of the sons of \
+Jacob, unto whom\
+ the word of Yah\
+weh came, saying\
+, Israel shall b\
+e thy name:</p><\
+p>18:32 And with\
+ the stones he b\
+uilt an altar in\
+ the name of Yah\
+weh: and he made\
+ a trench about \
+the altar, as gr\
+eat as would con\
+tain two measure\
+s of seed.</p><p\
+>18:33 And he pu\
+t the wood in or\
+der, and cut the\
+ bullock in piec\
+es, and laid him\
+ on the wood, an\
+d said, Fill fou\
+r barrels with w\
+ater, and pour i\
+t on the burnt s\
+acrifice, and on\
+ the wood.</p><p\
+>18:34 And he sa\
+id, Do it the se\
+cond time. And t\
+hey did it the s\
+econd time. And \
+he said, Do it t\
+he third time. A\
+nd they did it t\
+he third time.</\
+p><p>18:35 And t\
+he water ran rou\
+nd about the alt\
+ar; and he fille\
+d the trench als\
+o with water.</p\
+><p>18:36 And it\
+ came to pass at\
+ the time of the\
+ offering of the\
+ evening sacrifi\
+ce, that Elijah \
+the prophet came\
+ near, and said,\
+ Yahweh Elohim o\
+f Abraham, Isaac\
+, and of Israel,\
+ let it be known\
+ this day that t\
+hou art Elohim i\
+n Israel, and th\
+at I am thy serv\
+ant, and that I \
+have done all th\
+ese things at th\
+y word.</p><p>18\
+:37 Hear me, O Y\
+ahweh, hear me, \
+that this people\
+ may know that t\
+hou art the Yahw\
+eh Elohim, and t\
+hat thou hast tu\
+rned their heart\
+ back again.</p>\
+<p>18:38 Then th\
+e fire of Yahweh\
+ fell, and consu\
+med the burnt sa\
+crifice, and the\
+ wood, and the s\
+tones, and the d\
+ust, and licked \
+up the water tha\
+t was in the tre\
+nch.</p><p>18:39\
+ And when all th\
+e people saw it,\
+ they fell on th\
+eir faces: and t\
+hey said, Yahweh\
+, he is the Eloh\
+im, Yahweh, he i\
+s the Elohim. </\
+p><p>18:40 And E\
+lijah said unto \
+them, Take the p\
+rophets of Baal;\
+ let not one of \
+them escape. And\
+ they took them:\
+ and Elijah brou\
+ght them down to\
+ the brook Kisho\
+n, and slew them\
+ there.</p><p>18\
+:41 And Elijah s\
+aid unto Ahab, G\
+et thee up, eat \
+and drink; for t\
+here is a sound \
+of abundance of \
+rain.</p><p>18:4\
+2 So Ahab went u\
+p to eat and to \
+drink. And Elija\
+h went up to the\
+ top of Carmel; \
+and he cast hims\
+elf down upon th\
+e earth, and put\
+ his face betwee\
+n his knees,</p>\
+<p>18:43 And sai\
+d to his servant\
+, Go up now, loo\
+k toward the sea\
+. And he went up\
+, and looked, an\
+d said, There is\
+ nothing. And he\
+ said, Go again \
+seven times.</p>\
+<p>18:44 And it \
+came to pass at \
+the seventh time\
+, that he said, \
+Behold, there ar\
+iseth a little c\
+loud out of the \
+sea, like a man'\
+s hand. And he s\
+aid, Go up, say \
+unto Ahab, Prepa\
+re thy chariot, \
+and get thee dow\
+n that the rain \
+stop thee not.</\
+p><p>18:45 And i\
+t came to pass i\
+n the mean while\
+, that the heave\
+n was black with\
+ clouds and wind\
+, and there was \
+a great rain. An\
+d Ahab rode, and\
+ went to Jezreel\
+.</p><p>18:46 An\
+d the hand of Ya\
+hweh, he is the \
+Elohim was on El\
+ijah; and he gir\
+ded up his loins\
+, and ran before\
+ Ahab to the ent\
+rance of Jezreel\
+.</p>\x22,       \x22c\
+hapter\x22: \x221 King\
+s 18\x22     }  ] }\
+\
+\x00\x00\x12x\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>3:1 And\
+ Solomon made af\
+finity with Phar\
+aoh king of Egyp\
+t, and took Phar\
+aoh's daughter, \
+and brought her \
+into the city of\
+ David, until he\
+ had made an end\
+ of building his\
+ own house, and \
+the house of Yah\
+weh, and the wal\
+l of Jerusalem r\
+ound about.</p><\
+p>3:2 Only the p\
+eople sacrificed\
+ in high places,\
+ because there w\
+as no house buil\
+t unto the name \
+of Yahweh, until\
+ those days.</p>\
+<p>3:3 And Solom\
+on loved Yahweh,\
+ walking in the \
+statutes of Davi\
+d his father: on\
+ly he sacrificed\
+ and burnt incen\
+se in high place\
+s.</p><p>3:4 And\
+ the king went t\
+o Gibeon to sacr\
+ifice there; for\
+ that was the gr\
+eat high place: \
+a thousand burnt\
+ offerings did S\
+olomon offer upo\
+n that altar.</p\
+><p>3:5 In Gibeo\
+n Yahweh appeare\
+d to Solomon in \
+a dream by night\
+: and Elohim sai\
+d, Ask what I sh\
+all give thee.</\
+p><p>3:6 And Sol\
+omon said, Thou \
+hast shewed unto\
+ thy servant Dav\
+id my father gre\
+at mercy, accord\
+ing as he walked\
+ before thee in \
+truth, and in ri\
+ghteousness, and\
+ in uprightness \
+of heart with th\
+ee; and thou has\
+t kept for him t\
+his great kindne\
+ss, that thou ha\
+st given him a s\
+on to sit on his\
+ throne, as it i\
+s this day.</p><\
+p>3:7 And now, O\
+ LORD my Elohim,\
+ thou hast made \
+thy servant king\
+ instead of Davi\
+d my father: and\
+ I am but a litt\
+le child: I know\
+ not how to go o\
+ut or come in.</\
+p><p>3:8 And thy\
+ servant is in t\
+he midst of thy \
+people which tho\
+u hast chosen, a\
+ great people, t\
+hat cannot be nu\
+mbered nor count\
+ed for multitude\
+.</p><p>3:9 Give\
+ therefore thy s\
+ervant an unders\
+tanding heart to\
+ judge thy peopl\
+e, that I may di\
+scern between go\
+od and bad: for \
+who is able to j\
+udge this thy so\
+ great a people?\
+</p><p>3:10 And \
+the speech pleas\
+ed Yahweh, that \
+Solomon had aske\
+d this thing.</p\
+><p>3:11 And Elo\
+him said unto hi\
+m, Because thou \
+hast asked this \
+thing, and hast \
+not asked for th\
+yself long life;\
+ neither hast as\
+ked riches for t\
+hyself, nor hast\
+ asked the life \
+of thine enemies\
+; but hast asked\
+ for thyself und\
+erstanding to di\
+scern judgment;<\
+/p><p>3:12 Behol\
+d, I have done a\
+ccording to thy \
+words: lo, I hav\
+e given thee a w\
+ise and an under\
+standing heart; \
+so that there wa\
+s none like thee\
+ before thee, ne\
+ither after thee\
+ shall any arise\
+ like unto thee.\
+</p><p>3:13 And \
+I have also give\
+n thee that whic\
+h thou hast not \
+asked, both rich\
+es, and honour: \
+so that there sh\
+all not be any a\
+mong the kings l\
+ike unto thee al\
+l thy days.</p><\
+p>3:14 And if th\
+ou wilt walk in \
+my ways, to keep\
+ my statutes and\
+ my commandments\
+, as thy father \
+David did walk, \
+then I will leng\
+then thy days.</\
+p><p>3:15 And So\
+lomon awoke; and\
+, behold, it was\
+ a dream. And he\
+ came to Jerusal\
+em, and stood be\
+fore the ark of \
+the covenant of \
+Yahweh, and offe\
+red up burnt off\
+erings, and offe\
+red peace offeri\
+ngs, and made a \
+feast to all his\
+ servants.</p><p\
+>3:16 Then came \
+there two women,\
+ that were harlo\
+ts, unto the kin\
+g, and stood bef\
+ore him.</p><p>3\
+:17 And the one \
+woman said, O my\
+ lord, I and thi\
+s woman dwell in\
+ one house; and \
+I was delivered \
+of a child with \
+her in the house\
+.</p><p>3:18 And\
+ it came to pass\
+ the third day a\
+fter that I was \
+delivered, that \
+this woman was d\
+elivered also: a\
+nd we were toget\
+her; there was n\
+o stranger with \
+us in the house,\
+ save we two in \
+the house.</p><p\
+>3:19 And this w\
+oman's child die\
+d in the night; \
+because she over\
+laid it.</p><p>3\
+:20 And she aros\
+e at midnight, a\
+nd took my son f\
+rom beside me, w\
+hile thine handm\
+aid slept, and l\
+aid it in her bo\
+som, and laid he\
+r dead child in \
+my bosom.</p><p>\
+3:21 And when I \
+rose in the morn\
+ing to give my c\
+hild suck, behol\
+d, it was dead: \
+but when I had c\
+onsidered it in \
+the morning, beh\
+old, it was not \
+my son, which I \
+did bear.</p><p>\
+3:22 And the oth\
+er woman said, N\
+ay; but the livi\
+ng is my son, an\
+d the dead is th\
+y son. And this \
+said, No; but th\
+e dead is thy so\
+n, and the livin\
+g is my son. Thu\
+s they spake bef\
+ore the king.</p\
+><p>3:23 Then sa\
+id the king, The\
+ one saith, This\
+ is my son that \
+liveth, and thy \
+son is the dead:\
+ and the other s\
+aith, Nay; but t\
+hy son is the de\
+ad, and my son i\
+s the living.</p\
+><p>3:24 And the\
+ king said, Brin\
+g me a sword. An\
+d they brought a\
+ sword before th\
+e king.</p><p>3:\
+25 And the king \
+said, Divide the\
+ living child in\
+ two, and give h\
+alf to the one, \
+and half to the \
+other.</p><p>3:2\
+6 Then spake the\
+ woman whose the\
+ living child wa\
+s unto the king,\
+ for her bowels \
+yearned upon her\
+ son, and she sa\
+id, O my lord, g\
+ive her the livi\
+ng child, and in\
+ no wise slay it\
+. But the other \
+said, Let it be \
+neither mine nor\
+ thine, but divi\
+de it.</p><p>3:2\
+7 Then the king \
+answered and sai\
+d, Give her the \
+living child, an\
+d in no wise sla\
+y it: she is the\
+ mother thereof.\
+</p><p>3:28 And \
+all Israel heard\
+ of the judgment\
+ which the king \
+had judged; and \
+they feared the \
+king: for they s\
+aw that the wisd\
+om of Elohim was\
+ in him, to do j\
+udgment.</p>\x22,  \
+     \x22chapter\x22: \
+\x221 Kings 3\x22     \
+}  ] } \
+\x00\x00\x0f\xac\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>19:1 An\
+d Ahab told Jeze\
+bel all that Eli\
+jah had done, an\
+d withal how he \
+had slain all th\
+e prophets with \
+the sword.</p><p\
+>19:2 Then Jezeb\
+el sent a messen\
+ger unto Elijah,\
+ saying, So let \
+the Mighty ones \
+do to me, and mo\
+re also, if I ma\
+ke not thy life \
+as the life of o\
+ne of them by to\
+ morrow about th\
+is time.</p><p>1\
+9:3 And when he \
+saw that, he aro\
+se, and went for\
+ his life, and c\
+ame to Beersheba\
+, which belonget\
+h to Judah, and \
+left his servant\
+ there.</p><p>19\
+:4 But he himsel\
+f went a day's j\
+ourney into the \
+wilderness, and \
+came and sat dow\
+n under a junipe\
+r tree: and he r\
+equested for him\
+self that he mig\
+ht die; and said\
+, It is enough; \
+now, O YAHWEH, t\
+ake away my life\
+; for I am not b\
+etter than my fa\
+thers.</p><p>19:\
+5 And as he lay \
+and slept under \
+a juniper tree, \
+behold, then an \
+angel touched hi\
+m, and said unto\
+ him, Arise and \
+eat.</p><p>19:6 \
+And he looked, a\
+nd, behold, ther\
+e was a cake bak\
+en on the coals,\
+ and a cruse of \
+water at his hea\
+d. And he did ea\
+t and drink, and\
+ laid him down a\
+gain.</p><p>19:7\
+ And the angel o\
+f Yahweh came ag\
+ain the second t\
+ime, and touched\
+ him, and said, \
+Arise and eat; b\
+ecause the journ\
+ey is too great \
+for thee.</p><p>\
+19:8 And he aros\
+e, and did eat a\
+nd drink, and we\
+nt in the streng\
+th of that meat \
+forty days and f\
+orty nights unto\
+ Horeb the mount\
+ of Elohim.</p><\
+p>19:9 And he ca\
+me thither unto \
+a cave, and lodg\
+ed there; and, b\
+ehold, the word \
+of Yahweh came t\
+o him, and he sa\
+id unto him, Wha\
+t doest thou her\
+e, Elijah?</p><p\
+>19:10 And he sa\
+id, I have been \
+very jealous for\
+ Yahweh Elohim o\
+f hosts: for the\
+ children of Isr\
+ael have forsake\
+n thy covenant, \
+thrown down thin\
+e altars, and sl\
+ain thy prophets\
+ with the sword;\
+ and I, even I o\
+nly, am left; an\
+d they seek my l\
+ife, to take it \
+away.</p><p>19:1\
+1 And he said, G\
+o forth, and sta\
+nd upon the moun\
+t before Yahweh.\
+  And, behold, Y\
+ahweh passed by,\
+ and a great and\
+ strong wind ren\
+t the mountains,\
+ and brake in pi\
+eces the rocks b\
+efore Yahweh; bu\
+t Yahweh was not\
+ in the wind: an\
+d after the wind\
+ an earthquake; \
+but Yahweh was n\
+ot in the earthq\
+uake:</p><p>19:1\
+2 And after the \
+earthquake a fir\
+e; but Yahweh wa\
+s not in the fir\
+e: and after the\
+ fire a still sm\
+all voice.</p><p\
+>19:13 And it wa\
+s so, when Elija\
+h heard it, that\
+ he wrapped his \
+face in his mant\
+le, and went out\
+, and stood in t\
+he entering in o\
+f the cave. And,\
+ behold, there c\
+ame a voice unto\
+ him, and said, \
+What doest thou \
+here, Elijah?</p\
+><p>19:14 And he\
+ said, I have be\
+en very jealous \
+for Yahweh Elohi\
+m of hosts: beca\
+use the children\
+ of Israel have \
+forsaken thy cov\
+enant, thrown do\
+wn thine altars,\
+ and slain thy p\
+rophets with the\
+ sword; and I, e\
+ven I only, am l\
+eft; and they se\
+ek my life, to t\
+ake it away.</p>\
+<p>19:15 And Yah\
+weh said unto hi\
+m, Go, return on\
+ thy way to the \
+wilderness of Da\
+mascus: and when\
+ thou comest, an\
+oint Hazael to b\
+e king over Syri\
+a:</p><p>19:16 A\
+nd Jehu the son \
+of Nimshi shalt \
+thou anoint to b\
+e king over Isra\
+el: and Elisha t\
+he son of Shapha\
+t of Abelmeholah\
+ shalt thou anoi\
+nt to be prophet\
+ in thy room.</p\
+><p>19:17 And it\
+ shall come to p\
+ass, that him th\
+at escapeth the \
+sword of Hazael \
+shall Jehu slay:\
+ and him that es\
+capeth from the \
+sword of Jehu sh\
+all Elisha slay.\
+</p><p>19:18 Yet\
+ I have left me \
+seven thousand i\
+n Israel, all th\
+e knees which ha\
+ve not bowed unt\
+o Baal, and ever\
+y mouth which ha\
+th not kissed hi\
+m.</p><p>19:19 S\
+o he departed th\
+ence, and found \
+Elisha the son o\
+f Shaphat, who w\
+as plowing with \
+twelve yoke of o\
+xen before him, \
+and he with the \
+twelfth: and Eli\
+jah passed by hi\
+m, and cast his \
+mantle upon him.\
+</p><p>19:20 And\
+ he left the oxe\
+n, and ran after\
+ Elijah, and sai\
+d, Let me, I pra\
+y thee, kiss my \
+father and my mo\
+ther, and then I\
+ will follow the\
+e. And he said u\
+nto him, Go back\
+ again: for what\
+ have I done to \
+thee?</p><p>19:2\
+1 And he returne\
+d back from him,\
+ and took a yoke\
+ of oxen, and sl\
+ew them, and boi\
+led their flesh \
+with the instrum\
+ents of the oxen\
+, and gave unto \
+the people, and \
+they did eat. Th\
+en he arose, and\
+ went after Elij\
+ah, and minister\
+ed unto him.</p>\
+\x22,       \x22chapte\
+r\x22: \x221 Kings 19\x22\
+     }  ] }\
+\x00\x00\x0c\xc7\
+{\
+   \x22read\x22:   [  \
+   {        \x22tex\
+t\x22: \x22<p>1:1 Jame\
+s, a servant of \
+Elohim and of th\
+e master Yahushu\
+a messiah to the\
+ twelve tribes w\
+hich are scatter\
+ed abroad, greet\
+ing.</p><p>1:2 M\
+y brethren, coun\
+t it all joy whe\
+n ye fall into d\
+ivers temptation\
+s;</p><p>1:3 Kno\
+wing this, that \
+the trying of yo\
+ur faith worketh\
+ patience.</p><p\
+>1:4 But let pat\
+ience have her p\
+erfect work, tha\
+t ye may be perf\
+ect and entire, \
+wanting nothing.\
+</p><p>1:5 If an\
+y of you lack wi\
+sdom, let him as\
+k of Elohim, tha\
+t giveth to all \
+men liberally, a\
+nd upbraideth no\
+t; and it shall \
+be given him.</p\
+><p>1:6 But let \
+him ask in faith\
+, nothing waveri\
+ng. For he that \
+wavereth is like\
+ a wave of the s\
+ea driven with t\
+he wind and toss\
+ed.</p><p>1:7 Fo\
+r let not that m\
+an think that he\
+ shall receive a\
+ny thing of Yahw\
+eh.</p><p>1:8 A \
+double minded ma\
+n is unstable in\
+ all his ways.</\
+p><p>1:9 Let the\
+ brother of low \
+degree rejoice i\
+n that he is exa\
+lted:</p><p>1:10\
+ But the rich, i\
+n that he is mad\
+e low: because a\
+s the flower of \
+the grass he sha\
+ll pass away.</p\
+><p>1:11 For the\
+ sun is no soone\
+r risen with a b\
+urning heat, but\
+ it withereth th\
+e grass, and the\
+ flower thereof \
+falleth, and the\
+ grace of the fa\
+shion of it peri\
+sheth: so also s\
+hall the rich ma\
+n fade away in h\
+is ways.</p><p>1\
+:12 Blessed is t\
+he man that endu\
+reth temptation:\
+ for when he is \
+tried, he shall \
+receive the crow\
+n of life, which\
+ Yahweh hath pro\
+mised to them th\
+at love him.</p>\
+<p>1:13 Let no m\
+an say when he i\
+s tempted, I am \
+tempted of Elohi\
+m: for Elohim ca\
+nnot be tempted \
+with evil, neith\
+er tempteth he a\
+ny man:</p><p>1:\
+14 But every man\
+ is tempted, whe\
+n he is drawn aw\
+ay of his own lu\
+st, and enticed.\
+</p><p>1:15 Then\
+ when lust hath \
+conceived, it br\
+ingeth forth sin\
+: and sin, when \
+it is finished, \
+bringeth forth d\
+eath.</p><p>1:16\
+ Do not err, my \
+beloved brethren\
+.</p><p>1:17 Eve\
+ry good gift and\
+ every perfect g\
+ift is from abov\
+e, and cometh do\
+wn from the Fath\
+er of lights, wi\
+th whom is no va\
+riableness, neit\
+her shadow of tu\
+rning.</p><p>1:1\
+8 Of his own wil\
+l begat he us wi\
+th the word of t\
+ruth, that we sh\
+ould be a kind o\
+f firstfruits of\
+ his creatures.<\
+/p><p>1:19 Where\
+fore, my beloved\
+ brethren, let e\
+very man be swif\
+t to hear, slow \
+to speak, slow t\
+o wrath:</p><p>1\
+:20 For the wrat\
+h of man worketh\
+ not the righteo\
+usness of Elohim\
+.</p><p>1:21 Whe\
+refore lay apart\
+ all filthiness \
+and superfluity \
+of naughtiness, \
+and receive with\
+ meekness the en\
+grafted word, wh\
+ich is able to s\
+ave your souls.<\
+/p><p>1:22 But b\
+e ye doers of th\
+e word, and not \
+hearers only, de\
+ceiving your own\
+ selves.</p><p>1\
+:23 For if any b\
+e a hearer of th\
+e word, and not \
+a doer, he is li\
+ke unto a man be\
+holding his natu\
+ral face in a gl\
+ass:</p><p>1:24 \
+For he beholdeth\
+ himself, and go\
+eth his way, and\
+ straightway for\
+getteth what man\
+ner of man he wa\
+s.</p><p>1:25 Bu\
+t whoso looketh \
+into the perfect\
+ law of liberty,\
+ and continueth \
+therein, he bein\
+g not a forgetfu\
+l hearer, but a \
+doer of the work\
+, this man shall\
+ be blessed in h\
+is deed.</p><p>1\
+:26 If any man a\
+mong you seem to\
+ be religious, a\
+nd bridleth not \
+his tongue, but \
+deceiveth his ow\
+n heart, this ma\
+n's religion is \
+vain.</p><p>1:27\
+ Pure religion a\
+nd undefiled bef\
+ore messiah and \
+the Father is th\
+is, To visit the\
+ fatherless and \
+widows in their \
+affliction, and \
+to keep himself \
+unspotted from t\
+he world.</p>\x22, \
+      \x22chapter\x22:\
+ \x22James 1\x22     }\
+  ] } \
+\x00\x00\x12X\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>17:1\
+ The sin of Juda\
+h is written wit\
+h a pen of iron,\
+ and with the po\
+int of a diamond\
+: it is graven u\
+pon the table of\
+ their heart, an\
+d upon the horns\
+ of your altars;\
+</p><p>17:2 Whil\
+st their childre\
+n remember their\
+ altars and thei\
+r groves by the \
+green trees upon\
+ the high hills.\
+</p><p>17:3 O my\
+ mountain in the\
+ field, I will g\
+ive thy substanc\
+e and all thy tr\
+easures to the s\
+poil, and thy hi\
+gh places for si\
+n, throughout al\
+l thy borders.</\
+p><p>17:4 And th\
+ou, even thyself\
+, shalt disconti\
+nue from thine h\
+eritage that I g\
+ave thee; and I \
+will cause thee \
+to serve thine e\
+nemies in the la\
+nd which thou kn\
+owest not: for y\
+e have kindled a\
+ fire in mine an\
+ger, which shall\
+ burn for ever.<\
+/p><p>17:5 Thus \
+saith Yahweh; Cu\
+rsed be the man \
+that trusteth in\
+ man, and maketh\
+ flesh his arm, \
+and whose heart \
+departeth from Y\
+ahweh.</p><p>17:\
+6 For he shall b\
+e like the heath\
+ in the desert, \
+and shall not se\
+e when good come\
+th; but shall in\
+habit the parche\
+d places in the \
+wilderness, in a\
+ salt land and n\
+ot inhabited.</p\
+><p>17:7 Blessed\
+ is the man that\
+ trusteth in Yah\
+weh, and whose h\
+ope  Yahweh is.<\
+/p><p>17:8 For h\
+e shall be as a \
+tree planted by \
+the waters, and \
+that spreadeth o\
+ut her roots by \
+the river, and s\
+hall not see whe\
+n heat cometh, b\
+ut her leaf shal\
+l be green; and \
+shall not be car\
+eful in the year\
+ of drought, nei\
+ther shall cease\
+ from yielding f\
+ruit.</p><p>17:9\
+ The heart is de\
+ceitful above al\
+l things, and de\
+sperately wicked\
+: who can know i\
+t?</p><p>17:10 I\
+ Yahweh search t\
+he heart, I try \
+the reins, even \
+to give every ma\
+n according to h\
+is ways, and acc\
+ording to the fr\
+uit of his doing\
+s.</p><p>17:11 A\
+s the partridge \
+sitteth on eggs,\
+ and hatcheth th\
+em not; so he th\
+at getteth riche\
+s, and not by ri\
+ght, shall leave\
+ them in the mid\
+st of his days, \
+and at his end s\
+hall be a fool.<\
+/p><p>17:12 A gl\
+orious high thro\
+ne from the begi\
+nning is the pla\
+ce of our sanctu\
+ary.</p><p>17:13\
+ O Yahweh, the h\
+ope of Israel, a\
+ll that forsake \
+thee shall be as\
+hamed, and they \
+that depart from\
+ me shall be wri\
+tten in the eart\
+h, because they \
+have forsaken Ya\
+hweh, the founta\
+in of living wat\
+ers.</p><p>17:14\
+ Heal me, O Yahw\
+eh, and I shall \
+be healed; save \
+me, and I shall \
+be saved: for th\
+ou art my praise\
+.</p><p>17:15 Be\
+hold, they say u\
+nto me, Where is\
+ the word of Yah\
+weh? let it come\
+ now.</p><p>17:1\
+6 As for me, I h\
+ave not hastened\
+ from being a pa\
+stor to follow t\
+hee: neither hav\
+e I desired the \
+woeful day; thou\
+ knowest: that w\
+hich came out of\
+ my lips was rig\
+ht before thee.<\
+/p><p>17:17 Be n\
+ot a terror unto\
+ me: thou art my\
+ hope in the day\
+ of evil.</p><p>\
+17:18 Let them b\
+e confounded tha\
+t persecute me, \
+but let not me b\
+e confounded: le\
+t them be dismay\
+ed, but let not \
+me be dismayed: \
+bring upon them \
+the day of evil,\
+ and destroy the\
+m with double de\
+struction.</p><p\
+>17:19 Thus said\
+ Yahweh unto me;\
+ Go and stand in\
+ the gate of the\
+ children of the\
+ people, whereby\
+ the kings of Ju\
+dah come in, and\
+ by the which th\
+ey go out, and i\
+n all the gates \
+of Jerusalem;</p\
+><p>17:20 And sa\
+y unto them, Hea\
+r ye the word of\
+ Yahweh, ye king\
+s of Judah, and \
+all Judah, and a\
+ll the inhabitan\
+ts of Jerusalem,\
+ that enter in b\
+y these gates:</\
+p><p>17:21 Thus \
+saith Yahweh; Ta\
+ke heed to yours\
+elves, and bear \
+no burden on the\
+ sabbath day, no\
+r bring it in by\
+ the gates of Je\
+rusalem;</p><p>1\
+7:22 Neither car\
+ry forth a burde\
+n out of your ho\
+uses on the sabb\
+ath day, neither\
+ do ye any work,\
+ but hallow ye t\
+he sabbath day, \
+as I commanded y\
+our fathers.</p>\
+<p>17:23 But the\
+y obeyed not, ne\
+ither inclined t\
+heir ear, but ma\
+de their neck st\
+iff, that they m\
+ight not hear, n\
+or receive instr\
+uction.</p><p>17\
+:24 And it shall\
+ come to pass, i\
+f ye diligently \
+hearken unto me,\
+ saith Yahweh, t\
+o bring in no bu\
+rden through the\
+ gates of this c\
+ity on the sabba\
+th day, but hall\
+ow the sabbath d\
+ay, to do no wor\
+k therein;</p><p\
+>17:25 Then shal\
+l there enter in\
+to the gates of \
+this city kings \
+and princes sitt\
+ing upon the thr\
+one of David, ri\
+ding in chariots\
+ and on horses, \
+they, and their \
+princes, the men\
+ of Judah, and t\
+he inhabitants o\
+f Jerusalem: and\
+ this city shall\
+ remain for ever\
+.</p><p>17:26 An\
+d they shall com\
+e from the citie\
+s of Judah, and \
+from the places \
+about Jerusalem,\
+ and from the la\
+nd of Benjamin, \
+and from the pla\
+in, and from the\
+ mountains, and \
+from the south, \
+bringing burnt o\
+fferings, and sa\
+crifices, and me\
+at offerings, an\
+d incense, and b\
+ringing sacrific\
+es of praise, un\
+to the house of \
+Yahweh.</p><p>17\
+:27 But if ye wi\
+ll not hearken u\
+nto me to hallow\
+ the sabbath day\
+, and not to bea\
+r a burden, even\
+ entering in at \
+the gates of Jer\
+usalem on the sa\
+bbath day; then \
+will I kindle a \
+fire in the gate\
+s thereof, and i\
+t shall devour t\
+he palaces of Je\
+rusalem, and it \
+shall not be que\
+nched.</p>\x22,    \
+   \x22chapter\x22: \x22J\
+eremiah 17\x22     \
+}  ] } \
+\x00\x00\x05\xb4\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>32:1 Bl\
+essed is he whos\
+e transgression \
+is forgiven, who\
+se sin is covere\
+d.</p><p>32:2 Bl\
+essed is the man\
+ unto whom Yahwe\
+h imputeth not i\
+niquity, and in \
+whose spirit the\
+re is no guile.<\
+/p><p>32:3 When \
+I kept silence, \
+my bones waxed o\
+ld through my ro\
+aring all the da\
+y long.</p><p>32\
+:4 For day and n\
+ight thy hand wa\
+s heavy upon me:\
+ my moisture is \
+turned into the \
+drought of summe\
+r. Selah.</p><p>\
+32:5 I acknowled\
+ge my sin unto t\
+hee, and mine in\
+iquity have I no\
+t hid. I said, I\
+ will confess my\
+ transgressions \
+unto Yahweh; and\
+ thou forgavest \
+the iniquity of \
+my sin. Selah.</\
+p><p>32:6 For th\
+is shall every o\
+ne that is godly\
+ pray unto thee \
+in a time when t\
+hou mayest be fo\
+und: surely in t\
+he floods of gre\
+at waters they s\
+hall not come ni\
+gh unto him.</p>\
+<p>32:7 Thou art\
+ my hiding place\
+; thou shalt pre\
+serve me from tr\
+ouble; thou shal\
+t compass me abo\
+ut with songs of\
+ deliverance. Se\
+lah.</p><p>32:8 \
+I will instruct \
+thee and teach t\
+hee in the way w\
+hich thou shalt \
+go: I will guide\
+ thee with mine \
+eye.</p><p>32:9 \
+Be ye not as the\
+ horse, or as th\
+e mule, which ha\
+ve no understand\
+ing: whose mouth\
+ must be held in\
+ with bit and br\
+idle, lest they \
+come near unto t\
+hee.</p><p>32:10\
+ Many sorrows sh\
+all be to the wi\
+cked: but he tha\
+t trusteth in Ya\
+hweh,  mercy sha\
+ll compass him a\
+bout.</p><p>32:1\
+1 Be glad in Yah\
+weh, and rejoice\
+, ye righteous: \
+and shout for jo\
+y, all ye that a\
+re upright in he\
+art.</p>\x22,      \
+ \x22chapter\x22: \x22Psa\
+lms 32\x22     }  ]\
+ } \
+\x00\x00\x04\xf9\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>2:1 Why\
+ do the heathen \
+rage, and the pe\
+ople imagine a v\
+ain thing?</p><p\
+>2:2 The kings o\
+f the earth set \
+themselves, and \
+the rulers take \
+counsel together\
+, against Yahweh\
+, and against hi\
+s anointed, sayi\
+ng,</p><p>2:3 Le\
+t us break their\
+ bands asunder, \
+and cast away th\
+eir cords from u\
+s.</p><p>2:4 He \
+that sitteth in \
+the heavens shal\
+l laugh: Yahweh \
+shall have them \
+in derision.</p>\
+<p>2:5 Then shal\
+l he speak unto \
+them in his wrat\
+h, and vex them \
+in his sore disp\
+leasure.</p><p>2\
+:6 Yet have I se\
+t my king upon m\
+y holy hill of Z\
+ion.</p><p>2:7 I\
+ will declare th\
+e decree: Yahweh\
+ hath said unto \
+me, Thou art my \
+Son; this day ha\
+ve I begotten th\
+ee.</p><p>2:8 As\
+k of me, and I s\
+hall give thee t\
+he heathen for t\
+hine inheritance\
+, and the utterm\
+ost parts of the\
+ earth for thy p\
+ossession.</p><p\
+>2:9 Thou shalt \
+break them with \
+a rod of iron; t\
+hou shalt dash t\
+hem in pieces li\
+ke a potter's ve\
+ssel.</p><p>2:10\
+ Be wise now the\
+refore, O ye kin\
+gs: be instructe\
+d, ye judges of \
+the earth.</p><p\
+>2:11 Serve Yahw\
+eh with fear, an\
+d rejoice with t\
+rembling.</p><p>\
+2:12 Kiss the So\
+n, lest he be an\
+gry, and ye peri\
+sh from the way,\
+ when his wrath \
+is kindled but a\
+ little. Blessed\
+ are all they th\
+at put their tru\
+st in him.</p>\x22,\
+       \x22chapter\x22\
+: \x22Psalms 2\x22    \
+ }  ] } \
+\x00\x00\x05k\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>19:1 Th\
+e heavens declar\
+e the glory of E\
+lohim, and the f\
+irmament sheweth\
+ his handywork.<\
+/p><p>19:2 Day u\
+nto day uttereth\
+ speech, and nig\
+ht unto night sh\
+eweth knowledge.\
+</p><p>19:3 Ther\
+e is no speech n\
+or language, whe\
+re their voice i\
+s not heard.</p>\
+<p>19:4 Their li\
+ne is gone out t\
+hrough all the e\
+arth, and their \
+words to the end\
+ of the world. I\
+n them hath he s\
+et a tabernacle \
+for the sun,</p>\
+<p>19:5 Which is\
+ as a bridegroom\
+ coming out of h\
+is chamber, and \
+rejoiceth as a s\
+trong man to run\
+ a race.</p><p>1\
+9:6 His going fo\
+rth is from the \
+end of the heave\
+n, and his circu\
+it unto the ends\
+ of it: and ther\
+e is nothing hid\
+ from the heat t\
+hereof.</p><p>19\
+:7 The law of Ya\
+hweh is perfect,\
+ converting the \
+soul: the testim\
+ony of Yahweh is\
+ sure, making wi\
+se the simple.</\
+p><p>19:8 The st\
+atutes of Yahweh\
+ are right, rejo\
+icing the heart:\
+ the commandment\
+ of Yahweh is pu\
+re, enlightening\
+ the eyes.</p><p\
+>19:9 The fear o\
+f Yahweh is clea\
+n, enduring for \
+ever: the judgme\
+nts of  Yahweh</\
+p><p> 19:10 More\
+ to be desired a\
+re they than gol\
+</p><p> 19:11 Mo\
+reover by them</\
+p><p></p><p> 19:\
+13 Keep back thy\
+ servant also fr\
+om presumptuous \
+sins; let them n\
+ot have dominion\
+ over me: then s\
+</p><p> 19:14 Le\
+t the words of m\
+y mouth, and the\
+ meditation of m\
+y heart, be acce\
+ptable in thy si\
+ght, O Yahweh, m\
+y strength, and \
+my redeemer.\x22,  \
+     \x22chapter\x22: \
+\x22Psalms 19\x22     \
+}  ] }    \
+\x00\x00\x07`\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>144:1 B\
+lessed be Yahweh\
+ my strength whi\
+ch teacheth my h\
+ands to war, and\
+ my fingers to f\
+ight:</p><p>144:\
+2 My goodness, a\
+nd my fortress; \
+my high tower, a\
+nd my deliverer;\
+ my shield, and \
+he in whom I tru\
+st; who subdueth\
+ my people under\
+ me.</p><p>144:3\
+ Yahweh, what is\
+ man, that thou \
+takest knowledge\
+ of him! or the \
+son of man, that\
+ thou makest acc\
+ount of him!</p>\
+<p>144:4 Man is \
+like to vanity: \
+his days are as \
+a shadow that pa\
+sseth away.</p><\
+p>144:5 Bow thy \
+heavens, O Yahwe\
+h and come down:\
+ touch the mount\
+ains, and they s\
+hall smoke.</p><\
+p>144:6 Cast for\
+th lightning, an\
+d scatter them: \
+shoot out thine \
+arrows, and dest\
+roy them.</p><p>\
+144:7 Send thine\
+ hand from above\
+; rid me, and de\
+liver me out of \
+great waters, fr\
+om the hand of s\
+trange children;\
+</p><p>144:8 Who\
+se mouth speaket\
+h vanity, and th\
+eir right hand i\
+s a right hand o\
+f falsehood.</p>\
+<p>144:9 I will \
+sing a new song \
+unto thee, O Elo\
+him: upon a psal\
+tery and an inst\
+rument of ten st\
+rings will I sin\
+g praises unto t\
+hee.</p><p>144:1\
+0 It is he that \
+giveth salvation\
+ unto kings: who\
+ delivereth Davi\
+d his servant fr\
+om the hurtful s\
+word.</p><p>144:\
+11 Rid me, and d\
+eliver me from t\
+he hand of stran\
+ge children, who\
+se mouth speaket\
+h vanity, and th\
+eir right hand i\
+s a right hand o\
+f falsehood:</p>\
+<p>144:12 That o\
+ur sons may be a\
+s plants grown u\
+p in their youth\
+; that our daugh\
+ters may be as c\
+orner stones, po\
+lished after the\
+ similitude of a\
+ palace:</p><p>1\
+44:13 That our g\
+arners may be fu\
+ll, affording al\
+l manner of stor\
+e: that our shee\
+p may bring fort\
+h thousands and \
+ten thousands in\
+ our streets:</p\
+><p>144:14 That \
+our oxen may be \
+strong to labour\
+; that there be \
+no breaking in, \
+nor going out; t\
+hat there be no \
+complaining in o\
+ur streets.</p><\
+p>144:15 Happy i\
+s that people, t\
+hat is in such a\
+ case: yea, happ\
+y is that people\
+, whose mighty o\
+ne is the Yahweh\
+.</p>\x22,       \x22c\
+hapter\x22: \x22Psalm \
+144\x22     }  ] }\
+\x00\x00\x08\x82\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>103:1 B\
+less Yahweh O my\
+ soul: and all t\
+hat is within me\
+, bless his holy\
+ name.</p><p>103\
+:2 Bless Yahweh,\
+ O my soul, and \
+forget not all h\
+is benefits:</p>\
+<p>103:3 Who for\
+giveth all thine\
+ iniquities; who\
+ healeth all thy\
+ diseases;</p><p\
+>103:4 Who redee\
+meth thy life fr\
+om destruction; \
+who crowneth the\
+e with lovingkin\
+dness and tender\
+ mercies;</p><p>\
+103:5 Who satisf\
+ieth thy mouth w\
+ith good things;\
+ so that thy you\
+th is renewed li\
+ke the eagle's.<\
+/p><p>103:6 Yahw\
+eh executeth rig\
+hteousness and j\
+udgment for all \
+that are oppress\
+ed.</p><p>103:7 \
+He made known hi\
+s ways unto Mose\
+s, his acts unto\
+ the children of\
+ Israel.</p><p>1\
+03:8 Yahweh is m\
+erciful and grac\
+ious, slow to an\
+ger, and plenteo\
+us in mercy.</p>\
+<p>103:9 He will\
+ not always chid\
+e: neither will \
+he keep his ange\
+r for ever.</p><\
+p>103:10 He hath\
+ not dealt with \
+us after our sin\
+s; nor rewarded \
+us according to \
+our iniquities.<\
+/p><p>103:11 For\
+ as the heaven i\
+s high above the\
+ earth, so great\
+ is his mercy to\
+ward them that f\
+ear him.</p><p>1\
+03:12 As far as \
+the east is from\
+ the west, so fa\
+r hath he remove\
+d our transgress\
+ions from us.</p\
+><p>103:13 Like \
+as a father piti\
+eth his children\
+, so Yahweh piti\
+eth them that fe\
+ar him.</p><p>10\
+3:14 For he know\
+eth our frame; h\
+e remembereth th\
+at we are dust.<\
+/p><p>103:15 As \
+for man, his day\
+s are as grass: \
+as a flower of t\
+he field, so he \
+flourisheth.</p>\
+<p>103:16 For th\
+e wind passeth o\
+ver it, and it i\
+s gone; and the \
+place thereof sh\
+all know it no m\
+ore.</p><p>103:1\
+7 But the mercy \
+of Yahweh is fro\
+m everlasting to\
+ everlasting upo\
+n them that fear\
+ him, and his ri\
+ghteousness unto\
+ children's chil\
+dren;</p><p>103:\
+18 To such as ke\
+ep his covenant,\
+ and to those th\
+at remember his \
+commandments to \
+do them.</p><p>1\
+03:19 Yahweh hat\
+h prepared his t\
+hrone in the hea\
+vens; and his ki\
+ngdom ruleth ove\
+r all.</p><p>103\
+:20 Bless Yahweh\
+, ye his angels,\
+ that excel in s\
+trength, that do\
+ his commandment\
+s, hearkening un\
+to the voice of \
+his word.</p><p>\
+103:21 Bless ye \
+Yahweh all ye hi\
+s hosts; ye mini\
+sters of his, th\
+at do his pleasu\
+re.</p><p>103:22\
+ Bless Yahweh al\
+l his works in a\
+ll places of his\
+ dominion: bless\
+ Yahweh O my sou\
+l.</p>\x22,       \x22\
+chapter\x22: \x22Psalm\
+s 103\x22     }  ] \
+}\
+\x00\x00\x05U\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>56:1 Be\
+ merciful unto m\
+e, O Elohim; for\
+ man would swall\
+ow me up; he fig\
+hting daily oppr\
+esseth me.</p><p\
+>56:2 Mine enemi\
+es would daily s\
+wallow me up: fo\
+r they be many t\
+hat fight agains\
+t me, O thou mos\
+t High.</p><p>56\
+:3 What time I a\
+m afraid, I will\
+ trust in thee.<\
+/p><p>56:4 In El\
+ohim I will prai\
+se his word, in \
+Elohim I have pu\
+t my trust; I wi\
+ll not fear what\
+ flesh can do un\
+to me.</p><p>56:\
+5 Every day they\
+ wrest my words:\
+ all their thoug\
+hts are against \
+me for evil.</p>\
+<p>56:6 They gat\
+her themselves t\
+ogether, they hi\
+de themselves, t\
+hey mark my step\
+s, when they wai\
+t for my soul.</\
+p><p>56:7 Shall \
+they escape by i\
+niquity? in thin\
+e anger cast dow\
+n the people, O \
+Elohim.</p><p>56\
+:8 Thou tellest \
+my wanderings: p\
+ut thou my tears\
+ into thy bottle\
+: are they not i\
+n thy book?</p><\
+p>56:9 When I cr\
+y unto thee, the\
+n shall mine ene\
+mies turn back: \
+this I know; for\
+ Elohim is for m\
+e.</p><p>56:10 I\
+n Elohim will I \
+praise his word:\
+ in Yahweh will \
+I praise his wor\
+d.</p><p>56:11 I\
+n Elohim have I \
+put my trust: I \
+will not be afra\
+id what man can \
+do unto me.</p><\
+p>56:12 Thy vows\
+ are upon me, O \
+Elohim: I will r\
+ender praises un\
+to thee.</p><p>5\
+6:13 For thou ha\
+st delivered my \
+soul from death:\
+ wilt not thou d\
+eliver my feet f\
+rom falling, tha\
+t I may walk bef\
+ore Elohim in th\
+e light of the l\
+iving?</p>\x22,    \
+   \x22chapter\x22: \x22P\
+salm 56\x22     }  \
+] } \
+\x00\x00\x08\x1c\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>34:1 I \
+will bless Yahwe\
+h at all times: \
+his praise shall\
+ continually be \
+in my mouth.</p>\
+<p>34:2 My soul \
+shall make her b\
+oast in Yahweh: \
+the humble shall\
+ hear thereof, a\
+nd be glad.</p><\
+p>34:3 O magnify\
+ Yahweh with me,\
+ and let us exal\
+t his name toget\
+her.</p><p>34:4 \
+I sought Yahweh \
+and he heard me,\
+ and delivered m\
+e from all my fe\
+ars.</p><p>34:5 \
+They looked unto\
+ him, and were l\
+ightened: and th\
+eir faces were n\
+ot ashamed.</p><\
+p>34:6 This poor\
+ man cried, and \
+Yahweh heard him\
+, and saved him \
+out of all his t\
+roubles.</p><p>3\
+4:7 The angel of\
+ Yahweh encampet\
+h round about th\
+em that fear him\
+, and delivereth\
+ them.</p><p>34:\
+8 O taste and se\
+e that Yahweh is\
+ good: blessed i\
+s the man that t\
+rusteth in him.<\
+/p><p>34:9 O fea\
+r Yahweh, ye his\
+ saints: for the\
+re is no want to\
+ them that fear \
+him.</p><p>34:10\
+ The young lions\
+ do lack, and su\
+ffer hunger: but\
+ they that seek \
+Yahweh  shall no\
+t want any good \
+thing.</p><p>34:\
+11 Come, ye chil\
+dren, hearken un\
+to me: I will te\
+ach you the fear\
+ of Yahweh.</p><\
+p>34:12 What man\
+ is he that desi\
+reth life, and l\
+oveth many days,\
+ that he may see\
+ good?</p><p>34:\
+13 Keep thy tong\
+ue from evil, an\
+d thy lips from \
+speaking guile.<\
+/p><p>34:14 Depa\
+rt from evil, an\
+d do good; seek \
+peace, and pursu\
+e it.</p><p>34:1\
+5 The eyes of Ya\
+hweh are upon th\
+e righteous, and\
+ his ears are op\
+en unto their cr\
+y.</p><p>34:16 T\
+he face of Yahwe\
+h is against the\
+m that do evil, \
+to cut off the r\
+emembrance of th\
+em from the eart\
+h.</p><p>34:17 T\
+he righteous cry\
+, and Yahweh hea\
+reth, and delive\
+reth them out of\
+ all their troub\
+les.</p><p>34:18\
+ Yahweh is nigh \
+unto them that a\
+re of a broken h\
+eart; and saveth\
+ such as be of a\
+ contrite spirit\
+.</p><p>34:19 Ma\
+ny are the affli\
+ctions of the ri\
+ghteous: but Yah\
+weh delivereth h\
+im out of them a\
+ll.</p><p>34:20 \
+He keepeth all h\
+is bones: not on\
+e of them is bro\
+ken.</p><p>34:21\
+ Evil shall slay\
+ the wicked: and\
+ they that hate \
+the righteous sh\
+all be desolate.\
+</p><p>34:22 Yah\
+weh redeemeth th\
+e soul of his se\
+rvants: and none\
+ of them that tr\
+ust in him shall\
+ be desolate.</p\
+>\x22,       \x22chapt\
+er\x22: \x22Psalms 34\x22\
+     }  ] }\
+\x00\x00\x04\x06\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>101:1 I\
+ will sing of me\
+rcy and judgment\
+: unto thee, O Y\
+ahweh, will I si\
+ng.</p><p>101:2 \
+I will behave my\
+self wisely in a\
+ perfect way. O \
+when wilt thou c\
+ome unto me? I w\
+ill walk within \
+my house with a \
+perfect heart.</\
+p><p>101:3 I wil\
+l set no wicked \
+thing before min\
+e eyes: I hate t\
+he work of them \
+that turn aside;\
+ it shall not cl\
+eave to me.</p><\
+p>101:4 A frowar\
+d heart shall de\
+part from me: I \
+will not know a \
+wicked person.</\
+p><p>101:5 Whoso\
+ privily slander\
+eth his neighbou\
+r, him will I cu\
+t off: him that \
+hath an high loo\
+k and a proud he\
+art will not I s\
+uffer.</p><p>101\
+:6 Mine eyes sha\
+ll be upon the f\
+aithful of the l\
+and, that they m\
+ay dwell with me\
+: he that walket\
+h in a perfect w\
+ay, he shall ser\
+ve me.</p><p>101\
+:7 He that worke\
+th deceit shall \
+not dwell within\
+ my house: he th\
+at telleth lies \
+shall not tarry \
+in my sight.</p>\
+<p>101:8 I will \
+early destroy al\
+l the wicked of \
+the land; that I\
+ may cut off all\
+ wicked doers fr\
+om the city of Y\
+ahweh.</p>\x22,    \
+   \x22chapter\x22: \x22P\
+salms 101\x22     }\
+ ] } \
+\x00\x00\x02\xe4\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>23:1 Ya\
+hweh is my sheph\
+erd; I shall not\
+ want.</p><p>23:\
+2 He maketh me t\
+o lie down in gr\
+een pastures: he\
+ leadeth me besi\
+de the still wat\
+ers.</p><p>23:3 \
+He restoreth my \
+soul: he leadeth\
+ me in the paths\
+ of righteousnes\
+s for his name's\
+ sake.</p><p>23:\
+4 Yea, though I \
+walk through the\
+ valley of the s\
+hadow of death, \
+I will fear no e\
+vil: for thou ar\
+t with me; thy r\
+od and thy staff\
+ they comfort me\
+.</p><p>23:5 Tho\
+u preparest a ta\
+ble before me in\
+ the presence of\
+ mine enemies: t\
+hou anointest my\
+ head with oil; \
+my cup runneth o\
+ver.</p><p>23:6 \
+Surely goodness \
+and mercy shall \
+follow me all th\
+e days of my lif\
+e: and I will dw\
+ell in the house\
+ of Yahweh for e\
+ver.</p>\x22,      \
+ \x22chapter\x22: \x22Psa\
+lms 23\x22     }  ]\
+ } \
+\x00\x00<}\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>119:\
+1 Blessed are th\
+e undefiled in t\
+he way, who walk\
+ in the law of t\
+he Yahweh.</p><p\
+>119:2 Blessed a\
+re they that kee\
+p his testimonie\
+s, and that seek\
+ him with the wh\
+ole heart.</p><p\
+>119:3 They also\
+ do no iniquity:\
+ they walk in hi\
+s ways.</p><p>11\
+9:4 Thou hast co\
+mmanded us to ke\
+ep thy precepts \
+diligently.</p><\
+p>119:5 O that m\
+y ways were dire\
+cted to keep thy\
+ statutes!</p><p\
+>119:6 Then shal\
+l I not be asham\
+ed, when I have \
+respect unto all\
+ thy commandment\
+s.</p><p>119:7 I\
+ will praise the\
+e with uprightne\
+ss of heart, whe\
+n I shall have l\
+earned thy right\
+eous judgments.<\
+/p><p>119:8 I wi\
+ll keep thy stat\
+utes: O forsake \
+me not utterly.<\
+/p><p>119:9 Wher\
+ewithal shall a \
+young man cleans\
+e his way? by ta\
+king heed theret\
+o according to t\
+hy word.</p><p>1\
+19:10 With my wh\
+ole heart have I\
+ sought thee: O \
+let me not wande\
+r from thy comma\
+ndments.</p><p>1\
+19:11 Thy word h\
+ave I hid in min\
+e heart, that I \
+might not sin ag\
+ainst thee.</p><\
+p>119:12 Blessed\
+ art thou, O Yah\
+weh: teach me th\
+y statutes.</p><\
+p>119:13 With my\
+ lips have I dec\
+lared all the ju\
+dgments of thy m\
+outh.</p><p>119:\
+14 I have rejoic\
+ed in the way of\
+ thy testimonies\
+, as much as in \
+all riches.</p><\
+p>119:15 I will \
+meditate in thy \
+precepts, and ha\
+ve respect unto \
+thy ways.</p><p>\
+119:16 I will de\
+light myself in \
+thy statutes: I \
+will not forget \
+thy word.</p><p>\
+119:17 Deal boun\
+tifully with thy\
+ servant, that I\
+ may live, and k\
+eep thy word.</p\
+><p>119:18 Open \
+thou mine eyes, \
+that I may behol\
+d wondrous thing\
+s out of thy law\
+.</p><p>119:19 I\
+ am a stranger i\
+n the earth: hid\
+e not thy comman\
+dments from me.<\
+/p><p>119:20 My \
+soul breaketh fo\
+r the longing th\
+at it hath unto \
+thy judgments at\
+ all times.</p><\
+p>119:21 Thou ha\
+st rebuked the p\
+roud that are cu\
+rsed, which do e\
+rr from thy comm\
+andments.</p><p>\
+119:22 Remove fr\
+om me reproach a\
+nd contempt; for\
+ I have kept thy\
+ testimonies.</p\
+><p>119:23 Princ\
+es also did sit \
+and speak agains\
+t me: but thy se\
+rvant did medita\
+te in thy statut\
+es.</p><p>119:24\
+ Thy testimonies\
+ also are my del\
+ight and my coun\
+sellors.</p><p>1\
+19:25 My soul cl\
+eaveth unto the \
+dust: quicken th\
+ou me according \
+to thy word.</p>\
+<p>119:26 I have\
+ declared my way\
+s, and thou hear\
+dest me: teach m\
+e thy statutes.<\
+/p><p>119:27 Mak\
+e me to understa\
+nd the way of th\
+y precepts: so s\
+hall I talk of t\
+hy wondrous work\
+s.</p><p>119:28 \
+My soul melteth \
+for heaviness: s\
+trengthen thou m\
+e according unto\
+ thy word.</p><p\
+>119:29 Remove f\
+rom me the way o\
+f lying: and gra\
+nt me thy law gr\
+aciously.</p><p>\
+119:30 I have ch\
+osen the way of \
+truth: thy judgm\
+ents have I laid\
+ before me.</p><\
+p>119:31 I have \
+stuck unto thy t\
+estimonies: O Ya\
+hweh, put me not\
+ to shame.</p><p\
+>119:32 I will r\
+un the way of th\
+y commandments, \
+when thou shalt \
+enlarge my heart\
+.</p><p>119:33 T\
+each me, O Yahwe\
+h, the way of th\
+y statutes; and \
+I shall keep it \
+unto the end.</p\
+><p>119:34 Give \
+me understanding\
+, and I shall ke\
+ep thy law; yea,\
+ I shall observe\
+ it with my whol\
+e heart.</p><p>1\
+19:35 Make me to\
+ go in the path \
+of thy commandme\
+nts; for therein\
+ do I delight.</\
+p><p>119:36 Incl\
+ine my heart unt\
+o thy testimonie\
+s, and not to co\
+vetousness.</p><\
+p>119:37 Turn aw\
+ay mine eyes fro\
+m beholding vani\
+ty; and quicken \
+thou me in thy w\
+ay.</p><p>119:38\
+ Stablish thy wo\
+rd unto thy serv\
+ant, who is devo\
+ted to thy fear.\
+</p><p>119:39 Tu\
+rn away my repro\
+ach which I fear\
+: for thy judgme\
+nts are good.</p\
+><p>119:40 Behol\
+d, I have longed\
+ after thy prece\
+pts: quicken me \
+in thy righteous\
+ness.</p><p>119:\
+41 Let thy merci\
+es come also unt\
+o me, O Yahweh, \
+even thy salvati\
+on, according to\
+ thy word.</p><p\
+>119:42 So shall\
+ I have wherewit\
+h to answer him \
+that reproacheth\
+ me: for I trust\
+ in thy word.</p\
+><p>119:43 And t\
+ake not the word\
+ of truth utterl\
+y out of my mout\
+h; for I have ho\
+ped in thy judgm\
+ents.</p><p>119:\
+44 So shall I ke\
+ep thy law conti\
+nually for ever \
+and ever.</p><p>\
+119:45 And I wil\
+l walk at libert\
+y: for I seek th\
+y precepts.</p><\
+p>119:46 I will \
+speak of thy tes\
+timonies also be\
+fore kings, and \
+will not be asha\
+med.</p><p>119:4\
+7 And I will del\
+ight myself in t\
+hy commandments,\
+ which I have lo\
+ved.</p><p>119:4\
+8 My hands also \
+will I lift up u\
+nto thy commandm\
+ents, which I ha\
+ve loved; and I \
+will meditate in\
+ thy statutes.</\
+p><p>119:49 Reme\
+mber the word un\
+to thy servant, \
+upon which thou \
+hast caused me t\
+o hope.</p><p>11\
+9:50 This is my \
+comfort in my af\
+fliction: for th\
+y word hath quic\
+kened me.</p><p>\
+119:51 The proud\
+ have had me gre\
+atly in derision\
+: yet have I not\
+ declined from t\
+hy law.</p><p>11\
+9:52 I remembere\
+d thy judgments \
+of old, O Yahweh\
+; and have comfo\
+rted myself.</p>\
+<p>119:53 Horror\
+ hath taken hold\
+ upon me because\
+ of the wicked t\
+hat forsake thy \
+law.</p><p>119:5\
+4 Thy statutes h\
+ave been my song\
+s in the house o\
+f my pilgrimage.\
+</p><p>119:55 I \
+have remembered \
+thy name, O Yahw\
+eh, in the night\
+, and have kept \
+thy law.</p><p>1\
+19:56 This I had\
+, because I kept\
+ thy precepts.</\
+p><p>119:57 Thou\
+ art my portion,\
+ O Yahweh: I hav\
+e said that I wo\
+uld keep thy wor\
+ds.</p><p>119:58\
+ I intreated thy\
+ favour with my \
+whole heart: be \
+merciful unto me\
+ according to th\
+y word.</p><p>11\
+9:59 I thought o\
+n my ways, and t\
+urned my feet un\
+to thy testimoni\
+es.</p><p>119:60\
+ I made haste, a\
+nd delayed not t\
+o keep thy comma\
+ndments.</p><p>1\
+19:61 The bands \
+of the wicked ha\
+ve robbed me: bu\
+t I have not for\
+gotten thy law.<\
+/p><p>119:62 At \
+midnight I will \
+rise to give tha\
+nks unto thee be\
+cause of thy rig\
+hteous judgments\
+.</p><p>119:63 I\
+ am a companion \
+of all them that\
+ fear thee, and \
+of them that kee\
+p thy precepts.<\
+/p><p>119:64 The\
+ earth, O Yahweh\
+, is full of thy\
+ mercy: teach me\
+ thy statutes.</\
+p><p>119:65 Thou\
+ hast dealt well\
+ with thy servan\
+t, O Yahweh, acc\
+ording unto thy \
+word.</p><p>119:\
+66 Teach me good\
+ judgment and kn\
+owledge: for I h\
+ave believed thy\
+ commandments.</\
+p><p>119:67 Befo\
+re I was afflict\
+ed I went astray\
+: but now have I\
+ kept thy word.<\
+/p><p>119:68 Tho\
+u art good, and \
+doest good; teac\
+h me thy statute\
+s.</p><p>119:69 \
+The proud have f\
+orged a lie agai\
+nst me: but I wi\
+ll keep thy prec\
+epts with my who\
+le heart.</p><p>\
+119:70 Their hea\
+rt is as fat as \
+grease; but I de\
+light in thy law\
+.</p><p>119:71 I\
+t is good for me\
+ that I have bee\
+n afflicted; tha\
+t I might learn \
+thy statutes.</p\
+><p>119:72 The l\
+aw of thy mouth \
+is better unto m\
+e than thousands\
+ of gold and sil\
+ver.</p><p>119:7\
+3 Thy hands have\
+ made me and fas\
+hioned me: give \
+me understanding\
+, that I may lea\
+rn thy commandme\
+nts.</p><p>119:7\
+4 They that fear\
+ thee will be gl\
+ad when they see\
+ me; because I h\
+ave hoped in thy\
+ word.</p><p>119\
+:75 I know, O Ya\
+hweh, that thy j\
+udgments are rig\
+ht, and that tho\
+u in faithfulnes\
+s hast afflicted\
+ me.</p><p>119:7\
+6 Let, I pray th\
+ee, thy merciful\
+ kindness be for\
+ my comfort, acc\
+ording to thy wo\
+rd unto thy serv\
+ant.</p><p>119:7\
+7 Let thy tender\
+ mercies come un\
+to me, that I ma\
+y live: for thy \
+law is my deligh\
+t.</p><p>119:78 \
+Let the proud be\
+ ashamed; for th\
+ey dealt pervers\
+ely with me with\
+out a cause: but\
+ I will meditate\
+ in thy precepts\
+.</p><p>119:79 L\
+et those that fe\
+ar thee turn unt\
+o me, and those \
+that have known \
+thy testimonies.\
+</p><p>119:80 Le\
+t my heart be so\
+und in thy statu\
+tes; that I be n\
+ot ashamed.</p><\
+p>119:81 My soul\
+ fainteth for th\
+y salvation: but\
+ I hope in thy w\
+ord.</p><p>119:8\
+2 Mine eyes fail\
+ for thy word, s\
+aying, When wilt\
+ thou comfort me\
+?</p><p>119:83 F\
+or I am become l\
+ike a bottle in \
+the smoke; yet d\
+o I not forget t\
+hy statutes.</p>\
+<p>119:84 How ma\
+ny are the days \
+of thy servant? \
+when wilt thou e\
+xecute judgment \
+on them that per\
+secute me?</p><p\
+>119:85 The prou\
+d have digged pi\
+ts for me, which\
+ are not after t\
+hy law.</p><p>11\
+9:86 All thy com\
+mandments are fa\
+ithful: they per\
+secute me wrongf\
+ully; help thou \
+me.</p><p>119:87\
+ They had almost\
+ consumed me upo\
+n earth; but I f\
+orsook not thy p\
+recepts.</p><p>1\
+19:88 Quicken me\
+ after thy lovin\
+gkindness; so sh\
+all I keep the t\
+estimony of thy \
+mouth.</p><p>119\
+:89 For ever, O \
+Yahweh, thy word\
+ is settled in h\
+eaven.</p><p>119\
+:90 Thy faithful\
+ness is unto all\
+ generations: th\
+ou hast establis\
+hed the earth, a\
+nd it abideth.</\
+p><p>119:91 They\
+ continue this d\
+ay according to \
+thine ordinances\
+: for all are th\
+y servants.</p><\
+p>119:92 Unless \
+thy law had been\
+ my delights, I \
+should then have\
+ perished in min\
+e affliction.</p\
+><p>119:93 I wil\
+l never forget t\
+hy precepts: for\
+ with them thou \
+hast quickened m\
+e.</p><p>119:94 \
+I am thine, save\
+ me: for I have \
+sought thy prece\
+pts.</p><p>119:9\
+5 The wicked hav\
+e waited for me \
+to destroy me: b\
+ut I will consid\
+er thy testimoni\
+es.</p><p>119:96\
+ I have seen an \
+end of all perfe\
+ction: but thy c\
+ommandment is ex\
+ceeding broad.</\
+p><p>119:97 O ho\
+w I love thy law\
+! it is my medit\
+ation all the da\
+y.</p><p>119:98 \
+Thou through thy\
+ commandments ha\
+st made me wiser\
+ than mine enemi\
+es: for they are\
+ ever with me.</\
+p><p>119:99 I ha\
+ve more understa\
+nding than all m\
+y teachers: for \
+thy testimonies \
+are my meditatio\
+n.</p><p>119:100\
+ I understand mo\
+re than the anci\
+ents, because I \
+keep thy precept\
+s.</p><p>119:101\
+ I have refraine\
+d my feet from e\
+very evil way, t\
+hat I might keep\
+ thy word.</p><p\
+>119:102 I have \
+not departed fro\
+m thy judgments:\
+ for thou hast t\
+aught me.</p><p>\
+119:103 How swee\
+t are thy words \
+unto my taste! y\
+ea, sweeter than\
+ honey to my mou\
+th!</p><p>119:10\
+4 Through thy pr\
+ecepts I get und\
+erstanding: ther\
+efore I hate eve\
+ry false way.</p\
+><p>119:105 Thy \
+word is a lamp u\
+nto my feet, and\
+ a light unto my\
+ path.</p><p>119\
+:106 I have swor\
+n, and I will pe\
+rform it, that I\
+ will keep thy r\
+ighteous judgmen\
+ts.</p><p>119:10\
+7 I am afflicted\
+ very much: quic\
+ken me, O Yahweh\
+, according unto\
+ thy word.</p><p\
+>119:108 Accept,\
+ I beseech thee,\
+ the freewill of\
+ferings of my mo\
+uth, O Yahweh, a\
+nd teach me thy \
+judgments.</p><p\
+>119:109 My soul\
+ is continually \
+in my hand: yet \
+do I not forget \
+thy law.</p><p>1\
+19:110 The wicke\
+d have laid a sn\
+are for me: yet \
+I erred not from\
+ thy precepts.</\
+p><p>119:111 Thy\
+ testimonies hav\
+e I taken as an \
+heritage for eve\
+r: for they are \
+the rejoicing of\
+ my heart.</p><p\
+>119:112 I have \
+inclined mine he\
+art to perform t\
+hy statutes alwa\
+y, even unto the\
+ end.</p><p>119:\
+113 I hate vain \
+thoughts: but th\
+y law do I love.\
+</p><p>119:114 T\
+hou art my hidin\
+g place and my s\
+hield: I hope in\
+ thy word.</p><p\
+>119:115 Depart \
+from me, ye evil\
+doers: for I wil\
+l keep the comma\
+ndments of my El\
+ohim.</p><p>119:\
+116 Uphold me ac\
+cording unto thy\
+ word, that I ma\
+y live: and let \
+me not be ashame\
+d of my hope.</p\
+><p>119:117 Hold\
+ thou me up, and\
+ I shall be safe\
+: and I will hav\
+e respect unto t\
+hy statutes cont\
+inually.</p><p>1\
+19:118 Thou hast\
+ trodden down al\
+l them that err \
+from thy statute\
+s: for their dec\
+eit is falsehood\
+.</p><p>119:119 \
+Thou puttest awa\
+y all the wicked\
+ of the earth li\
+ke dross: theref\
+ore I love thy t\
+estimonies.</p><\
+p>119:120 My fle\
+sh trembleth for\
+ fear of thee; a\
+nd I am afraid o\
+f thy judgments.\
+</p><p>119:121 I\
+ have done judgm\
+ent and justice:\
+ leave me not to\
+ mine oppressors\
+.</p><p>119:122 \
+Be surety for th\
+y servant for go\
+od: let not the \
+proud oppress me\
+.</p><p>119:123 \
+Mine eyes fail f\
+or thy salvation\
+, and for the wo\
+rd of thy righte\
+ousness.</p><p>1\
+19:124 Deal with\
+ thy servant acc\
+ording unto thy \
+mercy, and teach\
+ me thy statutes\
+.</p><p>119:125 \
+I am thy servant\
+; give me unders\
+tanding, that I \
+may know thy tes\
+timonies.</p><p>\
+119:126 It is ti\
+me for thee, Yah\
+weh, to work: fo\
+r they have made\
+ void thy law.</\
+p><p>119:127 The\
+refore I love th\
+y commandments a\
+bove gold; yea, \
+above fine gold.\
+</p><p>119:128 T\
+herefore I estee\
+m all thy precep\
+ts concerning al\
+l things to be r\
+ight; and I hate\
+ every false way\
+.</p><p>119:129 \
+Thy testimonies \
+are wonderful: t\
+herefore doth my\
+ soul keep them.\
+</p><p>119:130 T\
+he entrance of t\
+hy words giveth \
+light; it giveth\
+ understanding u\
+nto the simple.<\
+/p><p>119:131 I \
+opened my mouth,\
+ and panted: for\
+ I longed for th\
+y commandments.<\
+/p><p>119:132 Lo\
+ok thou upon me,\
+ and be merciful\
+ unto me, as tho\
+u usest to do un\
+to those that lo\
+ve thy name.</p>\
+<p>119:133 Order\
+ my steps in thy\
+ word: and let n\
+ot any iniquity \
+have dominion ov\
+er me.</p><p>119\
+:134 Deliver me \
+from the oppress\
+ion of man: so w\
+ill I keep thy p\
+recepts.</p><p>1\
+19:135 Make thy \
+face to shine up\
+on thy servant; \
+and teach me thy\
+ statutes.</p><p\
+>119:136 Rivers \
+of waters run do\
+wn mine eyes, be\
+cause they keep \
+not thy law.</p>\
+<p>119:137 Right\
+eous art thou, O\
+ Yahweh, and upr\
+ight are thy jud\
+gments.</p><p>11\
+9:138 Thy testim\
+onies that thou \
+hast commanded a\
+re righteous and\
+ very faithful.<\
+/p><p>119:139 My\
+ zeal hath consu\
+med me, because \
+mine enemies hav\
+e forgotten thy \
+words.</p><p>119\
+:140 Thy word is\
+ very pure: ther\
+efore thy servan\
+t loveth it.</p>\
+<p>119:141 I am \
+small and despis\
+ed: yet do not I\
+ forget thy prec\
+epts.</p><p>119:\
+142 Thy righteou\
+sness is an ever\
+lasting righteou\
+sness, and thy l\
+aw is the truth.\
+</p><p>119:143 T\
+rouble and angui\
+sh have taken ho\
+ld on me: yet th\
+y commandments a\
+re my delights.<\
+/p><p>119:144 Th\
+e righteousness \
+of thy testimoni\
+es is everlastin\
+g: give me under\
+standing, and I \
+shall live.</p><\
+p>119:145 I crie\
+d with my whole \
+heart; hear me, \
+O Yahweh: I will\
+ keep thy statut\
+es.</p><p>119:14\
+6 I cried unto t\
+hee; save me, an\
+d I shall keep t\
+hy testimonies.<\
+/p><p>119:147 I \
+prevented the da\
+wning of the mor\
+ning, and cried:\
+ I hoped in thy \
+word.</p><p>119:\
+148 Mine eyes pr\
+event the night \
+watches, that I \
+might meditate i\
+n thy word.</p><\
+p>119:149 Hear m\
+y voice accordin\
+g unto thy lovin\
+gkindness: O Yah\
+weh, quicken me \
+according to thy\
+ judgment.</p><p\
+>119:150 They dr\
+aw nigh that fol\
+low after mischi\
+ef: they are far\
+ from thy law.</\
+p><p>119:151 Tho\
+u art near, O Ya\
+hweh; and all th\
+y commandments a\
+re truth.</p><p>\
+119:152 Concerni\
+ng thy testimoni\
+es, I have known\
+ of old that tho\
+u hast founded t\
+hem for ever.</p\
+><p>119:153 Cons\
+ider mine afflic\
+tion, and delive\
+r me: for I do n\
+ot forget thy la\
+w.</p><p>119:154\
+ Plead my cause,\
+ and deliver me:\
+ quicken me acco\
+rding to thy wor\
+d.</p><p>119:155\
+ Salvation is fa\
+r from the wicke\
+d: for they seek\
+ not thy statute\
+s.</p><p>119:156\
+ Great are thy t\
+ender mercies, O\
+ Yahweh: quicken\
+ me according to\
+ thy judgments.<\
+/p><p>119:157 Ma\
+ny are my persec\
+utors and mine e\
+nemies; yet do I\
+ not decline fro\
+m thy testimonie\
+s.</p><p>119:158\
+ I beheld the tr\
+ansgressors, and\
+ was grieved; be\
+cause they kept \
+not thy word.</p\
+><p>119:159 Cons\
+ider how I love \
+thy precepts: qu\
+icken me, O Yahw\
+eh, according to\
+ thy lovingkindn\
+ess.</p><p>119:1\
+60 Thy word is t\
+rue from the beg\
+inning: and ever\
+y one of thy rig\
+hteous judgments\
+ endureth for ev\
+er.</p><p>119:16\
+1 Princes have p\
+ersecuted me wit\
+hout a cause: bu\
+t my heart stand\
+eth in awe of th\
+y word.</p><p>11\
+9:162 I rejoice \
+at thy word, as \
+one that findeth\
+ great spoil.</p\
+><p>119:163 I ha\
+te and abhor lyi\
+ng: but thy law \
+do I love.</p><p\
+>119:164 Seven t\
+imes a day do I \
+praise thee beca\
+use of thy right\
+eous judgments.<\
+/p><p>119:165 Gr\
+eat peace have t\
+hey which love t\
+hy law: and noth\
+ing shall offend\
+ them.</p><p>119\
+:166 Yahweh, I h\
+ave hoped for th\
+y salvation, and\
+ done thy comman\
+dments.</p><p>11\
+9:167 My soul ha\
+th kept thy test\
+imonies; and I l\
+ove them exceedi\
+ngly.</p><p>119:\
+168 I have kept \
+thy precepts and\
+ thy testimonies\
+: for all my way\
+s are before the\
+e.</p><p>119:169\
+ Let my cry come\
+ near before the\
+e, O Yahweh: giv\
+e me understandi\
+ng according to \
+thy word.</p><p>\
+119:170 Let my s\
+upplication come\
+ before thee: de\
+liver me accordi\
+ng to thy word.<\
+/p><p>119:171 My\
+ lips shall utte\
+r praise, when t\
+hou hast taught \
+me thy statutes.\
+</p><p>119:172 M\
+y tongue shall s\
+peak of thy word\
+: for all thy co\
+mmandments are r\
+ighteousness.</p\
+><p>119:173 Let \
+thine hand help \
+me; for I have c\
+hosen thy precep\
+ts.</p><p>119:17\
+4 I have longed \
+for thy salvatio\
+n, O Yahweh; and\
+ thy law is my d\
+elight.</p><p>11\
+9:175 Let my sou\
+l live, and it s\
+hall praise thee\
+; and let thy ju\
+dgments help me.\
+</p><p>119:176 I\
+ have gone astra\
+y like a lost sh\
+eep; seek thy se\
+rvant; for I do \
+not forget thy c\
+ommandments.</p>\
+\x22,       \x22chapte\
+r\x22: \x22Psalms 119\x22\
+     }  ] } \
+\x00\x00\x16H\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>11:1\
+ Now faith is th\
+e substance of t\
+hings hoped for,\
+ the evidence of\
+ things not seen\
+.</p><p>11:2 For\
+ by it the elder\
+s obtained a goo\
+d report.</p><p>\
+11:3 Through fai\
+th we understand\
+ that the worlds\
+ were framed by \
+the word of Yahw\
+eh, so that thin\
+gs which are see\
+n were not made \
+of things which \
+do appear.</p><p\
+>11:4 By faith A\
+bel offered unto\
+ Yahweh a more e\
+xcellent sacrifi\
+ce than Cain, by\
+ which he obtain\
+ed witness that \
+he was righteous\
+, Yahweh testify\
+ing of his gifts\
+: and by it he b\
+eing dead yet sp\
+eaketh.</p><p>11\
+:5 By faith Enoc\
+h was translated\
+ that he should \
+not see death; a\
+nd was not found\
+, because Elohim\
+ had translated \
+him: for before \
+his translation \
+he had this test\
+imony, that he p\
+leased Yahweh.</\
+p><p>11:6 But wi\
+thout faith it i\
+s impossible to \
+please him: for \
+he that cometh t\
+o Yahweh must be\
+lieve that he is\
+, and that he is\
+ a rewarder of t\
+hem that diligen\
+tly seek him.</p\
+><p>11:7 By fait\
+h Noah, being wa\
+rned of Yahweh o\
+f things not see\
+n as yet, moved \
+with fear, prepa\
+red an ark to th\
+e saving of his \
+house; by the wh\
+ich he condemned\
+ the world, and \
+became heir of t\
+he righteousness\
+ which is by fai\
+th.</p><p>11:8 B\
+y faith Abraham,\
+ when he was cal\
+led to go out in\
+to a place which\
+ he should after\
+ receive for an \
+inheritance, obe\
+yed; and he went\
+ out, not knowin\
+g whither he wen\
+t.</p><p>11:9 By\
+ faith he sojour\
+ned in the land \
+of promise, as i\
+n a strange coun\
+try, dwelling in\
+ tabernacles wit\
+h Isaac and Jaco\
+b, the heirs wit\
+h him of the sam\
+e promise:</p><p\
+>11:10 For he lo\
+oked for a city \
+which hath found\
+ations, whose bu\
+ilder and maker \
+is Yahweh.</p><p\
+>11:11 Through f\
+aith also Sara h\
+erself received \
+strength to conc\
+eive seed, and w\
+as delivered of \
+a child when she\
+ was past age, b\
+ecause she judge\
+d him faithful w\
+ho had promised.\
+</p><p>11:12 The\
+refore sprang th\
+ere even of one,\
+ and him as good\
+ as dead, so man\
+y as the stars o\
+f the sky in mul\
+titude, and as t\
+he sand which is\
+ by the sea shor\
+e innumerable.</\
+p><p>11:13 These\
+ all died in fai\
+th, not having r\
+eceived the prom\
+ises, but having\
+ seen them afar \
+off, and were pe\
+rsuaded of them,\
+ and embraced th\
+em, and confesse\
+d that they were\
+ strangers and p\
+ilgrims on the e\
+arth.</p><p>11:1\
+4 For they that \
+say such things \
+declare plainly \
+that they seek a\
+ country.</p><p>\
+11:15 And truly,\
+ if they had bee\
+n mindful of tha\
+t country from w\
+hence they came \
+out, they might \
+have had opportu\
+nity to have ret\
+urned.</p><p>11:\
+16 But now they \
+desire a better \
+country, that is\
+, an heavenly: w\
+herefore Yahweh \
+is not ashamed t\
+o be called thei\
+r Elohim: for he\
+ hath prepared f\
+or them a city.<\
+/p><p>11:17 By f\
+aith Abraham, wh\
+en he was tried,\
+ offered up Isaa\
+c: and he that h\
+ad received the \
+promises offered\
+ up his only beg\
+otten son,</p><p\
+>11:18 Of whom i\
+t was said, That\
+ in Isaac shall \
+thy seed be call\
+ed:</p><p>11:19 \
+Accounting that \
+Yahweh was able \
+to raise him up,\
+ even from the d\
+ead; from whence\
+ also he receive\
+d him in a figur\
+e.</p><p>11:20 B\
+y faith Isaac bl\
+essed Jacob and \
+Esau concerning \
+things to come.<\
+/p><p>11:21 By f\
+aith Jacob, when\
+ he was a dying,\
+ blessed both th\
+e sons of Joseph\
+; and worshipped\
+, leaning upon t\
+he top of his st\
+aff.</p><p>11:22\
+ By faith Joseph\
+, when he died, \
+made mention of \
+the departing of\
+ the children of\
+ Israel; and gav\
+e commandment co\
+ncerning his bon\
+es.</p><p>11:23 \
+By faith Moses, \
+when he was born\
+, was hid three \
+months of his pa\
+rents, because t\
+hey saw he was a\
+ proper child; a\
+nd they were not\
+ afraid of the k\
+ing's commandmen\
+t.</p><p>11:24 B\
+y faith Moses, w\
+hen he was come \
+to years, refuse\
+d to be called t\
+he son of Pharao\
+h's daughter;</p\
+><p>11:25 Choosi\
+ng rather to suf\
+fer affliction w\
+ith the people o\
+f Yahweh, than t\
+o enjoy the plea\
+sures of sin for\
+ a season;</p><p\
+>11:26 Esteeming\
+ the reproach of\
+ Messiah greater\
+ riches than the\
+ treasures in Eg\
+ypt: for he had \
+respect unto the\
+ recompence of t\
+he reward.</p><p\
+>11:27 By faith \
+he forsook Egypt\
+, not fearing th\
+e wrath of the k\
+ing: for he endu\
+red, as seeing h\
+im who is invisi\
+ble.</p><p>11:28\
+ Through faith h\
+e kept the passo\
+ver, and the spr\
+inkling of blood\
+, lest he that d\
+estroyed the fir\
+stborn should to\
+uch them.</p><p>\
+11:29 By faith t\
+hey passed throu\
+gh the Red sea a\
+s by dry land: w\
+hich the Egyptia\
+ns assaying to d\
+o were drowned.<\
+/p><p>11:30 By f\
+aith the walls o\
+f Jericho fell d\
+own, after they \
+were compassed a\
+bout seven days.\
+</p><p>11:31 By \
+faith the harlot\
+ Rahab perished \
+not with them th\
+at believed not,\
+ when she had re\
+ceived the spies\
+ with peace.</p>\
+<p>11:32 And wha\
+t shall I more s\
+ay? for the time\
+ would fail me t\
+o tell of Gedeon\
+, and of Barak, \
+and of Samson, a\
+nd of Jephthae; \
+of David also, a\
+nd Samuel, and o\
+f the prophets:<\
+/p><p>11:33 Who \
+through faith su\
+bdued kingdoms, \
+wrought righteou\
+sness, obtained \
+promises, stoppe\
+d the mouths of \
+lions.</p><p>11:\
+34 Quenched the \
+violence of fire\
+, escaped the ed\
+ge of the sword,\
+ out of weakness\
+ were made stron\
+g, waxed valiant\
+ in fight, turne\
+d to flight the \
+armies of the al\
+iens.</p><p>11:3\
+5 Women received\
+ their dead rais\
+ed to life again\
+: and others wer\
+e tortured, not \
+accepting delive\
+rance; that they\
+ might obtain a \
+better resurrect\
+ion:</p><p>11:36\
+ And others had \
+trial of cruel m\
+ockings and scou\
+rgings, yea, mor\
+eover of bonds a\
+nd imprisonment:\
+</p><p>11:37 The\
+y were stoned, t\
+hey were sawn as\
+under, were temp\
+ted, were slain \
+with the sword: \
+they wandered ab\
+out in sheepskin\
+s and goatskins;\
+ being destitute\
+, afflicted, tor\
+mented;</p><p>11\
+:38 (Of whom the\
+ world was not w\
+orthy:) they wan\
+dered in deserts\
+, and in mountai\
+ns, and in dens \
+and caves of the\
+ earth.</p><p>11\
+:39 And these al\
+l, having obtain\
+ed a good report\
+ through faith, \
+received not the\
+ promise:</p><p>\
+11:40 Yahweh hav\
+ing provided som\
+e better thing f\
+or us, that they\
+ without us shou\
+ld not be made p\
+erfect.</p>\x22,   \
+    \x22chapter\x22: \x22\
+Hebrews 11\x22     \
+}  ] } \
+\x00\x00\x0c\xe6\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>20:1 An\
+d Elohim spake a\
+ll these words, \
+saying,</p><p>20\
+:2 I am Yahweh t\
+hy Elohim, which\
+ have brought th\
+ee out of the la\
+nd of Egypt, out\
+ of the house of\
+ bondage.</p><p>\
+20:3 Thou shalt \
+have no other El\
+ohims before me.\
+</p><p>20:4 Thou\
+ shalt not make \
+unto thee any gr\
+aven image, or a\
+ny likeness of a\
+ny thing that is\
+ in heaven above\
+, or that is in \
+the earth beneat\
+h, or that is in\
+ the water under\
+ the earth.</p><\
+p>20:5 Thou shal\
+t not bow down t\
+hyself to them, \
+nor serve them: \
+for I Yahweh  th\
+y Elohim am a je\
+alous Elohim, vi\
+siting the iniqu\
+ity of the fathe\
+rs upon the chil\
+dren unto the th\
+ird and fourth g\
+eneration of the\
+m that hate me;<\
+/p><p>20:6 And s\
+hewing mercy unt\
+o thousands of t\
+hem that love me\
+, and keep my co\
+mmandments.</p><\
+p>20:7 Thou shal\
+t not take the n\
+ame of Yahweh th\
+y Elohim in vain\
+; for Yahweh  wi\
+ll not hold him \
+guiltless that t\
+aketh his name i\
+n vain.</p><p>20\
+:8 Remember the \
+sabbath day, to \
+keep it holy.</p\
+><p>20:9 Six day\
+s shalt thou lab\
+our, and do all \
+thy work:</p><p>\
+20:10 But the se\
+venth day is the\
+ sabbath of Yahw\
+eh thy Elohim: i\
+n it thou shalt \
+not do any work,\
+ thou, nor thy s\
+on, nor thy daug\
+hter, thy manser\
+vant, nor thy ma\
+idservant, nor t\
+hy cattle, nor t\
+hy stranger that\
+ is within thy g\
+ates:</p><p>20:1\
+1 For in six day\
+s Yahweh made he\
+aven and earth, \
+the sea, and all\
+ that in them is\
+, and rested the\
+ seventh day: wh\
+erefore Yahweh b\
+lessed the sabba\
+th day, and hall\
+owed it.</p><p>2\
+0:12 Honour thy \
+father and thy m\
+other: that thy \
+days may be long\
+ upon the land w\
+hich Yahweh thy \
+Elohim giveth th\
+ee.</p><p>20:13 \
+Thou shalt not k\
+ill.</p><p>20:14\
+ Thou shalt not \
+commit adultery.\
+</p><p>20:15 Tho\
+u shalt not stea\
+l.</p><p>20:16 T\
+hou shalt not be\
+ar false witness\
+ against thy nei\
+ghbour.</p><p>20\
+:17 Thou shalt n\
+ot covet thy nei\
+ghbour's house, \
+thou shalt not c\
+ovet thy neighbo\
+ur's wife, nor h\
+is manservant, n\
+or his maidserva\
+nt, nor his ox, \
+nor his ass, nor\
+ any thing that \
+is thy neighbour\
+'s.</p><p>20:18 \
+And all the peop\
+le saw the thund\
+erings, and the \
+lightnings, and \
+the noise of the\
+ trumpet, and th\
+e mountain smoki\
+ng: and when the\
+ people saw it, \
+they removed, an\
+d stood afar off\
+.</p><p>20:19 An\
+d they said unto\
+ Moses, Speak th\
+ou with us, and \
+we will hear: bu\
+t let not Elohim\
+ speak with us, \
+lest we die.</p>\
+<p>20:20 And Mos\
+es said unto the\
+ people, Fear no\
+t: for Elohim is\
+ come to prove y\
+ou, and that his\
+ fear may be bef\
+ore your faces, \
+that ye sin not.\
+</p><p>20:21 And\
+ the people stoo\
+d afar off, and \
+Moses drew near \
+unto the thick d\
+arkness where El\
+ohim was.</p><p>\
+20:22 And Yahweh\
+ said unto Moses\
+, Thus thou shal\
+t say unto the c\
+hildren of Israe\
+l, Ye have seen \
+that I have talk\
+ed with you from\
+ heaven.</p><p>2\
+0:23 Ye shall no\
+t make with me g\
+ods of silver, n\
+either shall ye \
+make unto you El\
+ohims of gold.</\
+p><p>20:24 An al\
+tar of earth tho\
+u shalt make unt\
+o me, and shalt \
+sacrifice thereo\
+n thy burnt offe\
+rings, and thy p\
+eace offerings, \
+thy sheep, and t\
+hine oxen: in al\
+l places where I\
+ record my name \
+I will come unto\
+ thee, and I wil\
+l bless thee.</p\
+><p>20:25 And if\
+ thou wilt make \
+me an altar of s\
+tone, thou shalt\
+ not build it of\
+ hewn stone: for\
+ if thou lift up\
+ thy tool upon i\
+t, thou hast pol\
+luted it.</p><p>\
+20:26 Neither sh\
+alt thou go up b\
+y steps unto min\
+e altar, that th\
+y nakedness be n\
+ot discovered th\
+ereon.</p>\x22,    \
+   \x22chapter\x22: \x22E\
+xodus 20\x22     } \
+ ] } \
+\x00\x00\x14\xbb\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>14:1 An\
+d Yahweh spake u\
+nto Moses, sayin\
+g,</p><p>14:2 Sp\
+eak unto the chi\
+ldren of Israel,\
+ that they turn \
+and encamp befor\
+e Pihahiroth, be\
+tween Migdol and\
+ the sea, over a\
+gainst Baalzepho\
+n: before it sha\
+ll ye encamp by \
+the sea.</p><p>1\
+4:3 For Pharaoh \
+will say of the \
+children of Isra\
+el, They are ent\
+angled in the la\
+nd, the wilderne\
+ss hath shut the\
+m in.</p><p>14:4\
+ And I will hard\
+en Pharaoh's hea\
+rt, that he shal\
+l follow after t\
+hem; and I will \
+be honoured upon\
+ Pharaoh, and up\
+on all his host;\
+ that the Egypti\
+ans may know tha\
+t I am Yahweh. A\
+nd they did so.<\
+/p><p>14:5 And i\
+t was told the k\
+ing of Egypt tha\
+t the people fle\
+d: and the heart\
+ of Pharaoh and \
+of his servants \
+was turned again\
+st the people, a\
+nd they said, Wh\
+y have we done t\
+his, that we hav\
+e let Israel go \
+from serving us?\
+</p><p>14:6 And \
+he made ready hi\
+s chariot, and t\
+ook his people w\
+ith him:</p><p>1\
+4:7 And he took \
+six hundred chos\
+en chariots, and\
+ all the chariot\
+s of Egypt, and \
+captains over ev\
+ery one of them.\
+</p><p>14:8 And \
+Yahweh hardened \
+the heart of Pha\
+raoh king of Egy\
+pt, and he pursu\
+ed after the chi\
+ldren of Israel:\
+ and the childre\
+n of Israel went\
+ out with an hig\
+h hand.</p><p>14\
+:9 But the Egypt\
+ians pursued aft\
+er them, all the\
+ horses and char\
+iots of Pharaoh,\
+ and his horseme\
+n, and his army,\
+ and overtook th\
+em encamping by \
+the sea, beside \
+Pihahiroth, befo\
+re Baalzephon.</\
+p><p>14:10 And w\
+hen Pharaoh drew\
+ nigh, the child\
+ren of Israel li\
+fted up their ey\
+es, and, behold,\
+ the Egyptians m\
+arched after the\
+m; and they were\
+ sore afraid: an\
+d the children o\
+f Israel cried o\
+ut unto Yahweh. \
+</p><p>14:11 And\
+ they said unto \
+Moses, Because t\
+here were no gra\
+ves in Egypt, ha\
+st thou taken us\
+ away to die in \
+the wilderness? \
+wherefore hast t\
+hou dealt thus w\
+ith us, to carry\
+ us forth out of\
+ Egypt?</p><p>14\
+:12 Is not this \
+the word that we\
+ did tell thee i\
+n Egypt, saying,\
+ Let us alone, t\
+hat we may serve\
+ the Egyptians? \
+For it had been \
+better for us to\
+ serve the Egypt\
+ians, than that \
+we should die in\
+ the wilderness.\
+</p><p>14:13 And\
+ Moses said unto\
+ the people, Fea\
+r ye not, stand \
+still, and see t\
+he salvation of \
+Yahweh, which he\
+ will shew to yo\
+u to day: for th\
+e Egyptians whom\
+ ye have seen to\
+ day, ye shall s\
+ee them again no\
+ more for ever.<\
+/p><p>14:14 Yahw\
+eh shall fight f\
+or you, and ye s\
+hall hold your p\
+eace.</p><p>14:1\
+5 And Yahweh sai\
+d unto Moses, Wh\
+erefore criest t\
+hou unto me? spe\
+ak unto the chil\
+dren of Israel, \
+that they go for\
+ward:</p><p>14:1\
+6 But lift thou \
+up thy rod, and \
+stretch out thin\
+e hand over the \
+sea, and divide \
+it: and the chil\
+dren of Israel s\
+hall go on dry g\
+round through th\
+e midst of the s\
+ea.</p><p>14:17 \
+And I, behold, I\
+ will harden the\
+ hearts of the E\
+gyptians, and th\
+ey shall follow \
+them: and I will\
+ get me honour u\
+pon Pharaoh, and\
+ upon all his ho\
+st, upon his cha\
+riots, and upon \
+his horsemen.</p\
+><p>14:18 And th\
+e Egyptians shal\
+l know that I am\
+ Yahweh, when I \
+have gotten me h\
+onour upon Phara\
+oh, upon his cha\
+riots, and upon \
+his horsemen.</p\
+><p>14:19 And th\
+e angel of Elohi\
+m, which went be\
+fore the camp of\
+ Israel, removed\
+ and went behind\
+ them; and the p\
+illar of the clo\
+ud went from bef\
+ore their face, \
+and stood behind\
+ them:</p><p>14:\
+20 And it came b\
+etween the camp \
+of the Egyptians\
+ and the camp of\
+ Israel; and it \
+was a cloud and \
+darkness to them\
+, but it gave li\
+ght by night to \
+these: so that t\
+he one came not \
+near the other a\
+ll the night.</p\
+><p>14:21 And Mo\
+ses stretched ou\
+t his hand over \
+the sea; and Yah\
+weh caused the s\
+ea to go back by\
+ a strong east w\
+ind all that nig\
+ht, and made the\
+ sea dry land, a\
+nd the waters we\
+re divided.</p><\
+p>14:22 And the \
+children of Isra\
+el went into the\
+ midst of the se\
+a upon the dry g\
+round: and the w\
+aters were a wal\
+l unto them on t\
+heir right hand,\
+ and on their le\
+ft.</p><p>14:23 \
+And the Egyptian\
+s pursued, and w\
+ent in after the\
+m to the midst o\
+f the sea, even \
+all Pharaoh's ho\
+rses, his chario\
+ts, and his hors\
+emen.</p><p>14:2\
+4 And it came to\
+ pass, that in t\
+he morning watch\
+ Yahweh looked u\
+nto the host of \
+the Egyptians th\
+rough the pillar\
+ of fire and of \
+the cloud, and t\
+roubled the host\
+ of the Egyptian\
+s,</p><p>14:25 A\
+nd took off thei\
+r chariot wheels\
+, that they drav\
+e them heavily: \
+so that the Egyp\
+tians said, Let \
+us flee from the\
+ face of Israel;\
+ for Yahweh figh\
+teth for them ag\
+ainst the Egypti\
+ans.</p><p>14:26\
+ And Yahweh said\
+ unto Moses, Str\
+etch out thine h\
+and over the sea\
+, that the water\
+s may come again\
+ upon the Egypti\
+ans, upon their \
+chariots, and up\
+on their horseme\
+n.</p><p>14:27 A\
+nd Moses stretch\
+ed forth his han\
+d over the sea, \
+and the sea retu\
+rned to his stre\
+ngth when the mo\
+rning appeared; \
+and the Egyptian\
+s fled against i\
+t; and Yahweh ov\
+erthrew the Egyp\
+tians in the mid\
+st of the sea.</\
+p><p>14:28 And t\
+he waters return\
+ed, and covered \
+the chariots, an\
+d the horsemen, \
+and all the host\
+ of Pharaoh that\
+ came into the s\
+ea after them; t\
+here remained no\
+t so much as one\
+ of them.</p><p>\
+14:29 But the ch\
+ildren of Israel\
+ walked upon dry\
+ land in the mid\
+st of the sea; a\
+nd the waters we\
+re a wall unto t\
+hem on their rig\
+ht hand, and on \
+their left.</p><\
+p>14:30 Thus Yah\
+weh saved Israel\
+ that day out of\
+ the hand of the\
+ Egyptians; and \
+Israel saw the E\
+gyptians dead up\
+on the sea shore\
+.</p><p>14:31 An\
+d Israel saw tha\
+t great work whi\
+ch Yahweh did up\
+on the Egyptians\
+: and the people\
+ feared Yahweh, \
+and believed Yah\
+weh, and his ser\
+vant Moses.</p>\x22\
+,       \x22chapter\
+\x22: \x22Exodus 14\x22  \
+   }  ] } \
+\x00\x00\x0b\xdd\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>6:1 \
+Let as many serv\
+ants as are unde\
+r the yoke count\
+ their own maste\
+rs worthy of all\
+ honour, that th\
+e name of Elohim\
+ and his doctrin\
+e be not blasphe\
+med.</p><p>6:2 A\
+nd they that hav\
+e believing mast\
+ers, let them no\
+t despise them, \
+because they are\
+ brethren; but r\
+ather do them se\
+rvice, because t\
+hey are faithful\
+ and beloved, pa\
+rtakers of the b\
+enefit. These th\
+ings teach and e\
+xhort.</p><p>6:3\
+ If any man teac\
+h otherwise, and\
+ consent not to \
+wholesome words,\
+ even the words \
+of our master Ya\
+hushua Messiah, \
+and to the doctr\
+ine which is acc\
+ording to righte\
+ousness;</p><p>6\
+:4 He is proud, \
+knowing nothing,\
+ but doting abou\
+t questions and \
+strifes of words\
+, whereof cometh\
+ envy, strife, r\
+ailings, evil su\
+rmisings,</p><p>\
+6:5 Perverse dis\
+putings of men o\
+f corrupt minds,\
+ and destitute o\
+f the truth, sup\
+posing that gain\
+ is righteousnes\
+s: from such wit\
+hdraw thyself.</\
+p><p>6:6 But rig\
+hteousness with \
+contentment is g\
+reat gain.</p><p\
+>6:7 For we brou\
+ght nothing into\
+ this world, and\
+ it is certain w\
+e can carry noth\
+ing out.</p><p>6\
+:8 And having fo\
+od and raiment l\
+et us be therewi\
+th content.</p><\
+p>6:9 But they t\
+hat will be rich\
+ fall into tempt\
+ation and a snar\
+e, and into many\
+ foolish and hur\
+tful lusts, whic\
+h drown men in d\
+estruction and p\
+erdition.</p><p>\
+6:10 For the lov\
+e of money is th\
+e root of all ev\
+il: which while \
+some coveted aft\
+er, they have er\
+red from the fai\
+th, and pierced \
+themselves throu\
+gh with many sor\
+rows.</p><p>6:11\
+ But thou, O man\
+ of Elohim, flee\
+ these things; a\
+nd follow after \
+righteousness, r\
+ighteousness, fa\
+ith, love, patie\
+nce, meekness.</\
+p><p>6:12 Fight \
+the good fight o\
+f faith, lay hol\
+d on eternal lif\
+e, whereunto tho\
+u art also calle\
+d, and hast prof\
+essed a good pro\
+fession before m\
+any witnesses.</\
+p><p>6:13 I give\
+ thee charge in \
+the sight of Elo\
+him, who quicken\
+eth all things, \
+and before Messi\
+ah Yahushua, who\
+ before Pontius \
+Pilate witnessed\
+ a good confessi\
+on;</p><p>6:14 T\
+hat thou keep th\
+is commandment w\
+ithout spot, unr\
+ebukable, until \
+the appearing of\
+ our master Yahu\
+shua Messiah:</p\
+><p>6:15 Which i\
+n his times he s\
+hall shew, who i\
+s the blessed an\
+d only Potentate\
+, the King of ki\
+ngs, and Master \
+of Masters;</p><\
+p>6:16 Who only \
+hath immortality\
+, dwelling in th\
+e light which no\
+ man can approac\
+h unto; whom no \
+man hath seen, n\
+or can see: to w\
+hom be honour an\
+d power everlast\
+ing. Amen.</p><p\
+>6:17 Charge the\
+m that are rich \
+in this world, t\
+hat they be not \
+highminded, nor \
+trust in uncerta\
+in riches, but i\
+n the living Elo\
+him, who giveth \
+us richly all th\
+ings to enjoy;</\
+p><p>6:18 That t\
+hey do good, tha\
+t they be rich i\
+n good works, re\
+ady to distribut\
+e, willing to co\
+mmunicate;</p><p\
+>6:19 Laying up \
+in store for the\
+mselves a good f\
+oundation agains\
+t the time to co\
+me, that they ma\
+y lay hold on et\
+ernal life.</p><\
+p>6:20 O Timothy\
+, keep that whic\
+h is committed t\
+o thy trust, avo\
+iding profane an\
+d vain babblings\
+, and opposition\
+s of science fal\
+sely so called:<\
+/p><p>6:21 Which\
+ some professing\
+ have erred conc\
+erning the faith\
+. Grace be with \
+thee. Amen.</p>\x22\
+,       \x22chapter\
+\x22: \x221 Timothy 6\x22\
+     }  ] } \
+\x00\x00\x161\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>31:1 An\
+d Moses went and\
+ spake these wor\
+ds unto all Isra\
+el.</p><p>31:2 A\
+nd he said unto \
+them, I am an hu\
+ndred and twenty\
+ years old this \
+day; I can no mo\
+re go out and co\
+me in: also Yahw\
+eh hath said unt\
+o me, Thou shalt\
+ not go over thi\
+s Jordan.</p><p>\
+31:3 Yahweh thy \
+Elohim he will g\
+o over before th\
+ee, and he will \
+destroy these na\
+tions from befor\
+e thee, and thou\
+ shalt possess t\
+hem: and Joshua,\
+ he shall go ove\
+r before thee, a\
+s Yahweh hath sa\
+id.</p><p>31:4 A\
+nd Yahweh shall \
+do unto them as \
+he did to Sihon \
+and to Og, kings\
+ of the Amorites\
+, and unto the l\
+and of them, who\
+m he destroyed.<\
+/p><p>31:5 And Y\
+ahweh shall give\
+ them up before \
+your face, that \
+ye may do unto t\
+hem according un\
+to all the comma\
+ndments which I \
+have commanded y\
+ou.</p><p>31:6 B\
+e strong and of \
+a good courage, \
+fear not, nor be\
+ afraid of them:\
+ for Yahweh thy \
+Elohim, he it is\
+ that doth go wi\
+th thee; he will\
+ not fail thee, \
+nor forsake thee\
+.</p><p>31:7 And\
+ Moses called un\
+to Joshua, and s\
+aid unto him in \
+the sight of all\
+ Israel, Be stro\
+ng and of a good\
+ courage: for th\
+ou must go with \
+this people unto\
+ the land which \
+Yahweh hath swor\
+n unto their fat\
+hers to give the\
+m; and thou shal\
+t cause them to \
+inherit it.</p><\
+p>31:8 And Yahwe\
+h he it is that \
+doth go before t\
+hee; he will be \
+with thee, he wi\
+ll not fail thee\
+, neither forsak\
+e thee: fear not\
+, neither be dis\
+mayed.</p><p>31:\
+9 And Moses wrot\
+e this law, and \
+delivered it unt\
+o the priests th\
+e sons of Levi, \
+which bare the a\
+rk of the covena\
+nt of Yahweh and\
+ unto all the el\
+ders of Israel.<\
+/p><p>31:10 And \
+Moses commanded \
+them, saying, At\
+ the end of ever\
+y seven years, i\
+n the solemnity \
+of the year of r\
+elease, in the f\
+east of tabernac\
+les,</p><p>31:11\
+ When all Israel\
+ is come to appe\
+ar before Yahweh\
+ thy Elohim in t\
+he place which h\
+e shall choose, \
+thou shalt read \
+this law before \
+all Israel in th\
+eir hearing.</p>\
+<p>31:12 Gather \
+the people toget\
+her, men and wom\
+en, and children\
+, and thy strang\
+er that is withi\
+n thy gates, tha\
+t they may hear,\
+ and that they m\
+ay learn, and fe\
+ar Yahweh your E\
+lohim, and obser\
+ve to do all the\
+ words of this l\
+aw:</p><p>31:13 \
+And that their c\
+hildren, which h\
+ave not known an\
+y thing, may hea\
+r, and learn to \
+fear Yahweh your\
+ Elohim as long \
+as ye live in th\
+e land whither y\
+e go over Jordan\
+ to possess it.<\
+/p><p>31:14 And \
+Yahweh said unto\
+ Moses, Behold, \
+thy days approac\
+h that thou must\
+ die: call Joshu\
+a, and present y\
+ourselves in the\
+ tabernacle of t\
+he congregation,\
+ that I may give\
+ him a charge. A\
+nd Moses and Jos\
+hua went, and pr\
+esented themselv\
+es in the tabern\
+acle of the cong\
+regation.</p><p>\
+31:15 And Yahweh\
+ appeared in the\
+ tabernacle in a\
+ pillar of a clo\
+ud: and the pill\
+ar of the cloud \
+stood over the d\
+oor of the taber\
+nacle.</p><p>31:\
+16 And Yahweh sa\
+id unto Moses, B\
+ehold, thou shal\
+t sleep with thy\
+ fathers; and th\
+is people will r\
+ise up, and go a\
+ whoring after t\
+he gods of the s\
+trangers of the \
+land, whither th\
+ey go to be amon\
+g them, and will\
+ forsake me, and\
+ break my covena\
+nt which I have \
+made with them.<\
+/p><p>31:17 Then\
+ my anger shall \
+be kindled again\
+st them in that \
+day, and I will \
+forsake them, an\
+d I will hide my\
+ face from them,\
+ and they shall \
+be devoured, and\
+ many evils and \
+troubles shall b\
+efall them; so t\
+hat they will sa\
+y in that day, A\
+re not these evi\
+ls come upon us,\
+ because our Elo\
+him is not among\
+ us?</p><p>31:18\
+ And I will sure\
+ly hide my face \
+in that day for \
+all the evils wh\
+ich they shall h\
+ave wrought, in \
+that they are tu\
+rned unto other \
+Mighty ones.</p>\
+<p>31:19 Now the\
+refore write ye \
+this song for yo\
+u, and teach it \
+the children of \
+Israel: put it i\
+n their mouths, \
+that this song m\
+ay be a witness \
+for me against t\
+he children of I\
+srael.</p><p>31:\
+20 For when I sh\
+all have brought\
+ them into the l\
+and which I swar\
+e unto their fat\
+hers, that flowe\
+th with milk and\
+ honey; and they\
+ shall have eate\
+n and filled the\
+mselves, and wax\
+en fat; then wil\
+l they turn unto\
+ other gods, and\
+ serve them, and\
+ provoke me, and\
+ break my covena\
+nt.</p><p>31:21 \
+And it shall com\
+e to pass, when \
+many evils and t\
+roubles are befa\
+llen them, that \
+this song shall \
+testify against \
+them as a witnes\
+s; for it shall \
+not be forgotten\
+ out of the mout\
+hs of their seed\
+: for I know the\
+ir imagination w\
+hich they go abo\
+ut, even now, be\
+fore I have brou\
+ght them into th\
+e land which I s\
+ware.</p><p>31:2\
+2 Moses therefor\
+e wrote this son\
+g the same day, \
+and taught it th\
+e children of Is\
+rael.</p><p>31:2\
+3 And he gave Jo\
+shua the son of \
+Nun a charge, an\
+d said, Be stron\
+g and of a good \
+courage: for tho\
+u shalt bring th\
+e children of Is\
+rael into the la\
+nd which I sware\
+ unto them: and \
+I will be with t\
+hee.</p><p>31:24\
+ And it came to \
+pass, when Moses\
+ had made an end\
+ of writing the \
+words of this la\
+w in a book, unt\
+il they were fin\
+ished,</p><p>31:\
+25 That Moses co\
+mmanded the Levi\
+tes, which bare \
+the ark of the c\
+ovenant of Yahwe\
+h, saying,</p><p\
+>31:26 Take this\
+ book of the law\
+, and put it in \
+the side of the \
+ark of the coven\
+ant of Yahweh yo\
+ur Elohim that i\
+t may be there f\
+or a witness aga\
+inst thee.</p><p\
+>31:27 For I kno\
+w thy rebellion,\
+ and thy stiff n\
+eck: behold, whi\
+le I am yet aliv\
+e with you this \
+day, ye have bee\
+n rebellious aga\
+inst Yahweh  and\
+ how much more a\
+fter my death?</\
+p><p>31:28 Gathe\
+r unto me all th\
+e elders of your\
+ tribes, and you\
+r officers, that\
+ I may speak the\
+se words in thei\
+r ears, and call\
+ heaven and eart\
+h to record agai\
+nst them.</p><p>\
+31:29 For I know\
+ that after my d\
+eath ye will utt\
+erly corrupt you\
+rselves, and tur\
+n aside from the\
+ way which I hav\
+e commanded you;\
+ and evil will b\
+efall you in the\
+ latter days; be\
+cause ye will do\
+ evil in the sig\
+ht of  Yahweh</p\
+><p> 31:30 And M\
+oses spake in th\
+e ears of all th\
+e congregation o\
+f Israel the wor\
+ds of this song,\
+ until they were\
+ ended.</p>\x22,   \
+    \x22chapter\x22: \x22\
+Deuteronomy 31\x22 \
+    }  ] }      \
+\
+\x00\x00\x0d5\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>2:1 \
+Then fourteen ye\
+ars after I went\
+ up again to Jer\
+usalem with Barn\
+abas, and took T\
+itus with me als\
+o.</p><p>2:2 And\
+ I went up by re\
+velation, and co\
+mmunicated unto \
+them that gospel\
+ which I preach \
+among the Gentil\
+es, but privatel\
+y to them which \
+were of reputati\
+on, lest by any \
+means I should r\
+un, or had run, \
+in vain.</p><p>2\
+:3 But neither T\
+itus, who was wi\
+th me, being a G\
+reek, was compel\
+led to be circum\
+cised:</p><p>2:4\
+ And that becaus\
+e of false breth\
+ren unawares bro\
+ught in, who cam\
+e in privily to \
+spy out our libe\
+rty which we hav\
+e in Messiah Yah\
+ushua, that they\
+ might bring us \
+into bondage:</p\
+><p>2:5 To whom \
+we gave place by\
+ subjection, no,\
+ not for an hour\
+; that the truth\
+ of the gospel m\
+ight continue wi\
+th you.</p><p>2:\
+6 But of these w\
+ho seemed to be \
+somewhat, (whats\
+oever they were,\
+ it maketh no ma\
+tter to me: Eloh\
+im accepteth no \
+man's person:) f\
+or they who seem\
+ed to be somewha\
+t in conference \
+added nothing to\
+ me:</p><p>2:7 B\
+ut contrariwise,\
+ when they saw t\
+hat the gospel o\
+f the uncircumci\
+sion was committ\
+ed unto me, as t\
+he gospel of the\
+ circumcision wa\
+s unto Peter;</p\
+><p>2:8 (For he \
+that wrought eff\
+ectually in Pete\
+r to the apostle\
+ship of the circ\
+umcision, the sa\
+me was mighty in\
+ me toward the G\
+entiles:)</p><p>\
+2:9 And when Jam\
+es, Cephas, and \
+John, who seemed\
+ to be pillars, \
+perceived the gr\
+ace that was giv\
+en unto me, they\
+ gave to me and \
+Barnabas the rig\
+ht hands of fell\
+owship; that we \
+should go unto t\
+he heathen, and \
+they unto the ci\
+rcumcision.</p><\
+p>2:10 Only they\
+ would that we s\
+hould remember t\
+he poor; the sam\
+e which I also w\
+as forward to do\
+.</p><p>2:11 But\
+ when Peter was \
+come to Antioch,\
+ I withstood him\
+ to the face, be\
+cause he was to \
+be blamed.</p><p\
+>2:12 For before\
+ that certain ca\
+me from James, h\
+e did eat with t\
+he Gentiles: but\
+ when they were \
+come, he withdre\
+w and separated \
+himself, fearing\
+ them which were\
+ of the circumci\
+sion.</p><p>2:13\
+ And the other J\
+ews dissembled l\
+ikewise with him\
+; insomuch that \
+Barnabas also wa\
+s carried away w\
+ith their dissim\
+ulation.</p><p>2\
+:14 But when I s\
+aw that they wal\
+ked not uprightl\
+y according to t\
+he truth of the \
+gospel, I said u\
+nto Peter before\
+ them all, If th\
+ou, being a Jew,\
+ livest after th\
+e manner of Gent\
+iles, and not as\
+ do the Jews, wh\
+y compellest tho\
+u the Gentiles t\
+o live as do the\
+ Jews?</p><p>2:1\
+5 We who are Jew\
+s by nature, and\
+ not sinners of \
+the Gentiles,</p\
+><p>2:16 Knowing\
+ that a man is n\
+ot justified by \
+the works of the\
+ law, but by the\
+ faith of Yahush\
+ua Messiah, even\
+ we have believe\
+d in Yahushua Me\
+ssiah, that we m\
+ight be justifie\
+d by the faith o\
+f Messiah, and n\
+ot by the works \
+of the law: for \
+by the works of \
+the law shall no\
+ flesh be justif\
+ied.</p><p>2:17 \
+But if, while we\
+ seek to be just\
+ified by Messiah\
+, we ourselves a\
+lso are found si\
+nners, is theref\
+ore Messiah the \
+minister of sin?\
+ Elohim forbid.<\
+/p><p>2:18 For i\
+f I build again \
+the things which\
+ I destroyed, I \
+make myself a tr\
+ansgressor.</p><\
+p>2:19 For I thr\
+ough the law am \
+dead to the law,\
+ that I might li\
+ve unto Elohim.<\
+/p><p>2:20 I am \
+crucified with M\
+essiah: neverthe\
+less I live; yet\
+ not I, but Mess\
+iah liveth in me\
+: and the life w\
+hich I now live \
+in the flesh I l\
+ive by the faith\
+ of the Son of E\
+lohim, who loved\
+ me, and gave hi\
+mself for me.</p\
+><p>2:21 I do no\
+t frustrate the \
+grace of Elohim:\
+ for if righteou\
+sness come by th\
+e law, then Mess\
+iah is dead in v\
+ain.</p>\x22,      \
+ \x22chapter\x22: \x22Gal\
+atians 2\x22     } \
+ ] }\
+\x00\x00\x0b%\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>5:1 \
+Stand fast there\
+fore in the libe\
+rty wherewith Me\
+ssiah hath made \
+us free, and be \
+not entangled ag\
+ain with the yok\
+e of bondage.</p\
+><p>5:2 Behold, \
+I Paul say unto \
+you, that if ye \
+be circumcised, \
+Messiah shall pr\
+ofit you nothing\
+.</p><p>5:3 For \
+I testify again \
+to every man tha\
+t is circumcised\
+, that he is a d\
+ebtor to do the \
+whole law.</p><p\
+>5:4 Messiah is \
+become of no eff\
+ect unto you, wh\
+osoever of you a\
+re justified by \
+the law; ye are \
+fallen from grac\
+e.</p><p>5:5 For\
+ we through the \
+Spirit wait for \
+the hope of righ\
+teousness by fai\
+th.</p><p>5:6 Fo\
+r in Yahushua Me\
+ssiah neither ci\
+rcumcision avail\
+eth any thing, n\
+or uncircumcisio\
+n; but faith whi\
+ch worketh by lo\
+ve.</p><p>5:7 Ye\
+ did run well; w\
+ho did hinder yo\
+u that ye should\
+ not obey the tr\
+uth?</p><p>5:8 T\
+his persuasion c\
+ometh not of him\
+ that calleth yo\
+u.</p><p>5:9 A l\
+ittle leaven lea\
+veneth the whole\
+ lump.</p><p>5:1\
+0 I have confide\
+nce in you throu\
+gh Yahweh, that \
+ye will be none \
+otherwise minded\
+: but he that tr\
+oubleth you shal\
+l bear his judgm\
+ent, whosoever h\
+e be.</p><p>5:11\
+ And I, brethren\
+, if I yet preac\
+h circumcision, \
+why do I yet suf\
+fer persecution?\
+ then is the off\
+ence of the cros\
+s ceased.</p><p>\
+5:12 I would the\
+y were even cut \
+off which troubl\
+e you.</p><p>5:1\
+3 For, brethren,\
+ ye have been ca\
+lled unto libert\
+y; only use not \
+liberty for an o\
+ccasion to the f\
+lesh, but by lov\
+e serve one anot\
+her.</p><p>5:14 \
+For all the law \
+is fulfilled in \
+one word, even i\
+n this; Thou sha\
+lt love thy neig\
+hbour as thyself\
+.</p><p>5:15 But\
+ if ye bite and \
+devour one anoth\
+er, take heed th\
+at ye be not con\
+sumed one of ano\
+ther.</p><p>5:16\
+ This I say then\
+, Walk in the Sp\
+irit, and ye sha\
+ll not fulfil th\
+e lust of the fl\
+esh.</p><p>5:17 \
+For the flesh lu\
+steth against th\
+e Spirit, and th\
+e Spirit against\
+ the flesh: and \
+these are contra\
+ry the one to th\
+e other: so that\
+ ye cannot do th\
+e things that ye\
+ would.</p><p>5:\
+18 But if ye be \
+led of the Spiri\
+t, ye are not un\
+der the law.</p>\
+<p>5:19 Now the \
+works of the fle\
+sh are manifest,\
+ which are these\
+; Adultery, forn\
+ication, unclean\
+ness, lascivious\
+ness,</p><p>5:20\
+ Idolatry, witch\
+craft, hatred, v\
+ariance, emulati\
+ons, wrath, stri\
+fe, seditions, h\
+eresies,</p><p>5\
+:21 Envyings, mu\
+rders, drunkenne\
+ss, revellings, \
+and such like: o\
+f the which I te\
+ll you before, a\
+s I have also to\
+ld you in time p\
+ast, that they w\
+hich do such thi\
+ngs shall not in\
+herit the kingdo\
+m of Elohim.</p>\
+<p>5:22 But the \
+fruit of the Spi\
+rit is love, joy\
+, peace, longsuf\
+fering, gentlene\
+ss, goodness, fa\
+ith,</p><p>5:23 \
+Meekness, temper\
+ance: against su\
+ch there is no l\
+aw.</p><p>5:24 A\
+nd they that are\
+ Messiah's have \
+crucified the fl\
+esh with the aff\
+ections and lust\
+s.</p><p>5:25 If\
+ we live in the \
+Spirit, let us a\
+lso walk in the \
+Spirit.</p><p>5:\
+26 Let us not be\
+ desirous of vai\
+n glory, provoki\
+ng one another, \
+envying one anot\
+her.</p>\x22,      \
+ \x22chapter\x22: \x22Gal\
+atians 5\x22     } \
+ ] }\
+\x00\x00\x08x\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>6:1 \
+Brethren, if a m\
+an be overtaken \
+in a fault, ye w\
+hich are spiritu\
+al, restore such\
+ an one in the s\
+pirit of meeknes\
+s; considering t\
+hyself, lest tho\
+u also be tempte\
+d.</p><p>6:2 Bea\
+r ye one another\
+'s burdens, and \
+so fulfil the la\
+w of Messiah.</p\
+><p>6:3 For if a\
+ man think himse\
+lf to be somethi\
+ng, when he is n\
+othing, he decei\
+veth himself.</p\
+><p>6:4 But let \
+every man prove \
+his own work, an\
+d then shall he \
+have rejoicing i\
+n himself alone,\
+ and not in anot\
+her.</p><p>6:5 F\
+or every man sha\
+ll bear his own \
+burden.</p><p>6:\
+6 Let him that i\
+s taught in the \
+word communicate\
+ unto him that t\
+eacheth in all g\
+ood things.</p><\
+p>6:7 Be not dec\
+eived; Elohim is\
+ not mocked: for\
+ whatsoever a ma\
+n soweth, that s\
+hall he also rea\
+p.</p><p>6:8 For\
+ he that soweth \
+to his flesh sha\
+ll of the flesh \
+reap corruption;\
+ but he that sow\
+eth to the Spiri\
+t shall of the S\
+pirit reap life \
+everlasting.</p>\
+<p>6:9 And let u\
+s not be weary i\
+n well doing: fo\
+r in due season \
+we shall reap, i\
+f we faint not.<\
+/p><p>6:10 As we\
+ have therefore \
+opportunity, let\
+ us do good unto\
+ all men, especi\
+ally unto them w\
+ho are of the ho\
+usehold of faith\
+.</p><p>6:11 Ye \
+see how large a \
+letter I have wr\
+itten unto you w\
+ith mine own han\
+d.</p><p>6:12 As\
+ many as desire \
+to make a fair s\
+hew in the flesh\
+, they constrain\
+ you to be circu\
+mcised; only les\
+t they should su\
+ffer persecution\
+ for the cross o\
+f Messiah.</p><p\
+>6:13 For neithe\
+r they themselve\
+s who are circum\
+cised keep the l\
+aw; but desire t\
+o have you circu\
+mcised, that the\
+y may glory in y\
+our flesh.</p><p\
+>6:14 But Elohim\
+ forbid that I s\
+hould glory, sav\
+e in the cross o\
+f our master Yah\
+ushua Messiah, b\
+y whom the world\
+ is crucified un\
+to me, and I unt\
+o the world.</p>\
+<p>6:15 For in M\
+essiah Yahushua \
+neither circumci\
+sion availeth an\
+y thing, nor unc\
+ircumcision, but\
+ a new creature.\
+</p><p>6:16 And \
+as many as walk \
+according to thi\
+s rule, peace be\
+ on them, and me\
+rcy, and upon th\
+e Israel of Eloh\
+im.</p><p>6:17 F\
+rom henceforth l\
+et no man troubl\
+e me: for I bear\
+ in my body the \
+marks of the mas\
+ter Yahushua.</p\
+><p>6:18 Brethre\
+n, the grace of \
+our master Yahus\
+hua Messiah be w\
+ith your spirit.\
+ Amen.</p>\x22,    \
+   \x22chapter\x22: \x22G\
+alatians 6\x22     \
+}  ] } \
+\x00\x00\x0b\x81\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>58:1\
+ Cry aloud, spar\
+e not, lift up t\
+hy voice like a \
+trumpet, and she\
+w my people thei\
+r transgression,\
+ and the house o\
+f Jacob their si\
+ns.</p><p>58:2 Y\
+et they seek me \
+daily, and delig\
+ht to know my wa\
+ys, as a nation \
+that did righteo\
+usness, and fors\
+ook not the ordi\
+nance of their E\
+lohim: they ask \
+of me the ordina\
+nces of justice;\
+ they take delig\
+ht in approachin\
+g to Elohim.</p>\
+<p>58:3 Wherefor\
+e have we fasted\
+, say they, and \
+thou seest not? \
+wherefore have w\
+e afflicted our \
+soul, and thou t\
+akest no knowled\
+ge? Behold, in t\
+he day of your f\
+ast ye find plea\
+sure, and exact \
+all your labours\
+.</p><p>58:4 Beh\
+old, ye fast for\
+ strife and deba\
+te, and to smite\
+ with the fist o\
+f wickedness: ye\
+ shall not fast \
+as ye do this da\
+y, to make your \
+voice to be hear\
+d on high.</p><p\
+>58:5 Is it such\
+ a fast that I h\
+ave chosen? a da\
+y for a man to a\
+fflict his soul?\
+ is it to bow do\
+wn his head as a\
+ bulrush, and to\
+ spread sackclot\
+h and ashes unde\
+r him? wilt thou\
+ call this a fas\
+t, and an accept\
+able day to Yahw\
+eh?</p><p>58:6 I\
+s not this the f\
+ast that I have \
+chosen? to loose\
+ the bands of wi\
+ckedness, to und\
+o the heavy burd\
+ens, and to let \
+the oppressed go\
+ free, and that \
+ye break every y\
+oke?</p><p>58:7 \
+Is it not to dea\
+l thy bread to t\
+he hungry, and t\
+hat thou bring t\
+he poor that are\
+ cast out to thy\
+ house? when tho\
+u seest the nake\
+d, that thou cov\
+er him; and that\
+ thou hide not t\
+hyself from thin\
+e own flesh?</p>\
+<p>58:8 Then sha\
+ll thy light bre\
+ak forth as the \
+morning, and thi\
+ne health shall \
+spring forth spe\
+edily: and thy r\
+ighteousness sha\
+ll go before the\
+e; the glory of \
+Yahweh shall be \
+thy rereward.</p\
+><p>58:9 Then sh\
+alt thou call, a\
+nd Yahweh shall \
+answer; thou sha\
+lt cry, and he s\
+hall say, Here I\
+ am. If thou tak\
+e away from the \
+midst of thee th\
+e yoke, the putt\
+ing forth of the\
+ finger, and spe\
+aking vanity;</p\
+><p>58:10 And if\
+ thou draw out t\
+hy soul to the h\
+ungry, and satis\
+fy the afflicted\
+ soul; then shal\
+l thy light rise\
+ in obscurity, a\
+nd thy darkness \
+be as the noon d\
+ay:</p><p>58:11 \
+And Yahweh shall\
+ guide thee cont\
+inually, and sat\
+isfy thy soul in\
+ drought, and ma\
+ke fat thy bones\
+: and thou shalt\
+ be like a water\
+ed garden, and l\
+ike a spring of \
+water, whose wat\
+ers fail not.</p\
+><p>58:12 And th\
+ey that shall be\
+ of thee shall b\
+uild the old was\
+te places: thou \
+shalt raise up t\
+he foundations o\
+f many generatio\
+ns; and thou sha\
+lt be called, Th\
+e repairer of th\
+e breach, The re\
+storer of paths \
+to dwell in.</p>\
+<p>58:13 If thou\
+ turn away thy f\
+oot from the sab\
+bath, from doing\
+ thy pleasure on\
+ my holy day; an\
+d call the sabba\
+th a delight, th\
+e holy of  Yahwe\
+h, honourable; a\
+nd shalt honour \
+him, not doing t\
+hine own ways, n\
+or finding thine\
+ own pleasure, n\
+or speaking thin\
+e own words:</p>\
+<p>58:14 Then sh\
+alt thou delight\
+ thyself in Yahw\
+eh; and I will c\
+ause thee to rid\
+e upon the high \
+places of the ea\
+rth, and feed th\
+ee with the heri\
+tage of Jacob th\
+y father: for th\
+e mouth of Yahwe\
+h hath spoken it\
+.</p>\x22,       \x22c\
+hapter\x22: \x22Isaiah\
+ 58\x22     }  ] } \
+\
+\x00\x00\x10\x01\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>43:1\
+ But now thus sa\
+ith Yahweh that \
+created thee, O \
+Jacob, and he th\
+at formed thee, \
+O Israel, Fear n\
+ot: for I have r\
+edeemed thee, I \
+have called thee\
+ by thy name; th\
+ou art mine.</p>\
+<p>43:2 When tho\
+u passest throug\
+h the waters, I \
+will be with the\
+e; and through t\
+he rivers, they \
+shall not overfl\
+ow thee: when th\
+ou walkest throu\
+gh the fire, tho\
+u shalt not be b\
+urned; neither s\
+hall the flame k\
+indle upon thee.\
+</p><p>43:3 For \
+I am Yahweh thy \
+Elohim, the Holy\
+ One of Israel, \
+thy Saviour: I g\
+ave Egypt for th\
+y ransom, Ethiop\
+ia and Seba for \
+thee.</p><p>43:4\
+ Since thou wast\
+ precious in my \
+sight, thou hast\
+ been honourable\
+, and I have lov\
+ed thee: therefo\
+re will I give m\
+en for thee, and\
+ people for thy \
+life.</p><p>43:5\
+ Fear not: for I\
+ am with thee: I\
+ will bring thy \
+seed from the ea\
+st, and gather t\
+hee from the wes\
+t;</p><p>43:6 I \
+will say to the \
+north, Give up; \
+and to the south\
+, Keep not back:\
+ bring my sons f\
+rom far, and my \
+daughters from t\
+he ends of the e\
+arth;</p><p>43:7\
+ Even every one \
+that is called b\
+y my name: for I\
+ have created hi\
+m for my glory, \
+I have formed hi\
+m; yea, I have m\
+ade him.</p><p>4\
+3:8 Bring forth \
+the blind people\
+ that have eyes,\
+ and the deaf th\
+at have ears.</p\
+><p>43:9 Let all\
+ the nations be \
+gathered togethe\
+r, and let the p\
+eople be assembl\
+ed: who among th\
+em can declare t\
+his, and shew us\
+ former things? \
+let them bring f\
+orth their witne\
+sses, that they \
+may be justified\
+: or let them he\
+ar, and say, It \
+is truth.</p><p>\
+43:10 Ye are my \
+witnesses, saith\
+ Yahweh, and my \
+servant whom I h\
+ave chosen: that\
+ ye may know and\
+ believe me, and\
+ understand that\
+ I am he: before\
+ me there was no\
+ Elohim formed, \
+neither shall th\
+ere be after me.\
+</p><p>43:11 I, \
+even I, am Yahwe\
+h; and beside me\
+ there is no sav\
+iour.</p><p>43:1\
+2 I have declare\
+d, and have save\
+d, and I have sh\
+ewed, when there\
+ was no strange \
+god among you: t\
+herefore ye are \
+my witnesses, sa\
+ith Yahweh, that\
+ I am Yahweh.</p\
+><p>43:13 Yea, b\
+efore the day wa\
+s I am he; and t\
+here is none tha\
+t can deliver ou\
+t of my hand: I \
+will work, and w\
+ho shall let it?\
+</p><p>43:14 Thu\
+s saith Yahweh, \
+your redeemer, t\
+he Holy One of I\
+srael; For your \
+sake I have sent\
+ to Babylon, and\
+ have brought do\
+wn all their nob\
+les, and the Cha\
+ldeans, whose cr\
+y is in the ship\
+s.</p><p>43:15 I\
+ am Yahweh, your\
+ Holy One, the c\
+reator of Israel\
+, your King.</p>\
+<p>43:16 Thus sa\
+ith Yahweh, whic\
+h maketh a way i\
+n the sea, and a\
+ path in the mig\
+hty waters;</p><\
+p>43:17 Which br\
+ingeth forth the\
+ chariot and hor\
+se, the army and\
+ the power; they\
+ shall lie down \
+together, they s\
+hall not rise: t\
+hey are extinct,\
+ they are quench\
+ed as tow.</p><p\
+>43:18 Remember \
+ye not the forme\
+r things, neithe\
+r consider the t\
+hings of old.</p\
+><p>43:19 Behold\
+, I will do a ne\
+w thing; now it \
+shall spring for\
+th; shall ye not\
+ know it? I will\
+ even make a way\
+ in the wilderne\
+ss, and rivers i\
+n the desert.</p\
+><p>43:20 The be\
+ast of the field\
+ shall honour me\
+, the dragons an\
+d the owls: beca\
+use I give water\
+s in the wildern\
+ess, and rivers \
+in the desert, t\
+o give drink to \
+my people, my ch\
+osen.</p><p>43:2\
+1 This people ha\
+ve I formed for \
+myself; they sha\
+ll shew forth my\
+ praise.</p><p>4\
+3:22 But thou ha\
+st not called up\
+on me, O Jacob; \
+but thou hast be\
+en weary of me, \
+O Israel.</p><p>\
+43:23 Thou hast \
+not brought me t\
+he small cattle \
+of thy burnt off\
+erings; neither \
+hast thou honour\
+ed me with thy s\
+acrifices. I hav\
+e not caused the\
+e to serve with \
+an offering, nor\
+ wearied thee wi\
+th incense.</p><\
+p>43:24 Thou has\
+t bought me no s\
+weet cane with m\
+oney, neither ha\
+st thou filled m\
+e with the fat o\
+f thy sacrifices\
+: but thou hast \
+made me to serve\
+ with thy sins, \
+thou hast wearie\
+d me with thine \
+iniquities.</p><\
+p>43:25 I, even \
+I, am he that bl\
+otteth out thy t\
+ransgressions fo\
+r mine own sake,\
+ and will not re\
+member thy sins.\
+</p><p>43:26 Put\
+ me in remembran\
+ce: let us plead\
+ together: decla\
+re thou, that th\
+ou mayest be jus\
+tified.</p><p>43\
+:27 Thy first fa\
+ther hath sinned\
+, and thy teache\
+rs have transgre\
+ssed against me.\
+</p><p>43:28 The\
+refore I have pr\
+ofaned the princ\
+es of the sanctu\
+ary, and have gi\
+ven Jacob to the\
+ curse, and Isra\
+el to reproaches\
+.</p>\x22,       \x22c\
+hapter\x22: \x22Isaiah\
+ 43\x22     }  ] } \
+\
+\x00\x00\x12I\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>40:1\
+ Comfort ye, com\
+fort ye my peopl\
+e, saith your El\
+ohim.</p><p>40:2\
+ Speak ye comfor\
+tably to Jerusal\
+em, and cry unto\
+ her, that her w\
+arfare is accomp\
+lished, that her\
+ iniquity is par\
+doned: for she h\
+ath received of \
+Yahweh's hand do\
+uble for all her\
+ sins.</p><p>40:\
+3 The voice of h\
+im that crieth i\
+n the wilderness\
+, Prepare ye the\
+ way of Yahweh, \
+make straight in\
+ the desert a hi\
+ghway for our El\
+ohim.</p><p>40:4\
+ Every valley sh\
+all be exalted, \
+and every mounta\
+in and hill shal\
+l be made low: a\
+nd the crooked s\
+hall be made str\
+aight, and the r\
+ough places plai\
+n:</p><p>40:5 An\
+d the glory of Y\
+ahweh shall be r\
+evealed, and all\
+ flesh shall see\
+ it together: fo\
+r the mouth of Y\
+ahweh hath spoke\
+n it.</p><p>40:6\
+ The voice said,\
+ Cry. And he sai\
+d, What shall I \
+cry? All flesh i\
+s grass, and all\
+ the goodliness \
+thereof is as th\
+e flower of the \
+field:</p><p>40:\
+7 The grass with\
+ereth, the flowe\
+r fadeth: becaus\
+e the spirit of \
+Yahweh bloweth u\
+pon it: surely t\
+he people is gra\
+ss.</p><p>40:8 T\
+he grass withere\
+th, the flower f\
+adeth: but the w\
+ord of our Elohi\
+m shall stand fo\
+r ever.</p><p>40\
+:9 O Zion, that \
+bringest good ti\
+dings, get thee \
+up into the high\
+ mountain; O Jer\
+usalem, that bri\
+ngest good tidin\
+gs, lift up thy \
+voice with stren\
+gth; lift it up,\
+ be not afraid; \
+say unto the cit\
+ies of Judah, Be\
+hold your Elohim\
+!</p><p>40:10 Be\
+hold, Yahweh Elo\
+him will come wi\
+th strong hand, \
+and his arm shal\
+l rule for him: \
+behold, his rewa\
+rd is with him, \
+and his work bef\
+ore him.</p><p>4\
+0:11 He shall fe\
+ed his flock lik\
+e a shepherd: he\
+ shall gather th\
+e lambs with his\
+ arm, and carry \
+them in his boso\
+m, and shall gen\
+tly lead those t\
+hat are with you\
+ng.</p><p>40:12 \
+Who hath measure\
+d the waters in \
+the hollow of hi\
+s hand, and mete\
+d out heaven wit\
+h the span, and \
+comprehended the\
+ dust of the ear\
+th in a measure,\
+ and weighed the\
+ mountains in sc\
+ales, and the hi\
+lls in a balance\
+?</p><p>40:13 Wh\
+o hath directed \
+the Spirit of Ya\
+hweh, or being h\
+is counsellor ha\
+th taught him?</\
+p><p>40:14 With \
+whom took he cou\
+nsel, and who in\
+structed him, an\
+d taught him in \
+the path of judg\
+ment, and taught\
+ him knowledge, \
+and shewed to hi\
+m the way of und\
+erstanding?</p><\
+p>40:15 Behold, \
+the nations are \
+as a drop of a b\
+ucket, and are c\
+ounted as the sm\
+all dust of the \
+balance: behold,\
+ he taketh up th\
+e isles as a ver\
+y little thing.<\
+/p><p>40:16 And \
+Lebanon is not s\
+ufficient to bur\
+n, nor the beast\
+s thereof suffic\
+ient for a burnt\
+ offering.</p><p\
+>40:17 All natio\
+ns before him ar\
+e as nothing; an\
+d they are count\
+ed to him less t\
+han nothing, and\
+ vanity.</p><p>4\
+0:18 To whom the\
+n will ye liken \
+Elohim? or what \
+likeness will ye\
+ compare unto hi\
+m?</p><p>40:19 T\
+he workman melte\
+th a graven imag\
+e, and the golds\
+mith spreadeth i\
+t over with gold\
+, and casteth si\
+lver chains.</p>\
+<p>40:20 He that\
+ is so impoveris\
+hed that he hath\
+ no oblation cho\
+oseth a tree tha\
+t will not rot; \
+he seeketh unto \
+him a cunning wo\
+rkman to prepare\
+ a graven image,\
+ that shall not \
+be moved.</p><p>\
+40:21 Have ye no\
+t known? have ye\
+ not heard? hath\
+ it not been tol\
+d you from the b\
+eginning? have y\
+e not understood\
+ from the founda\
+tions of the ear\
+th?</p><p>40:22 \
+It is he that si\
+tteth upon the c\
+ircle of the ear\
+th, and the inha\
+bitants thereof \
+are as grasshopp\
+ers; that stretc\
+heth out the hea\
+vens as a curtai\
+n, and spreadeth\
+ them out as a t\
+ent to dwell in:\
+</p><p>40:23 Tha\
+t bringeth the p\
+rinces to nothin\
+g; he maketh the\
+ judges of the e\
+arth as vanity.<\
+/p><p>40:24 Yea,\
+ they shall not \
+be planted; yea,\
+ they shall not \
+be sown: yea, th\
+eir stock shall \
+not take root in\
+ the earth: and \
+he shall also bl\
+ow upon them, an\
+d they shall wit\
+her, and the whi\
+rlwind shall tak\
+e them away as s\
+tubble.</p><p>40\
+:25 To whom then\
+ will ye liken m\
+e, or shall I be\
+ equal? saith th\
+e Holy One.</p><\
+p>40:26 Lift up \
+your eyes on hig\
+h, and behold wh\
+o hath created t\
+hese things, tha\
+t bringeth out t\
+heir host by num\
+ber: he calleth \
+them all by name\
+s by the greatne\
+ss of his might,\
+ for that he is \
+strong in power;\
+ not one faileth\
+.</p><p>40:27 Wh\
+y sayest thou, O\
+ Jacob, and spea\
+kest, O Israel, \
+My way is hid fr\
+om Yahweh, and m\
+y judgment is pa\
+ssed over from m\
+y Elohim?</p><p>\
+40:28 Hast thou \
+not known? hast \
+thou not heard, \
+that the everlas\
+ting Elohim, Yah\
+weh, the Creator\
+ of the ends of \
+the earth, faint\
+eth not, neither\
+ is weary? there\
+ is no searching\
+ of his understa\
+nding.</p><p>40:\
+29 He giveth pow\
+er to the faint;\
+ and to them tha\
+t have no might \
+he increaseth st\
+rength.</p><p>40\
+:30 Even the you\
+ths shall faint \
+and be weary, an\
+d the young men \
+shall utterly fa\
+ll:</p><p>40:31 \
+But they that wa\
+it upon Yahweh s\
+hall renew their\
+ strength; they \
+shall mount up w\
+ith wings as eag\
+les; they shall \
+run, and not be \
+weary; and they \
+shall walk, and \
+not faint.</p>\x22,\
+       \x22chapter\x22\
+: \x22Isaiah 40\x22   \
+  }  ] }\
+\x00\x00\x08\xdf\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>55:1\
+ Ho, every one t\
+hat thirsteth, c\
+ome ye to the wa\
+ters, and he tha\
+t hath no money;\
+ come ye, buy, a\
+nd eat; yea, com\
+e, buy wine and \
+milk without mon\
+ey and without p\
+rice.</p><p>55:2\
+ Wherefore do ye\
+ spend money for\
+ that which is n\
+ot bread? and yo\
+ur labour for th\
+at which satisfi\
+eth not? hearken\
+ diligently unto\
+ me, and eat ye \
+that which is go\
+od, and let your\
+ soul delight it\
+self in fatness.\
+</p><p>55:3 Incl\
+ine your ear, an\
+d come unto me: \
+hear, and your s\
+oul shall live; \
+and I will make \
+an everlasting c\
+ovenant with you\
+, even the sure \
+mercies of David\
+.</p><p>55:4 Beh\
+old, I have give\
+n him for a witn\
+ess to the peopl\
+e, a leader and \
+commander to the\
+ people.</p><p>5\
+5:5 Behold, thou\
+ shalt call a na\
+tion that thou k\
+nowest not, and \
+nations that kne\
+w not thee shall\
+ run unto thee b\
+ecause of Yahweh\
+ thy Elohim, and\
+ for the Holy On\
+e of Israel; for\
+ he hath glorifi\
+ed thee.</p><p>5\
+5:6 Seek ye Yahw\
+eh while he may \
+be found, call y\
+e upon him while\
+ he is near:</p>\
+<p>55:7 Let the \
+wicked forsake h\
+is way, and the \
+unrighteous man \
+his thoughts: an\
+d let him return\
+ unto Yahweh, an\
+d he will have m\
+ercy upon him; a\
+nd to our Elohim\
+, for he will ab\
+undantly pardon.\
+</p><p>55:8 For \
+my thoughts are \
+not your thought\
+s, neither are y\
+our ways my ways\
+, saith Yahweh.<\
+/p><p>55:9 For a\
+s the heavens ar\
+e higher than th\
+e earth, so are \
+my ways higher t\
+han your ways, a\
+nd my thoughts t\
+han your thought\
+s.</p><p>55:10 F\
+or as the rain c\
+ometh down, and \
+the snow from he\
+aven, and return\
+eth not thither,\
+ but watereth th\
+e earth, and mak\
+eth it bring for\
+th and bud, that\
+ it may give see\
+d to the sower, \
+and bread to the\
+ eater:</p><p>55\
+:11 So shall my \
+word be that goe\
+th forth out of \
+my mouth: it sha\
+ll not return un\
+to me void, but \
+it shall accompl\
+ish that which I\
+ please, and it \
+shall prosper in\
+ the thing where\
+to I sent it.</p\
+><p>55:12 For ye\
+ shall go out wi\
+th joy, and be l\
+ed forth with pe\
+ace: the mountai\
+ns and the hills\
+ shall break for\
+th before you in\
+to singing, and \
+all the trees of\
+ the field shall\
+ clap their hand\
+s.</p><p>55:13 I\
+nstead of the th\
+orn shall come u\
+p the fir tree, \
+and instead of t\
+he brier shall c\
+ome up the myrtl\
+e tree: and it s\
+hall be to Yahwe\
+h for a name, fo\
+r an everlasting\
+ sign that shall\
+ not be cut off.\
+</p>\x22,       \x22ch\
+apter\x22: \x22Isaiah \
+55\x22     } ] } \
+\x00\x00\x0da\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>15:1\
+ I am the true v\
+ine, and my Fath\
+er is the husban\
+dman.</p><p>15:2\
+ Every branch in\
+ me that beareth\
+ not fruit he ta\
+keth away: and e\
+very branch that\
+ beareth fruit, \
+he purgeth it, t\
+hat it may bring\
+ forth more frui\
+t.</p><p>15:3 No\
+w ye are clean t\
+hrough the word \
+which I have spo\
+ken unto you.</p\
+><p>15:4 Abide i\
+n me, and I in y\
+ou. As the branc\
+h cannot bear fr\
+uit of itself, e\
+xcept it abide i\
+n the vine; no m\
+ore can ye, exce\
+pt ye abide in m\
+e.</p><p>15:5 I \
+am the vine, ye \
+are the branches\
+: He that abidet\
+h in me, and I i\
+n him, the same \
+bringeth forth m\
+uch fruit: for w\
+ithout me ye can\
+ do nothing.</p>\
+<p>15:6 If a man\
+ abide not in me\
+, he is cast for\
+th as a branch, \
+and is withered;\
+ and men gather \
+them, and cast t\
+hem into the fir\
+e, and they are \
+burned.</p><p>15\
+:7 If ye abide i\
+n me, and my wor\
+ds abide in you,\
+ ye shall ask wh\
+at ye will, and \
+it shall be done\
+ unto you.</p><p\
+>15:8 Herein is \
+my Father glorif\
+ied, that ye bea\
+r much fruit; so\
+ shall ye be my \
+disciples.</p><p\
+>15:9 As the Fat\
+her hath loved m\
+e, so have I lov\
+ed you: continue\
+ ye in my love.<\
+/p><p>15:10 If y\
+e keep my comman\
+dments, ye shall\
+ abide in my lov\
+e; even as I hav\
+e kept my Father\
+'s commandments,\
+ and abide in hi\
+s love.</p><p>15\
+:11 These things\
+ have I spoken u\
+nto you, that my\
+ joy might remai\
+n in you, and th\
+at your joy migh\
+t be full.</p><p\
+>15:12 This is m\
+y commandment, T\
+hat ye love one \
+another, as I ha\
+ve loved you.</p\
+><p>15:13 Greate\
+r love hath no m\
+an than this, th\
+at a man lay dow\
+n his life for h\
+is friends.</p><\
+p>15:14 Ye are m\
+y friends, if ye\
+ do whatsoever I\
+ command you.</p\
+><p>15:15 Hencef\
+orth I call you \
+not servants; fo\
+r the servant kn\
+oweth not what h\
+is lord doeth: b\
+ut I have called\
+ you friends; fo\
+r all things tha\
+t I have heard o\
+f my Father I ha\
+ve made known un\
+to you.</p><p>15\
+:16 Ye have not \
+chosen me, but I\
+ have chosen you\
+, and ordained y\
+ou, that ye shou\
+ld go and bring \
+forth fruit, and\
+ that your fruit\
+ should remain: \
+that whatsoever \
+ye shall ask of \
+the Father in my\
+ name, he may gi\
+ve it you.</p><p\
+>15:17 These thi\
+ngs I command yo\
+u, that ye love \
+one another.</p>\
+<p>15:18 If the \
+world hate you, \
+ye know that it \
+hated me before \
+it hated you.</p\
+><p>15:19 If ye \
+were of the worl\
+d, the world wou\
+ld love his own:\
+ but because ye \
+are not of the w\
+orld, but I have\
+ chosen you out \
+of the world, th\
+erefore the worl\
+d hateth you.</p\
+><p>15:20 Rememb\
+er the word that\
+ I said unto you\
+, The servant is\
+ not greater tha\
+n his lord. If t\
+hey have persecu\
+ted me, they wil\
+l also persecute\
+ you; if they ha\
+ve kept my sayin\
+g, they will kee\
+p yours also.</p\
+><p>15:21 But al\
+l these things w\
+ill they do unto\
+ you for my name\
+'s sake, because\
+ they know not h\
+im that sent me.\
+</p><p>15:22 If \
+I had not come a\
+nd spoken unto t\
+hem, they had no\
+t had sin: but n\
+ow they have no \
+cloak for their \
+sin.</p><p>15:23\
+ He that hateth \
+me hateth my Fat\
+her also.</p><p>\
+15:24 If I had n\
+ot done among th\
+em the works whi\
+ch none other ma\
+n did, they had \
+not had sin: but\
+ now have they b\
+oth seen and hat\
+ed both me and m\
+y Father.</p><p>\
+15:25 But this c\
+ometh to pass, t\
+hat the word mig\
+ht be fulfilled \
+that is written \
+in their law, Th\
+ey hated me with\
+out a cause.</p>\
+<p>15:26 But whe\
+n the Comforter \
+is come, whom I \
+will send unto y\
+ou from the Fath\
+er, even the Spi\
+rit of truth, wh\
+ich proceedeth f\
+rom the Father, \
+he shall testify\
+ of me:</p><p>15\
+:27 And ye also \
+shall bear witne\
+ss, because ye h\
+ave been with me\
+ from the beginn\
+ing.</p>\x22,      \
+ \x22chapter\x22: \x22Joh\
+n 15\x22     }  ] }\
+\
+\x00\x00\x09\xc7\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>4:1 \
+Therefore seeing\
+ we have this mi\
+nistry, as we ha\
+ve received merc\
+y, we faint not;\
+</p><p>4:2 But h\
+ave renounced th\
+e hidden things \
+of dishonesty, n\
+ot walking in cr\
+aftiness, nor ha\
+ndling the word \
+of Elohim deceit\
+fully; but by ma\
+nifestation of t\
+he truth commend\
+ing ourselves to\
+ every man's con\
+science in the s\
+ight of Elohim.<\
+/p><p>4:3 But if\
+ our gospel be h\
+id, it is hid to\
+ them that are l\
+ost:</p><p>4:4 I\
+n whom the Elohi\
+m of this world \
+hath blinded the\
+ minds of them w\
+hich believe not\
+, lest the light\
+ of the glorious\
+ gospel of Messi\
+ah, who is the i\
+mage of Elohim, \
+should shine unt\
+o them.</p><p>4:\
+5 For we preach \
+not ourselves, b\
+ut Messiah Yahus\
+hua the master; \
+and ourselves yo\
+ur servants for \
+Yahushua' sake.<\
+/p><p>4:6 For El\
+ohim, who comman\
+ded the light to\
+ shine out of da\
+rkness, hath shi\
+ned in our heart\
+s, to give the l\
+ight of the know\
+ledge of the glo\
+ry of Elohim in \
+the face of Yahu\
+shua Messiah.</p\
+><p>4:7 But we h\
+ave this treasur\
+e in earthen ves\
+sels, that the e\
+xcellency of the\
+ power may be of\
+ Elohim, and not\
+ of us.</p><p>4:\
+8 We are trouble\
+d on every side,\
+ yet not distres\
+sed; we are perp\
+lexed, but not i\
+n despair;</p><p\
+>4:9 Persecuted,\
+ but not forsake\
+n; cast down, bu\
+t not destroyed;\
+</p><p>4:10 Alwa\
+ys bearing about\
+ in the body the\
+ dying of the ma\
+ster Yahushua, t\
+hat the life als\
+o of Yahushua mi\
+ght be made mani\
+fest in our body\
+.</p><p>4:11 For\
+ we which live a\
+re alway deliver\
+ed unto death fo\
+r Yahushua' sake\
+, that the life \
+also of Yahushua\
+ might be made m\
+anifest in our m\
+ortal flesh.</p>\
+<p>4:12 So then \
+death worketh in\
+ us, but life in\
+ you.</p><p>4:13\
+ We having the s\
+ame spirit of fa\
+ith, according a\
+s it is written,\
+ I believed, and\
+ therefore have \
+I spoken; we als\
+o believe, and t\
+herefore speak;<\
+/p><p>4:14 Knowi\
+ng that he which\
+ raised up the m\
+aster Yahushua s\
+hall raise up us\
+ also by Yahushu\
+a, and shall pre\
+sent us with you\
+.</p><p>4:15 For\
+ all things are \
+for your sakes, \
+that the abundan\
+t grace might th\
+rough the thanks\
+giving of many r\
+edound to the gl\
+ory of Elohim.</\
+p><p>4:16 For wh\
+ich cause we fai\
+nt not; but thou\
+gh our outward m\
+an perish, yet t\
+he inward man is\
+ renewed day by \
+day.</p><p>4:17 \
+For our light af\
+fliction, which \
+is but for a mom\
+ent, worketh for\
+ us a far more e\
+xceeding and ete\
+rnal weight of g\
+lory;</p><p>4:18\
+ While we look n\
+ot at the things\
+ which are seen,\
+ but at the thin\
+gs which are not\
+ seen: for the t\
+hings which are \
+seen are tempora\
+l; but the thing\
+s which are not \
+seen are eternal\
+.</p>\x22,       \x22c\
+hapter\x22: \x222 Cori\
+nthians 4\x22     }\
+  ] } \
+\x00\x00\x0e\x1b\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>7:1 \
+Judge not, that \
+ye be not judged\
+.</p><p>7:2 For \
+with what judgme\
+nt ye judge, ye \
+shall be judged:\
+ and with what m\
+easure ye mete, \
+it shall be meas\
+ured to you agai\
+n.</p><p>7:3 And\
+ why beholdest t\
+hou the mote tha\
+t is in thy brot\
+her's eye, but c\
+onsiderest not t\
+he beam that is \
+in thine own eye\
+?</p><p>7:4 Or h\
+ow wilt thou say\
+ to thy brother,\
+ Let me pull out\
+ the mote out of\
+ thine eye; and,\
+ behold, a beam \
+is in thine own \
+eye?</p><p>7:5 T\
+hou hypocrite, f\
+irst cast out th\
+e beam out of th\
+ine own eye; and\
+ then shalt thou\
+ see clearly to \
+cast out the mot\
+e out of thy bro\
+ther's eye.</p><\
+p>7:6 Give not t\
+hat which is hol\
+y unto the dogs,\
+ neither cast ye\
+ your pearls bef\
+ore swine, lest \
+they trample the\
+m under their fe\
+et, and turn aga\
+in and rend you.\
+</p><p>7:7 Ask, \
+and it shall be \
+given you; seek,\
+ and ye shall fi\
+nd; knock, and i\
+t shall be opene\
+d unto you:</p><\
+p>7:8 For every \
+one that asketh \
+receiveth; and h\
+e that seeketh f\
+indeth; and to h\
+im that knocketh\
+ it shall be ope\
+ned.</p><p>7:9 O\
+r what man is th\
+ere of you, whom\
+ if his son ask \
+bread, will he g\
+ive him a stone?\
+</p><p>7:10 Or i\
+f he ask a fish,\
+ will he give hi\
+m a serpent?</p>\
+<p>7:11 If ye th\
+en, being evil, \
+know how to give\
+ good gifts unto\
+ your children, \
+how much more sh\
+all your Father \
+which is in heav\
+en give good thi\
+ngs to them that\
+ ask him?</p><p>\
+7:12 Therefore a\
+ll things whatso\
+ever ye would th\
+at men should do\
+ to you, do ye e\
+ven so to them: \
+for this is the \
+law and the prop\
+hets.</p><p>7:13\
+ Enter ye in at \
+the strait gate:\
+ for wide is the\
+ gate, and broad\
+ is the way, tha\
+t leadeth to des\
+truction, and ma\
+ny there be whic\
+h go in thereat:\
+</p><p>7:14 Beca\
+use strait is th\
+e gate, and narr\
+ow is the way, w\
+hich leadeth unt\
+o life, and few \
+there be that fi\
+nd it.</p><p>7:1\
+5 Beware of fals\
+e prophets, whic\
+h come to you in\
+ sheep's clothin\
+g, but inwardly \
+they are ravenin\
+g wolves.</p><p>\
+7:16 Ye shall kn\
+ow them by their\
+ fruits. Do men \
+gather grapes of\
+ thorns, or figs\
+ of thistles?</p\
+><p>7:17 Even so\
+ every good tree\
+ bringeth forth \
+good fruit; but \
+a corrupt tree b\
+ringeth forth ev\
+il fruit.</p><p>\
+7:18 A good tree\
+ cannot bring fo\
+rth evil fruit, \
+neither can a co\
+rrupt tree bring\
+ forth good frui\
+t.</p><p>7:19 Ev\
+ery tree that br\
+ingeth not forth\
+ good fruit is h\
+ewn down, and ca\
+st into the fire\
+.</p><p>7:20 Whe\
+refore by their \
+fruits ye shall \
+know them.</p><p\
+>7:21 Not every \
+one that saith u\
+nto me, master, \
+master, shall en\
+ter into the kin\
+gdom of heaven; \
+but he that doet\
+h the will of my\
+ Father which is\
+ in heaven.</p><\
+p>7:22 Many will\
+ say to me in th\
+at day, master, \
+master, have we \
+not prophesied i\
+n thy name? and \
+in thy name have\
+ cast out devils\
+? and in thy nam\
+e done many wond\
+erful works?</p>\
+<p>7:23 And then\
+ will I profess \
+unto them, I nev\
+er knew you: dep\
+art from me, ye \
+that work iniqui\
+ty.</p><p>7:24 T\
+herefore whosoev\
+er heareth these\
+ sayings of mine\
+, and doeth them\
+, I will liken h\
+im unto a wise m\
+an, which built \
+his house upon a\
+ rock:</p><p>7:2\
+5 And the rain d\
+escended, and th\
+e floods came, a\
+nd the winds ble\
+w, and beat upon\
+ that house; and\
+ it fell not: fo\
+r it was founded\
+ upon a rock.</p\
+><p>7:26 And eve\
+ry one that hear\
+eth these saying\
+s of mine, and d\
+oeth them not, s\
+hall be likened \
+unto a foolish m\
+an, which built \
+his house upon t\
+he sand:</p><p>7\
+:27 And the rain\
+ descended, and \
+the floods came,\
+ and the winds b\
+lew, and beat up\
+on that house; a\
+nd it fell: and \
+great was the fa\
+ll of it.</p><p>\
+7:28 And it came\
+ to pass, when y\
+ahushua had ende\
+d these sayings,\
+ the people were\
+ astonished at h\
+is doctrine:</p>\
+<p>7:29 For he t\
+aught them as on\
+e having authori\
+ty, and not as t\
+he scribes.</p>\x22\
+,       \x22chapter\
+\x22: \x22Matthew 7\x22  \
+   }  ] } \
+\x00\x00\x18^\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>5:1 \
+And seeing the m\
+ultitudes, he we\
+nt up into a mou\
+ntain: and when \
+he was set, his \
+disciples came u\
+nto him:</p><p>5\
+:2 And he opened\
+ his mouth, and \
+taught them, say\
+ing,</p><p>5:3 B\
+lessed are the p\
+oor in spirit: f\
+or theirs is the\
+ kingdom of heav\
+en.</p><p>5:4 Bl\
+essed are they t\
+hat mourn: for t\
+hey shall be com\
+forted.</p><p>5:\
+5 Blessed are th\
+e meek: for they\
+ shall inherit t\
+he earth.</p><p>\
+5:6 Blessed are \
+they which do hu\
+nger and thirst \
+after righteousn\
+ess: for they sh\
+all be filled.</\
+p><p>5:7 Blessed\
+ are the mercifu\
+l: for they shal\
+l obtain mercy.<\
+/p><p>5:8 Blesse\
+d are the pure i\
+n heart: for the\
+y shall see Eloh\
+im.</p><p>5:9 Bl\
+essed are the pe\
+acemakers: for t\
+hey shall be cal\
+led the children\
+ of Elohim.</p><\
+p>5:10 Blessed a\
+re they which ar\
+e persecuted for\
+ righteousness' \
+sake: for theirs\
+ is the kingdom \
+of heaven.</p><p\
+>5:11 Blessed ar\
+e ye, when men s\
+hall revile you,\
+ and persecute y\
+ou, and shall sa\
+y all manner of \
+evil against you\
+ falsely, for my\
+ sake.</p><p>5:1\
+2 Rejoice, and b\
+e exceeding glad\
+: for great is y\
+our reward in he\
+aven: for so per\
+secuted they the\
+ prophets which \
+were before you.\
+</p><p>5:13 Ye a\
+re the salt of t\
+he earth: but if\
+ the salt have l\
+ost his savour, \
+wherewith shall \
+it be salted? it\
+ is thenceforth \
+good for nothing\
+, but to be cast\
+ out, and to be \
+trodden under fo\
+ot of men.</p><p\
+>5:14 Ye are the\
+ light of the wo\
+rld. A city that\
+ is set on an hi\
+ll cannot be hid\
+.</p><p>5:15 Nei\
+ther do men ligh\
+t a candle, and \
+put it under a b\
+ushel, but on a \
+candlestick; and\
+ it giveth light\
+ unto all that a\
+re in the house.\
+</p><p>5:16 Let \
+your light so sh\
+ine before men, \
+that they may se\
+e your good work\
+s, and glorify y\
+our Father which\
+ is in heaven.</\
+p><p>5:17 Think \
+not that I am co\
+me to destroy th\
+e law, or the pr\
+ophets: I am not\
+ come to destroy\
+, but to fulfil.\
+</p><p>5:18 For \
+verily I say unt\
+o you, Till heav\
+en and earth pas\
+s, one jot or on\
+e tittle shall i\
+n no wise pass f\
+rom the law, til\
+l all be fulfill\
+ed.</p><p>5:19 W\
+hosoever therefo\
+re shall break o\
+ne of these leas\
+t commandments, \
+and shall teach \
+men so, he shall\
+ be called the l\
+east in the king\
+dom of heaven: b\
+ut whosoever sha\
+ll do and teach \
+them, the same s\
+hall be called g\
+reat in the king\
+dom of heaven.</\
+p><p>5:20 For I \
+say unto you, Th\
+at except your r\
+ighteousness sha\
+ll exceed the ri\
+ghteousness of t\
+he scribes and P\
+harisees, ye sha\
+ll in no case en\
+ter into the kin\
+gdom of heaven.<\
+/p><p>5:21 Ye ha\
+ve heard that it\
+ was said of the\
+m of old time, T\
+hou shalt not ki\
+ll; and whosoeve\
+r shall kill sha\
+ll be in danger \
+of the judgment:\
+</p><p>5:22 But \
+I say unto you, \
+That whosoever i\
+s angry with his\
+ brother without\
+ a cause shall b\
+e in danger of t\
+he judgment: and\
+ whosoever shall\
+ say to his brot\
+her, Raca, shall\
+ be in danger of\
+ the council: bu\
+t whosoever shal\
+l say, Thou fool\
+, shall be in da\
+nger of hell fir\
+e.</p><p>5:23 Th\
+erefore if thou \
+bring thy gift t\
+o the altar, and\
+ there remembere\
+st that thy brot\
+her hath ought a\
+gainst thee;</p>\
+<p>5:24 Leave th\
+ere thy gift bef\
+ore the altar, a\
+nd go thy way; f\
+irst be reconcil\
+ed to thy brothe\
+r, and then come\
+ and offer thy g\
+ift.</p><p>5:25 \
+Agree with thine\
+ adversary quick\
+ly, whiles thou \
+art in the way w\
+ith him; lest at\
+ any time the ad\
+versary deliver \
+thee to the judg\
+e, and the judge\
+ deliver thee to\
+ the officer, an\
+d thou be cast i\
+nto prison.</p><\
+p>5:26 Verily I \
+say unto thee, T\
+hou shalt by no \
+means come out t\
+hence, till thou\
+ hast paid the u\
+ttermost farthin\
+g.</p><p>5:27 Ye\
+ have heard that\
+ it was said by \
+them of old time\
+, Thou shalt not\
+ commit adultery\
+:</p><p>5:28 But\
+ I say unto you,\
+ That whosoever \
+looketh on a wom\
+an to lust after\
+ her hath commit\
+ted adultery wit\
+h her already in\
+ his heart.</p><\
+p>5:29 And if th\
+y right eye offe\
+nd thee, pluck i\
+t out, and cast \
+it from thee: fo\
+r it is profitab\
+le for thee that\
+ one of thy memb\
+ers should peris\
+h, and not that \
+thy whole body s\
+hould be cast in\
+to hell.</p><p>5\
+:30 And if thy r\
+ight hand offend\
+ thee, cut it of\
+f, and cast it f\
+rom thee: for it\
+ is profitable f\
+or thee that one\
+ of thy members \
+should perish, a\
+nd not that thy \
+whole body shoul\
+d be cast into h\
+ell.</p><p>5:31 \
+It hath been sai\
+d, Whosoever sha\
+ll put away his \
+wife, let him gi\
+ve her a writing\
+ of divorcement:\
+</p><p>5:32 But \
+I say unto you, \
+That whosoever s\
+hall put away hi\
+s wife, saving f\
+or the cause of \
+fornication, cau\
+seth her to comm\
+it adultery: and\
+ whosoever shall\
+ marry her that \
+is divorced comm\
+itteth adultery.\
+</p><p>5:33 Agai\
+n, ye have heard\
+ that it hath be\
+en said by them \
+of old time, Tho\
+u shalt not fors\
+wear thyself, bu\
+t shalt perform \
+unto Yahweh thin\
+e oaths:</p><p>5\
+:34 But I say un\
+to you, Swear no\
+t at all; neithe\
+r by heaven; for\
+ it is Elohim's \
+throne:</p><p>5:\
+35 Nor by the ea\
+rth; for it is h\
+is footstool: ne\
+ither by Jerusal\
+em; for it is th\
+e city of the gr\
+eat King.</p><p>\
+5:36 Neither sha\
+lt thou swear by\
+ thy head, becau\
+se thou canst no\
+t make one hair \
+white or black.<\
+/p><p>5:37 But l\
+et your communic\
+ation be, Yea, y\
+ea; Nay, nay: fo\
+r whatsoever is \
+more than these \
+cometh of evil.<\
+/p><p>5:38 Ye ha\
+ve heard that it\
+ hath been said,\
+ An eye for an e\
+ye, and a tooth \
+for a tooth:</p>\
+<p>5:39 But I sa\
+y unto you, That\
+ ye resist not e\
+vil: but whosoev\
+er shall smite t\
+hee on thy right\
+ cheek, turn to \
+him the other al\
+so.</p><p>5:40 A\
+nd if any man wi\
+ll sue thee at t\
+he law, and take\
+ away thy coat, \
+let him have thy\
+ cloak also.</p>\
+<p>5:41 And whos\
+oever shall comp\
+el thee to go a \
+mile, go with hi\
+m twain.</p><p>5\
+:42 Give to him \
+that asketh thee\
+, and from him t\
+hat would borrow\
+ of thee turn no\
+t thou away.</p>\
+<p>5:43 Ye have \
+heard that it ha\
+th been said, Th\
+ou shalt love th\
+y neighbour, and\
+ hate thine enem\
+y.</p><p>5:44 Bu\
+t I say unto you\
+, Love your enem\
+ies, bless them \
+that curse you, \
+do good to them \
+that hate you, a\
+nd pray for them\
+ which despitefu\
+lly use you, and\
+ persecute you;<\
+/p><p>5:45 That \
+ye may be the ch\
+ildren of your F\
+ather which is i\
+n heaven: for he\
+ maketh his sun \
+to rise on the e\
+vil and on the g\
+ood, and sendeth\
+ rain on the jus\
+t and on the unj\
+ust.</p><p>5:46 \
+For if ye love t\
+hem which love y\
+ou, what reward \
+have ye? do not \
+even the publica\
+ns the same?</p>\
+<p>5:47 And if y\
+e salute your br\
+ethren only, wha\
+t do ye more tha\
+n others? do not\
+ even the public\
+ans so?</p><p>5:\
+48 Be ye therefo\
+re perfect, even\
+ as your Father \
+which is in heav\
+en is perfect.</\
+p>\x22,       \x22chap\
+ter\x22: \x22Matthew 5\
+\x22     }  ] } \
+\x00\x00\x12(\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>6:1 \
+Take heed that y\
+e do not your al\
+ms before men, t\
+o be seen of the\
+m: otherwise ye \
+have no reward o\
+f your Father wh\
+ich is in heaven\
+.</p><p>6:2 Ther\
+efore when thou \
+doest thine alms\
+, do not sound a\
+ trumpet before \
+thee, as the hyp\
+ocrites do in th\
+e synagogues and\
+ in the streets,\
+ that they may h\
+ave glory of men\
+. Verily I say u\
+nto you, They ha\
+ve their reward.\
+</p><p>6:3 But w\
+hen thou doest a\
+lms, let not thy\
+ left hand know \
+what thy right h\
+and doeth:</p><p\
+>6:4 That thine \
+alms may be in s\
+ecret: and thy F\
+ather which seet\
+h in secret hims\
+elf shall reward\
+ thee openly.</p\
+><p>6:5 And when\
+ thou prayest, t\
+hou shalt not be\
+ as the hypocrit\
+es are: for they\
+ love to pray st\
+anding in the sy\
+nagogues and in \
+the corners of t\
+he streets, that\
+ they may be see\
+n of men. Verily\
+ I say unto you,\
+ They have their\
+ reward.</p><p>6\
+:6 But thou, whe\
+n thou prayest, \
+enter into thy c\
+loset, and when \
+thou hast shut t\
+hy door, pray to\
+ thy Father whic\
+h is in secret; \
+and thy Father w\
+hich seeth in se\
+cret shall rewar\
+d thee openly.</\
+p><p>6:7 But whe\
+n ye pray, use n\
+ot vain repetiti\
+ons, as the heat\
+hen do: for they\
+ think that they\
+ shall be heard \
+for their much s\
+peaking.</p><p>6\
+:8 Be not ye the\
+refore like unto\
+ them: for your \
+Father knoweth w\
+hat things ye ha\
+ve need of, befo\
+re ye ask him.</\
+p><p>6:9 After t\
+his manner there\
+fore pray ye: Ou\
+r Father which a\
+rt in heaven, Ha\
+llowed be thy na\
+me.</p><p>6:10 T\
+hy kingdom come,\
+ Thy will be don\
+e in earth, as i\
+t is in heaven.<\
+/p><p>6:11 Give \
+us this day our \
+daily bread.</p>\
+<p>6:12 And forg\
+ive us our debts\
+, as we forgive \
+our debtors.</p>\
+<p>6:13 And lead\
+ us not into tem\
+ptation, but del\
+iver us from evi\
+l: For thine is \
+the kingdom, and\
+ the power, and \
+the glory, for e\
+ver. Amen.</p><p\
+>6:14 For if ye \
+forgive men thei\
+r trespasses, yo\
+ur heavenly Fath\
+er will also for\
+give you:</p><p>\
+6:15 But if ye f\
+orgive not men t\
+heir trespasses,\
+ neither will yo\
+ur Father forgiv\
+e your trespasse\
+s.</p><p>6:16 Mo\
+reover when ye f\
+ast, be not, as \
+the hypocrites, \
+of a sad counten\
+ance: for they d\
+isfigure their f\
+aces, that they \
+may appear unto \
+men to fast. Ver\
+ily I say unto y\
+ou, They have th\
+eir reward.</p><\
+p>6:17 But thou,\
+ when thou faste\
+st, anoint thine\
+ head, and wash \
+thy face;</p><p>\
+6:18 That thou a\
+ppear not unto m\
+en to fast, but \
+unto thy Father \
+which is in secr\
+et: and thy Fath\
+er, which seeth \
+in secret, shall\
+ reward thee ope\
+nly.</p><p>6:19 \
+Lay not up for y\
+ourselves treasu\
+res upon earth, \
+where moth and r\
+ust doth corrupt\
+, and where thie\
+ves break throug\
+h and steal:</p>\
+<p>6:20 But lay \
+up for yourselve\
+s treasures in h\
+eaven, where nei\
+ther moth nor ru\
+st doth corrupt,\
+ and where thiev\
+es do not break \
+through nor stea\
+l:</p><p>6:21 Fo\
+r where your tre\
+asure is, there \
+will your heart \
+be also. </p><p>\
+6:22 The light o\
+f the body is th\
+e eye: if theref\
+ore thine eye be\
+ single, thy who\
+le body shall be\
+ full of light.<\
+/p><p>6:23 But i\
+f thine eye be e\
+vil, thy whole b\
+ody shall be ful\
+l of darkness. I\
+f therefore the \
+light that is in\
+ thee be darknes\
+s, how great is \
+that darkness!</\
+p><p>6:24 No man\
+ can serve two m\
+asters: for eith\
+er he will hate \
+the one, and lov\
+e the other; or \
+else he will hol\
+d to the one, an\
+d despise the ot\
+her. Ye cannot s\
+erve Elohim and \
+mammon.</p><p>6:\
+25 Therefore I s\
+ay unto you, Tak\
+e no thought for\
+ your life, what\
+ ye shall eat, o\
+r what ye shall \
+drink; nor yet f\
+or your body, wh\
+at ye shall put \
+on. Is not the l\
+ife more than me\
+at, and the body\
+ than raiment?</\
+p><p>6:26 Behold\
+ the fowls of th\
+e air: for they \
+sow not, neither\
+ do they reap, n\
+or gather into b\
+arns; yet your h\
+eavenly Father f\
+eedeth them. Are\
+ ye not much bet\
+ter than they?</\
+p><p>6:27 Which \
+of you by taking\
+ thought can add\
+ one cubit unto \
+his stature?</p>\
+<p>6:28 And why \
+take ye thought \
+for raiment? Con\
+sider the lilies\
+ of the field, h\
+ow they grow; th\
+ey toil not, nei\
+ther do they spi\
+n:</p><p>6:29 An\
+d yet I say unto\
+ you, That even \
+Solomon in all h\
+is glory was not\
+ arrayed like on\
+e of these.</p><\
+p>6:30 Wherefore\
+, if Elohim so c\
+lothe the grass \
+of the field, wh\
+ich to day is, a\
+nd to morrow is \
+cast into the ov\
+en, shall he not\
+ much more cloth\
+e you, O ye of l\
+ittle faith?</p>\
+<p>6:31 Therefor\
+e take no though\
+t, saying, What \
+shall we eat? or\
+, What shall we \
+drink? or, Where\
+withal shall we \
+be clothed?</p><\
+p>6:32 (For afte\
+r all these thin\
+gs do the Gentil\
+es seek:) for yo\
+ur heavenly Fath\
+er knoweth that \
+ye have need of \
+all these things\
+.</p><p>6:33 But\
+ seek ye first t\
+he kingdom of El\
+ohim, and his ri\
+ghteousness; and\
+ all these thing\
+s shall be added\
+ unto you.</p><p\
+>6:34 Take there\
+fore no thought \
+for the morrow: \
+for the morrow s\
+hall take though\
+t for the things\
+ of itself. Suff\
+icient unto the \
+day is the evil \
+thereof.</p>\x22,  \
+     \x22chapter\x22: \
+\x22Matthew 6\x22     \
+}  ] } \
+\x00\x00\x0e\x8e\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>14:1 An\
+d I looked, and,\
+ lo, a Lamb stoo\
+d on the mount S\
+ion, and with hi\
+m an hundred for\
+ty and four thou\
+sand, having his\
+ Father's name w\
+ritten in their \
+foreheads.</p><p\
+>14:2 And I hear\
+d a voice from h\
+eaven, as the vo\
+ice of many wate\
+rs, and as the v\
+oice of a great \
+thunder: and I h\
+eard the voice o\
+f harpers harpin\
+g with their har\
+ps:</p><p>14:3 A\
+nd they sung as \
+it were a new so\
+ng before the th\
+rone, and before\
+ the four beasts\
+, and the elders\
+: and no man cou\
+ld learn that so\
+ng but the hundr\
+ed and forty and\
+ four thousand, \
+which were redee\
+med from the ear\
+th.</p><p>14:4 T\
+hese are they wh\
+ich were not def\
+iled with women;\
+ for they are vi\
+rgins. These are\
+ they which foll\
+ow the Lamb whit\
+hersoever he goe\
+th. These were r\
+edeemed from amo\
+ng men, being th\
+e firstfruits un\
+to Elohim and to\
+ the Lamb.</p><p\
+>14:5 And in the\
+ir mouth was fou\
+nd no guile: for\
+ they are withou\
+t fault before t\
+he throne of Elo\
+him.</p><p>14:6 \
+And I saw anothe\
+r angel fly in t\
+he midst of heav\
+en, having the e\
+verlasting gospe\
+l to preach unto\
+ them that dwell\
+ on the earth, a\
+nd to every nati\
+on, and kindred,\
+ and tongue, and\
+ people,</p><p>1\
+4:7 Saying with \
+a loud voice, Fe\
+ar Elohim, and g\
+ive glory to him\
+; for the hour o\
+f his judgment i\
+s come: and wors\
+hip him that mad\
+e heaven, and ea\
+rth, and the sea\
+, and the founta\
+ins of waters.</\
+p><p>14:8 And th\
+ere followed ano\
+ther angel, sayi\
+ng, Babylon is f\
+allen, is fallen\
+, that great cit\
+y, because she m\
+ade all nations \
+drink of the win\
+e of the wrath o\
+f her fornicatio\
+n.</p><p>14:9 An\
+d the third ange\
+l followed them,\
+ saying with a l\
+oud voice, If an\
+y man worship th\
+e beast and his \
+image, and recei\
+ve his mark in h\
+is forehead, or \
+in his hand,</p>\
+<p>14:10 The sam\
+e shall drink of\
+ the wine of the\
+ wrath of Elohim\
+, which is poure\
+d out without mi\
+xture into the c\
+up of his indign\
+ation; and he sh\
+all be tormented\
+ with fire and b\
+rimstone in the \
+presence of the \
+holy angels, and\
+ in the presence\
+ of the Lamb:</p\
+><p>14:11 And th\
+e smoke of their\
+ torment ascende\
+th up for ever a\
+nd ever: and the\
+y have no rest d\
+ay nor night, wh\
+o worship the be\
+ast and his imag\
+e, and whosoever\
+ receiveth the m\
+ark of his name.\
+</p><p>14:12 Her\
+e is the patienc\
+e of the saints:\
+ here are they t\
+hat keep the com\
+mandments of Elo\
+him, and the fai\
+th of Yahushua. \
+</p><p>14:13 And\
+ I heard a voice\
+ from heaven say\
+ing unto me, Wri\
+te, Blessed are \
+the dead which d\
+ie in the Master\
+ from henceforth\
+: Yea, saith the\
+ Spirit, that th\
+ey may rest from\
+ their labours; \
+and their works \
+do follow them.<\
+/p><p>14:14 And \
+I looked, and be\
+hold a white clo\
+ud, and upon the\
+ cloud one sat l\
+ike unto the Son\
+ of man, having \
+on his head a go\
+lden crown, and \
+in his hand a sh\
+arp sickle.</p><\
+p>14:15 And anot\
+her angel came o\
+ut of the temple\
+, crying with a \
+loud voice to hi\
+m that sat on th\
+e cloud, Thrust \
+in thy sickle, a\
+nd reap: for the\
+ time is come fo\
+r thee to reap; \
+for the harvest \
+of the earth is \
+ripe.</p><p>14:1\
+6 And he that sa\
+t on the cloud t\
+hrust in his sic\
+kle on the earth\
+; and the earth \
+was reaped.</p><\
+p>14:17 And anot\
+her angel came o\
+ut of the temple\
+ which is in hea\
+ven, he also hav\
+ing a sharp sick\
+le.</p><p>14:18 \
+And another ange\
+l came out from \
+the altar, which\
+ had power over \
+fire; and cried \
+with a loud cry \
+to him that had \
+the sharp sickle\
+, saying, Thrust\
+ in thy sharp si\
+ckle, and gather\
+ the clusters of\
+ the vine of the\
+ earth; for her \
+grapes are fully\
+ ripe.</p><p>14:\
+19 And the angel\
+ thrust in his s\
+ickle into the e\
+arth, and gather\
+ed the vine of t\
+he earth, and ca\
+st it into the g\
+reat winepress o\
+f the wrath of E\
+lohim. </p><p>14\
+:20 And the wine\
+press was trodde\
+n without the ci\
+ty, and blood ca\
+me out of the wi\
+nepress, even un\
+to the horse bri\
+dles, by the spa\
+ce of a thousand\
+ and six hundred\
+ furlongs.</p>\x22,\
+       \x22chapter\x22\
+: \x22Revelations 1\
+4\x22     }  ] }\
+\x00\x00\x0b\xf8\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>9:1 \
+For all this I c\
+onsidered in my \
+heart even to de\
+clare all this, \
+that the righteo\
+us, and the wise\
+, and their work\
+s, are in the ha\
+nd of Elohim: no\
+ man knoweth eit\
+her love or hatr\
+ed by all that i\
+s before them.</\
+p><p>9:2 All thi\
+ngs come alike t\
+o all: there is \
+one event to the\
+ righteous, and \
+to the wicked; t\
+o the good and t\
+o the clean, and\
+ to the unclean;\
+ to him that sac\
+rificeth, and to\
+ him that sacrif\
+iceth not: as is\
+ the good, so is\
+ the sinner; and\
+ he that swearet\
+h, as he that fe\
+areth an oath.</\
+p><p>9:3 This is\
+ an evil among a\
+ll things that a\
+re done under th\
+e sun, that ther\
+e is one event u\
+nto all: yea, al\
+so the heart of \
+the sons of men \
+is full of evil,\
+ and madness is \
+in their heart w\
+hile they live, \
+and after that t\
+hey go to the de\
+ad.</p><p>9:4 Fo\
+r to him that is\
+ joined to all t\
+he living there \
+is hope: for a l\
+iving dog is bet\
+ter than a dead \
+lion.</p><p>9:5 \
+For the living k\
+now that they sh\
+all die: but the\
+ dead know not a\
+ny thing, neithe\
+r have they any \
+more a reward; f\
+or the memory of\
+ them is forgott\
+en.</p><p>9:6 Al\
+so their love, a\
+nd their hatred,\
+ and their envy,\
+ is now perished\
+; neither have t\
+hey any more a p\
+ortion for ever \
+in any thing tha\
+t is done under \
+the sun.</p><p>9\
+:7 Go thy way, e\
+at thy bread wit\
+h joy, and drink\
+ thy wine with a\
+ merry heart; fo\
+r Elohim now acc\
+epteth thy works\
+.</p><p>9:8 Let \
+thy garments be \
+always white; an\
+d let thy head l\
+ack no ointment.\
+</p><p>9:9 Live \
+joyfully with th\
+e wife whom thou\
+ lovest all the \
+days of the life\
+ of thy vanity, \
+which he hath gi\
+ven thee under t\
+he sun, all the \
+days of thy vani\
+ty: for that is \
+thy portion in t\
+his life, and in\
+ thy labour whic\
+h thou takest un\
+der the sun.</p>\
+<p>9:10 Whatsoev\
+er thy hand find\
+eth to do, do it\
+ with thy might;\
+ for there is no\
+ work, nor devic\
+e, nor knowledge\
+, nor wisdom, in\
+ the grave, whit\
+her thou goest.<\
+/p><p>9:11 I ret\
+urned, and saw u\
+nder the sun, th\
+at the race is n\
+ot to the swift,\
+ nor the battle \
+to the strong, n\
+either yet bread\
+ to the wise, no\
+r yet riches to \
+men of understan\
+ding, nor yet fa\
+vour to men of s\
+kill; but time a\
+nd chance happen\
+eth to them all.\
+</p><p>9:12 For \
+man also knoweth\
+ not his time: a\
+s the fishes tha\
+t are taken in a\
+n evil net, and \
+as the birds tha\
+t are caught in \
+the snare; so ar\
+e the sons of me\
+n snared in an e\
+vil time, when i\
+t falleth sudden\
+ly upon them.</p\
+><p>9:13 This wi\
+sdom have I seen\
+ also under the \
+sun, and it seem\
+ed great unto me\
+:</p><p>9:14 The\
+re was a little \
+city, and few me\
+n within it; and\
+ there came a gr\
+eat king against\
+ it, and besiege\
+d it, and built \
+great bulwarks a\
+gainst it:</p><p\
+>9:15 Now there \
+was found in it \
+a poor wise man,\
+ and he by his w\
+isdom delivered \
+the city; yet no\
+ man remembered \
+that same poor m\
+an.</p><p>9:16 T\
+hen said I, Wisd\
+om is better tha\
+n strength: neve\
+rtheless the poo\
+r man's wisdom i\
+s despised, and \
+his words are no\
+t heard.</p><p>9\
+:17 The words of\
+ wise men are he\
+ard in quiet mor\
+e than the cry o\
+f him that rulet\
+h among fools.</\
+p><p>9:18 Wisdom\
+ is better than \
+weapons of war: \
+but one sinner d\
+estroyeth much g\
+ood.</p>\x22,      \
+ \x22chapter\x22: \x22Ecc\
+lesiastes 9\x22    \
+ }  ] }\
+\x00\x00\x09n\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>10:1\
+ Dead flies caus\
+e the ointment o\
+f the apothecary\
+ to send forth a\
+ stinking savour\
+: so doth a litt\
+le folly him tha\
+t is in reputati\
+on for wisdom an\
+d honour.</p><p>\
+10:2 A wise man'\
+s heart is at hi\
+s right hand; bu\
+t a fool's heart\
+ at his left.</p\
+><p>10:3 Yea als\
+o, when he that \
+is a fool walket\
+h by the way, hi\
+s wisdom faileth\
+ him, and he sai\
+th to every one \
+that he is a foo\
+l.</p><p>10:4 If\
+ the spirit of t\
+he ruler rise up\
+ against thee, l\
+eave not thy pla\
+ce; for yielding\
+ pacifieth great\
+ offences.</p><p\
+>10:5 There is a\
+n evil which I h\
+ave seen under t\
+he sun, as an er\
+ror which procee\
+deth from the ru\
+ler:</p><p>10:6 \
+Folly is set in \
+great dignity, a\
+nd the rich sit \
+in low place.</p\
+><p>10:7 I have \
+seen servants up\
+on horses, and p\
+rinces walking a\
+s servants upon \
+the earth.</p><p\
+>10:8 He that di\
+ggeth a pit shal\
+l fall into it; \
+and whoso breake\
+th an hedge, a s\
+erpent shall bit\
+e him.</p><p>10:\
+9 Whoso removeth\
+ stones shall be\
+ hurt therewith;\
+ and he that cle\
+aveth wood shall\
+ be endangered t\
+hereby.</p><p>10\
+:10 If the iron \
+be blunt, and he\
+ do not whet the\
+ edge, then must\
+ he put to more \
+strength: but wi\
+sdom is profitab\
+le to direct.</p\
+><p>10:11 Surely\
+ the serpent wil\
+l bite without e\
+nchantment; and \
+a babbler is no \
+better.</p><p>10\
+:12 The words of\
+ a wise man's mo\
+uth are gracious\
+; but the lips o\
+f a fool will sw\
+allow up himself\
+.</p><p>10:13 Th\
+e beginning of t\
+he words of his \
+mouth is foolish\
+ness: and the en\
+d of his talk is\
+ mischievous mad\
+ness.</p><p>10:1\
+4 A fool also is\
+ full of words: \
+a man cannot tel\
+l what shall be;\
+ and what shall \
+be after him, wh\
+o can tell him?<\
+/p><p>10:15 The \
+labour of the fo\
+olish wearieth e\
+very one of them\
+, because he kno\
+weth not how to \
+go to the city.<\
+/p><p>10:16 Woe \
+to thee, O land,\
+ when thy king i\
+s a child, and t\
+hy princes eat i\
+n the morning!</\
+p><p>10:17 Bless\
+ed art thou, O l\
+and, when thy ki\
+ng is the son of\
+ nobles, and thy\
+ princes eat in \
+due season, for \
+strength, and no\
+t for drunkennes\
+s!</p><p>10:18 B\
+y much slothfuln\
+ess the building\
+ decayeth; and t\
+hrough idleness \
+of the hands the\
+ house droppeth \
+through.</p><p>1\
+0:19 A feast is \
+made for laughte\
+r, and wine make\
+th merry: but mo\
+ney answereth al\
+l things.</p><p>\
+10:20 Curse not \
+the king, no not\
+ in thy thought;\
+ and curse not t\
+he rich in thy b\
+edchamber: for a\
+ bird of the air\
+ shall carry the\
+ voice, and that\
+ which hath wing\
+s shall tell the\
+ matter.</p>\x22,  \
+     \x22chapter\x22: \
+\x22Ecclesiastes 10\
+\x22     }  ] } \
+\x00\x00\x08\xa3\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>12:1\
+ Remember now th\
+y Creator in the\
+ days of thy you\
+th, while the ev\
+il days come not\
+, nor the years \
+draw nigh, when \
+thou shalt say, \
+I have no pleasu\
+re in them;</p><\
+p>12:2 While the\
+ sun, or the lig\
+ht, or the moon,\
+ or the stars, b\
+e not darkened, \
+nor the clouds r\
+eturn after the \
+rain:</p><p>12:3\
+ In the day when\
+ the keepers of \
+the house shall \
+tremble, and the\
+ strong men shal\
+l bow themselves\
+, and the grinde\
+rs cease because\
+ they are few, a\
+nd those that lo\
+ok out of the wi\
+ndows be darkene\
+d,</p><p>12:4 An\
+d the doors shal\
+l be shut in the\
+ streets, when t\
+he sound of the \
+grinding is low,\
+ and he shall ri\
+se up at the voi\
+ce of the bird, \
+and all the daug\
+hters of musick \
+shall be brought\
+ low;</p><p>12:5\
+ Also when they \
+shall be afraid \
+of that which is\
+ high, and fears\
+ shall be in the\
+ way, and the al\
+mond tree shall \
+flourish, and th\
+e grasshopper sh\
+all be a burden,\
+ and desire shal\
+l fail: because \
+man goeth to his\
+ long home, and \
+the mourners go \
+about the street\
+s:</p><p>12:6 Or\
+ ever the silver\
+ cord be loosed,\
+ or the golden b\
+owl be broken, o\
+r the pitcher be\
+ broken at the f\
+ountain, or the \
+wheel broken at \
+the cistern.</p>\
+<p>12:7 Then sha\
+ll the dust retu\
+rn to the earth \
+as it was: and t\
+he spirit shall \
+return unto Eloh\
+im who gave it.<\
+/p><p>12:8 Vanit\
+y of vanities, s\
+aith the preache\
+r; all is vanity\
+.</p><p>12:9 And\
+ moreover, becau\
+se the preacher \
+was wise, he sti\
+ll taught the pe\
+ople knowledge; \
+yea, he gave goo\
+d heed, and soug\
+ht out, and set \
+in order many pr\
+overbs.</p><p>12\
+:10 The preacher\
+ sought to find \
+out acceptable w\
+ords: and that w\
+hich was written\
+ was upright, ev\
+en words of trut\
+h.</p><p>12:11 T\
+he words of the \
+wise are as goad\
+s, and as nails \
+fastened by the \
+masters of assem\
+blies, which are\
+ given from one \
+shepherd.</p><p>\
+12:12 And furthe\
+r, by these, my \
+son, be admonish\
+ed: of making ma\
+ny books there i\
+s no end; and mu\
+ch study is a we\
+ariness of the f\
+lesh.</p><p>12:1\
+3 Let us hear th\
+e conclusion of \
+the whole matter\
+: Fear Elohim, a\
+nd keep his comm\
+andments: for th\
+is is the whole \
+duty of man.</p>\
+<p>12:14 For Elo\
+him shall bring \
+every work into \
+judgment, with e\
+very secret thin\
+g, whether it be\
+ good, or whethe\
+r it be evil.</p\
+>\x22,       \x22chapt\
+er\x22: \x22Ecclesiast\
+es 12\x22     }  ] \
+} \
+\x00\x00\x0b\x80\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>4:1 \
+Therefore, my br\
+ethren dearly be\
+loved and longed\
+ for, my joy and\
+ crown, so stand\
+ fast in Yahweh,\
+ my dearly belov\
+ed.</p><p>4:2 I \
+beseech Euodias,\
+ and beseech Syn\
+tyche, that they\
+ be of the same \
+mind in Yahweh.<\
+/p><p>4:3 And I \
+intreat thee als\
+o, true yokefell\
+ow, help those w\
+omen which labou\
+red with me in t\
+he gospel, with \
+Clement also, an\
+d with other my \
+fellowlabourers,\
+ whose names are\
+ in the book of \
+life.</p><p>4:4 \
+Rejoice in Yahwe\
+h alway: and aga\
+in I say, Rejoic\
+e.</p><p>4:5 Let\
+ your moderation\
+ be known unto a\
+ll men. Yahweh i\
+s at hand.</p><p\
+>4:6 Be careful \
+for nothing; but\
+ in every thing \
+by prayer and su\
+pplication with \
+thanksgiving let\
+ your requests b\
+e made known unt\
+o Elohim.</p><p>\
+4:7 And the peac\
+e of Elohim, whi\
+ch passeth all u\
+nderstanding, sh\
+all keep your he\
+arts and minds t\
+hrough Messiah Y\
+ahushua.</p><p>4\
+:8 Finally, bret\
+hren, whatsoever\
+ things are true\
+, whatsoever thi\
+ngs are honest, \
+whatsoever thing\
+s are just, what\
+soever things ar\
+e pure, whatsoev\
+er things are lo\
+vely, whatsoever\
+ things are of g\
+ood report; if t\
+here be any virt\
+ue, and if there\
+ be any praise, \
+think on these t\
+hings.</p><p>4:9\
+ Those things, w\
+hich ye have bot\
+h learned, and r\
+eceived, and hea\
+rd, and seen in \
+me, do: and the \
+Elohim of peace \
+shall be with yo\
+u.</p><p>4:10 Bu\
+t I rejoiced in \
+Yahweh greatly, \
+that now at the \
+last your care o\
+f me hath flouri\
+shed again; wher\
+ein ye were also\
+ careful, but ye\
+ lacked opportun\
+ity.</p><p>4:11 \
+Not that I speak\
+ in respect of w\
+ant: for I have \
+learned, in what\
+soever state I a\
+m, therewith to \
+be content.</p><\
+p>4:12 I know bo\
+th how to be aba\
+sed, and I know \
+how to abound: e\
+very where and i\
+n all things I a\
+m instructed bot\
+h to be full and\
+ to be hungry, b\
+oth to abound an\
+d to suffer need\
+.</p><p>4:13 I c\
+an do all things\
+ through Messiah\
+ which strengthe\
+neth me.</p><p>4\
+:14 Notwithstand\
+ing ye have well\
+ done, that ye d\
+id communicate w\
+ith my afflictio\
+n.</p><p>4:15 No\
+w ye Philippians\
+ know also, that\
+ in the beginnin\
+g of the gospel,\
+ when I departed\
+ from Macedonia,\
+ no church commu\
+nicated with me \
+as concerning gi\
+ving and receivi\
+ng, but ye only.\
+</p><p>4:16 For \
+even in Thessalo\
+nica ye sent onc\
+e and again unto\
+ my necessity.</\
+p><p>4:17 Not be\
+cause I desire a\
+ gift: but I des\
+ire fruit that m\
+ay abound to you\
+r account.</p><p\
+>4:18 But I have\
+ all, and abound\
+: I am full, hav\
+ing received of \
+Epaphroditus the\
+ things which we\
+re sent from you\
+, an odour of a \
+sweet smell, a s\
+acrifice accepta\
+ble, wellpleasin\
+g to Elohim.</p>\
+<p>4:19 But my E\
+lohim shall supp\
+ly all your need\
+ according to hi\
+s riches in glor\
+y by Messiah Yah\
+ushua.</p><p>4:2\
+0 Now unto Elohi\
+m and our Father\
+ be glory for ev\
+er and ever. Ame\
+n.</p><p>4:21 Sa\
+lute every saint\
+ in Messiah Yahu\
+shua. The brethr\
+en which are wit\
+h me greet you.<\
+/p><p>4:22 All t\
+he saints salute\
+ you, chiefly th\
+ey that are of C\
+aesar's househol\
+d.</p><p>4:23 Th\
+e grace of our m\
+aster Yahushua M\
+essiah be with y\
+ou all. Amen.</p\
+>\x22,       \x22chapt\
+er\x22: \x22Philippian\
+s 4\x22     } ] } \
+\x00\x00\x05\x1c\
+\x00\
+\x00\x11\xf9x\x9c\xadX\xcd\x8e\xdb6\x10~\x15\xc2g\
+!]\xef\xe6w\x1d\x04H\x90\xa0\x0dP\xf4\x92c\xd1\
+\x03mQ\x16\xb1\x94(\x90\x94\x15#\xe8\x93\xf5\xd0G\
+\xea+tfH\x8a\x94,e\xd7M\x17HV\x22\x87\
+3\xdf\xfc}C\xed?\x7f\xfd\xcd\xbe1\xc66F\xf0\
+rs\x0fO\xbf3\xfc\xf9\xc6\xc2\xcf\xc6\x89\xaf\x0e6\
+6o\xbbw\xdb\xfb-\xfb\xdc2W\x0b\xb6\x17G\xd9\
+\xb6\xb2=\xb2OJ\xd7\xb2a\x07P\xe0DI\x9b\xb5\
+\xe0'\xd12\xde\xfaW\xc1\x8d\xab\x9f\xbd\xfd\xa9{G\
+:n\xd9\xfb|\x83\x0d\xdc\xb2A\xbaZ\xf7\x8eU\xda\
+4\x05\x1d<iY\xee\xe8\xa9\xe4\xe6\xa1\x15\xd6\x92`\
+\xdfi\x0f\xa0\xe2\x07\xc1tE\xcf\xa5\x10\xdd\xb3Q\xeb\
+\x97N\x1a\xe9p/@k\xf4\x09\x80-\x9e\x1c\x00\xb3\
+\xb1\x09\xdb\x1di\x09\xe7,\x97e\xc1~\x15\x0eE\x0d\
+\xfa\xcc\x94<\xd6\xee>zf\x04a\xa2\xc5\xa4\xe3\xf9\
+T\xc7@\x86H\xa6\x80G\xee\x18\x80\xc3cG\xadK\
+\xaf*\xc8\x96\xf2$\xcb\x10B\x92g\x95\xd1\x8d\xf70\
+\xc4 Yy\x91[9p\xa5&\x07?\xf2s1\xc6\
+\x7f\x0c <\x07\xc9\xdf\x08rJ\x04\xa4\x0bs\x19O\
+4\xda\xd0\xfb\x80.R\xcc\xa4\xb1\x0e\x14\x9d\x13\x80\x97\
+\x8f\x84\x8a\xe3\xa1\x867\xa2\x05\x8f}\xe4\x1bYZ7\
+\x0d\xbdG\xa9\x04E\xc5\x07 \xdbM\x01\x98'\xeaU\
+n\xbd\xe1\xe5\x08\xd3[\xf4j\xf3\x80\x06\x85C-\x0f\
+\xb5\xf7\xaboKa\xa6\xc7\xe6\xf6rq\xbe\x872\x9a\
+\x8a\xfb\xec\x85tZ\x9d\xd0\xbd^IN2\xf4\x0b\xb5\
+\xc8\x15\x19\xb0\xe2\xa0\xa9\x19\xb2\x14\xbcYMA\xc4\x9f\
+|\x0c=\x09\x899r\xca\x11\xd8\xd1G\x81\x8f \xe5\
+4\xd3\xad`\x9d\x82\xdeH)\xa1\xe21g\xa6p\x81\
+w\x1d\xf4\xeb\xaa\xcb\xdb\x9b\x15\x9fG\x05\x9f\xb0\xdbw\
+\xa3\x87\x1e\x06\xfa8\xe2\x98TF\xd4\x81\x1d-\xb8\x9d\
+t\x8a\xef\xaai+eP\xb6\xebq\xf1\x94\xb3'\xbb\
+@6\xf0|4\xdc\xda\x22\xc4\xc8\xec\xd9Y\x0aU\xe2\
+\xb6\x15\xa2LMT\x99\x1e\x8c9#D\x92\xf0k\xbc\
+\x02\xb8\xac\x96\x96=\xc8\x16N\x0c\xb5\xb6\x82N3X\
+\x83\xd2\x97\xce\x0aU\x15\x89\x81\x08\xc4z$\xe7\x04\xb9\
+7\xba'6\xc8\xf1\xe2\xe1K\xbc\x17`\x22\xfc\x05\xe0\
+\x13\xa4\x08\x22\x83:UsM\xec\xef\x9e^\xd2\xae\x96\
+fV\xd1\xdb\xe7O!`\x1b\x09%\xf5S(\x9dP\
+\xe5P\xce\x19\x97\x80\x85\xd4\xd8-*\xd8\xe5%\xde\xa0\
+^\x88-\xb3\xf2\xd8\x86\xc8\xd2+T\x9d\xce\x17@O\
+x;Cb\xec}B\xed\xc9x\xae\xef\xc9X\x8f\xf2\
+\x14\x89\xfb\xa95\xf2\xf2\x92\xff\x06P\x84C8\xd8\xdd\
+\xf9.\xa3\xb1\x1c\xb0\xa0-\xd3\xab1*\xa9<\x14\x8c\
+\x87E\xa9\xd6\x0f<L_$Y\xeb\xc0y\xc6\xd5\x04\
+\xcf\x84\x8fm\x0c\xc4\x0f\xb8^$\xdd\x9eM#*`\
+a3\xa6\x15\xf1\x8f\x0b\xad\x9f\xb1\xdc\x0bg\x05\xb02\
+L\xaf)\xeb7W\xccJ\xddc\x9fN\xea\xfa\xf6\xe6\
+Q\xaa\xce9\x89\xef\x81\xb8y\xeb\xd49\x988\xe1\x1e\
+]\xb1z\xb2\x028\xe1_\x0d\x9eU\x22\x16\xe8\xa0\xfc\
+F\x83\xe5\x0e'\xd3\xc0\xf24\x12\x92\xa1;\x88\xfc$\
+#>\x1b\x19\xd8\x09\x7f\xc6\x8b\x9d\xaf\xad\xa1\xe6P+\
+\xde$D\x02\xb9].\x80\xc3+\x17\xe40\xcc\xcf\x89\
+\x979\x97%?#\xe5\x80\xa84\x19wy\x1b\x03X\
+\x10\xc1\xc7\xffLM\xb7\xb7\xb9[{*yJ!\xdc\
+8-?\x83\x89\x82}\x08D_\xf5\xca\xdboz\xe5\
+d\xa7B\xabTR\xa9\xdc\x9b\x10Rd\x8a45\x09\
+e<\x17E\xe6w\xe0+h\xb2\x92\xd5E9\xad\xd3\
+\xe4\xc2\x84\xf3-0\xcd\xd2|N\x1c\xb8s*\x94\x12\
+\x08\x89\x8e\x06sMA\xc1\xb5=\xb88\xb6\xaf7\xb1\
+\x94\x88\x05\xaa\xba}\xb1xU{Ta\xc0B\xb8\xbe\
+[\x1c\x84\xd2\xe7\x9d\x90C\xe1\xcd\xb8\xe4\x07jf\xe5\
+\x96\xdb[\xf0\xe4\x01I\xb1\xc5\x0cC\xc73\xd9\xf0\xa3\
+\x88e\x8c\x0bJ>\x88D3\xe3p\xa8\xa1\xd9X\xa9\
+\x1b\xd9J\xc08\x92W%m\x1d\xc3\x01\xf5TL\xa9\
+\x8dj*\xecrif\xbby\xf2h\x91\x872\xf5L\
+\x9a\xd6}\xc0\xa6\xf9\xfdn\xe4\xb2H\xbcb_\xf4\x9c\
+\x13\x82\xfb\x18X=\xb41\x04\xa1\xe4\xe9-\xfb\x0c\x8b\
+\x87\x90\xffe\xb3\x83\xc3\x98X\xec*A\x8f\xd9>\x06\
+*3\xfdz\xbdq\xf94;\xfe*\xeb\xb7\x1e\xe9e\
+#:\x05\x9dg\xeby\xa4l\xbf/{\x80\x1f\xae\xf7\
+\xffs\xbe&\xa4\x99%\xc03\xe6z\xf8\x17\xee\xfa\x1f\
+D\xad\x15\xfc\xfe\xec1\xe2(m\xd9Y\xf7\xc1\x06\xdd\
+\x0e\xa1\xcdL\xba\xccz:\x96\x0b\x9f\xd1\x0b\x15\x13\xba\
+\x0b\x0acL\xe9x>\xdd\x88\xf1\xec\xecv\x89\xb6v\
+8\x82\x11\x0b\x88\xd8\x1a\xb5\x87KQ\x03I\xce\xbe\xb7\
+o\xe2l\xf7\xd6.Ya\x9c\xe7^`1\xb0\xe3\xee\
+\xe3\x05\x8d1\x00b\xf5\xfe\x00\x0fJ\x1bf\xe8$\x88\
+^\x1bL<x\xa60F\xe4\xab,w\xb7\x9d\x7f\xf5\
+_ \xc2\xba\xe7%1 \xc1.\xc0[\x9f\xc0\xa0\xcf\
+\x1bE\xfe\xb9\xe2\xb3P~\xcd\x86\xc3\xa6\x88\x7f\xb59\
+\xd4\xbc\x03\x22\xc2?\xdc\xfc\x8c,\x04~n7\xb4\xf5\
+'c\x7f\xc0\x7f\xff\x022\xe3.(\
+\x00\x00\x0d\xe1\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>4:1 And\
+ Adam knew Eve h\
+is wife; and she\
+ conceived, and \
+bare Cain, and s\
+aid, I have gott\
+en a man from Ya\
+hweh. </p><p>4:2\
+ And she again b\
+are his brother \
+Abel. And Abel w\
+as a keeper of s\
+heep, but Cain w\
+as a tiller of t\
+he ground.</p><p\
+>4:3 And in proc\
+ess of time it c\
+ame to pass, tha\
+t Cain brought o\
+f the fruit of t\
+he ground an off\
+ering unto Yahwe\
+h.</p><p>4:4 And\
+ Abel, he also b\
+rought of the fi\
+rstlings of his \
+flock and of the\
+ fat thereof. An\
+d Yahweh had res\
+pect unto Abel a\
+nd to his offeri\
+ng:</p><p>4:5 Bu\
+t unto Cain and \
+to his offering \
+he had not respe\
+ct. And Cain was\
+ very wroth, and\
+ his countenance\
+ fell.</p><p>4:6\
+ And Yahweh said\
+ unto Cain, Why \
+art thou wroth? \
+and why is thy c\
+ountenance falle\
+n?</p><p>4:7 If \
+thou doest well,\
+ shalt thou not \
+be accepted? and\
+ if thou doest n\
+ot well, sin lie\
+th at the door. \
+And unto thee sh\
+all be his desir\
+e, and thou shal\
+t rule over him.\
+</p><p>4:8 And C\
+ain talked with \
+Abel his brother\
+: and it came to\
+ pass, when they\
+ were in the fie\
+ld, that Cain ro\
+se up against Ab\
+el his brother, \
+and slew him.</p\
+><p>4:9 And Yahw\
+eh said unto Cai\
+n, Where is Abel\
+ thy brother? An\
+d he said, I kno\
+w not: Am I my b\
+rother's keeper?\
+</p><p>4:10 And \
+he said, What ha\
+st thou done? th\
+e voice of thy b\
+rother's blood c\
+rieth unto me fr\
+om the ground.</\
+p><p>4:11 And no\
+w art thou curse\
+d from the earth\
+, which hath ope\
+ned her mouth to\
+ receive thy bro\
+ther's blood fro\
+m thy hand;</p><\
+p>4:12 When thou\
+ tillest the gro\
+und, it shall no\
+t henceforth yie\
+ld unto thee her\
+ strength; a fug\
+itive and a vaga\
+bond shalt thou \
+be in the earth.\
+</p><p>4:13 And \
+Cain said unto Y\
+ahweh, My punish\
+ment is greater \
+than I can bear.\
+</p><p>4:14 Beho\
+ld, thou hast dr\
+iven me out this\
+ day from the fa\
+ce of the earth;\
+ and from thy fa\
+ce shall I be hi\
+d; and I shall b\
+e a fugitive and\
+ a vagabond in t\
+he earth; and it\
+ shall come to p\
+ass, that every \
+one that findeth\
+ me shall slay m\
+e.</p><p>4:15 An\
+d Yahweh said un\
+to him, Therefor\
+e whosoever slay\
+eth Cain, vengea\
+nce shall be tak\
+en on him sevenf\
+old. And Yahweh \
+set a mark upon \
+Cain, lest any f\
+inding him shoul\
+d kill him.</p><\
+p>4:16 And Cain \
+went out from th\
+e presence of Ya\
+hweh, and dwelt \
+in the land of N\
+od, on the east \
+of Eden.</p><p>4\
+:17 And Cain kne\
+w his wife; and \
+she conceived, a\
+nd bare Enoch: a\
+nd he builded a \
+city, and called\
+ the name of the\
+ city, after the\
+ name of his son\
+, Enoch.</p><p>4\
+:18 And unto Eno\
+ch was born Irad\
+: and Irad begat\
+ Mehujael: and M\
+ehujael begat Me\
+thusael: and Met\
+husael begat Lam\
+ech.</p><p>4:19 \
+And Lamech took \
+unto him two wiv\
+es: the name of \
+the one was Adah\
+, and the name o\
+f the other Zill\
+ah.</p><p>4:20 A\
+nd Adah bare Jab\
+al: he was the f\
+ather of such as\
+ dwell in tents,\
+ and of such as \
+have cattle.</p>\
+<p>4:21 And his \
+brother's name w\
+as Jubal: he was\
+ the father of a\
+ll such as handl\
+e the harp and o\
+rgan.</p><p>4:22\
+ And Zillah, she\
+ also bare Tubal\
+cain, an instruc\
+tor of every art\
+ificer in brass \
+and iron: and th\
+e sister of Tuba\
+lcain was Naamah\
+.</p><p>4:23 And\
+ Lamech said unt\
+o his wives, Ada\
+h and Zillah, He\
+ar my voice; ye \
+wives of Lamech,\
+ hearken unto my\
+ speech: for I h\
+ave slain a man \
+to my wounding, \
+and a young man \
+to my hurt.</p><\
+p>4:24 If Cain s\
+hall be avenged \
+sevenfold, truly\
+ Lamech seventy \
+and sevenfold.</\
+p><p>4:25 And Ad\
+am knew his wife\
+ again; and she \
+bare a son, and \
+called his name \
+Seth: For Elohim\
+, said she, hath\
+ appointed me an\
+other seed inste\
+ad of Abel, whom\
+ Cain slew.</p><\
+p>4:26 And to Se\
+th, to him also \
+there was born a\
+ son; and he cal\
+led his name Eno\
+s: then began me\
+n to call upon t\
+he name of Yahwe\
+h.</p>\x22,       \x22\
+chapter\x22: \x22Genes\
+is 4\x22     }  ] }\
+\
+\x00\x00\x0c\xf7\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>8:1 And\
+ Elohim remember\
+ed Noah, and eve\
+ry living thing,\
+ and all the cat\
+tle that was wit\
+h him in the ark\
+: and Elohim mad\
+e a wind to pass\
+ over the earth,\
+ and the waters \
+asswaged;</p><p>\
+8:2 The fountain\
+s also of the de\
+ep and the windo\
+ws of heaven wer\
+e stopped, and t\
+he rain from hea\
+ven was restrain\
+ed;</p><p>8:3 An\
+d the waters ret\
+urned from off t\
+he earth continu\
+ally: and after \
+the end of the h\
+undred and fifty\
+ days the waters\
+ were abated.</p\
+><p>8:4 And the \
+ark rested in th\
+e seventh month,\
+ on the seventee\
+nth day of the m\
+onth, upon the m\
+ountains of Arar\
+at.</p><p>8:5 An\
+d the waters dec\
+reased continual\
+ly until the ten\
+th month: in the\
+ tenth month, on\
+ the first day o\
+f the month, wer\
+e the tops of th\
+e mountains seen\
+.</p><p>8:6 And \
+it came to pass \
+at the end of fo\
+rty days, that N\
+oah opened the w\
+indow of the ark\
+ which he had ma\
+de:</p><p>8:7 An\
+d he sent forth \
+a raven, which w\
+ent forth to and\
+ fro, until the \
+waters were drie\
+d up from off th\
+e earth.</p><p>8\
+:8 Also he sent \
+forth a dove fro\
+m him, to see if\
+ the waters were\
+ abated from off\
+ the face of the\
+ ground;</p><p>8\
+:9 But the dove \
+found no rest fo\
+r the sole of he\
+r foot, and she \
+returned unto hi\
+m into the ark, \
+for the waters w\
+ere on the face \
+of the whole ear\
+th: then he put \
+forth his hand, \
+and took her, an\
+d pulled her in \
+unto him into th\
+e ark.</p><p>8:1\
+0 And he stayed \
+yet other seven \
+days; and again \
+he sent forth th\
+e dove out of th\
+e ark;</p><p>8:1\
+1 And the dove c\
+ame in to him in\
+ the evening; an\
+d, lo, in her mo\
+uth was an olive\
+ leaf pluckt off\
+: so Noah knew t\
+hat the waters w\
+ere abated from \
+off the earth.</\
+p><p>8:12 And he\
+ stayed yet othe\
+r seven days; an\
+d sent forth the\
+ dove; which ret\
+urned not again \
+unto him any mor\
+e.</p><p>8:13 An\
+d it came to pas\
+s in the six hun\
+dredth and first\
+ year, in the fi\
+rst month, the f\
+irst day of the \
+month, the water\
+s were dried up \
+from off the ear\
+th: and Noah rem\
+oved the coverin\
+g of the ark, an\
+d looked, and, b\
+ehold, the face \
+of the ground wa\
+s dry.</p><p>8:1\
+4 And in the sec\
+ond month, on th\
+e seven and twen\
+tieth day of the\
+ month, was the \
+earth dried.</p>\
+<p>8:15 And Eloh\
+im spake unto No\
+ah, saying,</p><\
+p>8:16 Go forth \
+of the ark, thou\
+, and thy wife, \
+and thy sons, an\
+d thy sons' wive\
+s with thee.</p>\
+<p>8:17 Bring fo\
+rth with thee ev\
+ery living thing\
+ that is with th\
+ee, of all flesh\
+, both of fowl, \
+and of cattle, a\
+nd of every cree\
+ping thing that \
+creepeth upon th\
+e earth; that th\
+ey may breed abu\
+ndantly in the e\
+arth, and be fru\
+itful, and multi\
+ply upon the ear\
+th.</p><p>8:18 A\
+nd Noah went for\
+th, and his sons\
+, and his wife, \
+and his sons' wi\
+ves with him:</p\
+><p>8:19 Every b\
+east, every cree\
+ping thing, and \
+every fowl, and \
+whatsoever creep\
+eth upon the ear\
+th, after their \
+kinds, went fort\
+h out of the ark\
+.</p><p>8:20 And\
+ Noah builded an\
+ altar unto Yahw\
+eh and took of e\
+very clean beast\
+, and of every c\
+lean fowl, and o\
+ffered burnt off\
+erings on the al\
+tar.</p><p>8:21 \
+And Yahweh smell\
+ed a sweet savou\
+r; and Yahweh sa\
+id in his heart,\
+ I will not agai\
+n curse the grou\
+nd any more for \
+man's sake; for \
+the imagination \
+of man's heart i\
+s evil from his \
+youth; neither w\
+ill I again smit\
+e any more every\
+ thing living, a\
+s I have done.</\
+p><p>8:22 While \
+the earth remain\
+eth, seedtime an\
+d harvest, and c\
+old and heat, an\
+d summer and win\
+ter, and day and\
+ night shall not\
+ cease.</p>\x22,   \
+    \x22chapter\x22: \x22\
+Genesis 8\x22     }\
+  ] } \
+\x00\x00\x0d\xb4\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>2:1 Thu\
+s the heavens an\
+d the earth were\
+ finished, and a\
+ll the host of t\
+hem.</p><p>2:2 A\
+nd on the sevent\
+h day Elohim end\
+ed his work whic\
+h he had made; a\
+nd he rested on \
+the seventh day \
+from all his wor\
+k which he had m\
+ade.</p><p>2:3 A\
+nd Elohim blesse\
+d the seventh da\
+y, and sanctifie\
+d it: because th\
+at in it he had \
+rested from all \
+his work which E\
+lohim created an\
+d made.</p><p>2:\
+4 These are the \
+generations of t\
+he heavens and o\
+f the earth when\
+ they were creat\
+ed, in the day t\
+hat the Yahweh E\
+lohim made the e\
+arth and the hea\
+vens,</p><p>2:5 \
+And every plant \
+of the field bef\
+ore it was in th\
+e earth, and eve\
+ry herb of the f\
+ield before it g\
+rew: for the Yah\
+weh Elohim had n\
+ot caused it to \
+rain upon the ea\
+rth, and there w\
+as not a man to \
+till the ground.\
+</p><p>2:6 But t\
+here went up a m\
+ist from the ear\
+th, and watered \
+the whole face o\
+f the ground.</p\
+><p>2:7 And the \
+Yahweh Elohim fo\
+rmed man of the \
+dust of the grou\
+nd, and breathed\
+ into his nostri\
+ls the breath of\
+ life; and man b\
+ecame a living s\
+oul.</p><p>2:8 A\
+nd the Yahweh El\
+ohim planted a g\
+arden eastward i\
+n Eden; and ther\
+e he put the man\
+ whom he had for\
+med.</p><p>2:9 A\
+nd out of the gr\
+ound made the Ya\
+hweh Elohim to g\
+row every tree t\
+hat is pleasant \
+to the sight, an\
+d good for food;\
+ the tree of lif\
+e also in the mi\
+dst of the garde\
+n, and the tree \
+of knowledge of \
+good and evil.</\
+p><p>2:10 And a \
+river went out o\
+f Eden to water \
+the garden; and \
+from thence it w\
+as parted, and b\
+ecame into four \
+heads.</p><p>2:1\
+1 The name of th\
+e first is Pison\
+: that is it whi\
+ch compasseth th\
+e whole land of \
+Havilah, where t\
+here is gold;</p\
+><p>2:12 And the\
+ gold of that la\
+nd is good: ther\
+e is bdellium an\
+d the onyx stone\
+.</p><p>2:13 And\
+ the name of the\
+ second river is\
+ Gihon: the same\
+ is it that comp\
+asseth the whole\
+ land of Ethiopi\
+a.</p><p>2:14 An\
+d the name of th\
+e third river is\
+ Hiddekel: that \
+is it which goet\
+h toward the eas\
+t of Assyria. An\
+d the fourth riv\
+er is Euphrates.\
+</p><p>2:15 And \
+the Yahweh Elohi\
+m took the man, \
+and put him into\
+ the garden of E\
+den to dress it \
+and to keep it.<\
+/p><p>2:16 And t\
+he Yahweh Elohim\
+ commanded the m\
+an, saying, Of e\
+very tree of the\
+ garden thou may\
+est freely eat:<\
+/p><p>2:17 But o\
+f the tree of th\
+e knowledge of g\
+ood and evil, th\
+ou shalt not eat\
+ of it: for in t\
+he day that thou\
+ eatest thereof \
+thou shalt surel\
+y die.</p><p>2:1\
+8 And the Yahweh\
+ Elohim said, It\
+ is not good tha\
+t the man should\
+ be alone; I wil\
+l make him an he\
+lp meet for him.\
+</p><p>2:19 And \
+out of the groun\
+d the Yahweh Elo\
+him formed every\
+ beast of the fi\
+eld, and every f\
+owl of the air; \
+and brought them\
+ unto Adam to se\
+e what he would \
+call them: and w\
+hatsoever Adam c\
+alled every livi\
+ng creature, tha\
+t was the name t\
+hereof.</p><p>2:\
+20 And Adam gave\
+ names to all ca\
+ttle, and to the\
+ fowl of the air\
+, and to every b\
+east of the fiel\
+d; but for Adam \
+there was not fo\
+und an help meet\
+ for him.</p><p>\
+2:21 And the Yah\
+weh Elohim cause\
+d a deep sleep t\
+o fall upon Adam\
+, and he slept: \
+and he took one \
+of his ribs, and\
+ closed up the f\
+lesh instead the\
+reof;</p><p>2:22\
+ And the rib, wh\
+ich the Yahweh E\
+lohim had taken \
+from man, made h\
+e a woman, and b\
+rought her unto \
+the man.</p><p>2\
+:23 And Adam sai\
+d, This is now b\
+one of my bones,\
+ and flesh of my\
+ flesh: she shal\
+l be called Woma\
+n, because she w\
+as taken out of \
+Man.</p><p>2:24 \
+Therefore shall \
+a man leave his \
+father and his m\
+other, and shall\
+ cleave unto his\
+ wife: and they \
+shall be one fle\
+sh.</p><p>2:25 A\
+nd they were bot\
+h naked, the man\
+ and his wife, a\
+nd were not asha\
+med.</p>\x22,      \
+ \x22chapter\x22: \x22Gen\
+esis 2\x22     }  ]\
+ } \
+\x00\x00\x0a=\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>\xef\xbb\xbf5\
+:1 But of the ti\
+mes and the seas\
+ons, brethren, y\
+e have no need t\
+hat I write unto\
+ you.</p><p>5:2 \
+For yourselves k\
+now perfectly th\
+at the day of Ya\
+hweh so cometh a\
+s a thief in the\
+ night.</p><p>5:\
+3 For when they \
+shall say, Peace\
+ and safety; the\
+n sudden destruc\
+tion cometh upon\
+ them, as travai\
+l upon a woman w\
+ith child; and t\
+hey shall not es\
+cape.</p><p>5:4 \
+But ye, brethren\
+, are not in dar\
+kness, that that\
+ day should over\
+take you as a th\
+ief.</p><p>5:5 Y\
+e are all the ch\
+ildren of light,\
+ and the childre\
+n of the day: we\
+ are not of the \
+night, nor of da\
+rkness.</p><p>5:\
+6 Therefore let \
+us not sleep, as\
+ do others; but \
+let us watch and\
+ be sober.</p><p\
+>5:7 For they th\
+at sleep sleep i\
+n the night; and\
+ they that be dr\
+unken are drunke\
+n in the night.<\
+/p><p>5:8 But le\
+t us, who are of\
+ the day, be sob\
+er, putting on t\
+he breastplate o\
+f faith and love\
+; and for an hel\
+met, the hope of\
+ salvation.</p><\
+p>5:9 For Elohim\
+ hath not appoin\
+ted us to wrath,\
+ but to obtain s\
+alvation by our \
+master Yahushua \
+Messiah,</p><p>5\
+:10 Who died for\
+ us, that, wheth\
+er we wake or sl\
+eep, we should l\
+ive together wit\
+h him.</p><p>5:1\
+1 Wherefore comf\
+ort yourselves t\
+ogether, and edi\
+fy one another, \
+even as also ye \
+do.</p><p>5:12 A\
+nd we beseech yo\
+u, brethren, to \
+know them which \
+labour among you\
+, and are over y\
+ou in Yahweh, an\
+d admonish you;<\
+/p><p>5:13 And t\
+o esteem them ve\
+ry highly in lov\
+e for their work\
+'s sake. And be \
+at peace among y\
+ourselves.</p><p\
+>5:14 Now we exh\
+ort you, brethre\
+n, warn them tha\
+t are unruly, co\
+mfort the feeble\
+minded, support \
+the weak, be pat\
+ient toward all \
+men.</p><p>5:15 \
+See that none re\
+nder evil for ev\
+il unto any man;\
+ but ever follow\
+ that which is g\
+ood, both among \
+yourselves, and \
+to all men.</p><\
+p>5:16 Rejoice e\
+vermore.</p><p>5\
+:17 Pray without\
+ ceasing.</p><p>\
+5:18 In every th\
+ing give thanks:\
+ for this is the\
+ will of Elohim \
+in Messiah Yahus\
+hua concerning y\
+ou.</p><p>5:19 Q\
+uench not the Sp\
+irit.</p><p>5:20\
+ Despise not pro\
+phesyings.</p><p\
+>5:21 Prove all \
+things; hold fas\
+t that which is \
+good.</p><p>5:22\
+ Abstain from al\
+l appearance of \
+evil.</p><p>5:23\
+ And the very El\
+ohim of peace sa\
+nctify you wholl\
+y; and I pray El\
+ohim your whole \
+spirit and soul \
+and body be pres\
+erved blameless \
+unto the coming \
+of our master Ya\
+hushua Messiah.<\
+/p><p>5:24 Faith\
+ful is he that c\
+alleth you, who \
+also will do it.\
+</p><p>5:25 Bret\
+hren, pray for u\
+s.</p><p>5:26 Gr\
+eet all the bret\
+hren with an hol\
+y kiss.</p><p>5:\
+27 I charge you \
+by Yahweh that t\
+his epistle be r\
+ead unto all the\
+ holy brethren.<\
+/p><p>5:28 The g\
+race of our mast\
+er Yahushua Mess\
+iah be with you.\
+ Amen.</p>\x22,    \
+   \x22chapter\x22: \x221\
+ Thessalonians 5\
+\x22     }  ] }\
+\x00\x00\x13\x97\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>13:1\
+ There were pres\
+ent at that seas\
+on some that tol\
+d him of the Gal\
+ilaeans, whose b\
+lood Pilate had \
+mingled with the\
+ir sacrifices.</\
+p><p>13:2 And ya\
+hushua answering\
+ said unto them,\
+ Suppose ye that\
+ these Galilaean\
+s were sinners a\
+bove all the Gal\
+ilaeans, because\
+ they suffered s\
+uch things?</p><\
+p>13:3 I tell yo\
+u, Nay: but, exc\
+ept ye repent, y\
+e shall all like\
+wise perish.</p>\
+<p>13:4 Or those\
+ eighteen, upon \
+whom the tower i\
+n Siloam fell, a\
+nd slew them, th\
+ink ye that they\
+ were sinners ab\
+ove all men that\
+ dwelt in Jerusa\
+lem?</p><p>13:5 \
+I tell you, Nay:\
+ but, except ye \
+repent, ye shall\
+ all likewise pe\
+rish.</p><p>13:6\
+ He spake also t\
+his parable; A c\
+ertain man had a\
+ fig tree plante\
+d in his vineyar\
+d; and he came a\
+nd sought fruit \
+thereon, and fou\
+nd none.</p><p>1\
+3:7 Then said he\
+ unto the dresse\
+r of his vineyar\
+d, Behold, these\
+ three years I c\
+ome seeking frui\
+t on this fig tr\
+ee, and find non\
+e: cut it down; \
+why cumbereth it\
+ the ground?</p>\
+<p>13:8 And he a\
+nswering said un\
+to him, Lord, le\
+t it alone this \
+year also, till \
+I shall dig abou\
+t it, and dung i\
+t:</p><p>13:9 An\
+d if it bear fru\
+it, well: and if\
+ not, then after\
+ that thou shalt\
+ cut it down.</p\
+><p>13:10 And he\
+ was teaching in\
+ one of the syna\
+gogues on the sa\
+bbath.</p><p>13:\
+11 And, behold, \
+there was a woma\
+n which had a sp\
+irit of infirmit\
+y eighteen years\
+, and was bowed \
+together, and co\
+uld in no wise l\
+ift up herself.<\
+/p><p>13:12 And \
+when yahushua sa\
+w her, he called\
+ her to him, and\
+ said unto her, \
+Woman, thou art \
+loosed from thin\
+e infirmity.</p>\
+<p>13:13 And he \
+laid his hands o\
+n her: and immed\
+iately she was m\
+ade straight, an\
+d glorified Eloh\
+im.</p><p>13:14 \
+And the ruler of\
+ the synagogue a\
+nswered with ind\
+ignation, becaus\
+e that yahushua \
+had healed on th\
+e sabbath day, a\
+nd said unto the\
+ people, There a\
+re six days in w\
+hich men ought t\
+o work: in them \
+therefore come a\
+nd be healed, an\
+d not on the sab\
+bath day.</p><p>\
+13:15 Yahweh the\
+n answered him, \
+and said, Thou h\
+ypocrite, doth n\
+ot each one of y\
+ou on the sabbat\
+h loose his ox o\
+r his ass from t\
+he stall, and le\
+ad him away to w\
+atering?</p><p>1\
+3:16 And ought n\
+ot this woman, b\
+eing a daughter \
+of Abraham, whom\
+ Satan hath boun\
+d, lo, these eig\
+hteen years, be \
+loosed from this\
+ bond on the sab\
+bath day?</p><p>\
+13:17 And when h\
+e had said these\
+ things, all his\
+ adversaries wer\
+e ashamed: and a\
+ll the people re\
+joiced for all t\
+he glorious thin\
+gs that were don\
+e by him.</p><p>\
+13:18 Then said \
+he, Unto what is\
+ the kingdom of \
+Elohim like? and\
+ whereunto shall\
+ I resemble it?<\
+/p><p>13:19 It i\
+s like a grain o\
+f mustard seed, \
+which a man took\
+, and cast into \
+his garden; and \
+it grew, and wax\
+ed a great tree;\
+ and the fowls o\
+f the air lodged\
+ in the branches\
+ of it.</p><p>13\
+:20 And again he\
+ said, Whereunto\
+ shall I liken t\
+he kingdom of El\
+ohim?</p><p>13:2\
+1 It is like lea\
+ven, which a wom\
+an took and hid \
+in three measure\
+s of meal, till \
+the whole was le\
+avened.</p><p>13\
+:22 And he went \
+through the citi\
+es and villages,\
+ teaching, and j\
+ourneying toward\
+ Jerusalem.</p><\
+p>13:23 Then sai\
+d one unto him, \
+Lord, are there \
+few that be save\
+d? And he said u\
+nto them,</p><p>\
+13:24 Strive to \
+enter in at the \
+strait gate: for\
+ many, I say unt\
+o you, will seek\
+ to enter in, an\
+d shall not be a\
+ble.</p><p>13:25\
+ When once the m\
+aster of the hou\
+se is risen up, \
+and hath shut to\
+ the door, and y\
+e begin to stand\
+ without, and to\
+ knock at the do\
+or, saying, Lord\
+, Lord, open unt\
+o us; and he sha\
+ll answer and sa\
+y unto you, I kn\
+ow you not whenc\
+e ye are:</p><p>\
+13:26 Then shall\
+ ye begin to say\
+, We have eaten \
+and drunk in thy\
+ presence, and t\
+hou hast taught \
+in our streets.<\
+/p><p>13:27 But \
+he shall say, I \
+tell you, I know\
+ you not whence \
+ye are; depart f\
+rom me, all ye w\
+orkers of iniqui\
+ty.</p><p>13:28 \
+There shall be w\
+eeping and gnash\
+ing of teeth, wh\
+en ye shall see \
+Abraham, and Isa\
+ac, and Jacob, a\
+nd all the proph\
+ets, in the king\
+dom of Elohim, a\
+nd you yourselve\
+s thrust out.</p\
+><p>13:29 And th\
+ey shall come fr\
+om the east, and\
+ from the west, \
+and from the nor\
+th, and from the\
+ south, and shal\
+l sit down in th\
+e kingdom of Elo\
+him.</p><p>13:30\
+ And, behold, th\
+ere are last whi\
+ch shall be firs\
+t, and there are\
+ first which sha\
+ll be last.</p><\
+p>13:31 The same\
+ day there came \
+certain of the P\
+harisees, saying\
+ unto him, Get t\
+hee out, and dep\
+art hence: for H\
+erod will kill t\
+hee.</p><p>13:32\
+ And he said unt\
+o them, Go ye, a\
+nd tell that fox\
+, Behold, I cast\
+ out devils, and\
+ I do cures to d\
+ay and to morrow\
+, and the third \
+day I shall be p\
+erfected.</p><p>\
+13:33 Neverthele\
+ss I must walk t\
+o day, and to mo\
+rrow, and the da\
+y following: for\
+ it cannot be th\
+at a prophet per\
+ish out of Jerus\
+alem.</p><p>13:3\
+4 O Jerusalem, J\
+erusalem, which \
+killest the prop\
+hets, and stones\
+t them that are \
+sent unto thee; \
+how often would \
+I have gathered \
+thy children tog\
+ether, as a hen \
+doth gather her \
+brood under her \
+wings, and ye wo\
+uld not!</p><p>1\
+3:35 Behold, you\
+r house is left \
+unto you desolat\
+e: and verily I \
+say unto you, Ye\
+ shall not see m\
+e, until the tim\
+e come when ye s\
+hall say, Blesse\
+d is he that com\
+eth in the name \
+of Yahweh.</p>\x22,\
+       \x22chapter\x22\
+: \x22Luke 13\x22     \
+}  ] }\
+\x00\x00\x1a\xf9\
+\xef\
+\xbb\xbf{   \x22read\x22:   \
+[     {        \x22\
+text\x22: \x22<p>6:1 A\
+nd it came to pa\
+ss on the second\
+ sabbath after t\
+he first, that h\
+e went through t\
+he corn fields; \
+and his disciple\
+s plucked the ea\
+rs of corn, and \
+did eat, rubbing\
+ them in their h\
+ands.</p><p>6:2 \
+And certain of t\
+he Pharisees sai\
+d unto them, Why\
+ do ye that whic\
+h is not lawful \
+to do on the sab\
+bath days?</p><p\
+>6:3 And yahushu\
+a answering them\
+ said, Have ye n\
+ot read so much \
+as this, what Da\
+vid did, when hi\
+mself was an hun\
+gred, and they w\
+hich were with h\
+im;</p><p>6:4 Ho\
+w he went into t\
+he house of Eloh\
+im, and did take\
+ and eat the she\
+wbread, and gave\
+ also to them th\
+at were with him\
+; which it is no\
+t lawful to eat \
+but for the prie\
+sts alone?</p><p\
+>6:5 And he said\
+ unto them, That\
+ the Son of man \
+is master also o\
+f the sabbath.</\
+p><p>6:6 And it \
+came to pass als\
+o on another sab\
+bath, that he en\
+tered into the s\
+ynagogue and tau\
+ght: and there w\
+as a man whose r\
+ight hand was wi\
+thered.</p><p>6:\
+7 And the scribe\
+s and Pharisees \
+watched him, whe\
+ther he would he\
+al on the sabbat\
+h day; that they\
+ might find an a\
+ccusation agains\
+t him.</p><p>6:8\
+ But he knew the\
+ir thoughts, and\
+ said to the man\
+ which had the w\
+ithered hand, Ri\
+se up, and stand\
+ forth in the mi\
+dst. And he aros\
+e and stood fort\
+h.</p><p>6:9 The\
+n said Yahushua \
+unto them, I wil\
+l ask you one th\
+ing; Is it lawfu\
+l on the sabbath\
+ days to do good\
+, or to do evil?\
+ to save life, o\
+r to destroy it?\
+</p><p>6:10 And \
+looking round ab\
+out upon them al\
+l, he said unto \
+the man, Stretch\
+ forth thy hand.\
+ And he did so: \
+and his hand was\
+ restored whole \
+as the other.</p\
+><p>6:11 And the\
+y were filled wi\
+th madness; and \
+communed one wit\
+h another what t\
+hey might do to \
+yahushua.</p><p>\
+6:12 And it came\
+ to pass in thos\
+e days, that he \
+went out into a \
+mountain to pray\
+, and continued \
+all night in pra\
+yer to Elohim.</\
+p><p>6:13 And wh\
+en it was day, h\
+e called unto hi\
+m his disciples:\
+ and of them he \
+chose twelve, wh\
+om also he named\
+ apostles;</p><p\
+>6:14 Simon, (wh\
+om he also named\
+ Peter,) and And\
+rew his brother,\
+ James and John,\
+ Philip and Bart\
+holomew,</p><p>6\
+:15 Matthew and \
+Thomas, James th\
+e son of Alphaeu\
+s, and Simon cal\
+led Zelotes,</p>\
+<p>6:16 And Juda\
+s the brother of\
+ James, and Juda\
+s Iscariot, whic\
+h also was the t\
+raitor.</p><p>6:\
+17 And he came d\
+own with them, a\
+nd stood in the \
+plain, and the c\
+ompany of his di\
+sciples, and a g\
+reat multitude o\
+f people out of \
+all Judaea and J\
+erusalem, and fr\
+om the sea coast\
+ of Tyre and Sid\
+on, which came t\
+o hear him, and \
+to be healed of \
+their diseases;<\
+/p><p>6:18 And t\
+hey that were ve\
+xed with unclean\
+ spirits: and th\
+ey were healed.<\
+/p><p>6:19 And t\
+he whole multitu\
+de sought to tou\
+ch him: for ther\
+e went virtue ou\
+t of him, and he\
+aled them all.</\
+p><p>6:20 And he\
+ lifted up his e\
+yes on his disci\
+ples, and said, \
+Blessed be ye po\
+or: for yours is\
+ the kingdom of \
+Elohim.</p><p>6:\
+21 Blessed are y\
+e that hunger no\
+w: for ye shall \
+be filled. Bless\
+ed are ye that w\
+eep now: for ye \
+shall laugh.</p>\
+<p>6:22 Blessed \
+are ye, when men\
+ shall hate you,\
+ and when they s\
+hall separate yo\
+u from their com\
+pany, and shall \
+reproach you, an\
+d cast out your \
+name as evil, fo\
+r the Son of man\
+'s sake.</p><p>6\
+:23 Rejoice ye i\
+n that day, and \
+leap for joy: fo\
+r, behold, your \
+reward is great \
+in heaven: for i\
+n the like manne\
+r did their fath\
+ers unto the pro\
+phets.</p><p>6:2\
+4 But woe unto y\
+ou that are rich\
+! for ye have re\
+ceived your cons\
+olation.</p><p>6\
+:25 Woe unto you\
+ that are full! \
+for ye shall hun\
+ger. Woe unto yo\
+u that laugh now\
+! for ye shall m\
+ourn and weep.</\
+p><p>6:26 Woe un\
+to you, when all\
+ men shall speak\
+ well of you! fo\
+r so did their f\
+athers to the fa\
+lse prophets.</p\
+><p>6:27 But I s\
+ay unto you whic\
+h hear, Love you\
+r enemies, do go\
+od to them which\
+ hate you,</p><p\
+>6:28 Bless them\
+ that curse you,\
+ and pray for th\
+em which despite\
+fully use you.</\
+p><p>6:29 And un\
+to him that smit\
+eth thee on the \
+one cheek offer \
+also the other; \
+and him that tak\
+eth away thy clo\
+ak forbid not to\
+ take thy coat a\
+lso.</p><p>6:30 \
+Give to every ma\
+n that asketh of\
+ thee; and of hi\
+m that taketh aw\
+ay thy goods ask\
+ them not again.\
+</p><p>6:31 And \
+as ye would that\
+ men should do t\
+o you, do ye als\
+o to them likewi\
+se.</p><p>6:32 F\
+or if ye love th\
+em which love yo\
+u, what thank ha\
+ve ye? for sinne\
+rs also love tho\
+se that love the\
+m.</p><p>6:33 An\
+d if ye do good \
+to them which do\
+ good to you, wh\
+at thank have ye\
+? for sinners al\
+so do even the s\
+ame.</p><p>6:34 \
+And if ye lend t\
+o them of whom y\
+e hope to receiv\
+e, what thank ha\
+ve ye? for sinne\
+rs also lend to \
+sinners, to rece\
+ive as much agai\
+n.</p><p>6:35 Bu\
+t love ye your e\
+nemies, and do g\
+ood, and lend, h\
+oping for nothin\
+g again; and you\
+r reward shall b\
+e great, and ye \
+shall be the chi\
+ldren of the Hig\
+hest: for he is \
+kind unto the un\
+thankful and to \
+the evil.</p><p>\
+6:36 Be ye there\
+fore merciful, a\
+s your Father al\
+so is merciful.<\
+/p><p>6:37 Judge\
+ not, and ye sha\
+ll not be judged\
+: condemn not, a\
+nd ye shall not \
+be condemned: fo\
+rgive, and ye sh\
+all be forgiven:\
+</p><p>6:38 Give\
+, and it shall b\
+e given unto you\
+; good measure, \
+pressed down, an\
+d shaken togethe\
+r, and running o\
+ver, shall men g\
+ive into your bo\
+som. For with th\
+e same measure t\
+hat ye mete with\
+al it shall be m\
+easured to you a\
+gain.</p><p>6:39\
+ And he spake a \
+parable unto the\
+m, Can the blind\
+ lead the blind?\
+ shall they not \
+both fall into t\
+he ditch?</p><p>\
+6:40 The discipl\
+e is not above h\
+is master: but e\
+very one that is\
+ perfect shall b\
+e as his master.\
+</p><p>6:41 And \
+why beholdest th\
+ou the mote that\
+ is in thy broth\
+er's eye, but pe\
+rceivest not the\
+ beam that is in\
+ thine own eye?<\
+/p><p>6:42 Eithe\
+r how canst thou\
+ say to thy brot\
+her, Brother, le\
+t me pull out th\
+e mote that is i\
+n thine eye, whe\
+n thou thyself b\
+eholdest not the\
+ beam that is in\
+ thine own eye? \
+Thou hypocrite, \
+cast out first t\
+he beam out of t\
+hine own eye, an\
+d then shalt tho\
+u see clearly to\
+ pull out the mo\
+te that is in th\
+y brother's eye.\
+</p><p>6:43 For \
+a good tree brin\
+geth not forth c\
+orrupt fruit; ne\
+ither doth a cor\
+rupt tree bring \
+forth good fruit\
+.</p><p>6:44 For\
+ every tree is k\
+nown by his own \
+fruit. For of th\
+orns men do not \
+gather figs, nor\
+ of a bramble bu\
+sh gather they g\
+rapes.</p><p>6:4\
+5 A good man out\
+ of the good tre\
+asure of his hea\
+rt bringeth fort\
+h that which is \
+good; and an evi\
+l man out of the\
+ evil treasure o\
+f his heart brin\
+geth forth that \
+which is evil: f\
+or of the abunda\
+nce of the heart\
+ his mouth speak\
+eth.</p><p>6:46 \
+And why call ye \
+me, master, mast\
+er, and do not t\
+he things which \
+I say?</p><p>6:4\
+7 Whosoever come\
+th to me, and he\
+areth my sayings\
+, and doeth them\
+, I will shew yo\
+u to whom he is \
+like:</p><p>6:48\
+ He is like a ma\
+n which built an\
+ house, and digg\
+ed deep, and lai\
+d the foundation\
+ on a rock: and \
+when the flood a\
+rose, the stream\
+ beat vehemently\
+ upon that house\
+, and could not \
+shake it: for it\
+ was founded upo\
+n a rock.</p><p>\
+6:49 But he that\
+ heareth, and do\
+eth not, is like\
+ a man that with\
+out a foundation\
+ built an house \
+upon the earth; \
+against which th\
+e stream did bea\
+t vehemently, an\
+d immediately it\
+ fell; and the r\
+uin of that hous\
+e was great.</p>\
+\x22,       \x22chapte\
+r\x22: \x22Luke 6\x22    \
+ }   ] }\
+\x00\x00\x1an\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>23:1\
+ And the whole m\
+ultitude of them\
+ arose, and led \
+him unto Pilate.\
+</p><p>23:2 And \
+they began to ac\
+cuse him, saying\
+, We found this \
+fellow pervertin\
+g the nation, an\
+d forbidding to \
+give tribute to \
+Caesar, saying t\
+hat he himself i\
+s Messiah a King\
+.</p><p>23:3 And\
+ Pilate asked hi\
+m, saying, Art t\
+hou the King of \
+the Jews? And he\
+ answered him an\
+d said, Thou say\
+est it.</p><p>23\
+:4 Then said Pil\
+ate to the chief\
+ priests and to \
+the people, I fi\
+nd no fault in t\
+his man.</p><p>2\
+3:5 And they wer\
+e the more fierc\
+e, saying, He st\
+irreth up the pe\
+ople, teaching t\
+hroughout all Je\
+wry, beginning f\
+rom Galilee to t\
+his place.</p><p\
+>23:6 When Pilat\
+e heard of Galil\
+ee, he asked whe\
+ther the man wer\
+e a Galilaean.</\
+p><p>23:7 And as\
+ soon as he knew\
+ that he belonge\
+d unto Herod's j\
+urisdiction, he \
+sent him to Hero\
+d, who himself a\
+lso was at Jerus\
+alem at that tim\
+e.</p><p>23:8 An\
+d when Herod saw\
+ yahushua, he wa\
+s exceeding glad\
+: for he was des\
+irous to see him\
+ of a long seaso\
+n, because he ha\
+d heard many thi\
+ngs of him; and \
+he hoped to have\
+ seen some mirac\
+le done by him.<\
+/p><p>23:9 Then \
+he questioned wi\
+th him in many w\
+ords; but he ans\
+wered him nothin\
+g.</p><p>23:10 A\
+nd the chief pri\
+ests and scribes\
+ stood and vehem\
+ently accused hi\
+m.</p><p>23:11 A\
+nd Herod with hi\
+s men of war set\
+ him at nought, \
+and mocked him, \
+and arrayed him \
+in a gorgeous ro\
+be, and sent him\
+ again to Pilate\
+.</p><p>23:12 An\
+d the same day P\
+ilate and Herod \
+were made friend\
+s together: for \
+before they were\
+ at enmity betwe\
+en themselves.</\
+p><p>23:13 And P\
+ilate, when he h\
+ad called togeth\
+er the chief pri\
+ests and the rul\
+ers and the peop\
+le,</p><p>23:14 \
+Said unto them, \
+Ye have brought \
+this man unto me\
+, as one that pe\
+rverteth the peo\
+ple: and, behold\
+, I, having exam\
+ined him before \
+you, have found \
+no fault in this\
+ man touching th\
+ose things where\
+of ye accuse him\
+:</p><p>23:15 No\
+, nor yet Herod:\
+ for I sent you \
+to him; and, lo,\
+ nothing worthy \
+of death is done\
+ unto him.</p><p\
+>23:16 I will th\
+erefore chastise\
+ him, and releas\
+e him.</p><p>23:\
+17 (For of neces\
+sity he must rel\
+ease one unto th\
+em at the feast.\
+)</p><p>23:18 An\
+d they cried out\
+ all at once, sa\
+ying, Away with \
+this man, and re\
+lease unto us Ba\
+rabbas:</p><p>23\
+:19 (Who for a c\
+ertain sedition \
+made in the city\
+, and for murder\
+, was cast into \
+prison.)</p><p>2\
+3:20 Pilate ther\
+efore, willing t\
+o release yahush\
+ua, spake again \
+to them.</p><p>2\
+3:21 But they cr\
+ied, saying, Cru\
+cify him, crucif\
+y him.</p><p>23:\
+22 And he said u\
+nto them the thi\
+rd time, Why, wh\
+at evil hath he \
+done? I have fou\
+nd no cause of d\
+eath in him: I w\
+ill therefore ch\
+astise him, and \
+let him go.</p><\
+p>23:23 And they\
+ were instant wi\
+th loud voices, \
+requiring that h\
+e might be cruci\
+fied. And the vo\
+ices of them and\
+ of the chief pr\
+iests prevailed.\
+</p><p>23:24 And\
+ Pilate gave sen\
+tence that it sh\
+ould be as they \
+required.</p><p>\
+23:25 And he rel\
+eased unto them \
+him that for sed\
+ition and murder\
+ was cast into p\
+rison, whom they\
+ had desired; bu\
+t he delivered y\
+ahushua to their\
+ will.</p><p>23:\
+26 And as they l\
+ed him away, the\
+y laid hold upon\
+ one Simon, a Cy\
+renian, coming o\
+ut of the countr\
+y, and on him th\
+ey laid the cros\
+s, that he might\
+ bear it after y\
+ahushua.</p><p>2\
+3:27 And there f\
+ollowed him a gr\
+eat company of p\
+eople, and of wo\
+men, which also \
+bewailed and lam\
+ented him.</p><p\
+>23:28 But yahus\
+hua turning unto\
+ them said, Daug\
+hters of Jerusal\
+em, weep not for\
+ me, but weep fo\
+r yourselves, an\
+d for your child\
+ren.</p><p>23:29\
+ For, behold, th\
+e days are comin\
+g, in the which \
+they shall say, \
+Blessed are the \
+barren, and the \
+wombs that never\
+ bare, and the p\
+aps which never \
+gave suck.</p><p\
+>23:30 Then shal\
+l they begin to \
+say to the mount\
+ains, Fall on us\
+; and to the hil\
+ls, Cover us.</p\
+><p>23:31 For if\
+ they do these t\
+hings in a green\
+ tree, what shal\
+l be done in the\
+ dry?</p><p>23:3\
+2 And there were\
+ also two other,\
+ malefactors, le\
+d with him to be\
+ put to death.</\
+p><p>23:33 And w\
+hen they were co\
+me to the place,\
+ which is called\
+ Calvary, there \
+they crucified h\
+im, and the male\
+factors, one on \
+the right hand, \
+and the other on\
+ the left.</p><p\
+>23:34 Then said\
+ yahushua, Fathe\
+r, forgive them;\
+ for they know n\
+ot what they do.\
+ And they parted\
+ his raiment, an\
+d cast lots.</p>\
+<p>23:35 And the\
+ people stood be\
+holding. And the\
+ rulers also wit\
+h them derided h\
+im, saying, He s\
+aved others; let\
+ him save himsel\
+f, if he be Mess\
+iah, the chosen \
+of Elohim.</p><p\
+>23:36 And the s\
+oldiers also moc\
+ked him, coming \
+to him, and offe\
+ring him vinegar\
+,</p><p>23:37 An\
+d saying, If tho\
+u be the king of\
+ the Jews, save \
+thyself.</p><p>2\
+3:38 And a super\
+scription also w\
+as written over \
+him in letters o\
+f Greek, and Lat\
+in, and Hebrew, \
+THIS IS THE KING\
+ OF THE JEWS.</p\
+><p>23:39 And on\
+e of the malefac\
+tors which were \
+hanged railed on\
+ him, saying, If\
+ thou be Messiah\
+, save thyself a\
+nd us.</p><p>23:\
+40 But the other\
+ answering rebuk\
+ed him, saying, \
+Dost not thou fe\
+ar Elohim, seein\
+g thou art in th\
+e same condemnat\
+ion?</p><p>23:41\
+ And we indeed j\
+ustly; for we re\
+ceive the due re\
+ward of our deed\
+s: but this man \
+hath done nothin\
+g amiss.</p><p>2\
+3:42 And he said\
+ unto yahushua, \
+master, remember\
+ me when thou co\
+mest into thy ki\
+ngdom.</p><p>23:\
+43 And yahushua \
+said unto him, V\
+erily I say unto\
+ thee, To day sh\
+alt thou be with\
+ me in paradise.\
+</p><p>23:44 And\
+ it was about th\
+e sixth hour, an\
+d there was a da\
+rkness over all \
+the earth until \
+the ninth hour.<\
+/p><p>23:45 And \
+the sun was dark\
+ened, and the ve\
+il of the temple\
+ was rent in the\
+ midst.</p><p>23\
+:46 And when yah\
+ushua had cried \
+with a loud voic\
+e, he said, Fath\
+er, into thy han\
+ds I commend my \
+spirit: and havi\
+ng said thus, he\
+ gave up the gho\
+st.</p><p>23:47 \
+Now when the cen\
+turion saw what \
+was done, he glo\
+rified Elohim, s\
+aying, Certainly\
+ this was a righ\
+teous man.</p><p\
+>23:48 And all t\
+he people that c\
+ame together to \
+that sight, beho\
+lding the things\
+ which were done\
+, smote their br\
+easts, and retur\
+ned.</p><p>23:49\
+ And all his acq\
+uaintance, and t\
+he women that fo\
+llowed him from \
+Galilee, stood a\
+far off, beholdi\
+ng these things.\
+</p><p>23:50 And\
+, behold, there \
+was a man named \
+Joseph, a counse\
+llor; and he was\
+ a good man, and\
+ a just:</p><p>2\
+3:51 (The same h\
+ad not consented\
+ to the counsel \
+and deed of them\
+;) he was of Ari\
+mathaea, a city \
+of the Jews: who\
+ also himself wa\
+ited for the kin\
+gdom of Elohim.<\
+/p><p>23:52 This\
+ man went unto P\
+ilate, and begge\
+d the body of ya\
+hushua.</p><p>23\
+:53 And he took \
+it down, and wra\
+pped it in linen\
+, and laid it in\
+ a sepulchre tha\
+t was hewn in st\
+one, wherein nev\
+er man before wa\
+s laid.</p><p>23\
+:54 And that day\
+ was the prepara\
+tion, and the sa\
+bbath drew on.</\
+p><p>23:55 And t\
+he women also, w\
+hich came with h\
+im from Galilee,\
+ followed after,\
+ and beheld the \
+sepulchre, and h\
+ow his body was \
+laid.</p><p>23:5\
+6 And they retur\
+ned, and prepare\
+d spices and oin\
+tments; and rest\
+ed the sabbath d\
+ay according to \
+the commandment.\
+</p>\x22,       \x22ch\
+apter\x22: \x22Luke 23\
+\x22     }  ] } \
+\x00\x00\x08\xb6\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>40:1 Mo\
+reover Yahweh an\
+swered Job, and \
+said,</p><p>40:2\
+ Shall he that c\
+ontendeth with t\
+he Almighty inst\
+ruct him? he tha\
+t reproveth Eloh\
+im, let him answ\
+er it.</p><p>40:\
+3 Then Job answe\
+red Yahweh, and \
+said,</p><p>40:4\
+ Behold, I am vi\
+le; what shall I\
+ answer thee? I \
+will lay mine ha\
+nd upon my mouth\
+.</p><p>40:5 Onc\
+e have I spoken;\
+ but I will not \
+answer: yea, twi\
+ce; but I will p\
+roceed no furthe\
+r.</p><p>40:6 Th\
+en answered Yahw\
+eh unto Job out \
+of the whirlwind\
+, and said,</p><\
+p>40:7 Gird up t\
+hy loins now lik\
+e a man: I will \
+demand of thee, \
+and declare thou\
+ unto me.</p><p>\
+40:8 Wilt thou a\
+lso disannul my \
+judgment? wilt t\
+hou condemn me, \
+that thou mayest\
+ be righteous?</\
+p><p>40:9 Hast t\
+hou an arm like \
+Elohim? or canst\
+ thou thunder wi\
+th a voice like \
+him?</p><p>40:10\
+ Deck thyself no\
+w with majesty a\
+nd excellency; a\
+nd array thyself\
+ with glory and \
+beauty.</p><p>40\
+:11 Cast abroad \
+the rage of thy \
+wrath: and behol\
+d every one that\
+ is proud, and a\
+base him.</p><p>\
+40:12 Look on ev\
+ery one that is \
+proud, and bring\
+ him low; and tr\
+ead down the wic\
+ked in their pla\
+ce.</p><p>40:13 \
+Hide them in the\
+ dust together; \
+and bind their f\
+aces in secret.<\
+/p><p>40:14 Then\
+ will I also con\
+fess unto thee t\
+hat thine own ri\
+ght hand can sav\
+e thee.</p><p>40\
+:15 Behold now b\
+ehemoth, which I\
+ made with thee;\
+ he eateth grass\
+ as an ox.</p><p\
+>40:16 Lo now, h\
+is strength is i\
+n his loins, and\
+ his force is in\
+ the navel of hi\
+s belly.</p><p>4\
+0:17 He moveth h\
+is tail like a c\
+edar: the sinews\
+ of his stones a\
+re wrapped toget\
+her.</p><p>40:18\
+ His bones are a\
+s strong pieces \
+of brass; his bo\
+nes are like bar\
+s of iron.</p><p\
+>40:19 He is the\
+ chief of the wa\
+ys of Elohim: he\
+ that made him c\
+an make his swor\
+d to approach un\
+to him.</p><p>40\
+:20 Surely the m\
+ountains bring h\
+im forth food, w\
+here all the bea\
+sts of the field\
+ play.</p><p>40:\
+21 He lieth unde\
+r the shady tree\
+s, in the covert\
+ of the reed, an\
+d fens.</p><p>40\
+:22 The shady tr\
+ees cover him wi\
+th their shadow;\
+ the willows of \
+the brook compas\
+s him about.</p>\
+<p>40:23 Behold,\
+ he drinketh up \
+a river, and has\
+teth not: he tru\
+steth that he ca\
+n draw up Jordan\
+ into his mouth.\
+</p><p>40:24 He \
+taketh it with h\
+is eyes: his nos\
+e pierceth throu\
+gh snares.</p>\x22,\
+       \x22chapter\x22\
+: \x22Job 40\x22     }\
+  ] }\
+\x00\x00\x0e\x03\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>1:1 The\
+re was a man in \
+the land of Uz, \
+whose name was J\
+ob; and that man\
+ was perfect and\
+ upright, and on\
+e that feared El\
+ohim and eschewe\
+d evil.</p><p>1:\
+2 And there were\
+ born unto him s\
+even sons and th\
+ree daughters.</\
+p><p>1:3 His sub\
+stance also was \
+seven thousand s\
+heep, and three \
+thousand camels,\
+ and five hundre\
+d yoke of oxen, \
+and five hundred\
+ she asses, and \
+a very great hou\
+sehold; so that \
+this man was the\
+ greatest of all\
+ the men of the \
+east.</p><p>1:4 \
+And his sons wen\
+t and feasted in\
+ their houses, e\
+very one his day\
+; and sent and c\
+alled for their \
+three sisters to\
+ eat and to drin\
+k with them.</p>\
+<p>1:5 And it wa\
+s so, when the d\
+ays of their fea\
+sting were gone \
+about, that Job \
+sent and sanctif\
+ied them, and ro\
+se up early in t\
+he morning, and \
+offered burnt of\
+ferings accordin\
+g to the number \
+of them all: for\
+ Job said, It ma\
+y be that my son\
+s have sinned, a\
+nd cursed Elohim\
+ in their hearts\
+. Thus did Job c\
+ontinually.</p><\
+p>1:6 Now there \
+was a day when t\
+he sons of Elohi\
+m came to presen\
+t themselves bef\
+ore Yahweh,  and\
+ Satan came also\
+ among them.</p>\
+<p>1:7 And Yahwe\
+h said unto Sata\
+n, Whence comest\
+ thou? Then Sata\
+n answered Yahwe\
+h, and said, Fro\
+m going to and f\
+ro in the earth,\
+ and from walkin\
+g up and down in\
+ it.</p><p>1:8 A\
+nd Yahweh said u\
+nto Satan, Hast \
+thou considered \
+my servant Job, \
+that there is no\
+ne like him in t\
+he earth, a perf\
+ect and an uprig\
+ht man, one that\
+ feareth Elohim,\
+ and escheweth e\
+vil?</p><p>1:9 T\
+hen Satan answer\
+ed Yahweh, and s\
+aid, Doth Job fe\
+ar Elohim for no\
+ught?</p><p>1:10\
+ Hast not thou m\
+ade an hedge abo\
+ut him, and abou\
+t his house, and\
+ about all that \
+he hath on every\
+ side? thou hast\
+ blessed the wor\
+k of his hands, \
+and his substanc\
+e is increased i\
+n the land.</p><\
+p>1:11 But put f\
+orth thine hand \
+now, and touch a\
+ll that he hath,\
+ and he will cur\
+se thee to thy f\
+ace.</p><p>1:12 \
+And Yahweh said \
+unto Satan, Beho\
+ld, all that he \
+hath is in thy p\
+ower; only upon \
+himself put not \
+forth thine hand\
+. So Satan went \
+forth from the p\
+resence of Yahwe\
+h.</p><p>1:13 An\
+d there was a da\
+y when his sons \
+and his daughter\
+s were eating an\
+d drinking wine \
+in their eldest \
+brother's house:\
+</p><p>1:14 And \
+there came a mes\
+senger unto Job,\
+ and said, The o\
+xen were plowing\
+, and the asses \
+feeding beside t\
+hem:</p><p>1:15 \
+And the Sabeans \
+fell upon them, \
+and took them aw\
+ay; yea, they ha\
+ve slain the ser\
+vants with the e\
+dge of the sword\
+; and I only am \
+escaped alone to\
+ tell thee.</p><\
+p>1:16 While he \
+was yet speaking\
+, there came als\
+o another, and s\
+aid, The fire of\
+ Elohim is falle\
+n from heaven, a\
+nd hath burned u\
+p the sheep, and\
+ the servants, a\
+nd consumed them\
+; and I only am \
+escaped alone to\
+ tell thee.</p><\
+p>1:17 While he \
+was yet speaking\
+, there came als\
+o another, and s\
+aid, The Chaldea\
+ns made out thre\
+e bands, and fel\
+l upon the camel\
+s, and have carr\
+ied them away, y\
+ea, and slain th\
+e servants with \
+the edge of the \
+sword; and I onl\
+y am escaped alo\
+ne to tell thee.\
+</p><p>1:18 Whil\
+e he was yet spe\
+aking, there cam\
+e also another, \
+and said, Thy so\
+ns and thy daugh\
+ters were eating\
+ and drinking wi\
+ne in their elde\
+st brother's hou\
+se:</p><p>1:19 A\
+nd, behold, ther\
+e came a great w\
+ind from the wil\
+derness, and smo\
+te the four corn\
+ers of the house\
+, and it fell up\
+on the young men\
+, and they are d\
+ead; and I only \
+am escaped alone\
+ to tell thee.</\
+p><p>1:20 Then J\
+ob arose, and re\
+nt his mantle, a\
+nd shaved his he\
+ad, and fell dow\
+n upon the groun\
+d, and worshippe\
+d,</p><p>1:21 An\
+d said, Naked ca\
+me I out of my m\
+other's womb, an\
+d naked shall I \
+return thither: \
+Yahweh gave, and\
+ Yahweh hath tak\
+en away; blessed\
+ be the name of \
+Yahweh.</p>\x22,   \
+    \x22chapter\x22: \x22\
+Job 1\x22     }  ] \
+} \
+\x00\x00\x07X\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>42:1 Th\
+en Job answered \
+Yahweh, and said\
+,</p><p>42:2 I k\
+now that thou ca\
+nst do every thi\
+ng, and that no \
+thought can be w\
+ithholden from t\
+hee.</p><p>42:3 \
+Who is he that h\
+ideth counsel wi\
+thout knowledge?\
+ therefore have \
+I uttered that I\
+ understood not;\
+ things too wond\
+erful for me, wh\
+ich I knew not.<\
+/p><p>42:4 Hear,\
+ I beseech thee,\
+ and I will spea\
+k: I will demand\
+ of thee, and de\
+clare thou unto \
+me.</p><p>42:5 I\
+ have heard of t\
+hee by the heari\
+ng of the ear: b\
+ut now mine eye \
+seeth thee.</p><\
+p>42:6 Wherefore\
+ I abhor myself,\
+ and repent in d\
+ust and ashes.</\
+p><p>42:7 And it\
+ was so, that af\
+ter Yahweh had s\
+poken these word\
+s unto Job,  Yah\
+weh  said to Eli\
+phaz the Temanit\
+e, My wrath is k\
+indled against t\
+hee, and against\
+ thy two friends\
+: for </p><p> 42\
+:8 Therefore tak\
+e unto you now s\
+even bullocks an\
+d seven rams, an\
+d go to my serva\
+nt Job, and offe\
+r up for yoursel\
+ves a burnt offe\
+ring; and my ser\
+vant Job shall p\
+ray for you: for\
+ him will I acce\
+pt: lest I deal \
+with you after y\
+our folly, in th\
+at </p><p> 42:9 \
+So Eliphaz the T\
+emanite and Bild\
+ad the Shuhite a\
+nd Zophar the Na\
+amathite went, a\
+</p><p> 42:10 An\
+d Yahweh turned \
+the captivity of\
+ Job, when he pr\
+ayed </p><p> 42:\
+11 Then came the\
+re unto him all \
+his brethren, an\
+d all his sister\
+s, and all they \
+that had been of\
+ his acquaintanc\
+e before, and di\
+d eat bread with\
+ him in his hous\
+e: and they bemo\
+aned him, and co\
+mforted him over\
+ all the evil th\
+at Yahweh had br\
+ought upon him: \
+every </p><p> 42\
+:12 So Yahweh bl\
+essed the latter\
+ end of Job more\
+ than his beginn\
+ing: for he had \
+fourteen thousan\
+d sheep, and six\
+ thou</p><p></p>\
+<p> 42:14 And he\
+ called the name\
+ of the first, J\
+emima; and </p><\
+p> 42:15 And in \
+all the land wer\
+e no women found\
+ so fair as the \
+daughte</p><p> 4\
+2:16 After this \
+lived Job an hun\
+dred and </p><p>\
+ 42:17 So Job di\
+ed, being old an\
+d full of days.\x22\
+,       \x22chapter\
+\x22: \x22Job 42\x22     \
+}  ] } \
+\x00\x00\x0f\xbf\
+ \
+{   \x22read\x22:   [ \
+    {        \x22te\
+xt\x22: \x22<p>38:1 Th\
+en Yahweh answer\
+ed Job out of th\
+e whirlwind, and\
+ said,</p><p>38:\
+2 Who is this th\
+at darkeneth cou\
+nsel by words wi\
+thout knowledge?\
+</p><p>38:3 Gird\
+ up now thy loin\
+s like a man; fo\
+r I will demand \
+of thee, and ans\
+wer thou me.</p>\
+<p>38:4 Where wa\
+st thou when I l\
+aid the foundati\
+ons of the earth\
+? declare, if th\
+ou hast understa\
+nding.</p><p>38:\
+5 Who hath laid \
+the measures the\
+reof, if thou kn\
+owest? or who ha\
+th stretched the\
+ line upon it?</\
+p><p>38:6 Whereu\
+pon are the foun\
+dations thereof \
+fastened? or who\
+ laid the corner\
+ stone thereof;<\
+/p><p>38:7 When \
+the morning star\
+s sang together,\
+ and all the son\
+s of Elohim shou\
+ted for joy?</p>\
+<p>38:8 Or who s\
+hut up the sea w\
+ith doors, when \
+it brake forth, \
+as if it had iss\
+ued out of the w\
+omb?</p><p>38:9 \
+When I made the \
+cloud the garmen\
+t thereof, and t\
+hick darkness a \
+swaddlingband fo\
+r it,</p><p>38:1\
+0 And brake up f\
+or it my decreed\
+ place, and set \
+bars and doors,<\
+/p><p>38:11 And \
+said, Hitherto s\
+halt thou come, \
+but no further: \
+and here shall t\
+hy proud waves b\
+e stayed?</p><p>\
+38:12 Hast thou \
+commanded the mo\
+rning since thy \
+days; and caused\
+ the dayspring t\
+o know his place\
+;</p><p>38:13 Th\
+at it might take\
+ hold of the end\
+s of the earth, \
+that the wicked \
+might be shaken \
+out of it?</p><p\
+>38:14 It is tur\
+ned as clay to t\
+he seal; and the\
+y stand as a gar\
+ment.</p><p>38:1\
+5 And from the w\
+icked their ligh\
+t is withholden,\
+ and the high ar\
+m shall be broke\
+n.</p><p>38:16 H\
+ast thou entered\
+ into the spring\
+s of the sea? or\
+ hast thou walke\
+d in the search \
+of the depth?</p\
+><p>38:17 Have t\
+he gates of deat\
+h been opened un\
+to thee? or hast\
+ thou seen the d\
+oors of the shad\
+ow of death?</p>\
+<p>38:18 Hast th\
+ou perceived the\
+ breadth of the \
+earth? declare i\
+f thou knowest i\
+t all.</p><p>38:\
+19 Where is the \
+way where light \
+dwelleth? and as\
+ for darkness, w\
+here is the plac\
+e thereof,</p><p\
+>38:20 That thou\
+ shouldest take \
+it to the bound \
+thereof, and tha\
+t thou shouldest\
+ know the paths \
+to the house the\
+reof?</p><p>38:2\
+1 Knowest thou i\
+t, because thou \
+wast then born? \
+or because the n\
+umber of thy day\
+s is great?</p><\
+p>38:22 Hast tho\
+u entered into t\
+he treasures of \
+the snow? or has\
+t thou seen the \
+treasures of the\
+ hail,</p><p>38:\
+23 Which I have \
+reserved against\
+ the time of tro\
+uble, against th\
+e day of battle \
+and war?</p><p>3\
+8:24 By what way\
+ is the light pa\
+rted, which scat\
+tereth the east \
+wind upon the ea\
+rth?</p><p>38:25\
+ Who hath divide\
+d a watercourse \
+for the overflow\
+ing of waters, o\
+r a way for the \
+lightning of thu\
+nder;</p><p>38:2\
+6 To cause it to\
+ rain on the ear\
+th, where no man\
+ is; on the wild\
+erness, wherein \
+there is no man;\
+</p><p>38:27 To \
+satisfy the deso\
+late and waste g\
+round; and to ca\
+use the bud of t\
+he tender herb t\
+o spring forth?<\
+/p><p>38:28 Hath\
+ the rain a fath\
+er? or who hath \
+begotten the dro\
+ps of dew?</p><p\
+>38:29 Out of wh\
+ose womb came th\
+e ice? and the h\
+oary frost of he\
+aven, who hath g\
+endered it?</p><\
+p>38:30 The wate\
+rs are hid as wi\
+th a stone, and \
+the face of the \
+deep is frozen.<\
+/p><p>38:31 Cans\
+t thou bind the \
+sweet influences\
+ of Pleiades, or\
+ loose the bands\
+ of Orion?</p><p\
+>38:32 Canst tho\
+u bring forth Ma\
+zzaroth in his s\
+eason? or canst \
+thou guide Arctu\
+rus with his son\
+s?</p><p>38:33 K\
+nowest thou the \
+ordinances of he\
+aven? canst thou\
+ set the dominio\
+n thereof in the\
+ earth?</p><p>38\
+:34 Canst thou l\
+ift up thy voice\
+ to the clouds, \
+that abundance o\
+f waters may cov\
+er thee?</p><p>3\
+8:35 Canst thou \
+send lightnings,\
+ that they may g\
+o and say unto t\
+hee, Here we are\
+?</p><p>38:36 Wh\
+o hath put wisdo\
+m in the inward \
+parts? or who ha\
+th given underst\
+anding to the he\
+art?</p><p>38:37\
+ Who can number \
+the clouds in wi\
+sdom? or who can\
+ stay the bottle\
+s of heaven,</p>\
+<p>38:38 When th\
+e dust groweth i\
+nto hardness, an\
+d the clods clea\
+ve fast together\
+?</p><p>38:39 Wi\
+lt thou hunt the\
+ prey for the li\
+on? or fill the \
+appetite of the \
+young lions,</p>\
+<p>38:40 When th\
+ey couch in thei\
+r dens, and abid\
+e in the covert \
+to lie in wait?<\
+/p><p>38:41 Who \
+provideth for th\
+e raven his food\
+? when his young\
+ ones cry unto E\
+lohim, they wand\
+er for lack of m\
+eat.</p>\x22,      \
+ \x22chapter\x22: \x22Job\
+ 38\x22     } ] }\
+\x00\x00\x0e\xbc\
+\xef\
+\xbb\xbf {   \x22read\x22:  \
+ [     {        \
+\x22text\x22: \x22<p>5:1 \
+Hear ye this wor\
+d which I take u\
+p against you, e\
+ven a lamentatio\
+n, O house of Is\
+rael.</p><p>5:2 \
+The virgin of Is\
+rael is fallen; \
+she shall no mor\
+e rise: she is f\
+orsaken upon her\
+ land; there is \
+none to raise he\
+r up.</p><p>5:3 \
+For thus saith Y\
+ahweh Elohim; Th\
+e city that went\
+ out by a thousa\
+nd shall leave a\
+n hundred, and t\
+hat which went f\
+orth by an hundr\
+ed shall leave t\
+en, to the house\
+ of Israel.</p><\
+p>5:4 For thus s\
+aith Yahweh unto\
+ the house of Is\
+rael, Seek ye me\
+, and ye shall l\
+ive:</p><p>5:5 B\
+ut seek not Beth\
+el, nor enter in\
+to Gilgal, and p\
+ass not to Beers\
+heba: for Gilgal\
+ shall surely go\
+ into captivity,\
+ and Bethel shal\
+l come to nought\
+.</p><p>5:6 Seek\
+ Yahweh, and ye \
+shall live; lest\
+ he break out li\
+ke fire in the h\
+ouse of Joseph, \
+and devour it, a\
+nd there be none\
+ to quench it in\
+ Bethel.</p><p>5\
+:7 Ye who turn j\
+udgment to wormw\
+ood, and leave o\
+ff righteousness\
+ in the earth,</\
+p><p>5:8 Seek hi\
+m that maketh th\
+e seven stars an\
+d Orion, and tur\
+neth the shadow \
+of death into th\
+e morning, and m\
+aketh the day da\
+rk with night: t\
+hat calleth for \
+the waters of th\
+e sea, and poure\
+th them out upon\
+ the face of the\
+ earth: Yahweh i\
+s his name:</p><\
+p>5:9 That stren\
+gtheneth the spo\
+iled against the\
+ strong, so that\
+ the spoiled sha\
+ll come against \
+the fortress.</p\
+><p>5:10 They ha\
+te him that rebu\
+keth in the gate\
+, and they abhor\
+ him that speake\
+th uprightly.</p\
+><p>5:11 Forasmu\
+ch therefore as \
+your treading is\
+ upon the poor, \
+and ye take from\
+ him burdens of \
+wheat: ye have b\
+uilt houses of h\
+ewn stone, but y\
+e shall not dwel\
+l in them; ye ha\
+ve planted pleas\
+ant vineyards, b\
+ut ye shall not \
+drink wine of th\
+em.</p><p>5:12 F\
+or I know your m\
+anifold transgre\
+ssions and your \
+mighty sins: the\
+y afflict the ju\
+st, they take a \
+bribe, and they \
+turn aside the p\
+oor in the gate \
+from their right\
+.</p><p>5:13 The\
+refore the prude\
+nt shall keep si\
+lence in that ti\
+me; for it is an\
+ evil time.</p><\
+p>5:14 Seek good\
+, and not evil, \
+that ye may live\
+: and so Yahweh,\
+ the Elohim of h\
+osts, shall be w\
+ith you, as ye h\
+ave spoken.</p><\
+p>5:15 Hate the \
+evil, and love t\
+he good, and est\
+ablish judgment \
+in the gate: it \
+may be that Yahw\
+eh Elohim of hos\
+ts will be graci\
+ous unto the rem\
+nant of Joseph.<\
+/p><p>5:16 There\
+fore Yahweh, the\
+ Elohim of hosts\
+, Yahweh, saith \
+thus; Wailing sh\
+all be in all st\
+reets; and they \
+shall say in all\
+ the highways, A\
+las! alas! and t\
+hey shall call t\
+he husbandman to\
+ mourning, and s\
+uch as are skilf\
+ul of lamentatio\
+n to wailing.</p\
+><p>5:17 And in \
+all vineyards sh\
+all be wailing: \
+for I will pass \
+through thee, sa\
+ith Yahweh.</p><\
+p>5:18 Woe unto \
+you that desire \
+the day of Yahwe\
+h! to what end i\
+s it for you? th\
+e day of Yahweh \
+is darkness, and\
+ not light.</p><\
+p>5:19 As if a m\
+an did flee from\
+ a lion, and a b\
+ear met him; or \
+went into the ho\
+use, and leaned \
+his hand on the \
+wall, and a serp\
+ent bit him.</p>\
+<p>5:20 Shall no\
+t the day of Yah\
+weh be darkness,\
+ and not light? \
+even very dark, \
+and no brightnes\
+s in it?</p><p>5\
+:21 I hate, I de\
+spise your feast\
+ days, and I wil\
+l not smell in y\
+our solemn assem\
+blies.</p><p>5:2\
+2 Though ye offe\
+r me burnt offer\
+ings and your me\
+at offerings, I \
+will not accept \
+them: neither wi\
+ll I regard the \
+peace offerings \
+of your fat beas\
+ts.</p><p>5:23 T\
+ake thou away fr\
+om me the noise \
+of thy songs; fo\
+r I will not hea\
+r the melody of \
+thy viols.</p><p\
+>5:24 But let ju\
+dgment run down \
+as waters, and r\
+ighteousness as \
+a mighty stream.\
+</p><p>5:25 Have\
+ ye offered unto\
+ me sacrifices a\
+nd offerings in \
+the wilderness f\
+orty years, O ho\
+use of Israel?</\
+p><p>5:26 But ye\
+ have borne the \
+tabernacle of yo\
+ur Moloch and Ch\
+iun your images,\
+ the star of you\
+r god, which ye \
+made to yourselv\
+es.</p><p>5:27 T\
+herefore will I \
+cause you to go \
+into captivity b\
+eyond Damascus, \
+saith Yahweh, wh\
+ose name is The \
+Elohim of hosts.\
+</p>\x22,       \x22ch\
+apter\x22: \x22Amos 5\x22\
+     }  ] }\
 \x00\x00\x01n\
 <\
 svg xmlns=\x22http:\
@@ -2675,6 +17825,10 @@ qt_resource_name = b"\
 \x0aaW'\
 \x00i\
 \x00c\x00o\x00n\x00.\x00s\x00v\x00g\
+\x00\x08\
+\x0e\x87\xa1\xb3\
+\x00c\
+\x00h\x00a\x00p\x00t\x00e\x00r\x00s\
 \x00\x06\
 \x07\xcc\x99\xc3\
 \x00v\
@@ -2688,6 +17842,250 @@ qt_resource_name = b"\
 \x00b\
 \x00i\x00b\x00l\x00e\x00_\x00v\x00e\x00r\x00s\x00e\x00s\x00.\x00j\x00s\x00o\x00n\
 \
+\x00\x02\
+\x00\x00\x04}\
+\x00A\
+\x00m\
+\x00\x02\
+\x00\x00\x05\x02\
+\x00J\
+\x00b\
+\x00\x02\
+\x00\x00\x05+\
+\x00L\
+\x00k\
+\x00\x05\
+\x006\xae\xc3\
+\x001\
+\x00T\x00h\x00e\x00s\
+\x00\x02\
+\x00\x00\x04\xde\
+\x00G\
+\x00n\
+\x00\x04\
+\x00\x05n\xfc\
+\x00P\
+\x00h\x00i\x00l\
+\x00\x04\
+\x00\x04\xb9\x9c\
+\x00E\
+\x00c\x00c\x00l\
+\x00\x02\
+\x00\x00\x05\x96\
+\x00R\
+\x00v\
+\x00\x02\
+\x00\x00\x05D\
+\x00M\
+\x00t\
+\x00\x04\
+\x00\x03jb\
+\x002\
+\x00C\x00o\x00r\
+\x00\x02\
+\x00\x00\x05\x0e\
+\x00J\
+\x00n\
+\x00\x02\
+\x00\x00\x05\x03\
+\x00I\
+\x00s\
+\x00\x03\
+\x00\x00M|\
+\x00G\
+\x00a\x00l\
+\x00\x02\
+\x00\x00\x04\xb4\
+\x00D\
+\x00t\
+\x00\x03\
+\x00\x006\xad\
+\x001\
+\x00T\x00m\
+\x00\x02\
+\x00\x00\x04\xc8\
+\x00E\
+\x00x\
+\x00\x03\
+\x00\x00N\xb2\
+\x00H\
+\x00e\x00b\
+\x00\x02\
+\x00\x00\x05s\
+\x00P\
+\x00s\
+\x00\x03\
+\x00\x00P\xc2\
+\x00J\
+\x00e\x00r\
+\x00\x03\
+\x00\x00P\x83\
+\x00J\
+\x00a\x00s\
+\x00\x04\
+\x00\x03a\xe3\
+\x001\
+\x00K\x00g\x00s\
+\x00\x03\
+\x00\x00Y]\
+\x00R\
+\x00o\x00m\
+\x00\x03\
+\x00\x00W\x96\
+\x00P\
+\x00r\x00v\
+\x00\x02\
+\x00\x00\x04\xe2\
+\x00H\
+\x00b\
+\x00\x02\
+\x00\x00\x05M\
+\x00N\
+\x00m\
+\x00\x04\
+\x00\x03Y\xf2\
+\x001\
+\x00C\x00h\x00r\
+\x00\x06\
+\x03\xa5\x1a^\
+\x007\
+\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x04e\x1a>\
+\x001\
+\x003\x00.\x00j\x00s\x00o\x00n\
+\x00\x06\
+\x03\x95\x1a^\
+\x006\
+\x00.\x00j\x00s\x00o\x00n\
+\x00\x06\
+\x03e\x1a^\
+\x003\
+\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x04\xb5\x1a>\
+\x001\
+\x008\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x04\x85\x1a>\
+\x001\
+\x005\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x04u\x1a>\
+\x001\
+\x004\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x04\xa5\x1a>\
+\x001\
+\x007\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x04E\x1a>\
+\x001\
+\x001\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x06E\x1a>\
+\x003\
+\x001\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x05u\x1a>\
+\x002\
+\x004\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x05e\x1a>\
+\x002\
+\x003\x00.\x00j\x00s\x00o\x00n\
+\x00\x06\
+\x03\xb5\x1a^\
+\x008\
+\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x04U\x1a>\
+\x001\
+\x002\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x04\xc5\x1a>\
+\x001\
+\x009\x00.\x00j\x00s\x00o\x00n\
+\x00\x06\
+\x03E\x1a^\
+\x001\
+\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x06U\x1a>\
+\x003\
+\x002\x00.\x00j\x00s\x00o\x00n\
+\x00\x06\
+\x03U\x1a^\
+\x002\
+\x00.\x00j\x00s\x00o\x00n\
+\x00\x08\
+\x07u \xde\
+\x001\
+\x004\x004\x00.\x00j\x00s\x00o\x00n\
+\x00\x08\
+\x03e \xde\
+\x001\
+\x000\x003\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x08\x95\x1a>\
+\x005\
+\x006\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x06u\x1a>\
+\x003\
+\x004\x00.\x00j\x00s\x00o\x00n\
+\x00\x08\
+\x03E \xde\
+\x001\
+\x000\x001\x00.\x00j\x00s\x00o\x00n\
+\x00\x08\
+\x04\xc5 \xde\
+\x001\
+\x001\x009\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x055\x1a>\
+\x002\
+\x000\x00.\x00j\x00s\x00o\x00n\
+\x00\x06\
+\x03\x85\x1a^\
+\x005\
+\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x08\xb5\x1a>\
+\x005\
+\x008\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x07e\x1a>\
+\x004\
+\x003\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x075\x1a>\
+\x004\
+\x000\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x08\x85\x1a>\
+\x005\
+\x005\x00.\x00j\x00s\x00o\x00n\
+\x00\x06\
+\x03u\x1a^\
+\x004\
+\x00.\x00j\x00s\x00o\x00n\
+\x00\x06\
+\x03\xc5\x1a^\
+\x009\
+\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x045\x1a>\
+\x001\
+\x000\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x07U\x1a>\
+\x004\
+\x002\x00.\x00j\x00s\x00o\x00n\
+\x00\x07\
+\x06\xb5\x1a>\
+\x003\
+\x008\x00.\x00j\x00s\x00o\x00n\
 \x00\x08\
 \x04*U\xa7\
 \x00x\
@@ -2730,35 +18128,225 @@ qt_resource_name = b"\
 "
 
 qt_resource_struct = b"\
-\x00\x00\x00\x00\x00\x02\x00\x00\x00\x04\x00\x00\x00\x01\
+\x00\x00\x00\x00\x00\x02\x00\x00\x00\x05\x00\x00\x00\x01\
 \x00\x00\x00\x00\x00\x00\x00\x00\
-\x00\x00\x00\x00\x00\x02\x00\x00\x00\x09\x00\x00\x00\x06\
+\x00\x00\x00\x00\x00\x02\x00\x00\x00\x09\x00\x00\x00e\
 \x00\x00\x00\x00\x00\x00\x00\x00\
-\x00\x00\x00&\x00\x02\x00\x00\x00\x01\x00\x00\x00\x05\
+\x00\x00\x00<\x00\x02\x00\x00\x00\x01\x00\x00\x00d\
 \x00\x00\x00\x00\x00\x00\x00\x00\
-\x00\x00\x008\x00\x00\x00\x00\x00\x01\x00\x00\x13@\
+\x00\x00\x00N\x00\x00\x00\x00\x00\x01\x00\x00\x13@\
 \x00\x00\x01~V\xcf\x09`\
 \x00\x00\x00\x10\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\
-\x00\x00\x01~\x98\xbd\xeb\xc9\
-\x00\x00\x00^\x00\x01\x00\x00\x00\x01\x00\x00s0\
-\x00\x00\x01~\x98i\xf7P\
-\x00\x00\x00\x86\x00\x00\x00\x00\x00\x01\x00\x00\x95p\
+\x00\x00\x01~\x98\xbd\xf1`\
+\x00\x00\x00&\x00\x02\x00\x00\x00\x1a\x00\x00\x00\x06\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\x9c\x00\x02\x00\x00\x00\x01\x00\x00\x00c\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x012\x00\x02\x00\x00\x00\x01\x00\x00\x00b\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01H\x00\x02\x00\x00\x00\x02\x00\x00\x00`\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\xca\x00\x02\x00\x00\x00\x04\x00\x00\x00\x5c\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01\xa6\x00\x02\x00\x00\x00\x01\x00\x00\x00[\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\xa6\x00\x02\x00\x00\x00\x04\x00\x00\x00W\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01\x1c\x00\x02\x00\x00\x00\x04\x00\x00\x00S\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01\x12\x00\x02\x00\x00\x00\x01\x00\x00\x00R\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\xb0\x00\x02\x00\x00\x00\x03\x00\x00\x00O\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\xfa\x00\x02\x00\x00\x00\x03\x00\x00\x00L\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01\xb0\x00\x02\x00\x00\x00\x01\x00\x00\x00K\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01^\x00\x02\x00\x00\x00\x0a\x00\x00\x00A\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\xf0\x00\x02\x00\x00\x00\x01\x00\x00\x00@\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01<\x00\x02\x00\x00\x00\x01\x00\x00\x00?\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01&\x00\x02\x00\x00\x00\x03\x00\x00\x00<\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01R\x00\x02\x00\x00\x00\x01\x00\x00\x00;\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01t\x00\x02\x00\x00\x00\x01\x00\x00\x00:\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01h\x00\x02\x00\x00\x00\x01\x00\x00\x009\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01\x9a\x00\x02\x00\x00\x00\x0a\x00\x00\x00/\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01\x8e\x00\x02\x00\x00\x00\x04\x00\x00\x00+\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01\xba\x00\x02\x00\x00\x00\x02\x00\x00\x00)\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01\x80\x00\x02\x00\x00\x00\x03\x00\x00\x00&\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x01\x04\x00\x02\x00\x00\x00\x01\x00\x00\x00%\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\xe2\x00\x02\x00\x00\x00\x03\x00\x00\x00\x22\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\xd4\x00\x02\x00\x00\x00\x01\x00\x00\x00!\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\xba\x00\x02\x00\x00\x00\x01\x00\x00\x00 \
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x03\xb8\x00\x00\x00\x00\x00\x01\x00\x03\xae\xd4\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x04\x1a\x00\x00\x00\x00\x00\x01\x00\x03u\x98\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x04,\x00\x00\x00\x00\x00\x01\x00\x03W\x83\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x04>\x00\x00\x00\x00\x00\x01\x00\x03c\x7f\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x02\xc4\x00\x00\x00\x00\x00\x01\x00\x03l\xf1\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x04\x1a\x00\x00\x00\x00\x00\x01\x00\x03\x06y\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x02\x00\x00\x00\x00\x00\x00\x01\x00\x01\x95$\
+\x00\x00\x01~\x9a\xb9kp\
+\x00\x00\x02\x12\x00\x00\x00\x00\x00\x01\x00\x01w\x1f\
+\x00\x00\x01~\x9a\xb9kp\
+\x00\x00\x02\xd8\x00\x00\x00\x00\x00\x01\x00\x01\xa7\xa0\
+\x00\x00\x01~\x9a\xb9kp\
+\x00\x00\x01\xc8\x00\x00\x00\x00\x00\x01\x00\x00\x95x\
+\x00\x00\x01~\x9a\xb9kp\
+\x00\x00\x01\xda\x00\x00\x00\x00\x00\x01\x00\x00\xa6\x19\
+\x00\x00\x01~\x9a\xb9kp\
+\x00\x00\x01\xee\x00\x00\x00\x00\x00\x01\x00\x01a\x90\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x02\xb2\x00\x00\x00\x00\x00\x01\x00\x01L\xe6\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x02\xc4\x00\x00\x00\x00\x00\x01\x00\x01m\x19\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x01\xda\x00\x00\x00\x00\x00\x01\x00\x01DQ\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x02\x00\x00\x00\x00\x00\x00\x01\x00\x00\xe9\xf4\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x02b\x00\x00\x00\x00\x00\x01\x00\x01\x10D\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x01\xda\x00\x00\x00\x00\x00\x01\x00\x00\xd2a\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x02:\x00\x00\x00\x00\x00\x01\x00\x00\xf6\xcb\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x02&\x00\x00\x00\x00\x00\x01\x00\x00\xdc\x9f\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x02N\x00\x00\x00\x00\x00\x01\x00\x01\x04\x9f\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x02\x12\x00\x00\x00\x00\x00\x01\x00\x00\xc8\xe7\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x02\x9e\x00\x00\x00\x00\x00\x01\x00\x016\xe4\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x02\x8a\x00\x00\x00\x00\x00\x01\x00\x01)\x04\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x02v\x00\x00\x00\x00\x00\x01\x00\x01\x1d\x88\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x02N\x00\x00\x00\x00\x00\x01\x00\x01\xc4\x1b\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x02\xec\x00\x00\x00\x00\x00\x01\x00\x01\xb7P\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x02b\x00\x00\x00\x00\x00\x01\x00\x02Gq\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x03\x12\x00\x00\x00\x00\x00\x01\x00\x02\xa1|\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x03\xb8\x00\x00\x00\x00\x00\x01\x00\x02\xae\xb5\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x01\xee\x00\x00\x00\x00\x00\x01\x00\x02\xb9\xde\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x01\xee\x00\x00\x00\x00\x00\x01\x00\x02\x7ff\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x02:\x00\x00\x00\x00\x00\x01\x00\x03H\xf1\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x03x\x00\x00\x00\x00\x00\x01\x00\x02\x03\xfe\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x03\x12\x00\x00\x00\x00\x00\x01\x00\x01\xdc/\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x03:\x00\x00\x00\x00\x00\x01\x00\x01\xed\xff\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x02\xd8\x00\x00\x00\x00\x00\x01\x00\x01\xe1,\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x03\x8e\x00\x00\x00\x00\x00\x01\x00\x02\x0a\xf0\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x02\x9e\x00\x00\x00\x00\x00\x01\x00\x02\x08\x08\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x02\xfe\x00\x00\x00\x00\x00\x01\x00\x01\xd6w\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x03d\x00\x00\x00\x00\x00\x01\x00\x01\xfb\xde\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x03$\x00\x00\x00\x00\x00\x01\x00\x01\xe6\x9b\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x03P\x00\x00\x00\x00\x00\x01\x00\x01\xf6\x85\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x01\xee\x00\x00\x00\x00\x00\x01\x00\x00\xac\xb7\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x03\xb8\x00\x00\x00\x00\x00\x01\x00\x03\x1ec\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x01\xee\x00\x00\x00\x00\x00\x01\x00\x036\xc5\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x01\xc8\x00\x00\x00\x00\x00\x01\x00\x03\x10D\
+\x00\x00\x01~\x9a\xb9\x82\xe0\
+\x00\x00\x01\xee\x00\x00\x00\x00\x00\x01\x00\x03\xcc\xb0\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x01\xda\x00\x00\x00\x00\x00\x01\x00\x03\xb9\x15\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x02\x9e\x00\x00\x00\x00\x00\x01\x00\x03\xe7\xad\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x02&\x00\x00\x00\x00\x00\x01\x00\x02\xf9\x14\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x03\xf2\x00\x00\x00\x00\x00\x01\x00\x02\xdd\xe4\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x03\xde\x00\x00\x00\x00\x00\x01\x00\x02\xcd\xdf\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x04\x06\x00\x00\x00\x00\x00\x01\x00\x02\xf01\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x03\xca\x00\x00\x00\x00\x00\x01\x00\x02\xc2Z\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x02\xec\x00\x00\x00\x00\x00\x01\x00\x04\x0a\xd9\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x04f\x00\x00\x00\x00\x00\x01\x00\x04 <\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x03\xf2\x00\x00\x00\x00\x00\x01\x00\x04\x02\x1f\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x04R\x00\x00\x00\x00\x00\x01\x00\x04\x18\xe0\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x02\x00\x00\x00\x00\x00\x00\x01\x00\x00\xbdk\
+\x00\x00\x01~\x9a\xb9{\x10\
+\x00\x00\x02\xec\x00\x01\x00\x00\x00\x01\x00\x03\x81\x1c\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x03\x12\x00\x00\x00\x00\x00\x01\x00\x03\xa1\x1c\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x04\x1a\x00\x00\x00\x00\x00\x01\x00\x03\x86<\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x02\xb2\x00\x00\x00\x00\x00\x01\x00\x03\x94!\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x02:\x00\x00\x00\x00\x00\x01\x00\x02j\xa7\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x03\xa4\x00\x00\x00\x00\x00\x01\x00\x02]\xbd\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x02v\x00\x00\x00\x00\x00\x01\x00\x02\x8bG\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x03\xb8\x00\x00\x00\x00\x00\x01\x00\x04/\xff\
+\x00\x00\x01~\x9a\xb9s@\
+\x00\x00\x00t\x00\x01\x00\x00\x00\x01\x00\x00s0\
+\x00\x00\x01~\x9a\xb9\x8a\xb0\
+\x00\x00\x04z\x00\x00\x00\x00\x00\x01\x00\x04>\xbf\
 \x00\x00\x01~V\xcf\x09`\
-\x00\x00\x01\x0e\x00\x00\x00\x00\x00\x01\x00\x00\x9a\xf2\
+\x00\x00\x05\x02\x00\x00\x00\x00\x00\x01\x00\x04DA\
 \x00\x00\x01~V\xcf\x09`\
-\x00\x00\x00\xf2\x00\x00\x00\x00\x00\x01\x00\x00\x9a\x0c\
+\x00\x00\x04\xe6\x00\x00\x00\x00\x00\x01\x00\x04C[\
 \x00\x00\x01~V\xcf\x09`\
-\x00\x00\x00\x9c\x00\x00\x00\x00\x00\x01\x00\x00\x96\xe2\
-\x00\x00\x01yW\x1f\xcf\x08\
-\x00\x00\x01\xaa\x00\x00\x00\x00\x00\x01\x00\x00\xa1\xbd\
+\x00\x00\x04\x90\x00\x00\x00\x00\x00\x01\x00\x04@1\
+\x00\x00\x01yW\x1f\xd2\xf0\
+\x00\x00\x05\x9e\x00\x00\x00\x00\x00\x01\x00\x04K\x0c\
 \x00\x00\x01~V\xcf\x09`\
-\x00\x00\x01T\x00\x00\x00\x00\x00\x01\x00\x00\x9e\x9f\
+\x00\x00\x05H\x00\x00\x00\x00\x00\x01\x00\x04G\xee\
 \x00\x00\x01~V\xcf\x09`\
-\x00\x00\x012\x00\x00\x00\x00\x00\x01\x00\x00\x9c\xd0\
-\x00\x00\x01yW\x1f\xcf\x08\
-\x00\x00\x01x\x00\x00\x00\x00\x00\x01\x00\x00\x9f\xfb\
-\x00\x00\x01yW\x1f\xcf\x08\
-\x00\x00\x00\xcc\x00\x00\x00\x00\x00\x01\x00\x00\x98\xa3\
+\x00\x00\x05&\x00\x00\x00\x00\x00\x01\x00\x04F\x1f\
+\x00\x00\x01yW\x1f\xd2\xf0\
+\x00\x00\x05l\x00\x00\x00\x00\x00\x01\x00\x04IJ\
+\x00\x00\x01yW\x1f\xd2\xf0\
+\x00\x00\x04\xc0\x00\x00\x00\x00\x00\x01\x00\x04A\xf2\
 \x00\x00\x01~V\xcf\x09`\
 "
 
