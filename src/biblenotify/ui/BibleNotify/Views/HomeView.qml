@@ -8,7 +8,6 @@ import BibleNotify.UiComponents
 Item {
     id: root
 
-    property var stackView
     property var setTimeView
 
     signal sendNotification
@@ -26,7 +25,7 @@ Item {
             id: toggleNotificationsButton
             Layout.alignment: Qt.AlignHCenter
             isAccented: true
-            text: qsTr("Start Sending Notifications")
+            text: toggleNotificationsButton.toggled ? qsTr("Stop Sending Notifications") : qsTr("Start Sending Notifications")
             icon: toggleNotificationsButton.toggled ? "play-circle" : "pause-circle"
             onClicked: Notifications.setNotificationsEnabled(toggled)
         }
@@ -52,6 +51,7 @@ Item {
             if (Notifications.isNotificationTime() === true) {
                 if (Notifications.getNotificationsEnabled() === true) {
                     root.sendNotification()
+                    notificationTimer.running = false
                 }
             }
         }

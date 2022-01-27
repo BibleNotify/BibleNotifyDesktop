@@ -20,7 +20,9 @@ Window {
     SystemTrayIcon {
         id: systemTray
         visible: true
-        icon.source: "qrc:/illustration.svg"
+        icon.source: "qrc:/icon.svg"
+
+        property string chapterLocation: ""
 
         menu: Menu {
             MenuItem {
@@ -40,7 +42,9 @@ Window {
             root.requestActivate()
         }
 
-        // onMessageClicked: console.log("Hello")
+        onMessageClicked: {
+            stackView.push(readerView)
+        }
     }
 
     Rectangle {
@@ -121,6 +125,22 @@ Window {
             spacing: 8
 
             BNButton {
+                id: helpButton
+                implicitWidth: 36
+                implicitHeight: 36
+                flat: true
+                icon: "question-circle"
+            }
+
+            BNButton {
+                id: aboutButton
+                implicitWidth: 36
+                implicitHeight: 36
+                flat: true
+                icon: "info-circle"
+            }
+
+            BNButton {
                 id: minimizeButton
                 implicitWidth: 36
                 implicitHeight: 36
@@ -146,8 +166,10 @@ Window {
     StackView {
         id: stackView
         anchors.fill: parent
-        anchors.topMargin: titleBar.height
-        anchors.bottomMargin: 24
+        anchors.topMargin: titleBar.height + 20
+        anchors.bottomMargin: 50
+        anchors.leftMargin: 50
+        anchors.rightMargin: 50
         initialItem: homeView
     }
 
@@ -161,9 +183,16 @@ Window {
         }
 
         onSendNotification: {
-            Notifications.loadVerses()
-            systemTray.showMessage("Title", "Description")
+            var verse = Notifications.loadVerses()
+            systemTray.chapterLocation = verse[2]
+            systemTray.showMessage(verse[1], verse[0])
         }
+    }
+
+    ReaderView {
+        id: readerView
+        visible: false
+        chapterLocation: systemTray.chapterLocation
     }
 
     SetTimeView {
