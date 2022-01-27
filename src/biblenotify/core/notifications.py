@@ -62,3 +62,16 @@ class Notifications(QObject):
         verse = verses["all"][random.randint(0, len(verses["all"]))]
 
         return [verse["verse"], verse["place"], verse["data"]]
+
+    @Slot(str, result=list)
+    def loadChapter(self, location: str) -> list:
+        file = QFile(":/verses/" + location + ".json")
+        if not file.open(QFile.ReadOnly | QFile.Text):
+            return ["", ""]
+
+        contents = QTextStream(file)
+        contents_string = contents.readAll()
+
+        contents_json = json.loads(contents_string)
+
+        return [contents_json["read"][0]["text"], contents_json["read"][0]["chapter"]]
