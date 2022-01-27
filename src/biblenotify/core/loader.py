@@ -14,3 +14,9 @@ class Loader(QObject):
             contents = QTextStream(file)
             # print(contents.string())
         return contents
+
+
+
+# with open("C:/Users/Acer/Documents/6.json", "r") as file:
+#     cont = json.load(file)
+#     print(cont)
