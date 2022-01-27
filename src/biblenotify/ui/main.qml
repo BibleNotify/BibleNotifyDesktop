@@ -42,7 +42,9 @@ Window {
             root.requestActivate()
         }
 
-        onMessageClicked: console.log(systemTray.chapterLocation)
+        onMessageClicked: {
+            stackView.push(readerView)
+        }
     }
 
     Rectangle {
@@ -183,6 +185,12 @@ Window {
             systemTray.chapterLocation = verse[2]
             systemTray.showMessage(verse[1], verse[0])
         }
+    }
+
+    ReaderView {
+        id: readerView
+        visible: false
+        chapterLocation: systemTray.chapterLocation
     }
 
     SetTimeView {

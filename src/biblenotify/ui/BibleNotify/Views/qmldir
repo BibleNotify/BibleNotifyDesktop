@@ -1,3 +1,4 @@
 module BibleNotify.Views
 HomeView 0.1 HomeView.qml
+ReaderView 0.1 ReaderView.qml
 SetTimeView 0.1 SetTimeView.qml
