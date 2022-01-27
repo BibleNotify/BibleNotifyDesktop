@@ -8,7 +8,6 @@ import BibleNotify.UiComponents
 Item {
     id: root
 
-    property var stackView
     property var setTimeView
 
     signal sendNotification
