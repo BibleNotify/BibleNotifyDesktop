@@ -6,4 +6,5 @@ Label {
     id: root
     font.family: "Roboto"
     font.pixelSize: 16
+    wrapMode: Text.WordWrap
 }
