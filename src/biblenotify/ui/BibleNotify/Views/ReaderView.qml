@@ -57,15 +57,27 @@ Item {
         }
 
         Rectangle {
+            id: chapterBackground
+            clip: true
+
             Layout.fillWidth: true
             Layout.fillHeight: true
 
             border.color: "#24242433"
             border.width: 1
 
-            BNLabel {
+            Flickable {
+                id: scrollView
                 anchors.fill: parent
-                text: qsTr(Notifications.loadChapter(root.chapterLocation)[0])
+                contentWidth: chapterText.width
+                contentHeight: chapterText.height
+
+                BNLabel {
+                    id: chapterText
+                    width: chapterBackground.width
+                    textFormat: Text.RichText
+                    text: qsTr(Notifications.loadChapter(root.chapterLocation)[0])
+                }
             }
         }
     }
