@@ -5,6 +5,7 @@ import QtQuick.Layouts
 import QtQuick.Window
 import Qt.labs.platform
 
+import BibleNotify.Dialogs
 import BibleNotify.UiComponents
 import BibleNotify.Views
 
@@ -138,6 +139,7 @@ Window {
                 implicitHeight: 36
                 flat: true
                 icon: "info-circle"
+                onClicked: aboutDialog.open()
             }
 
             BNButton {
@@ -207,5 +209,9 @@ Window {
         text: qsTr("Bible Notify © 2022 Bible Notify Contributors")
         font.pixelSize: 10
         color: "#757575"
+    }
+
+    AboutDialog {
+        id: aboutDialog
     }
 }
