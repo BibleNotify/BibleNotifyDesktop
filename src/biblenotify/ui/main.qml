@@ -13,7 +13,7 @@ import BibleNotify.Views
 Window {
     id: root
     visible: true
-    flags: Qt.FramelessWindowHint
+    flags: Qt.Window | Qt.FramelessWindowHint
     width: 960
     height: 640
     color: "transparent"
