@@ -66,7 +66,7 @@ Item {
             border.color: "#24242433"
             border.width: 1
 
-            Flickable {
+            BNScrollView {
                 id: scrollView
                 anchors.fill: parent
                 contentWidth: chapterText.width
