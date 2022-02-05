@@ -3,6 +3,7 @@ import QtQuick.Controls
 import QtQuick.Layouts
 
 import BibleNotify.UiComponents
+import BibleNotify.Views
 
 
 Window {
@@ -69,5 +70,19 @@ Window {
                 text: qsTr("About")
             }
         }
+    }
+
+    StackView {
+        id: stackView
+        anchors.fill: parent
+        anchors.topMargin: titleBar.height + 20
+        anchors.bottomMargin: 50
+        anchors.leftMargin: 50
+        anchors.rightMargin: 50
+        initialItem: aboutView
+    }
+
+    AboutView {
+        id: aboutView
     }
 }
