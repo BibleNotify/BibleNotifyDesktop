@@ -139,7 +139,7 @@ Window {
                 implicitHeight: 36
                 flat: true
                 icon: "info-circle"
-                onClicked: aboutDialog.open()
+                onClicked: aboutDialog.show()
             }
 
             BNButton {
