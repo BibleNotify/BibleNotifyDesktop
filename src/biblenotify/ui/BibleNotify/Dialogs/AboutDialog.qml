@@ -79,8 +79,8 @@ Window {
 
             BNButton {
                 id: quitButton
-                implicitWidth: 20
-                implicitHeight: 20
+                implicitWidth: 26
+                implicitHeight: 26
                 flat: true
                 icon: "x-lg"
                 onClicked: root.close()
