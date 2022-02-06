@@ -82,6 +82,7 @@ Item {
             Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
             horizontalAlignment: Text.AlignHCenter
             font.pixelSize: 8
+            color: "#7E7E7E"
             text: qsTr("Bible Notify © 2022 Bible Notify Contributors")
         }
     }
