@@ -11,6 +11,8 @@ from biblenotify import Loader, Notifications
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
+    app.setApplicationName("Bible Notify")
+    app.setApplicationVersion("0.1")
     app.setWindowIcon(QIcon(":/icon.svg"))
 
     engine = QQmlApplicationEngine()
