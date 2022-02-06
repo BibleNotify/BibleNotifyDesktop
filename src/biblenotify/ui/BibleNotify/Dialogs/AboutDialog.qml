@@ -70,6 +70,22 @@ Window {
                 text: qsTr("About")
             }
         }
+
+        RowLayout {
+            anchors.right: parent.right
+            anchors.rightMargin: 30
+            height: parent.height
+            spacing: 8
+
+            BNButton {
+                id: quitButton
+                implicitWidth: 20
+                implicitHeight: 20
+                flat: true
+                icon: "x-lg"
+                onClicked: root.close()
+            }
+        }
     }
 
     StackView {
