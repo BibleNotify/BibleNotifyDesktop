@@ -26,7 +26,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         width: parent.width
-        height: 30
+        height: 32
 
         DragHandler {
             grabPermissions: TapHandler.CanTakeOverFromAnything
@@ -91,7 +91,7 @@ Window {
     StackView {
         id: stackView
         anchors.fill: parent
-        anchors.topMargin: titleBar.height + 20
+        anchors.topMargin: titleBar.height + 10
         anchors.bottomMargin: 20
         anchors.leftMargin: 20
         anchors.rightMargin: 20
