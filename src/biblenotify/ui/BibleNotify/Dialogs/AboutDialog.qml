@@ -26,7 +26,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         width: parent.width
-        height: 28
+        height: 30
 
         DragHandler {
             grabPermissions: TapHandler.CanTakeOverFromAnything
