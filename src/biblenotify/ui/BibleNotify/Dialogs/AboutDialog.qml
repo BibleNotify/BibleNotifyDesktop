@@ -9,8 +9,8 @@ import BibleNotify.Views
 Window {
     id: root
     flags: Qt.Dialog | Qt.FramelessWindowHint
-    width: 300
-    height: 400
+    width: 382
+    height: 450
     color: "transparent"
 
     Rectangle {
@@ -92,9 +92,9 @@ Window {
         id: stackView
         anchors.fill: parent
         anchors.topMargin: titleBar.height + 20
-        anchors.bottomMargin: 50
-        anchors.leftMargin: 50
-        anchors.rightMargin: 50
+        anchors.bottomMargin: 20
+        anchors.leftMargin: 20
+        anchors.rightMargin: 20
         initialItem: aboutView
     }
 
