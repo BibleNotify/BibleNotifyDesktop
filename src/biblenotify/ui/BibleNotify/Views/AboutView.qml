@@ -43,6 +43,7 @@ Item {
             color: "#494949"
         }
 
+        // TODO: Should I use a flat button (instead of a hyper link)?
         Row {
             spacing: 8
             Layout.alignment: Qt.AlignHCenter
@@ -59,6 +60,7 @@ Item {
             }
         }
 
+        // TODO: Should I use a flat button (instead of a hyper link)?
         Row {
             spacing: 8
             Layout.alignment: Qt.AlignHCenter
