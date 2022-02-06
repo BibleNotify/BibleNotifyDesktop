@@ -2,6 +2,7 @@
     <qresource prefix="/">
         <file alias="icon.svg">icon.svg</file>
         <file alias="illustration.svg">illustration.svg</file>
+        <file alias="illustration-with_text.svg">illustration-with_text.svg</file>
     </qresource>
     <qresource prefix="/icons">
         <file alias="arrow-left-square.svg">icons/arrow-left-square.svg</file>

@@ -17,7 +17,7 @@ Item {
 
         Image {
             Layout.alignment: Qt.AlignHCenter
-            source: "qrc:/illustration.svg"
+            source: "qrc:/illustration-with_text.svg"
             antialiasing: true
         }
 
