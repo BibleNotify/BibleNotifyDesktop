@@ -19,9 +19,11 @@ Python is pre-installed on Linux systems already
 3. Change into the ``src`` directory by running ``cd src/``
 4. Run Bible Notify with ``python main.py``
 
-## Discord chat
 
-Need help? Want to help out? [Join our Discord](https://discord.gg/KeF95paSep) to chat with the developers.
+## Element chat
+
+Need help? Want to help out? [Join our Element chat](https://matrix.to/#/#bible-notify:matrix.org) to chat with the developers or get support.
+
 
 ## Contributing
 
