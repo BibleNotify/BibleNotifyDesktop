@@ -44,6 +44,8 @@ Item {
                 anchors.centerIn: parent
                 text: qsTr(Notifications.loadChapter(root.chapterLocation)[1])
                 color: "#242424"
+                font.pixelSize: 18
+                font.bold: true
             }
 
             BNButton {
