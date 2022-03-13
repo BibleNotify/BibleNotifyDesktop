@@ -21,6 +21,10 @@ Item {
             antialiasing: true
         }
 
+        Item {
+            height: 10
+        }
+
         BNButton {
             id: toggleNotificationsButton
             Layout.alignment: Qt.AlignHCenter

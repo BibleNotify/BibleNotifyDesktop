@@ -38,8 +38,8 @@ Item {
     property string textDisabledColor: "#444444"
 
     property string icon: ""
-    property int iconWidth: 24
-    property int iconHeight: 24
+    property int iconWidth: 20
+    property int iconHeight: 20
 
     Rectangle {
         id: background
