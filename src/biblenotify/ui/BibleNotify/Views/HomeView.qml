@@ -22,7 +22,7 @@ Item {
         }
 
         Item {
-            height: 10
+            height: 20
         }
 
         BNButton {

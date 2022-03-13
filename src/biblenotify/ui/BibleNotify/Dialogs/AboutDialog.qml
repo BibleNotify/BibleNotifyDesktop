@@ -42,7 +42,7 @@ Window {
 
         Rectangle {
             anchors.fill: parent
-            color: "#EFEFEF"
+            color: "#F2F2F2"
             radius: dialogBackground.radius
 
             // Make the bottom of the title bar look like a straight line
