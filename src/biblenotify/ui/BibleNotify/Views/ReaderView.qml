@@ -55,6 +55,10 @@ Item {
                 implicitHeight: 36
                 flat: true
                 icon: "arrow-right-square"
+                onClicked: {
+                    var verse = Notifications.loadVerses()
+                    root.chapterLocation = verse[2]
+                }
             }
         }
 
