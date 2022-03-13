@@ -129,11 +129,12 @@ Window {
             spacing: 8
 
             BNButton {
-                id: helpButton
+                id: readerViewButton
                 implicitWidth: 36
                 implicitHeight: 36
                 flat: true
-                icon: "question-circle"
+                icon: "book"
+                onClicked: stackView.push(readerView)
             }
 
             BNButton {
