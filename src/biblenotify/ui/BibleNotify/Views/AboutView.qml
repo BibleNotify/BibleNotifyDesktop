@@ -28,7 +28,7 @@ Item {
 
         BNLabel {
             Layout.alignment: Qt.AlignHCenter
-            Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
+            Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin - 30 // Is this a hack?
             horizontalAlignment: Text.AlignHCenter
             font.pixelSize: 14
             text: qsTr("Bible Notify is free and open-source software, provided freely for the edification of believers")

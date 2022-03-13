@@ -19,6 +19,9 @@ Window {
         anchors.fill: parent
         color: "#FFFFFF"
         radius: root.visibility === Window.Maximized ? 0 : 10
+        // For now, add a subtle border
+        border.width: 1
+        border.color: "#eee"
     }
 
     Item {
@@ -26,7 +29,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         width: parent.width
-        height: 32
+        height: 38
 
         DragHandler {
             grabPermissions: TapHandler.CanTakeOverFromAnything
@@ -62,18 +65,18 @@ Window {
 
         RowLayout {
             anchors.left: parent.left
-            anchors.leftMargin: 30
+            anchors.leftMargin: 20
             height: parent.height
             spacing: 8
             BNLabel {
                 color: active ? "#000000" : "#848484"
-                text: qsTr("About")
+                text: qsTr("About Bible Notify Desktop")
             }
         }
 
         RowLayout {
             anchors.right: parent.right
-            anchors.rightMargin: 30
+            anchors.rightMargin: 20
             height: parent.height
             spacing: 8
 

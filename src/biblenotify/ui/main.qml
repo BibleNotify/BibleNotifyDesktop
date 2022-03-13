@@ -53,6 +53,9 @@ Window {
         anchors.fill: parent
         color: "#FFFFFF"
         radius: root.visibility === Window.Maximized ? 0 : 10
+        // For now, add a subtle border
+        border.width: 1
+        border.color: "#eee"
     }
 
     Item {
