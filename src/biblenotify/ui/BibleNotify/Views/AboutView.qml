@@ -9,7 +9,7 @@ Item {
 
     ColumnLayout {
         anchors.fill: parent
-        spacing: 8
+        spacing: 2
 
         Image {
             Layout.alignment: Qt.AlignHCenter
@@ -22,6 +22,7 @@ Item {
             Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
             horizontalAlignment: Text.AlignHCenter
             font.pixelSize: 24
+            font.bold: true
             text: qsTr("Bible Notify Desktop v0.1")
         }
 
@@ -29,7 +30,7 @@ Item {
             Layout.alignment: Qt.AlignHCenter
             Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
             horizontalAlignment: Text.AlignHCenter
-            font.pixelSize: 11
+            font.pixelSize: 14
             text: qsTr("Bible Notify is free and open-source software, provided freely for the edification of believers")
             color: "#494949"
         }
@@ -38,52 +39,35 @@ Item {
             Layout.alignment: Qt.AlignHCenter
             Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
             horizontalAlignment: Text.AlignHCenter
-            font.pixelSize: 12
+            font.pixelSize: 14
+            font.italic: true
             text: qsTr("Licensed under the GPL-3.0 license")
             color: "#494949"
         }
 
-        // TODO: Should I use a flat button (instead of a hyper link)?
-        Row {
-            spacing: 8
-            Layout.alignment: Qt.AlignHCenter
-            Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
-
-            BNIcon {
-                width: 20
-                height: 20
-                icon: "github"
-            }
-
-            BNLabel {
-                text: qsTr("Source code is on GitHub")
-            }
+        Item {
+            height: 5
         }
 
-        // TODO: Should I use a flat button (instead of a hyper link)?
-        Row {
-            spacing: 8
+        BNLabel {
             Layout.alignment: Qt.AlignHCenter
             Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
+            text: qsTr("https://biblenotify.github.io")
+            font.pixelSize: 16
+            font.bold: true
+        }
 
-            BNIcon {
-                width: 20
-                height: 20
-                icon: "discord"
-            }
-
-            BNLabel {
-                text: qsTr("Need help? Join our Discord")
-            }
+        Item {
+            height: 10
         }
 
         BNLabel {
             Layout.alignment: Qt.AlignHCenter
             Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
             horizontalAlignment: Text.AlignHCenter
-            font.pixelSize: 8
+            font.pixelSize: 11
             color: "#7E7E7E"
-            text: qsTr("Bible Notify © 2022 Bible Notify Contributors")
+            text: qsTr("Bible Notify Desktop © 2022 Bible Notify Contributors")
         }
     }
 }
