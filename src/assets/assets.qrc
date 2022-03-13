@@ -7,9 +7,8 @@
     <qresource prefix="/icons">
         <file alias="arrow-left-square.svg">icons/arrow-left-square.svg</file>
         <file alias="arrow-right-square.svg">icons/arrow-right-square.svg</file>
+        <file alias="book.svg">icons/book.svg</file>
         <file alias="dash-lg.svg">icons/dash-lg.svg</file>
-        <file alias="discord.svg">icons/discord.svg</file>
-        <file alias="github.svg">icons/github.svg</file>
         <file alias="house-door.svg">icons/house-door.svg</file>
         <file alias="info-circle.svg">icons/info-circle.svg</file>
         <file alias="pause-circle.svg">icons/pause-circle.svg</file>
