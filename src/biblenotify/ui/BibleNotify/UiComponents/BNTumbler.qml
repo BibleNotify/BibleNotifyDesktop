@@ -4,6 +4,7 @@ import QtQuick.Controls
 
 Tumbler {
     id: root
+    font.pixelSize: 16
 
     Rectangle {
         anchors.horizontalCenter: root.horizontalCenter

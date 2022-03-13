@@ -11,13 +11,21 @@ Item {
     ColumnLayout {
         anchors.fill: parent
 
+        Item {
+            height: 20
+        }
+
         BNLabel {
             Layout.alignment: Qt.AlignHCenter
-            font.pixelSize: 20
+            font.pixelSize: 18
             font.bold: true
             horizontalAlignment: Text.AlignHCenter
             verticalAlignment: Text.AlignVCenter
             text: qsTr("Change when the daily<br>notification is sent:")
+        }
+
+        Item {
+            height: 20
         }
 
         RowLayout {
@@ -49,6 +57,10 @@ Item {
                 id: amPmTumbler
                 model: ["AM", "PM"]
             }
+        }
+
+        Item {
+            height: 60
         }
 
         BNButton {
