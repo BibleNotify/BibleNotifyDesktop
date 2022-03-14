@@ -1,4 +1,6 @@
-
+# Ignore IDE files/directories
+.idea/
+.vscode/
 
 # Ignore pycache
 __pycache__
