@@ -135,9 +135,12 @@ Window {
                 flat: true
                 icon: "book"
                 onClicked: {
+                    if (readerView.chapterLocation == "") {
+                        var verse = Notifications.loadVerses()
+                        readerView.chapterLocation = verse[2]
+                    }
+                    
                     stackView.push(readerView)
-                    var verse = Notifications.loadVerses()
-                    readerView.chapterLocation = verse[2]
                 }
             }
 
