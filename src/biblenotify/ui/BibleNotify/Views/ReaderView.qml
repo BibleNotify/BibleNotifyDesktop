@@ -10,25 +10,16 @@ Item {
 
     property string chapterLocation: ""
 
-    // TODO: Spacing is a little off
     ColumnLayout {
         anchors.fill: parent
 
         Item {
             Layout.fillWidth: true
-            implicitHeight: 58
+            implicitHeight: 38
 
             Row {
                 anchors.left: parent.left
                 spacing: 8
-
-                BNButton {
-                    id: previousChapterButton
-                    implicitWidth: 36
-                    implicitHeight: 36
-                    flat: true
-                    icon: "arrow-left-square"
-                }
 
                 BNButton {
                     id: homeButton
@@ -54,7 +45,7 @@ Item {
                 implicitWidth: 36
                 implicitHeight: 36
                 flat: true
-                icon: "arrow-right-square"
+                icon: "shuffle"
                 onClicked: {
                     var verse = Notifications.loadVerses()
                     root.chapterLocation = verse[2]
