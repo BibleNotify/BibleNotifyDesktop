@@ -2,7 +2,7 @@
 
 This is the repository for the Desktop version of the daily Bible verse notification app for Android called [Bible Notify](https://github.com/BibleNotify/BibleNotify).
 
-# Running
+# Running the code
 
 ## Linux
 
@@ -30,7 +30,7 @@ Need help? Want to help out? [Join our Element chat](https://matrix.to/#/#bible-
 Contributions are always welcome! Feel free to open a PR or ask questions.
 
 
-## Generating assets
+## Generating assets.py
 
 - ``cd src/assets``
 - ``pyside6-rcc assets.qrc -o assets.py``
