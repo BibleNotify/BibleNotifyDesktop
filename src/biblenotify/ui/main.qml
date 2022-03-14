@@ -134,7 +134,11 @@ Window {
                 implicitHeight: 36
                 flat: true
                 icon: "book"
-                onClicked: stackView.push(readerView)
+                onClicked: {
+                    stackView.push(readerView)
+                    var verse = Notifications.loadVerses()
+                    readerView.chapterLocation = verse[2]
+                }
             }
 
             BNButton {
