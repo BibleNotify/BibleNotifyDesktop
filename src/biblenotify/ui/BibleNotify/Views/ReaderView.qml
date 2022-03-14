@@ -27,7 +27,12 @@ Item {
                     implicitHeight: 36
                     flat: true
                     icon: "house-door"
-                    onClicked: root.StackView.view.pop()
+                    // The following is taken directly from the docs
+                    // ---------------------------------------------
+                    // This is called an "unwind" operation, where the stack unwinds till the specified item. If the item is not found,
+                    // stack unwinds until it is left with one item, which becomes the currentItem. To explicitly unwind to the bottom
+                    // of the stack, it is recommended to use pop(null), although any non-existent item will do.
+                    onClicked: root.StackView.view.pop(null)
                 }
             }
 
