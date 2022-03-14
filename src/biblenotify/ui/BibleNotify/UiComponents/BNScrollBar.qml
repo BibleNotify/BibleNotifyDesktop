@@ -19,6 +19,15 @@ ScrollBar {
         implicitWidth: root.thickness
         implicitHeight: root.thickness
         radius: root.thickness / 2
-        color: root.pressed ? "#81e889" : "#c2f4c6"
+        color: {
+            if (root.pressed) {
+                return "#7DD273"
+            } else if (root.hovered) {
+                return "#E5E5E5"
+            } else {
+                // Normal state
+                return "#CCCCCC"
+            }
+        }
     }
 }
