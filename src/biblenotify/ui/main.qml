@@ -23,8 +23,6 @@ Window {
         visible: true
         icon.source: "qrc:/icon.svg"
 
-        property string chapterLocation: ""
-
         menu: Menu {
             MenuItem {
                 text: qsTr("Open Window")
@@ -197,7 +195,7 @@ Window {
 
         onSendNotification: {
             var verse = Notifications.loadVerses()
-            systemTray.chapterLocation = verse[2]
+            readerView.chapterLocation = verse[2]
             systemTray.showMessage(verse[1], verse[0])
         }
     }
@@ -205,7 +203,7 @@ Window {
     ReaderView {
         id: readerView
         visible: false
-        chapterLocation: systemTray.chapterLocation
+        chapterLocation: ""
     }
 
     SetTimeView {
