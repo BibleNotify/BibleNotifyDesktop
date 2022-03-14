@@ -47,7 +47,7 @@ Item {
         color: {
             if (root.flat && !root.hovered) {
                 return "transparent"
-            } else if (root.flat && root.hovered) {
+            } else if (root.flat && root.hovered && root.enabled) {
                 return root.backgroundFlatHoverColor
             } else if (root.enabled && root.hovered && !root.isAccented) {
                 return backgroundNormalHoverColor
@@ -56,7 +56,11 @@ Item {
             } else if (root.enabled) {
                 return (root.isAccented ? root.backgroundAccentColor : root.backgroundNormalColor)
             } else {
-                return root.backgroundDisabledColor
+                if (root.flat) {
+                    return "transparent"
+                } else {
+                    return root.backgroundDisabledColor
+                }
             }
         }
 
