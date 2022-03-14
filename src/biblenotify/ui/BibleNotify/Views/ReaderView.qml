@@ -74,13 +74,19 @@ Item {
 
             BNScrollView {
                 id: scrollView
+                
                 anchors.fill: parent
+                anchors.leftMargin: 6
+                anchors.rightMargin: 6
+                anchors.topMargin: 10
+                anchors.bottomMargin: 10
+
                 contentWidth: chapterText.width
                 contentHeight: chapterText.height
 
                 BNLabel {
                     id: chapterText
-                    width: chapterBackground.width
+                    width: chapterBackground.width - scrollView.ScrollBar.vertical.width - (scrollView.anchors.rightMargin * 2)
                     textFormat: Text.RichText
                     text: qsTr(Notifications.loadChapter(root.chapterLocation)[0])
                 }
