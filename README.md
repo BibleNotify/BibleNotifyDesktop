@@ -30,6 +30,12 @@ Need help? Want to help out? [Join our Element chat](https://matrix.to/#/#bible-
 Contributions are always welcome! Feel free to open a PR or ask questions.
 
 
+## Generating assets
+
+- ``cd src/assets``
+- ``pyside6-rcc assets.qrc -o assets.py``
+
+
 # License
 
 Licensed under the GPL-3.0 license.

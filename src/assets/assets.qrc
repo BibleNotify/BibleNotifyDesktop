@@ -14,6 +14,7 @@
         <file alias="pause-circle.svg">icons/pause-circle.svg</file>
         <file alias="play-circle.svg">icons/play-circle.svg</file>
         <file alias="question-circle.svg">icons/question-circle.svg</file>
+        <file alias="shuffle.svg">icons/shuffle.svg</file>
         <file alias="x-lg.svg">icons/x-lg.svg</file>
     </qresource>
     <qresource prefix="/verses">
