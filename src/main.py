@@ -10,7 +10,9 @@ from biblenotify import Loader, Notifications
 
 
 if __name__ == "__main__":
-    app = QApplication(sys.argv)
+    # NOTE: This *has* to be QGuiApplication otherwise the system tray right-click menu won't show
+    app = QGuiApplication(sys.argv)
+    app.setQuitOnLastWindowClosed(False)
     app.setApplicationName("Bible Notify")
     app.setApplicationVersion("0.1")
     app.setWindowIcon(QIcon(":/icon.svg"))
