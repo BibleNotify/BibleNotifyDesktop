@@ -52,9 +52,15 @@ Item {
         BNLabel {
             Layout.alignment: Qt.AlignHCenter
             Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
-            text: qsTr("https://biblenotify.github.io")
+            // TODO: Style the link
+            text: "<a href='https://biblenotify.github.io'>https://biblenotify.github.io</a>"
             font.pixelSize: 16
             font.bold: true
+            onLinkActivated: Qt.openUrlExternally("https://biblenotify.github.io")
+            // TODO: Should this be a MouseArea?
+            HoverHandler {
+                cursorShape: Qt.PointingHandCursor
+            }
         }
 
         Item {
