@@ -6,6 +6,7 @@ from PySide6.QtCore import QDateTime, QFile, QObject, QTextStream, QTime, Slot
 
 class Notifications(QObject):
     notificationsEnabled = False
+    notificationSentLock = False
     notificationTime = QDateTime()
 
     @Slot(result=bool)
@@ -15,6 +16,14 @@ class Notifications(QObject):
     @Slot(bool)
     def setNotificationsEnabled(self, value):
         self.notificationsEnabled = value
+
+    @Slot(result=bool)
+    def getNotificationSentLock(self) -> bool:
+        return self.notificationSentLock
+    
+    @Slot(bool)
+    def setNotificationSentLock(self, value: bool) -> None:
+        self.notificationSentLock = value
 
     @Slot(result=QDateTime)
     def getNotificationTime(self) -> QDateTime:
@@ -41,8 +50,12 @@ class Notifications(QObject):
         currentTime = QDateTime.currentDateTime().time()
         notificationTime = self.notificationTime.time()
 
-        if (currentTime.hour() == notificationTime.hour()) and (currentTime.minute() == notificationTime.minute()):
+        if (currentTime.hour() == notificationTime.hour()) and (currentTime.minute() == notificationTime.minute()) and not self.notificationSentLock:
+            self.notificationSentLock = True
             return True
+        elif (currentTime.hour() != notificationTime.hour()) or (currentTime.minute() != notificationTime.minute()):
+            self.notificationSentLock = False
+            return False
 
         return False
 

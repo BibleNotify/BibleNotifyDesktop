@@ -48,14 +48,13 @@ Item {
 
     Timer {
         id: notificationTimer
-        interval: 500
+        interval: 1000
         running: true
         repeat: true
         onTriggered: {
             if (Notifications.isNotificationTime() === true) {
                 if (Notifications.getNotificationsEnabled() === true) {
                     root.sendNotification()
-                    notificationTimer.running = false
                 }
             }
         }
