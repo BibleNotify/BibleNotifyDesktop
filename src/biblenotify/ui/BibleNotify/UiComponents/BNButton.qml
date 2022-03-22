@@ -112,16 +112,27 @@ Item {
                 }
             }
 
-            BNIcon {
-                id: icon
-                visible: root.icon !== ""
-                icon: root.icon
-                //color: label.color
-                width: root.iconWidth
-                height: root.iconHeight
+            Loader {
+                sourceComponent: {
+                    if (root.icon !== "") {
+                        return iconComponent
+                    }
+                }
             }
         }
     }
+
+    Component {
+        id: iconComponent
+        BNIcon {
+            id: icon
+            icon: root.icon
+            //color: label.color
+            width: root.iconWidth
+            height: root.iconHeight
+        }
+    }
+    
 
     MouseArea {
         id: mouseArea
