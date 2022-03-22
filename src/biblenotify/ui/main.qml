@@ -29,6 +29,7 @@ Window {
         visible: true
         icon.source: "qrc:/icon.svg"
 
+        // TODO: Use custom system tray menu
         menu: Menu {
             MenuItem {
                 text: qsTr("Open Window")
