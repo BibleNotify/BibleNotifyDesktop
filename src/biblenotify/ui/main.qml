@@ -26,7 +26,7 @@ Window {
         menu: Menu {
             MenuItem {
                 text: qsTr("Open Window")
-                onTriggered: root.activate()
+                onTriggered: root.requestActivate()
             }
 
             MenuItem {
@@ -38,7 +38,6 @@ Window {
         onActivated: {
             root.show()
             root.raise()
-            root.requestActivate()
         }
 
         onMessageClicked: {
@@ -168,7 +167,8 @@ Window {
                 icon: "x-lg"
                 onClicked: {
                     root.close()
-                    Qt.quit()
+                    // This will quit the app completely, hence why it is commented out
+                    // Qt.quit()
                 }
             }
         }
