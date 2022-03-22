@@ -18,6 +18,12 @@ Window {
     height: 640
     color: "transparent"
 
+    function focusWindow() {
+        root.show()
+        root.raise()
+        root.requestActivate()
+    }
+
     SystemTrayIcon {
         id: systemTray
         visible: true
@@ -26,7 +32,7 @@ Window {
         menu: Menu {
             MenuItem {
                 text: qsTr("Open Window")
-                onTriggered: root.requestActivate()
+                onTriggered: root.focusWindow()
             }
 
             MenuItem {
@@ -35,12 +41,8 @@ Window {
             }
         }
 
-        onActivated: {
-            root.show()
-            root.raise()
-        }
-
         onMessageClicked: {
+            root.focusWindow()
             stackView.push(readerView)
         }
     }
