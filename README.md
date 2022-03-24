@@ -1,12 +1,12 @@
 <div align="center">
+  <img src="./src/assets/illustration.svg" />
   <h1>Bible Notify Desktop</h1>
-  <span>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL_v3-green.svg"/></a>
-  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/BibleNotify/BibleNotifyDesktop">
-  <a href="https://github.com/BibleNotify/BibleNotifyDesktop/actions/workflows/build.yml"><img src="https://github.com/BibleNotify/BibleNotifyDesktop/actions/workflows/build.yml/badge.svg?branch=master"/></a>
-  </span>
+  <p>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL_v3-green.svg" /></a>
+  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/BibleNotify/BibleNotifyDesktop" />
+  <a href="https://github.com/BibleNotify/BibleNotifyDesktop/actions/workflows/build.yml"><img src="https://github.com/BibleNotify/BibleNotifyDesktop/actions/workflows/build.yml/badge.svg?branch=master" /></a>
+  </p>
   <p>Daily Scripture Verse Notifications on Desktop.</p>
-  <img src="./src/assets/illustration.svg"/>
 </div>
 
 <!--This is the repository for the Desktop version of the daily Bible verse notification app for Android called [Bible Notify](https://github.com/BibleNotify/BibleNotify).-->
