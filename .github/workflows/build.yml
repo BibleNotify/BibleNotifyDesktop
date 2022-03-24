@@ -37,7 +37,7 @@ jobs:
       uses: actions/upload-artifact@v3.0.0
       with:
         name: Bible Notify
-        path: dist/
+        path: dist/*
 
   macos_build:
     name: macOS Build
@@ -66,7 +66,7 @@ jobs:
       uses: actions/upload-artifact@v3.0.0
       with:
         name: Bible Notify
-        path: dist/
+        path: dist/*
   
   windows_build:
     name: Windows Build
@@ -85,9 +85,9 @@ jobs:
     - name: Build
       run: |
         cd src/
-        pyinstaller --name "Bible Notify" --windowed --onedir --add-data assets;assets --icon assets/icon.ico main.py
+        pyinstaller --name "Bible Notify" --windowed --onedir --add-data "assets;assets" --icon assets/icon.ico main.py
     - name: Upload the Build Artifact
       uses: actions/upload-artifact@v3.0.0
       with:
         name: Bible Notify
-        path: dist/
+        path: dist/*
