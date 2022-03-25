@@ -36,7 +36,7 @@ jobs:
     - name: Upload the Build Artifact
       uses: actions/upload-artifact@v3.0.0
       with:
-        name: Bible Notify
+        name: Bible Notify Linux
         path: "src/dist/Bible Notify/*"
 
   macos_build:
@@ -65,7 +65,7 @@ jobs:
     - name: Upload the Build Artifact
       uses: actions/upload-artifact@v3.0.0
       with:
-        name: Bible Notify
+        name: Bible Notify macOs
         path: "src/dist/Bible Notify/*"
   
   windows_build:
@@ -89,5 +89,5 @@ jobs:
     - name: Upload the Build Artifact
       uses: actions/upload-artifact@v3.0.0
       with:
-        name: Bible Notify
+        name: Bible Notify Windows
         path: "src/dist/Bible Notify/*"
