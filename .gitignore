@@ -8,3 +8,4 @@ __pycache__
 # Ignore pyinstaller build
 dist
 build
+*.spec
