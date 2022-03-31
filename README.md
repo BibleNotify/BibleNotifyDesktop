@@ -13,6 +13,8 @@
 
 # Running the code
 
+<!-- TODO: Add instructions to the readme about using regenerate_qrc.sh -->
+
 ## Linux
 
 Python is pre-installed on Linux systems already
