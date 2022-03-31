@@ -1,5 +1,6 @@
 import sys
 import assets.assets
+import biblenotify.biblenotify
 
 from PySide6.QtGui import QGuiApplication, QIcon
 from PySide6.QtQml import QQmlEngine, QQmlApplicationEngine
@@ -18,7 +19,7 @@ if __name__ == "__main__":
     app.setWindowIcon(QIcon(":/icon.svg"))
 
     engine = QQmlApplicationEngine()
-    engine.addImportPath("biblenotify/ui")
+    engine.addImportPath(":/ui")
 
     # TODO: Surely there is a better name for this class
     # TODO: Why doesn't this work when the notifications class does?
@@ -30,6 +31,6 @@ if __name__ == "__main__":
     engine.rootContext().setContextProperty("Notifications", notifications)
 
     engine.quit.connect(app.quit)
-    engine.load("biblenotify/ui/main.qml")
+    engine.load(":/ui/main.qml")
 
     sys.exit(app.exec())

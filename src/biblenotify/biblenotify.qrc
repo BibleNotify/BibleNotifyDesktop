@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/BibleNotify/Dialogs/AboutDialog.qml</file>
+        <file>ui/BibleNotify/Dialogs/qmldir</file>
+        <file>ui/BibleNotify/UiComponents/BNButton.qml</file>
+        <file>ui/BibleNotify/UiComponents/BNIcon.qml</file>
+        <file>ui/BibleNotify/UiComponents/BNLabel.qml</file>
+        <file>ui/BibleNotify/UiComponents/BNScrollBar.qml</file>
+        <file>ui/BibleNotify/UiComponents/BNScrollView.qml</file>
+        <file>ui/BibleNotify/UiComponents/BNTumbler.qml</file>
+        <file>ui/BibleNotify/UiComponents/qmldir</file>
+        <file>ui/BibleNotify/Views/AboutView.qml</file>
+        <file>ui/BibleNotify/Views/HomeView.qml</file>
+        <file>ui/BibleNotify/Views/qmldir</file>
+        <file>ui/BibleNotify/Views/ReaderView.qml</file>
+        <file>ui/BibleNotify/Views/SetTimeView.qml</file>
+    </qresource>
+</RCC>
