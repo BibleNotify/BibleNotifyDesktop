@@ -1,5 +1,4 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+# TODO: Should we use --onefile for the portable version (although the executable starts slower with --onefile as oppose to --onedir)
 
 name: Build
 
@@ -30,7 +29,6 @@ jobs:
         pyinstaller \
           --name "Bible Notify" \
           --windowed --onedir \
-          --add-data assets:assets \
           --icon assets/icon.ico \
           main.py
     - name: Upload the Build Artifact
@@ -59,7 +57,6 @@ jobs:
         pyinstaller \
           --name "Bible Notify" \
           --windowed --onedir \
-          --add-data assets:assets \
           --icon assets/icon.ico \
           main.py
     - name: Upload the Build Artifact
@@ -85,7 +82,7 @@ jobs:
     - name: Build
       run: |
         cd src/
-        pyinstaller --name "Bible Notify" --windowed --onedir --add-data "assets;assets" --icon assets/icon.ico main.py
+        pyinstaller --name "Bible Notify" --windowed --onedir --icon assets/icon.ico main.py
     - name: Upload the Build Artifact
       uses: actions/upload-artifact@v3.0.0
       with:
