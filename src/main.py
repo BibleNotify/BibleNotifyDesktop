@@ -47,6 +47,6 @@ if __name__ == "__main__":
     engine.rootContext().setContextProperty("Notifications", notifications)
 
     engine.quit.connect(app.quit)
-    engine.load(":/ui/main.qml")
+    engine.load("qrc:/ui/main.qml")
 
     sys.exit(app.exec())
