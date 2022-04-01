@@ -62,7 +62,7 @@ jobs:
     - name: Upload the Build Artifact
       uses: actions/upload-artifact@v3.0.0
       with:
-        name: Bible Notify macOs
+        name: Bible Notify macOS
         path: "src/dist/Bible Notify/*"
   
   windows_build:
