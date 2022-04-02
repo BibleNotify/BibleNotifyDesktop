@@ -2,9 +2,14 @@
 
 name: Build
 
+env:
+  RELEASE_TAGS: "v*.*.*"
+
 on:
   push:
     branches: [ master ]
+    tags:
+      - ${{ env.RELEASE_TAGS }}
   pull_request:
     branches: [ master ]
 
@@ -36,6 +41,11 @@ jobs:
       with:
         name: Bible Notify Linux
         path: "src/dist/Bible Notify/*"
+    - name: Release
+      uses: softprops/action-gh-release@v1
+      if: startsWith(github.ref, 'refs/tags/${{ env.RELEASE_TAGS }}')
+      with:
+        files: "src/dist/Bible Notify/*"
 
   macos_build:
     name: macOS Build
@@ -64,6 +74,11 @@ jobs:
       with:
         name: Bible Notify macOS
         path: "src/dist/Bible Notify/*"
+    - name: Release
+      uses: softprops/action-gh-release@v1
+      if: startsWith(github.ref, 'refs/tags/${{ env.RELEASE_TAGS }}')
+      with:
+        files: "src/dist/Bible Notify/*"
   
   windows_build:
     name: Windows Build
@@ -88,3 +103,8 @@ jobs:
       with:
         name: Bible Notify Windows
         path: "src/dist/Bible Notify/*"
+    - name: Release
+      uses: softprops/action-gh-release@v1
+      if: startsWith(github.ref, 'refs/tags/${{ env.RELEASE_TAGS }}')
+      with:
+        files: "src/dist/Bible Notify/*"
