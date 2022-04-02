@@ -9,7 +9,7 @@ on:
   push:
     branches: [ master ]
     tags:
-      - ${{ env.RELEASE_TAGS }}
+      - ${{ RELEASE_TAGS }}
   pull_request:
     branches: [ master ]
 
