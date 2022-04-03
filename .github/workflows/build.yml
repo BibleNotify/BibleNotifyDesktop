@@ -5,6 +5,8 @@ name: Build
 env:
   RELEASE_TAGS: "v*.*.*"
 
+workflow_dispatch:
+
 on:
   push:
     branches: [ master ]
