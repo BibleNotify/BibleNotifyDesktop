@@ -1,6 +1,6 @@
 # TODO: Should we use --onefile for the portable version (although the executable starts slower with --onefile as oppose to --onedir)
 
-name: Build
+name: Builds
 
 env:
   RELEASE_TAGS: "v*.*.*"
