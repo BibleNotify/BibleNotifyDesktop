@@ -12,8 +12,7 @@ on:
       - $RELEASE_TAGS
   pull_request:
     branches: [ master ]
-
-workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   linux_build:
