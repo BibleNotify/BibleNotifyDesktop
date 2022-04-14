@@ -8,7 +8,6 @@ from PySide6.QtGui import QGuiApplication, QIcon
 from PySide6.QtQml import QQmlEngine, QQmlApplicationEngine
 from PySide6.QtWidgets import QApplication, QSystemTrayIcon
 
-
 from biblenotify import Loader, Notifications
 
 
