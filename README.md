@@ -47,6 +47,6 @@ Contributions are always welcome! Feel free to open a PR or ask questions.
 - ``pyside6-rcc assets.qrc -o assets.py``
 
 
-# License
+## License
 
 Licensed under the GPL-3.0 license.
