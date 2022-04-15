@@ -35,7 +35,7 @@ jobs:
           --icon assets/icon.ico \
           main.py
     - name: Zip
-    - uses: papeloto/action-zip@v1
+      uses: papeloto/action-zip@v1
       with:
         files: "src/dist/Bible Notify/*"
         dest: BibleNotify-Linux.zip
