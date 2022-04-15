@@ -30,20 +30,20 @@ jobs:
       run: |
         cd src/
         pyinstaller \
-          --name "Bible Notify" \
+          --name "BibleNotify" \
           --windowed --onedir \
           --icon assets/icon.ico \
           main.py
     - name: Zip
       uses: papeloto/action-zip@v1
       with:
-        files: "src/dist/Bible Notify/*"
+        files: "src/dist/BibleNotify/*"
         dest: BibleNotify-Linux.zip
     - name: Upload the Build Artifact
       uses: actions/upload-artifact@v3.0.0
       with:
         name: Bible Notify Linux
-        path: "src/dist/Bible Notify/*"
+        path: "src/dist/BibleNotify/*"
     - name: Release
       uses: softprops/action-gh-release@v1
       if: startsWith(github.ref, 'refs/tags/')
