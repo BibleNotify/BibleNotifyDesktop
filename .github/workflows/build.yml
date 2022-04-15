@@ -46,14 +46,14 @@ jobs:
     - name: Zip
       uses: papeloto/action-zip@v1
       with:
-        files: "${{ github.workspace }}/dist/BibleNotify/"
+        files: "src/dist/BibleNotify/"
         dest: BibleNotify-Linux.zip
 
     - name: Release
       uses: softprops/action-gh-release@v1
       if: startsWith(github.ref, 'refs/tags/')
       with:
-        files: BibleNotify-Linux.zip
+        files: "${{ github.workspace }}/BibleNotify-Linux.zip"
 
   macos_build:
     name: macOS Build
