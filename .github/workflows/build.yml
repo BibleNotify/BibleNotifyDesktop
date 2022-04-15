@@ -18,6 +18,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - uses: papeloto/action-zip@v1
+    
     - name: Set up Python 3.10
       uses: actions/setup-python@v2
       with:
@@ -43,7 +45,7 @@ jobs:
         path: "src/dist/BibleNotify/*"
 
     - name: Zip
-      uses: actions/checkout@v2 papeloto/action-zip@v1
+      # uses: actions/checkout@v2
       with:
         files: "src/dist/BibleNotify/*"
         dest: BibleNotify-Linux.zip
