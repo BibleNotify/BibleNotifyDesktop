@@ -2,14 +2,11 @@
 
 name: Builds
 
-env:
-  RELEASE_TAGS: "v*.*.*"
-
 on:
   push:
     branches: [ master ]
     tags:
-      - $RELEASE_TAGS
+      - "v*.*.*"
   pull_request:
     branches: [ master ]
   workflow_dispatch:
@@ -44,7 +41,7 @@ jobs:
         path: "src/dist/Bible Notify/*"
     - name: Release
       uses: softprops/action-gh-release@v1
-      if: startsWith(github.ref, 'refs/tags/$RELEASE_TAGS')
+      if: startsWith(github.ref, 'refs/tags/')
       with:
         files: "src/dist/Bible Notify/*"
 
@@ -77,7 +74,7 @@ jobs:
         path: "src/dist/Bible Notify/*"
     - name: Release
       uses: softprops/action-gh-release@v1
-      if: startsWith(github.ref, 'refs/tags/$RELEASE_TAGS')
+      if: startsWith(github.ref, 'refs/tags/')
       with:
         files: "src/dist/Bible Notify/*"
   
@@ -106,6 +103,6 @@ jobs:
         path: "src/dist/Bible Notify/*"
     - name: Release
       uses: softprops/action-gh-release@v1
-      if: startsWith(github.ref, 'refs/tags/$RELEASE_TAGS')
+      if: startsWith(github.ref, 'refs/tags/')
       with:
         files: "src/dist/Bible Notify/*"
