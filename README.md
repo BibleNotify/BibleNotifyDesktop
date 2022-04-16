@@ -11,11 +11,11 @@
 
 <!--This is the repository for the Desktop version of the daily Bible verse notification app for Android called [Bible Notify](https://github.com/BibleNotify/BibleNotify).-->
 
-# Running the code
+## Running the code
 
 <!-- TODO: Add instructions to the readme about using regenerate_qrc.sh -->
 
-## Linux
+### Linux
 
 Python is pre-installed on Linux systems already
 
@@ -23,7 +23,7 @@ Python is pre-installed on Linux systems already
 2. Change into the ``src`` directory by running ``cd src/``
 3. Run Bible Notify with ``python3 main.py``
 
-## Windows
+### Windows
 
 1. Install Python if it isn't installed already. Go to [here](https://www.python.org/downloads/windows/), download the latest version and then run the installer.
 2. Execute the command ``python -m pip install -r requirements.txt`` in a terminal of your choice.
