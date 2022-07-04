@@ -11,6 +11,11 @@
 
 <!--This is the repository for the Desktop version of the daily Bible verse notification app for Android called [Bible Notify](https://github.com/BibleNotify/BibleNotify).-->
 
+## Download
+
+Head over to [GitHub Releases](https://github.com/BibleNotify/BibleNotifyDesktop/releases/latest) to download the latest release of Bible Notify. Binaries are available for Linux, macOS and Windows.
+
+
 ## Running the code
 
 <!-- TODO: Add instructions to the readme about using regenerate_qrc.sh -->
