@@ -1,7 +1,7 @@
 import sys
-import assets.assets
-import biblenotify.biblenotify
-import translations.translations
+import assets.assets_qrc
+import biblenotify.biblenotify_qrc
+import translations.translations_qrc
 
 from PySide6.QtCore import QLibraryInfo, QLocale, QTranslator
 from PySide6.QtGui import QGuiApplication, QIcon

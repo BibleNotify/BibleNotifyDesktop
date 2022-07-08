@@ -18,22 +18,23 @@ Head over to [GitHub Releases](https://github.com/BibleNotify/BibleNotifyDesktop
 
 ## Running the code
 
-<!-- TODO: Add instructions to the readme about using regenerate_qrc.sh -->
+<!-- TODO: Add instructions for running on macOS -->
 
 ### Linux
 
 Python is pre-installed on Linux systems already
 
-1. Execute the command ``python3 -m pip install -r requirements.txt`` in a terminal of your choice.
-2. Change into the ``src`` directory by running ``cd src/``
-3. Run Bible Notify with ``python3 main.py``
+1. Open a terminal of your choice in the root directory of Bible Notify.
+2. Execute the command ``python3 -m pip install -r requirements.txt``.
+3. Run Bible Notify with ``sh ./run_src.sh``.
 
 ### Windows
 
 1. Install Python if it isn't installed already. Go to [here](https://www.python.org/downloads/windows/), download the latest version and then run the installer.
-2. Execute the command ``python -m pip install -r requirements.txt`` in a terminal of your choice.
-3. Change into the ``src`` directory by running ``cd src/``
-4. Run Bible Notify with ``python main.py``
+2. Install Bash using either [MSYS2](https://www.msys2.org/) or from [Git's website](https://git-scm.com/download/win).
+3. Open a (Bash) terminal/shell in the root directory of Bible Notify.
+4. Execute the command ``python -m pip install -r requirements.txt``.
+5. Run Bible Notify with ``sh ./run_src.sh``.
 
 
 ## Element chat
