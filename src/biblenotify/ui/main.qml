@@ -18,10 +18,75 @@ Window {
     height: 640
     color: "transparent"
 
+    property var resizeMargins: 8
+
     function focusWindow() {
         root.show()
         root.raise()
         root.requestActivate()
+    }
+
+    Item {
+        id: leftResizeHandlerItem
+        anchors.left: parent.left
+        anchors.top: parent.top
+        width: root.resizeMargins
+        height: parent.height
+
+        DragHandler {
+            grabPermissions: DragHandler.CanTakeOverFromAnything
+            onActiveChanged: {
+                if (active) {
+                    root.startSystemResize(Qt.LeftEdge);
+                }
+            }
+        }
+
+        HoverHandler {
+            cursorShape: Qt.SizeHorCursor
+        }
+    }
+    
+    Item {
+        id: rightResizeHandlerItem
+        anchors.right: parent.right
+        anchors.top: parent.top
+        width: root.resizeMargins
+        height: parent.height
+
+        DragHandler {
+            grabPermissions: DragHandler.CanTakeOverFromAnything
+            onActiveChanged: {
+                if (active) {
+                    root.startSystemResize(Qt.RightEdge);
+                }
+            }
+        }
+
+        HoverHandler {
+            cursorShape: Qt.SizeHorCursor
+        }
+    }
+
+    Item {
+        id: bottomResizeHandlerItem
+        anchors.left: parent.left
+        anchors.bottom: parent.bottom
+        width: parent.width
+        height: root.resizeMargins
+
+        DragHandler {
+            grabPermissions: DragHandler.CanTakeOverFromAnything
+            onActiveChanged: {
+                if (active) {
+                    root.startSystemResize(Qt.BottomEdge);
+                }
+            }
+        }
+
+        HoverHandler {
+            cursorShape: Qt.SizeVerCursor
+        }
     }
 
     SystemTrayIcon {
@@ -101,12 +166,40 @@ Window {
 
             gesturePolicy: TapHandler.DragThreshold
         }
+        
+        Item {
+            id: topResizeHandlerItem
+            anchors.left: parent.left
+            anchors.top: parent.top
+            width: parent.width
+            height: root.resizeMargins
 
-        DragHandler {
-            grabPermissions: TapHandler.CanTakeOverFromAnything
-            onActiveChanged: {
-                if (active) {
-                    root.startSystemMove();
+            DragHandler {
+                grabPermissions: DragHandler.CanTakeOverFromAnything
+                onActiveChanged: {
+                    if (active) {
+                        root.startSystemResize(Qt.TopEdge);
+                    }
+                }
+            }
+
+            HoverHandler {
+                cursorShape: Qt.SizeVerCursor
+            }
+        }
+
+        Item {
+            anchors.left: parent.left
+            anchors.leftMargin: root.resizeMargins
+            width: parent.width - root.resizeMargins
+            y: topResizeHandlerItem.y + topResizeHandlerItem.height
+            height: parent.height - (topResizeHandlerItem.y + topResizeHandlerItem.height)
+            DragHandler {
+                grabPermissions: DragHandler.CanTakeOverFromAnything
+                onActiveChanged: {
+                    if (active) {
+                        root.startSystemMove();
+                    }
                 }
             }
         }
