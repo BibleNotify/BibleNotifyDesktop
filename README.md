@@ -31,10 +31,16 @@ Python is pre-installed on Linux systems already
 ### Windows
 
 1. Install Python if it isn't installed already. Go to [here](https://www.python.org/downloads/windows/), download the latest version and then run the installer.
-2. Install Bash using either [MSYS2](https://www.msys2.org/) or from [Git's website](https://git-scm.com/download/win).
+2. Install Bash using [MSYS2](https://www.msys2.org/).
 3. Open a (Bash) terminal/shell in the root directory of Bible Notify.
 4. Execute the command ``python -m pip install -r requirements.txt``.
 5. Run Bible Notify with ``sh ./run_src.sh``.
+
+> **Note:** Alternatively you can install Bash from [Git's website](https://git-scm.com/download/win), however you will need to run the following commands instead of ``sh ./run_src.sh``. This is because ``run_src.sh`` will *not* work with Git Bash.
+```sh
+sh ./update_qrc.sh
+python3 src/main.py
+```
 
 
 ## Element chat

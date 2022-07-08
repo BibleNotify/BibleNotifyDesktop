@@ -1,2 +1,15 @@
 sh ./update_qrc.sh
-python3 src/main.py
+
+if [[ "$OSTYPE" == "linux-gnu"* ]]; then
+    python3 src/main.py
+elif [[ "$OSTYPE" == "darwin"* ]]; then
+    python3 src/main.py
+elif [[ "$OSTYPE" == "cygwin" ]]; then
+    python src/main.py
+elif [[ "$OSTYPE" == "msys" ]]; then
+    python src/main.py
+elif [[ "$OSTYPE" == "freebsd"* ]]; then
+    python src/main.py
+else
+    echo "[ERROR] 'run_src.sh' does not support this OS"
+fi
