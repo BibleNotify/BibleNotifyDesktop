@@ -19,6 +19,7 @@ Window {
     color: "transparent"
 
     property var resizeMargins: 8
+    property var verse: Notifications.loadVerses()
 
     function focusWindow() {
         root.show()
@@ -229,8 +230,7 @@ Window {
                 icon: "book"
                 onClicked: {
                     if (readerView.chapterLocation == "") {
-                        var verse = Notifications.loadVerses()
-                        readerView.chapterLocation = verse[2]
+                        readerView.chapterLocation = root.verse[2]
                     }
                     
                     stackView.push(readerView)
@@ -287,9 +287,8 @@ Window {
         verseReference: ""
 
         Component.onCompleted: {
-            var verse = Notifications.loadVerses()
-            homeView.verseText = verse[0]
-            homeView.verseReference = verse[1]
+            homeView.verseText = root.verse[0]
+            homeView.verseReference = root.verse[1]
         }
 
         onSendNotification: {
