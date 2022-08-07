@@ -307,15 +307,6 @@ Window {
         visible: false
     }
 
-    BNLabel {
-        anchors.horizontalCenter: parent.horizontalCenter
-        anchors.bottom: parent.bottom
-        anchors.bottomMargin: 20
-        text: qsTr("Bible Notify © 2022 Bible Notify Contributors")
-        font.pixelSize: 10
-        color: "#757575"
-    }
-
     AboutDialog {
         id: aboutDialog
     }
