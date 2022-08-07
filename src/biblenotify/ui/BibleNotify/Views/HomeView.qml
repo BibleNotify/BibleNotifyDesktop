@@ -9,6 +9,8 @@ Item {
     id: root
 
     property var setTimeView
+    property string verseText
+    property string verseReference
 
     signal sendNotification
 
@@ -22,9 +24,9 @@ Item {
                 Layout.alignment: Qt.AlignHCenter
                 Layout.maximumWidth: 600
                 horizontalAlignment: Text.AlignHCenter
-                font.pixelSize: 32
+                font.pixelSize: 30
                 color: "#24292f"
-                text: qsTr("The law of Yahweh is perfect, converting the soul; The testimony is Yahweh is sure, making wise the simple;")
+                text: qsTr(verseText)
             }
 
             Item {
@@ -35,15 +37,14 @@ Item {
                 Layout.alignment: Qt.AlignHCenter
                 Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
                 horizontalAlignment: Text.AlignHCenter
-                font.pixelSize: 20
+                font { pixelSize: 20; italic: true; }
                 color: "#616161"
-                text: qsTr("<i>Psalms 19:7<i>")
+                text: qsTr(verseReference)
             }
         }
 
-
         Item {
-            height: 20
+            height: 10
         }
 
         ColumnLayout {

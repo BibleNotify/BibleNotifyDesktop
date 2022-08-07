@@ -283,10 +283,13 @@ Window {
     HomeView {
         id: homeView
         setTimeView: setTimeView
+        verseText: ""
+        verseReference: ""
 
         Component.onCompleted: {
-            // TODO: Why doesn't this work?
-            // Loader.printHello()
+            var verse = Notifications.loadVerses()
+            homeView.verseText = verse[0]
+            homeView.verseReference = verse[1]
         }
 
         onSendNotification: {
