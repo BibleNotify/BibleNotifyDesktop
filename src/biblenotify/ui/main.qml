@@ -286,15 +286,18 @@ Window {
         verseText: ""
         verseReference: ""
 
-        Component.onCompleted: {
-            homeView.verseText = root.verse[0]
-            homeView.verseReference = root.verse[1]
-        }
-
         onSendNotification: {
             var verse = Notifications.loadVerses()
             readerView.chapterLocation = verse[2]
             systemTray.showMessage(verse[1], verse[0])
+        }
+
+        Component.onCompleted: {
+            // TODO: Why doesn't this work?
+            // Loader.printHello()
+
+            homeView.verseText = root.verse[0]
+            homeView.verseReference = root.verse[1]
         }
     }
 

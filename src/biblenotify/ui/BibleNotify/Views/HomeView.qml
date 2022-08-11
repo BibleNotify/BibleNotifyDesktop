@@ -26,7 +26,7 @@ Item {
                 horizontalAlignment: Text.AlignHCenter
                 font.pixelSize: 30
                 color: "#24292f"
-                text: qsTr(verseText)
+                text: verseText
             }
 
             Item {
@@ -37,9 +37,12 @@ Item {
                 Layout.alignment: Qt.AlignHCenter
                 Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
                 horizontalAlignment: Text.AlignHCenter
-                font { pixelSize: 20; italic: true; }
+                font { 
+                    pixelSize: 20; 
+                    italic: true; 
+                }
                 color: "#616161"
-                text: qsTr(verseReference)
+                text: verseReference
             }
         }
 
@@ -66,7 +69,6 @@ Item {
                 onClicked: root.StackView.view.push(setTimeView)
             }
         }
-
 
         Item {
             height: 24
