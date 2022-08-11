@@ -38,8 +38,8 @@ Item {
                 Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
                 horizontalAlignment: Text.AlignHCenter
                 font { 
-                    pixelSize: 20; 
-                    italic: true; 
+                    pixelSize: 20
+                    italic: true
                 }
                 color: "#616161"
                 text: verseReference
