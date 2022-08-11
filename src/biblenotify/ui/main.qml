@@ -283,8 +283,8 @@ Window {
     HomeView {
         id: homeView
         setTimeView: setTimeView
-        verseText: ""
-        verseReference: ""
+        verseText: root.verse[0]
+        verseReference: root.verse[1]
 
         onSendNotification: {
             var verse = Notifications.loadVerses()
@@ -295,9 +295,6 @@ Window {
         Component.onCompleted: {
             // TODO: Why doesn't this work?
             // Loader.printHello()
-
-            homeView.verseText = root.verse[0]
-            homeView.verseReference = root.verse[1]
         }
     }
 
