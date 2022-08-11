@@ -19,6 +19,7 @@ Window {
     color: "transparent"
 
     property var resizeMargins: 8
+    property var verse: Notifications.loadVerses()
 
     function focusWindow() {
         root.show()
@@ -229,8 +230,7 @@ Window {
                 icon: "book"
                 onClicked: {
                     if (readerView.chapterLocation == "") {
-                        var verse = Notifications.loadVerses()
-                        readerView.chapterLocation = verse[2]
+                        readerView.chapterLocation = root.verse[2]
                     }
                     
                     stackView.push(readerView)
@@ -283,16 +283,18 @@ Window {
     HomeView {
         id: homeView
         setTimeView: setTimeView
-
-        Component.onCompleted: {
-            // TODO: Why doesn't this work?
-            // Loader.printHello()
-        }
+        verseText: root.verse[0]
+        verseReference: root.verse[1]
 
         onSendNotification: {
             var verse = Notifications.loadVerses()
             readerView.chapterLocation = verse[2]
             systemTray.showMessage(verse[1], verse[0])
+        }
+
+        Component.onCompleted: {
+            // TODO: Why doesn't this work?
+            // Loader.printHello()
         }
     }
 
@@ -305,15 +307,6 @@ Window {
     SetTimeView {
         id: setTimeView
         visible: false
-    }
-
-    BNLabel {
-        anchors.horizontalCenter: parent.horizontalCenter
-        anchors.bottom: parent.bottom
-        anchors.bottomMargin: 20
-        text: qsTr("Bible Notify © 2022 Bible Notify Contributors")
-        font.pixelSize: 10
-        color: "#757575"
     }
 
     AboutDialog {

@@ -9,36 +9,65 @@ Item {
     id: root
 
     property var setTimeView
+    property string verseText
+    property string verseReference
 
     signal sendNotification
 
     ColumnLayout {
         anchors.fill: parent
 
-        Image {
+        ColumnLayout {
             Layout.alignment: Qt.AlignHCenter
-            source: "qrc:/illustration-with_text.svg"
-            antialiasing: true
+
+            BNLabel {
+                Layout.alignment: Qt.AlignHCenter
+                Layout.maximumWidth: 600
+                horizontalAlignment: Text.AlignHCenter
+                font.pixelSize: 30
+                color: "#24292f"
+                text: verseText
+            }
+
+            Item {
+                height: 10
+            }
+
+            BNLabel {
+                Layout.alignment: Qt.AlignHCenter
+                Layout.maximumWidth: root.width - root.anchors.leftMargin - root.anchors.rightMargin
+                horizontalAlignment: Text.AlignHCenter
+                font { 
+                    pixelSize: 20; 
+                    italic: true; 
+                }
+                color: "#616161"
+                text: verseReference
+            }
         }
 
         Item {
-            height: 20
+            height: 10
         }
 
-        BNButton {
-            id: toggleNotificationsButton
+        ColumnLayout {
             Layout.alignment: Qt.AlignHCenter
-            isAccented: true
-            text: toggleNotificationsButton.toggled ? qsTr("Stop Sending Notifications") : qsTr("Start Sending Notifications")
-            icon: toggleNotificationsButton.toggled ? "pause-circle" : "play-circle"
-            onClicked: Notifications.setNotificationsEnabled(toggled)
-        }
 
-        BNButton {
-            id: changeTimeButton
-            Layout.alignment: Qt.AlignHCenter
-            text: qsTr("Change Notification Time")
-            onClicked: root.StackView.view.push(setTimeView)
+            BNButton {
+                id: toggleNotificationsButton
+                Layout.alignment: Qt.AlignHCenter
+                isAccented: true
+                text: toggleNotificationsButton.toggled ? qsTr("Stop Sending Notifications") : qsTr("Start Sending Notifications")
+                icon: toggleNotificationsButton.toggled ? "pause-circle" : "play-circle"
+                onClicked: Notifications.setNotificationsEnabled(toggled)
+            }
+
+            BNButton {
+                id: changeTimeButton
+                Layout.alignment: Qt.AlignHCenter
+                text: qsTr("Change Notification Time")
+                onClicked: root.StackView.view.push(setTimeView)
+            }
         }
 
         Item {
