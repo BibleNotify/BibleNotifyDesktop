@@ -38,7 +38,7 @@ Item {
 
             BNLabel {
                 anchors.centerIn: parent
-                text: qsTr(Notifications.loadChapter(root.chapterLocation)[1])
+                text: Notifications.loadChapter(root.chapterLocation)["place"]
                 color: "#242424"
                 font.pixelSize: 18
                 font.bold: true
@@ -53,7 +53,7 @@ Item {
                 icon: "shuffle"
                 onClicked: {
                     var verse = Notifications.loadVerses()
-                    root.chapterLocation = verse[2]
+                    root.chapterLocation = verse["location"]
                 }
             }
         }
@@ -81,7 +81,7 @@ Item {
                     id: chapterText
                     width: chapterBackground.width - scrollView.ScrollBar.vertical.width - (scrollView.anchors.margins * 2)
                     textFormat: Text.RichText
-                    text: qsTr(Notifications.loadChapter(root.chapterLocation)[0])
+                    text: Notifications.loadChapter(root.chapterLocation)["text"]
                 }
             }
         }

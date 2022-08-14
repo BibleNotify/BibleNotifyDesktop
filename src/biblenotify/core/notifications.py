@@ -61,11 +61,15 @@ class Notifications(QObject):
 
     # The methods here on are temporarily in this class until the Loader() class problem is fixed
 
-    @Slot(result=list)
-    def loadVerses(self) -> list:
+    @Slot(result="QVariant")
+    def loadVerses(self) -> dict:
         file = QFile(":/verses/bible_verses.json")
         if not file.open(QFile.ReadOnly | QFile.Text):
-            return ["", "", ""]
+            return {
+                "verse": "",
+                "place": "",
+                "data": ""
+            }
 
         contents = QTextStream(file)
         verses_string = contents.readAll()
@@ -74,10 +78,15 @@ class Notifications(QObject):
         # Choose a random verse
         verse = verses["all"][random.randint(0, len(verses["all"]))]
 
-        return [verse["verse"], verse["place"], verse["data"]]
+        # TODO: Need to decide on the key names
+        return {
+            "text": verse["verse"],
+            "place": verse["place"],
+            "location": verse["data"]
+        }
 
-    @Slot(str, result=list)
-    def loadChapter(self, location: str) -> list:
+    @Slot(str, result="QVariant")
+    def loadChapter(self, location: str) -> dict:
         file = QFile(":/chapters/" + location + ".json")
         if not file.open(QFile.ReadOnly | QFile.Text):
             return ["", ""]
@@ -87,4 +96,7 @@ class Notifications(QObject):
 
         contents_json = json.loads(contents_string)
 
-        return [contents_json["read"][0]["text"], contents_json["read"][0]["chapter"]]
+        return {
+            "text": contents_json["read"][0]["text"],
+            "place": contents_json["read"][0]["chapter"]
+        }

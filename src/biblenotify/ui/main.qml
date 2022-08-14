@@ -230,7 +230,7 @@ Window {
                 icon: "book"
                 onClicked: {
                     if (readerView.chapterLocation == "") {
-                        readerView.chapterLocation = root.verse[2]
+                        readerView.chapterLocation = root.verse["location"]
                     }
                     
                     stackView.push(readerView)
@@ -283,13 +283,13 @@ Window {
     HomeView {
         id: homeView
         setTimeView: setTimeView
-        verseText: root.verse[0]
-        verseReference: root.verse[1]
+        verseText: root.verse["text"]
+        verseReference: root.verse["place"]
 
         onSendNotification: {
-            var verse = Notifications.loadVerses()
-            readerView.chapterLocation = verse[2]
-            systemTray.showMessage(verse[1], verse[0])
+            root.verse = Notifications.loadVerses()
+            readerView.chapterLocation = root.verse["location"]
+            systemTray.showMessage(root.verse["place"], root.verse["text"])
         }
 
         Component.onCompleted: {
@@ -301,7 +301,7 @@ Window {
     ReaderView {
         id: readerView
         visible: false
-        chapterLocation: ""
+        chapterLocation: root.verse["location"]
     }
 
     SetTimeView {
