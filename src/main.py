@@ -18,7 +18,7 @@ if __name__ == "__main__":
     # TODO: Move the translation code to another file
     # Load the translations shipped with Qt
     translator = QTranslator(app)
-    path = QLibraryInfo.location(QLibraryInfo.TranslationsPath)
+    path = QLibraryInfo.path(QLibraryInfo.TranslationsPath)
     if translator.load(QLocale.system(), "qtbase", "_", path):
         app.installTranslator(translator)
 
