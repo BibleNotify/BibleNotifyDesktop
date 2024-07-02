@@ -1,5 +1,6 @@
 import json
 import random
+import re
 
 from PySide6.QtCore import QDateTime, QFile, QObject, QTextStream, QTime, Slot
 
@@ -76,6 +77,7 @@ class Notifications(QObject):
 
         verses = json.loads(verses_string)
         # Choose a random verse
+        global verse
         verse = verses["all"][random.randint(0, len(verses["all"]))]
 
         # TODO: Need to decide on the key names
@@ -96,7 +98,43 @@ class Notifications(QObject):
 
         contents_json = json.loads(contents_string)
 
+        text = self.highlightVerses(contents_json)
+
         return {
-            "text": contents_json["read"][0]["text"],
+            "text": text,
             "place": contents_json["read"][0]["chapter"]
         }
+
+    @Slot(str, result="QVariant")
+    def highlightVerses(self, contents_json):
+        # assuming every second verse is preceded by a special delimeter ;
+        # another delimeter should be used since this delimeter have too many edge cases
+        list = re.split(r";", verse["verse"])
+        start = list[0]
+        end =  list[-1]
+
+        # to find index of displayed verse from global dictionary {verse} in {contents_json}
+        slice1 = re.search(start, contents_json["read"][0]["text"]).span()
+        slice2 = re.search(end, contents_json["read"][0]["text"]).span()
+
+        to_bold = contents_json["read"][0]["text"][slice1[0] : slice2[1]]
+
+        # in case of two verses
+        if re.search("</p><p><sup>\d</sup>",to_bold):
+            number = re.findall(r"\d",to_bold)
+
+            split_pattern = r'</p><p><sup>\d</sup>'
+            separator = '</b></p><p><sup>{}</sup><b>'
+            split_result = re.split(split_pattern, to_bold)
+
+            # joining inorder to get <b> tag inside of <p> tag and substituting number of second verse
+            formatted_string = separator.join(split_result).format(*number)
+
+        # in case of one verses
+        else:
+            formatted_string = to_bold
+
+
+        text = contents_json["read"][0]["text"].replace(to_bold, "<b>" + formatted_string + "</b>")
+
+        return text 
