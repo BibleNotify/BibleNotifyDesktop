@@ -112,10 +112,10 @@ class Notifications(QObject):
     def highlightVerse(self, verse, chapter):
         chapterText = chapter["read"][0]["text"]
         
-        verseMatch = re.search(verse, chapterText)
-        slice = verseMatch.span()
-        
-        toHighlight = chapterText[slice[0] : slice[1]]
+        verseMatch = re.search(re.escape(verse), chapterText)
+        match = verseMatch.span()
+       
+        toHighlight = chapterText[match[0] : match[1]]
 
         highlightChapter = chapterText.replace(toHighlight, "<b>" + toHighlight + "</b>")
 
