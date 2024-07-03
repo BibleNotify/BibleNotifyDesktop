@@ -9,6 +9,7 @@ class Notifications(QObject):
     notificationsEnabled = False
     notificationSentLock = False
     notificationTime = QDateTime()
+    currentVerse = ''
 
     @Slot(result=bool)
     def getNotificationsEnabled(self) -> bool:
@@ -73,18 +74,17 @@ class Notifications(QObject):
             }
 
         contents = QTextStream(file)
-        verses_string = contents.readAll()
+        versesString = contents.readAll()
 
-        verses = json.loads(verses_string)
+        verses = json.loads(versesString)
         # Choose a random verse
-        global verse
-        verse = verses["all"][random.randint(0, len(verses["all"]))]
+        self.currentVerse = verses["all"][random.randint(0, len(verses["all"]))]
 
         # TODO: Need to decide on the key names
         return {
-            "text": verse["verse"],
-            "place": verse["place"],
-            "location": verse["data"]
+            "text": self.currentVerse["verse"],
+            "place": self.currentVerse["place"],
+            "location": self.currentVerse["data"]
         }
 
     @Slot(str, result="QVariant")
@@ -94,47 +94,29 @@ class Notifications(QObject):
             return ["", ""]
 
         contents = QTextStream(file)
-        contents_string = contents.readAll()
+        contentsString = contents.readAll()
 
-        contents_json = json.loads(contents_string)
+        verse = self.currentVerse["verse"]
+        contentsJson = json.loads(contentsString)
 
-        text = self.highlightVerses(contents_json)
+        chapter = contentsJson
+        chapterPlace = chapter["read"][0]["chapter"]
+
+        highlightedChapter = self.highlightVerse(verse, chapter)
 
         return {
-            "text": text,
-            "place": contents_json["read"][0]["chapter"]
+            "text": highlightedChapter,
+            "place": chapterPlace
         }
 
-    @Slot(str, result="QVariant")
-    def highlightVerses(self, contents_json):
-        # assuming every second verse is preceded by a special delimeter ;
-        # another delimeter should be used since this delimeter have too many edge cases
-        list = re.split(r";", verse["verse"])
-        start = list[0]
-        end =  list[-1]
+    def highlightVerse(self, verse, chapter):
+        chapterText = chapter["read"][0]["text"]
+        
+        verseMatch = re.search(verse, chapterText)
+        slice = verseMatch.span()
+        
+        toHighlight = chapterText[slice[0] : slice[1]]
 
-        # to find index of displayed verse from global dictionary {verse} in {contents_json}
-        slice1 = re.search(start, contents_json["read"][0]["text"]).span()
-        slice2 = re.search(end, contents_json["read"][0]["text"]).span()
+        highlightChapter = chapterText.replace(toHighlight, "<b>" + toHighlight + "</b>")
 
-        to_bold = contents_json["read"][0]["text"][slice1[0] : slice2[1]]
-
-        # in case of two verses
-        if re.search("</p><p><sup>\d</sup>",to_bold):
-            number = re.findall(r"\d",to_bold)
-
-            split_pattern = r'</p><p><sup>\d</sup>'
-            separator = '</b></p><p><sup>{}</sup><b>'
-            split_result = re.split(split_pattern, to_bold)
-
-            # joining inorder to get <b> tag inside of <p> tag and substituting number of second verse
-            formatted_string = separator.join(split_result).format(*number)
-
-        # in case of one verses
-        else:
-            formatted_string = to_bold
-
-
-        text = contents_json["read"][0]["text"].replace(to_bold, "<b>" + formatted_string + "</b>")
-
-        return text 
+        return highlightChapter
