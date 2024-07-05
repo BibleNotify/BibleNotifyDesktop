@@ -1,5 +1,6 @@
 import json
 import random
+import re
 
 from PySide6.QtCore import QDateTime, QFile, QObject, QTextStream, QTime, Slot
 
@@ -8,6 +9,7 @@ class Notifications(QObject):
     notificationsEnabled = False
     notificationSentLock = False
     notificationTime = QDateTime()
+    currentVerse = ""
 
     @Slot(result=bool)
     def getNotificationsEnabled(self) -> bool:
@@ -72,17 +74,17 @@ class Notifications(QObject):
             }
 
         contents = QTextStream(file)
-        verses_string = contents.readAll()
+        versesString = contents.readAll()
 
-        verses = json.loads(verses_string)
+        verses = json.loads(versesString)
         # Choose a random verse
-        verse = verses["all"][random.randint(0, len(verses["all"]))]
+        self.currentVerse = verses["all"][random.randint(0, len(verses["all"]))]
 
         # TODO: Need to decide on the key names
         return {
-            "text": verse["verse"],
-            "place": verse["place"],
-            "location": verse["data"]
+            "text": self.currentVerse["verse"],
+            "place": self.currentVerse["place"],
+            "location": self.currentVerse["data"]
         }
 
     @Slot(str, result="QVariant")
@@ -92,11 +94,30 @@ class Notifications(QObject):
             return ["", ""]
 
         contents = QTextStream(file)
-        contents_string = contents.readAll()
+        contentsString = contents.readAll()
 
-        contents_json = json.loads(contents_string)
+        verse = self.currentVerse["verse"]
+        contentsJson = json.loads(contentsString)
+
+        chapter = contentsJson
+        chapterPlace = chapter["read"][0]["chapter"]
+
+        highlightedChapter = self.highlightVerse(verse, chapter)
 
         return {
-            "text": contents_json["read"][0]["text"],
-            "place": contents_json["read"][0]["chapter"]
+            "text": highlightedChapter,
+            "place": chapterPlace
         }
+
+    def highlightVerse(self, verse: str, chapter: dict) -> str:
+        chapterText = chapter["read"][0]["text"]
+        
+        verseMatch = re.search(re.escape(verse), chapterText)
+        match = verseMatch.span()
+       
+        toHighlight = chapterText[match[0] : match[1]]
+
+        highlightedChapter = chapterText.replace(toHighlight, "<b>" + toHighlight + "</b>")
+        
+        return highlightedChapter
+    
