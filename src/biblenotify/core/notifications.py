@@ -9,7 +9,7 @@ class Notifications(QObject):
     notificationsEnabled = False
     notificationSentLock = False
     notificationTime = QDateTime()
-    currentVerse = ''
+    currentVerse = ""
 
     @Slot(result=bool)
     def getNotificationsEnabled(self) -> bool:
@@ -109,7 +109,7 @@ class Notifications(QObject):
             "place": chapterPlace
         }
 
-    def highlightVerse(self, verse, chapter):
+    def highlightVerse(self, verse: str, chapter: dict) -> str:
         chapterText = chapter["read"][0]["text"]
         
         verseMatch = re.search(re.escape(verse), chapterText)
@@ -117,6 +117,7 @@ class Notifications(QObject):
        
         toHighlight = chapterText[match[0] : match[1]]
 
-        highlightChapter = chapterText.replace(toHighlight, "<b>" + toHighlight + "</b>")
-
-        return highlightChapter
+        highlightedChapter = chapterText.replace(toHighlight, "<b>" + toHighlight + "</b>")
+        
+        return highlightedChapter
+    
