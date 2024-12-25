@@ -19,8 +19,8 @@
         <file alias="bible_verses.json">verses/Verses/bible_verses.json</file>
     </qresource>
     <qresource prefix="/chapters">
-        <file alias="1Chr/7.json">verses/1Chr/7.json</file>
-        <file alias="1Chr/13.json">verses/1Cor/13.json</file>
+        <file alias="2Chr/7.json">verses/2Chr/7.json</file>
+        <file alias="1Cor/13.json">verses/1Cor/13.json</file>
         <file alias="1Kgs/3.json">verses/1Kgs/3.json</file>
         <file alias="1Kgs/18.json">verses/1Kgs/18.json</file>
         <file alias="1Kgs/19.json">verses/1Kgs/19.json</file>

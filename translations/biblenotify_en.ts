@@ -13,7 +13,7 @@
     <name>AboutView</name>
     <message>
         <location filename="../src/biblenotify/ui/BibleNotify/Views/AboutView.qml" line="26"/>
-        <source>Bible Notify Desktop v0.1</source>
+        <source>Bible Notify Desktop v0.2</source>
         <translation></translation>
     </message>
     <message>
@@ -28,7 +28,7 @@
     </message>
     <message>
         <location filename="../src/biblenotify/ui/BibleNotify/Views/AboutView.qml" line="76"/>
-        <source>Bible Notify Desktop © 2022 Bible Notify Contributors</source>
+        <source>Bible Notify Desktop © 2024 Bible Notify Contributors</source>
         <translation></translation>
     </message>
 </context>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <location filename="../src/biblenotify/ui/main.qml" line="221"/>
-        <source>Bible Notify © 2022 Bible Notify Contributors</source>
+        <source>Bible Notify © 2024 Bible Notify Contributors</source>
         <translation></translation>
     </message>
 </context>

@@ -73,7 +73,7 @@ Item {
             horizontalAlignment: Text.AlignHCenter
             font.pixelSize: 11
             color: "#7E7E7E"
-            text: qsTr("Bible Notify Desktop © 2022 Bible Notify Contributors")
+            text: qsTr("Bible Notify Desktop © 2024 Bible Notify Contributors")
         }
     }
 }

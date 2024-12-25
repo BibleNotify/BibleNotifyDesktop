@@ -78,7 +78,7 @@ class Notifications(QObject):
 
         verses = json.loads(versesString)
         # Choose a random verse
-        self.currentVerse = verses["all"][random.randint(0, len(verses["all"]))]
+        self.currentVerse = verses["all"][random.randint(0, len(verses["all"]) - 1)]
 
         # TODO: Need to decide on the key names
         return {
