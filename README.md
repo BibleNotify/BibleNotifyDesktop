@@ -3,8 +3,6 @@
   <h1>Bible Notify Desktop</h1>
   <p>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL_v3-green.svg" /></a>
-  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/BibleNotify/BibleNotifyDesktop" />
-  <a href="https://github.com/BibleNotify/BibleNotifyDesktop/actions/workflows/build.yml"><img src="https://github.com/BibleNotify/BibleNotifyDesktop/actions/workflows/build.yml/badge.svg?branch=master" /></a>
   </p>
   <p>Daily Scripture Verse Notifications on your Desktop.</p>
 </div>
